@@ -1,0 +1,47 @@
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top ">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+          <i style="color: linear-gradient(90deg, #00d3ff, #f00ac0);" class="fa fa-cog fa-spin fa-1x fa-fw"></i>
+      </button>
+
+      <a class="navbar-brand navbar-brand-logo" href="{{ '/' | relative_url }}">
+        <img src="{{ site.avatar }}" alt="bangnguyendev"/>
+      </a>
+      <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        {% for link in site.navbar-links %}
+        {% if link[1].first %}
+        <li class="navlinks-container">
+          <a class="navlinks-parent" href="#" aria-label="{{ link[0] }}">{{ link[0] }}</a>
+          <div class="navlinks-children">
+            {% for childlink in link[1] %}
+              {% for linkparts in childlink %}
+                {% include navbarlink.html link=linkparts %}
+              {% endfor %}
+            {% endfor %}
+          </div>
+        </li>
+        {% else %}
+        <li>
+          {% include navbarlink.html link=link %}
+        </li>
+        {% endif %}
+        {% endfor %}
+        <!-- Add nút Tìm kiếm trong blog -->
+        <li class="search-icon">
+          <a href="#" aria-label="Search"> 
+              <i class="fa fa-search"></i>
+          </a>
+      </li>
+      </ul>
+    </div>
+  </div>
+</nav>

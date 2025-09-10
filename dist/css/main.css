@@ -283,7 +283,7 @@ img {
   font-size: 20px;
   font-weight: 800;
   /* color: #ffffff; */
-  background: linear-gradient(90deg, #00d3ff, #f00ac0);
+background: linear-gradient(90deg, #00d3ff, #f0de0a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -743,30 +743,30 @@ footer .theme-by {
 
 
 .ndb-transbox h1 {
-  /* font-family: 'Baloo 2', cursive; */
-  color: #ffffff; /* Màu chữ */
-  -webkit-text-stroke: 0.7px #00d3ff; /* Viền chữ xanh dương neon */
+  color: #ffcc00; /* Cam vàng tươi */
+  -webkit-text-stroke: 0.7px #2b4a78; /* Viền xanh dương đậm */
   text-shadow: 
-    0 0 5px #00d3ff,  /* Hiệu ứng sáng gần */
-    0 0 10px #00d3ff, /* Hiệu ứng sáng trung bình */
-    0 0 15px #00d3ff; /* Hiệu ứng sáng xa, mờ hơn */
-  animation: glowing 3s infinite; /* Hiệu ứng phát sáng động */
-  text-align: center; /* Căn giữa nội dung */
-  padding: 25px; /* Khoảng cách bên trong để nội dung không sát viền */
-  padding-bottom: 25vw; /* Khoảng cách dưới */
+    0 0 5px #ffcc00,
+    0 0 10px #ffcc00,
+    0 0 20px #ff9900; /* Tạo hiệu ứng phát sáng cam đậm */
+  animation: glowing 3s infinite;
+  text-align: center;
+  padding: 25px;
+  padding-bottom: 25vw;
 }
 
 @keyframes glowing {
   0% {
-    text-shadow: 0 0 5px #00d3ff, 0 0 10px #00d3ff, 0 0 15px #00d3ff;
+    text-shadow: 0 0 5px #ffcc00, 0 0 10px #ffcc00, 0 0 20px #ff9900;
   }
   50% {
-    text-shadow: 0 0 10px #00eaff, 0 0 15px #00eaff, 0 0 20px #00bfff; /* Nhấn mạnh ánh sáng ở giữa */
+    text-shadow: 0 0 10px #ffe066, 0 0 20px #ffcc00, 0 0 30px #ff9900;
   }
   100% {
-    text-shadow: 0 0 5px #00d3ff, 0 0 10px #00d3ff, 0 0 15px #00d3ff;
+    text-shadow: 0 0 5px #ffcc00, 0 0 10px #ffcc00, 0 0 20px #ff9900;
   }
 }
+
 
 .gradient-bg {
   width: 100vw;
@@ -791,7 +791,7 @@ footer .theme-by {
   padding-top: 40px;
   padding-bottom: 40px;
   display: inline-block;
-  background: linear-gradient(90deg, #00d3ff, #f00ac0);
+background: linear-gradient(90deg, #00d3ff, #f0de0a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -809,7 +809,7 @@ footer .theme-by {
   font-size: clamp(1rem, 5vw, 3rem); /* Font size linh hoạt từ 1rem đến 3rem */
   font-weight: 900;
   display: inline-block;
-  background: linear-gradient(90deg, #00d3ff, #f00ac0);
+background: linear-gradient(90deg, #00d3ff, #f0de0a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1108,7 +1108,7 @@ footer .theme-by {
 #button_onTop {
   display: inline-block;
   /* color: #ffffff; */
-  background: linear-gradient(90deg, #00d3ff, #f00ac0);
+background: linear-gradient(90deg, #00d3ff, #f0de0a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   width: 50px;
@@ -1173,7 +1173,7 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: linear-gradient(90deg, #00d3ff, #f00ac0);
+background: linear-gradient(90deg, #00d3ff, #f0de0a);
   border: 1px solid #161616;
 }
 
@@ -1217,7 +1217,7 @@ table tr {
 }
 
 table tr:nth-child(2n) {
-  background: linear-gradient(90deg, #00d3ff, #f00ac0);
+background: linear-gradient(90deg, #00d3ff, #f0de0a);
 }
 
 table tr th {
@@ -1405,7 +1405,7 @@ table tr td :last-child {
 .waviy span {
   position: relative;
   display: inline-block;
-  background: linear-gradient(90deg, #00d3ff, #f00ac0);
+background: linear-gradient(90deg, #00d3ff, #f0de0a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: waviy 2s infinite;
@@ -1644,7 +1644,7 @@ option:hover {
 /* Hiệu ứng hover trên tên của component */
 .component:hover .component-name {
   box-shadow: 0 0 35px rgb(49, 138, 255); /* Tạo bóng sáng xanh xung quanh */
-  background: linear-gradient(90deg, #00d3ff, #f00ac0); /* Hiệu ứng nền gradient khi hover */
+background: linear-gradient(90deg, #00d3ff, #f0de0a); /* Hiệu ứng nền gradient khi hover */
 }
 
 /* Media query cho màn hình nhỏ (tối đa 768px) */

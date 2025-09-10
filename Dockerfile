@@ -54,14 +54,14 @@ CMD ["/bin/bash"]
 
 ##Step 1:
 #### Terminal:
-### $ docker build -t jekyll-happysmartlight .  
+### $ docker build -t jekyll-hungvitourist .  
 ### $ docker run -it \
-###		--name happysmartlight_web1 \
+###		--name hungvitourist_web1 \
 ### 	-p 4000:4000 \
 ### 	-p 35729:35729 \
-### 	-v "D:\Github\bangnguyendev.github.io":/home/app-jekyll \
+### 	-v "D:\Github\hungvitourist.github.io":/home/app-jekyll \
 ###		-v web-volume:/home/data_export \
-### 	jekyll-bangnguyendev  \
+### 	jekyll-hungvitourist  \
 ### 	/bin/bash
 #### Container:
 ### root$: jekyll serve -H 0.0.0.0 --livereload --force_polling --incremental

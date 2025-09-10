@@ -1,7 +1,7 @@
 services:
   jekyll:
-    image: jekyll-happysmartlight
-    container_name: happysmartlight-web
+    image: jekyll-hungvitourist
+    container_name: hungvitourist-web
     ports:
       - "4000:4000"
       - "35729:35729"
@@ -19,6 +19,6 @@ services:
 #    external: true
 
 # Định nghĩa tên của Compose
-name: happysmartlight-web
+name: hungvitourist-web
 
-# docker exec -it happysmartlight-web bash
+# docker exec -it hungvitourist-web bash

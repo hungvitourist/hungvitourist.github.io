@@ -1,55 +1,54 @@
-title: ✨Happy Smart Light✨
+title: ✨Hùng Vĩ Tourist✨
 description: >-
-  Chuyên tư vấn giải pháp kỹ thuật, thiết kế, led Decor, quảng cáo,
-  sự kiện, led visual poi đạo cụ sân khấu, trình diển ánh sáng.
+  Hùng Vĩ Tourist – đồng hành cùng bạn trên mọi hành trình. 
+  Dịch vụ làm VISA nhanh chóng, đặt vé máy bay giá tốt, tour du lịch đa dạng, uy tín và chuyên nghiệp.
 site:
   url: /
   baseurl: /
 navbar-links:
   🔖PostNews: post-news
-  🔥Mạch điều khiển:
-    - Điều khiển LED Pixel: controller-chip#ledPixel
-    - Điều khiển LED Cabin: controller-chip#ledMatrix
-    - Phát - thu sóng: controller-chip#signalWifi
-  💡Visual LED: 
-    - Happy POI: poi-tools#visualPoi
-    - Happy HOOP: poi-tools#visualHoop
-    - Nguồn và Pin: poi-tools#power
-    - Khác: poi-tools#other
-  💡Đạo cụ LED: 
-    - Led Pixel: led-props#ledPixel
-    - Led Module: led-props#ledMatrix
-    - Laser Series: led-props#laser
-    - Nguồn và Pin: led-props#power
-    - Khác: led-props#other
-  ❓Về HSL:
-    - Liên hệ với HSL: aboutme
-    - Đào tạo: service#training
-    - Đối tác với HSL: service#partner
-    - Tư vấn, thiết kế: service#consult
-    - Led Decor: service#decor
-    - Led Dance: service#dance
-    - Led Biển Hiệu: service#advertising
-    - Dịch vụ Order: service#order
+  ✈️Vé Máy Bay:
+    - 🛫 Vé nội địa: flights#domestic
+    - 🌏 Vé quốc tế: flights#international
+    - 💺 Đặt chỗ & hành lý: flights#booking
+  🗼Tourist: 
+    - ⛩️ Tour trong nước: tours#domestic
+    - 🏯 Tour quốc tế: tours#international
+    - 🎢 Combo du lịch: tours#combo
+    - 🏝️ Du lịch tự túc: tours#freeTravel
+  🎫Hộ chiếu VISA: 
+    - 📑 Visa du lịch: visa#travel
+    - 💼 Visa công tác: visa#business
+    - 🎓 Visa du học: visa#study
+    - 🌍 Dịch vụ khác: visa#other
+  ❓Hùng Vĩ Service:
+    - 📞 Liên hệ: aboutme
+    - 🎓 Tư vấn du lịch: service#consult
+    - 🏨 Đặt khách sạn: service#hotel
+    - 🚐 Thuê xe du lịch: service#carRental
+    - 🛳️ Tour trọn gói: service#packageTour
+    - 🎉 Tổ chức sự kiện: service#event
+    - 🤝 Hợp tác & đối tác: service#partner
+    - 🛒 Dịch vụ khác: service#other
+
   # 🗝️Tags: tags #thay thế bằng nút tìm kiếm.
-avatar: "/img/Picture-HSL/logo_hsl.png"
+avatar: "/img/Picture-HSL/logo-trans.png"
 author:
-  name: "\U0001F525HAPPY SMART LIGHT\U0001F525"
+  name: "\U0001F525Hùng Vĩ Tourist\U0001F525"
   rss: true
-  email: happysmartlight@outlook.com
-  facebook: happysmartlight
-  github: happysmartlight
+  email: hungvitourist@outlook.com
+  facebook: hungvitourist
   instagram: nguyen.duy.bang
-  youtube: '@HappySmartLight'
+  youtube: '@HùngVĩTourist'
   telephone: 0784140494
   tiktok: '@denthongminhhappy'
-company: "CÔNG TY TNHH THƯƠNG MẠI VÀ CÔNG NGHỆ HAPPY SMART LIGHT"
-company_SHORT_NAME: "✨HAPPY SMART LIGHT✨"
-Tax-code: "MST: 3502535621"
-address-1: "📌: Sảnh S6.03, Vinhomes Grand Park, P. Long Bình, TP. Hồ Chí Minh"
-address-2: "📌: Số 42 Hà Đức Trọng, P. Bà Rịa, TP. Hồ Chí Minh"
+company: "CÔNG TY TNHH DỊCH VỤ DU LỊCH HÙNG VĨ"
+company_SHORT_NAME: "✨HÙNG VĨ TOURIST✨"
+Tax-code: "MST: 0315546297"
+address-1: "📌: Ấp Bùng Binh, Xã Hưng Thuận, Tỉnh Tây Ninh"
+address-2: "📌: -----"
 map-address-1: https://maps.app.goo.gl/rMTH9mqSYXBorpZY9
-map-address-2: https://maps.app.goo.gl/rjQizjWgt69466Es6
+map-address-2: ------
 footer-links-active:
   rss: false
   facebook: true
@@ -62,10 +61,10 @@ footer-links-active:
 share-links-active:
   facebook: true
   linkedin: true
-disqus: bang-nguyen-blog
-google_analytics: G-NX3V2C477N
-gtm: GTM-PSCP4JVR
-fb_app_id: '721347795190980'
+#disqus: bang-nguyen-blog
+#google_analytics: G-NX3V2C477N
+#gtm: GTM-PSCP4JVR
+#fb_app_id: '721347795190980'
 excerpt_length: 50
 title-separator: '-'
 timezone: Asia/Bangkok
@@ -101,20 +100,20 @@ exclude:
   - Vagrantfile
 collections:
   post-news:
-    output: true       # Bài viết trong collection này sẽ được xuất ra file HTML
-    permalink: /post-news/:name/  # Định nghĩa cấu trúc URL cho bài viết
-  poi-tools:
-    output: true       # Bài viết trong collection này sẽ được xuất ra file HTML
-    permalink: /poi-tools/:name/  # Định nghĩa cấu trúc URL cho bài viết
-  led-props:
     output: true
-    permalink: /led-props/:name/
-  controller-chip:
+    permalink: /post-news/:name/   # Tin tức, bài viết
+  flights:
     output: true
-    permalink: /controller-chip/:name/
+    permalink: /flights/:name/     # Vé máy bay
+  tours:
+    output: true
+    permalink: /tours/:name/       # Tour du lịch
+  visa:
+    output: true
+    permalink: /visa/:name/        # Dịch vụ Visa
   service:
     output: true
-    permalink: /service/:name/
+    permalink: /service/:name/     # Các dịch vụ bổ trợ (khách sạn, thuê xe, sự kiện...)
 
 # Optionally, add permalink defaults (for better structure)
 permalink: pretty

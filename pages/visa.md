@@ -57,8 +57,7 @@ permalink: /visa
 	<!-- Report hascategoryPosts -->
 	{% unless hascategoryPosts %}
 	<div class="text-center">
-		<p>Hiện danh sách sản phẩm đang được cập nhật, quý khách vui lòng liên hệ HSL để nhận thông tin tư vấn chính xác.
-		</p>
+<p>Hiện danh sách dịch vụ tư vấn đang được cập nhật. Quý khách vui lòng liên hệ Hung Vi Tourist để được hỗ trợ chi tiết.</p>
     {% include qr-zalo.html %}
 	</div>
 	{% endunless %}
@@ -115,8 +114,7 @@ permalink: /visa
 	<!-- Report hascategoryPosts -->
 	{% unless hascategoryPosts %}
 	<div class="text-center">
-		<p>Hiện danh sách sản phẩm đang được cập nhật, quý khách vui lòng liên hệ HSL để nhận thông tin tư vấn chính xác.
-		</p>
+<p>Hiện danh sách dịch vụ tư vấn đang được cập nhật. Quý khách vui lòng liên hệ Hung Vi Tourist để được hỗ trợ chi tiết.</p>
     {% include qr-zalo.html %}
 	</div>
 	{% endunless %}
@@ -173,8 +171,7 @@ permalink: /visa
 	<!-- Report hascategoryPosts -->
 	{% unless hascategoryPosts %}
 	<div class="text-center">
-		<p>Hiện danh sách sản phẩm đang được cập nhật, quý khách vui lòng liên hệ HSL để nhận thông tin tư vấn chính xác.
-		</p>
+<p>Hiện danh sách dịch vụ tư vấn đang được cập nhật. Quý khách vui lòng liên hệ Hung Vi Tourist để được hỗ trợ chi tiết.</p>
     {% include qr-zalo.html %}
 	</div>
 	{% endunless %}
@@ -232,8 +229,7 @@ permalink: /visa
 	<!-- Report hascategoryPosts -->
 	{% unless hascategoryPosts %}
 	<div class="text-center">
-		<p>Hiện danh sách sản phẩm đang được cập nhật, quý khách vui lòng liên hệ HSL để nhận thông tin tư vấn chính xác.
-		</p>
+<p>Hiện danh sách dịch vụ tư vấn đang được cập nhật. Quý khách vui lòng liên hệ Hung Vi Tourist để được hỗ trợ chi tiết.</p>
     {% include qr-zalo.html %}
 	</div>
 	{% endunless %}

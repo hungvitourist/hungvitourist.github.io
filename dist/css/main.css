@@ -273,7 +273,7 @@ img {
   z-index: 3;
   /* --- thêm line này để fix lỗi cho thanh navbar ẩn sau mục search --- */
   /* background: #F5F5F5; */
-  background-color: #16161600;
+  /* background-color: #16161600; */
   border-bottom: 1px solid #01004b00;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -282,10 +282,10 @@ img {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 800;
-  /* color: #ffffff; */
-background: linear-gradient(90deg, #00d3ff, #f0de0a);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ffc400;
+  /* background: linear-gradient(90deg, #00d3ff, #f0de0a); */
+  /* -webkit-background-clip: text; */
+  /* -webkit-text-fill-color: transparent; */
 }
 
 .navbar-custom .nav li a {
@@ -293,7 +293,7 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
   font-size: 15px;
   letter-spacing: 1px;
   font-weight: 800;
-  color: #ffffff;
+  color: #000000;
 }
 
 
@@ -320,7 +320,7 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
 }
 
 .navbar-custom.top-nav-short {
-  background-color: #161616e0;
+  background-color: #f8f8f8;
 }
 
 .navbar-custom.top-nav-short .navbar-brand-logo {
@@ -421,7 +421,7 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
   padding: 10px;
   padding-left: 30px;
   /* background: #f5f5f5; */
-  background-color: #161616;
+  background-color: #f8f8f8;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -468,7 +468,7 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
 
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #161616;
+    border: 1px solid #ffffff;
     border-width: 0 1px 1px;
   }
 }
@@ -744,7 +744,7 @@ footer .theme-by {
 
 .ndb-transbox h1 {
   color: #ffcc00; /* Cam vàng tươi */
-  -webkit-text-stroke: 0.7px #2b4a78; /* Viền xanh dương đậm */
+  -webkit-text-stroke: 0.5px #f9f0c3; /* Viền xanh dương đậm */
   text-shadow: 
     0 0 5px #ffcc00,
     0 0 10px #ffcc00,
@@ -771,8 +771,8 @@ footer .theme-by {
 .gradient-bg {
   width: 100vw;
   height: auto;
-  background: #000;
-  background: linear-gradient(90deg,#000,#2c2c2d 50%,#000)
+background: #d4ae14;
+background: linear-gradient(90deg, #a58100, #f5d63a 50%, #a58100);
 }
 
 .gradient-text {
@@ -791,7 +791,7 @@ footer .theme-by {
   padding-top: 40px;
   padding-bottom: 40px;
   display: inline-block;
-background: linear-gradient(90deg, #00d3ff, #f0de0a);
+  background: linear-gradient(90deg, #004aad, #252525);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1565,7 +1565,7 @@ option:hover {
   flex-direction: column; /* Sắp xếp theo chiều dọc */
   justify-content: flex-end; /* Canh nội dung về cuối theo chiều dọc */
   align-items: center; /* Canh giữa theo chiều ngang */
-  height: 100vh; /* Chiều cao bằng với toàn màn hình */
+  /*height: 100vh;  Chiều cao bằng với toàn màn hình */
   width: 100vw; /* Chiều rộng bằng với toàn màn hình */
   color: white; /* Màu chữ trắng */
   text-align: center; /* Căn giữa văn bản */
@@ -1607,44 +1607,73 @@ option:hover {
   display: flex; /* Sử dụng flexbox */
   flex-direction: column; /* Xếp chồng các phần tử bên trong */
   align-items: center; /* Căn giữa theo chiều ngang */
-  flex: 1 1 calc(25% - 10px); /* Chia đều thành 4 cột (25% chiều rộng mỗi cột) */
+  flex: 1 1 calc(100%/3 - 10px); /* Chia đều thành 3 cột (33.33% chiều rộng mỗi cột) */
   color: #ffffff; /* Màu chữ trắng */
   text-align: center; /* Căn giữa văn bản */
-  padding: 0px 30px; /* Khoảng cách bên trong */
+  padding: 30px 40px; /* Khoảng cách bên trong */
   border: 1px solid #cccccc00; /* Viền ẩn (có thể điều chỉnh nếu cần) */
   border-radius: 15px; /* Bo tròn góc của component */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Tạo bóng mờ nhẹ */
+  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  */
   transform: scale(1); /* Kích thước mặc định */
   transition: transform 0.5s ease, box-shadow 0.5s ease; /* Hiệu ứng mượt khi hover */
 }
 
-/* Hiệu ứng khi hover vào một component */
-.component:hover {
-  transform: scale(1.1); /* Tăng kích thước component */
-}
+
 
 /* Avatar bên trong component */
 .avatar {
-  width: 150px; /* Kích thước chiều ngang của avatar */
-  height: 150px; /* Kích thước chiều cao của avatar */
-  border-radius: 50%; /* Làm avatar thành hình tròn */
+  width: 300px; /* Kích thước chiều ngang của avatar */
+  height: 300px; /* Kích thước chiều cao của avatar */
+  border-radius: 15%; /* Làm avatar thành hình tròn */
   object-fit: cover; /* Đảm bảo hình ảnh không bị méo */
   margin-bottom: 10px; /* Khoảng cách dưới avatar */
+  transition: transform 0.5s ease; /* Thêm transition cho ảnh */
+}
+
+/* Khi hover vào component -> chỉ ảnh zoom */
+.component:hover .avatar {
+  transform: scale(1.1);
 }
 
 /* Tên của component */
 .component-name {
+  margin-top: 10px; /* Khoảng cách phía trên */
+  width: 300px; /* Kích thước chiều ngang của tên */
+  height: fit-content; /* Kích thước chiều cao của tên */
   font-size: 1.5rem; /* Kích thước chữ của tên */
-  font-weight: normal; /* Độ dày bình thường */
-  color: #ffffff; /* Màu chữ trắng */
+  font-weight: bold; /* Độ dày bình thường */
+  color: #050049; /* Màu chữ trắng */
   padding: 5px 15px; /* Khoảng cách bên trong */
   border-radius: 20px; /* Bo tròn góc của nền tên */
+  background: rgb(255, 255, 255); /* Nền mờ đen */
 }
 
-/* Hiệu ứng hover trên tên của component */
-.component:hover .component-name {
-  box-shadow: 0 0 35px rgb(49, 138, 255); /* Tạo bóng sáng xanh xung quanh */
-background: linear-gradient(90deg, #00d3ff, #f0de0a); /* Hiệu ứng nền gradient khi hover */
+
+/* Container phần thông tin */
+.tour-info {
+  text-align: left;          /* Canh trái */
+  font-size: 1.2rem;         /* Nhỏ hơn phần tiêu đề */
+  margin-top: 5px;           /* Tạo khoảng cách với tiêu đề */
+  line-height: 1.5;          /* Giãn dòng vừa phải */
+}
+
+/* Style riêng cho giá */
+.tour-price {
+  font-size: 2rem;           /* Lớn hơn một chút so với thời gian */
+  font-weight: bold;         /* Làm đậm để nổi bật */
+  color: #001570;            /* Màu vàng nổi bật (bạn có thể đổi) */
+  text-align: right;         /* Canh phải */
+  margin-top: 10px;          /* Tạo khoảng cách với phần trên */
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #aaa;
+  font-size: 1.5rem;
+}
+
+.new-price {
+  color: #ff3333;
 }
 
 /* Media query cho màn hình nhỏ (tối đa 768px) */
@@ -1691,6 +1720,51 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a); /* Hiệu ứng nền grad
   }
 }
 
+/* Bọc ảnh */
+.image-container {
+  position: relative; /* Làm gốc cho các nhãn overlay */
+  width: 300px;
+  height: 300px;
+  border-radius: 15%; 
+  overflow: hidden; /* đảm bảo label không tràn ra ngoài */
+}
+
+/* Nhãn khuyến mãi góc trên trái */
+.promo-label {
+  position: absolute;
+  top: 35px;
+  left: 10px;
+  background: #ff9800;
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+
+.image-container img.avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15%;
+}
+
+/* Label địa điểm */
+.location-label {
+  position: absolute;
+  bottom: 0;      /* canh dưới */
+  left: 0;        /* canh trái */
+  width: 100%;    /* kéo ngang bằng ảnh */
+  padding: 8px 10px 8px 25px; /* thêm padding-left lớn hơn */
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  background: rgba(0,70,126,0.8);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  box-sizing: border-box;
+}
 
 .container-post {
   max-width: 100%; /* Đảm bảo không vượt quá chiều rộng của phần tử cha */

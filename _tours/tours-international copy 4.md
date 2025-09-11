@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự"
-meta-title: "Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự"
+title: "Tour Nhật Bản 5N4Đ: TOKYO – PHÚ SĨ – ONSEN Hành Trình Mùa Đông"
+meta-title: "Tour Nhật Bản 5N4Đ: TOKYO – PHÚ SĨ – ONSEN Hành Trình Mùa Đông"
 # subtitle: "Khám phá thế giới cùng Hùng Vĩ Tourist"
 bigimg:
-  - "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
-image: "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
+  - "/img/tours/international/Nui-Phu-Si.gif"
+image: "/img/tours/international/Nui-Phu-Si.gif"
 tags: hungvi, tourist, travel, international, tour, world
 category: tours#international
 categories: ["tours#international", "special-offer", "hot"]
-location: Hà Khẩu – Bình Biên
-duration: "3N2Đ"
-discount: 25
+location: TOKYO – PHÚ SĨ
+duration: "5N4Đ"
+discount: 30
 price: "35.060.000"
 # author: "BangNguyen"
 # comments: true

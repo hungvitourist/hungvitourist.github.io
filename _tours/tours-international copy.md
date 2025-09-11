@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự"
-meta-title: "Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự"
+title: "Tour Hồng Kông 5N4Đ: Trung Quốc – Thẩm Quyến – Quảng Châu"
+meta-title: "Tour Hồng Kông 5N4Đ: Trung Quốc – Thẩm Quyến – Quảng Châu"
 # subtitle: "Khám phá thế giới cùng Hùng Vĩ Tourist"
 bigimg:
-  - "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
-image: "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
+  - "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"
+image: "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"
 tags: hungvi, tourist, travel, international, tour, world
 category: tours#international
 categories: ["tours#international", "special-offer", "hot"]
-location: Hà Khẩu – Bình Biên
-duration: "3N2Đ"
+location: Thẩm Quyến – Quảng Châu
+duration: "5N4Đ"
 discount: 25
-price: "35.060.000"
+price: "53.060.000"
 # author: "BangNguyen"
 # comments: true
 ---

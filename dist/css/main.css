@@ -1717,8 +1717,8 @@ option:hover {
 /* Media query cho màn hình nhỏ (tối đa 768px) */
 @media (max-width: 768px) {
   .component {
-    flex: 1 1 calc(50% - 10px); /* Chia thành 2 cột */
-    max-width: 150px; /* Giảm chiều rộng tối đa */
+    /*flex: 1 1 calc(50% - 10px);  Chia thành 2 cột */
+    /* max-width: 150px; Giảm chiều rộng tối đa */
     padding: 5px; /* Giảm khoảng cách bên trong */
   }
   .summary {
@@ -1736,27 +1736,7 @@ option:hover {
   }
 }
 
-/* Media query cho màn hình rất nhỏ (tối đa 480px) */
-@media (max-width: 480px) {
-  .component {
-    flex: 1 1 100%; /* Chiếm toàn bộ chiều rộng */
-    max-width: 70px; /* Thu nhỏ chiều rộng tối đa */
-    padding: 5px;
-  }
-  .summary {
-    font-size: 2rem; /* Kích thước tiêu đề nhỏ hơn */
-  }
-  .description-content-index-sp {
-    font-size: 1.4rem;
-  }
-  .avatar {
-    width: 50px; /* Avatar rất nhỏ */
-    height: 50px;
-  }
-  .component-name {
-    font-size: 1.2rem; /* Thu nhỏ tên component */
-  }
-}
+
 
 /* Bọc ảnh */
 .image-container {

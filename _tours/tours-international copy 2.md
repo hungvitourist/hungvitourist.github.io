@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tour Hồng Kông 4N3Đ: Khám Phá HỒNG KÔNG – KINH ĐÔ ĐIỆN ẢNH"
-meta-title: "Tour Hồng Kông 4N3Đ: Khám Phá HỒNG KÔNG – KINH ĐÔ ĐIỆN ẢNH"
+meta-title: "Khám Phá HỒNG KÔNG – KINH ĐÔ ĐIỆN ẢNH"
 # subtitle: "Khám phá thế giới cùng Hùng Vĩ Tourist"
 bigimg:
   - "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"

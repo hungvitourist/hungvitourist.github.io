@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tour Hồng Kông 4N3Đ: Khám Phá Hồng Kông và Tự Do Mua Sắm"
-meta-title: "Tour Hồng Kông 4N3Đ: Khám Phá Hồng Kông và Tự Do Mua Sắm"
+meta-title: "Khám Phá Hồng Kông và Tự Do Mua Sắm"
 # subtitle: "Khám phá thế giới cùng Hùng Vĩ Tourist"
 bigimg:
   - "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"

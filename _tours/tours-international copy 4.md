@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tour Nhật Bản 5N4Đ: TOKYO – PHÚ SĨ – ONSEN Hành Trình Mùa Đông"
-meta-title: "Tour Nhật Bản 5N4Đ: TOKYO – PHÚ SĨ – ONSEN Hành Trình Mùa Đông"
+meta-title: "TOKYO – PHÚ SĨ – ONSEN Hành Trình Mùa Đông"
 # subtitle: "Khám phá thế giới cùng Hùng Vĩ Tourist"
 bigimg:
   - "/img/tours/international/Nui-Phu-Si.gif"

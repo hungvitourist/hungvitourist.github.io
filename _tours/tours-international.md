@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự"
-meta-title: "Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự"
+meta-title: "Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự"
 # subtitle: "Khám phá thế giới cùng Hùng Vĩ Tourist"
 bigimg:
   - "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"

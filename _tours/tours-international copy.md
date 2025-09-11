@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tour Hồng Kông 5N4Đ: Trung Quốc – Thẩm Quyến – Quảng Châu"
-meta-title: "Tour Hồng Kông 5N4Đ: Trung Quốc – Thẩm Quyến – Quảng Châu"
+meta-title: "Trung Quốc – Thẩm Quyến – Quảng Châu"
 # subtitle: "Khám phá thế giới cùng Hùng Vĩ Tourist"
 bigimg:
   - "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"

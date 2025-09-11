@@ -787,8 +787,7 @@ footer .theme-by {
 .gradient-bg {
   width: 100vw;
   height: auto;
-background: #d4ae14;
-background: linear-gradient(90deg, #a58100, #f5d63a 50%, #a58100);
+  background: linear-gradient(90deg, #003066, #005dc5 50%, #003066);
 }
 
 .gradient-text {
@@ -803,13 +802,12 @@ background: linear-gradient(90deg, #a58100, #f5d63a 50%, #a58100);
   /* font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   font-family: Poppins,Arial,sans-serif;
   font-size: clamp(1rem, 5vw, 4rem); /* Font size linh hoạt từ 1rem đến 3rem */
-  /* font-weight: 600; */
+  font-weight: 600;
   padding-top: 40px;
   padding-bottom: 40px;
   display: inline-block;
-  background: linear-gradient(90deg, #004aad, #252525);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ffc400;
+
 }
 
 .gradient-text-hot {
@@ -1693,7 +1691,7 @@ option:hover {
   font-size: 2rem;           /* Lớn hơn một chút so với thời gian */
   font-weight: bold;         /* Làm đậm để nổi bật */
   color: #b8860b;            /* Màu vàng nổi bật (bạn có thể đổi) */
-  text-align: right;         /* Canh phải */
+  text-align: center;         /* Canh giữa */
   margin-top: 10px;          /* Tạo khoảng cách với phần trên */
 }
 
@@ -1774,8 +1772,9 @@ option:hover {
   left: 0;        /* canh trái */
   width: 100%;    /* kéo ngang bằng ảnh */
   padding: 8px 10px 8px 25px; /* thêm padding-left lớn hơn */
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: bold;
+  text-transform: uppercase; /* luôn viết hoa */
   color: #fff;
   background: rgba(0,70,126,0.8);
   display: flex;

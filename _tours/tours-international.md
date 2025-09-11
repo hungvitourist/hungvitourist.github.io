@@ -10,7 +10,7 @@ category: tours#international
 categories: ["tours#international", "special-offer", "hot"]
 location: Hà Khẩu – Bình Biên
 duration: 3N2Đ
-discount: 25
+# discount: 25
 price: 35.060.000
 ---
 

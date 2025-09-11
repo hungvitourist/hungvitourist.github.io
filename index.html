@@ -1,8 +1,11 @@
 ---
 layout: page
-meta-title: "DU LỊCH DỄ DÀNG – VISA NHANH CHÓNG | HÙNG VĨ TOURIST"
+meta-title: "HÙNG VĨ TOURIST"
 bigimg:
 - "/img/Picture-HSL/japan-background.jpg"
+- "/img/Picture-HSL/background-1.svg"
+- "/img/Picture-HSL/background-2.svg"
+- "/img/Picture-HSL/background-3.svg"
 ---
 
 <!-- Layer 1 OTHER -->
@@ -68,10 +71,10 @@ bigimg:
               <div class="tour-duration">⏱ Thời gian: {{ post.duration }}</div>
               <div class="tour-price">
                 {% if post.discount %}
-                  💰<span class="old-price">{{ price | format_price }}</span><br>
-                  💰<span class="new-price">{{ final_price | format_price }}</span>
+                  <i class="fa-solid fa-sack-dollar"></i><span class="old-price"> {{ price | format_price }}</span><br>
+                  <i class="fa-solid fa-sack-dollar"></i><span class="new-price"> {{ final_price | format_price }}</span>
                 {% else %}
-                  💰 {{ post.price }}
+                  <i class="fa-solid fa-sack-dollar"></i> {{ post.price }}
                 {% endif %}
               </div>
             </div>

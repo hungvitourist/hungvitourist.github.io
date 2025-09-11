@@ -6,3 +6,10 @@
 - name: Hiền
   role: Assistant
   phone: "0936601944"
+
+- color1: "#ffc400" # Vàng
+  color2: "#003066" # Xanh dương
+  color3: "#00d3ff" # Xanh ngọc
+  name: "Hùng Vĩ Tourist"
+  role: "CÔNG TY TNHH DỊCH VỤ DU LỊCH HÙNG VĨ"
+  email: hungvi@example.com

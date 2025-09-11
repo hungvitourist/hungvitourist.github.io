@@ -272,7 +272,7 @@ img {
 .navbar-custom {
   z-index: 3;
   /* --- thêm line này để fix lỗi cho thanh navbar ẩn sau mục search --- */
-  /* background: #F5F5F5; */
+  background: #003066;
   /* background-color: #16161600; */
   border-bottom: 1px solid #01004b00;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -293,7 +293,7 @@ img {
   font-size: 15px;
   letter-spacing: 1px;
   font-weight: 800;
-  color: #000000;
+  color: #ffc400;
 }
 
 
@@ -320,7 +320,7 @@ img {
 }
 
 .navbar-custom.top-nav-short {
-  background-color: #f8f8f8;
+  background-color: #003066;
 }
 
 .navbar-custom.top-nav-short .navbar-brand-logo {
@@ -421,7 +421,7 @@ img {
   padding: 10px;
   padding-left: 30px;
   /* background: #f5f5f5; */
-  background-color: #f8f8f8;
+  background-color: #003066;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -468,7 +468,7 @@ img {
 
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #ffffff;
+    border: 1px solid #003066;
     border-width: 0 1px 1px;
   }
 }
@@ -744,15 +744,31 @@ footer .theme-by {
 
 .ndb-transbox h1 {
   color: #ffcc00; /* Cam vàng tươi */
-  -webkit-text-stroke: 0.5px #f9f0c3; /* Viền xanh dương đậm */
-  text-shadow: 
+  -webkit-text-stroke: 2.5px #003066; /* Viền xanh dương đậm */
+  /* text-shadow: 
     0 0 5px #ffcc00,
     0 0 10px #ffcc00,
-    0 0 20px #ff9900; /* Tạo hiệu ứng phát sáng cam đậm */
-  animation: glowing 3s infinite;
+    0 0 20px #ff9900; Tạo hiệu ứng phát sáng cam đậm */
+  /* animation: glowing 3s infinite; */
   text-align: center;
   padding: 25px;
   padding-bottom: 25vw;
+  z-index: 1; 
+}
+
+.ndb-transbox h1::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px;  /* chỉnh kích thước watermark */
+  height: 300px;
+  background: url('/img/Picture-HSL/logo-trans.png') no-repeat center;
+  background-size: contain; /* hoặc cover */
+  opacity: 0.39; /* độ mờ */
+  z-index: -1;  /* luôn nằm dưới chữ */
+  pointer-events: none; /* không chặn click */
 }
 
 @keyframes glowing {
@@ -1658,7 +1674,7 @@ option:hover {
   margin-bottom: 10px;
   border-radius: 10px;
   text-align: left;
-
+  text-transform: uppercase; /* luôn viết hoa */
   /* Gradient nổi bật */
   background: linear-gradient(90deg, #c9a012, #e8c41e);
   box-shadow: 0 3px 6px rgba(0,0,0,0.25);
@@ -1676,7 +1692,7 @@ option:hover {
 .tour-price {
   font-size: 2rem;           /* Lớn hơn một chút so với thời gian */
   font-weight: bold;         /* Làm đậm để nổi bật */
-  color: #001570;            /* Màu vàng nổi bật (bạn có thể đổi) */
+  color: #b8860b;            /* Màu vàng nổi bật (bạn có thể đổi) */
   text-align: right;         /* Canh phải */
   margin-top: 10px;          /* Tạo khoảng cách với phần trên */
 }
@@ -1688,7 +1704,14 @@ option:hover {
 }
 
 .new-price {
-  color: #ff3333;
+  font-size: 1.6rem;
+  font-weight: 700;
+  font-family: 'Poppins', 'Segoe UI', sans-serif;
+  background: linear-gradient(90deg, #b8860b, #ffd700, #b8860b); /* vàng ánh kim */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); /* tạo chiều sâu */
+  letter-spacing: 0.5px;
 }
 
 /* Media query cho màn hình nhỏ (tối đa 768px) */

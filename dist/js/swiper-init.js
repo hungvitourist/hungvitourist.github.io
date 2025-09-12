@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     slidesPerView: 3,   // Mỗi hàng có 3 slide
     spaceBetween: 16,   // Khoảng cách giữa các slide
     breakpoints: {
-      0: { slidesPerView: 1.2 },
+      400: { slidesPerView: 1.1 },
       768: { slidesPerView: 2 },
       1024: { slidesPerView: 3 }
     },

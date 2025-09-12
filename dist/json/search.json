@@ -2,7 +2,7 @@
 layout: none
 ---
 [
-    {% for post in site.led-props %}
+    {% for post in site.tours %}
     {
       "title"    : "{{ post.title | escape }}",
       "subtitle" : "{{ post.subtitle | escape }}",
@@ -15,7 +15,7 @@ layout: none
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ,
-    {% for post in site.controller-chip %}
+    {% for post in site.flights %}
     {
       "title"    : "{{ post.title | escape }}",
       "subtitle" : "{{ post.subtitle | escape }}",
@@ -28,7 +28,20 @@ layout: none
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ,
-    {% for post in site.poi-tools %}
+    {% for post in site.post-news %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "subtitle" : "{{ post.subtitle | escape }}",
+      "author"   : "{{ post.author | escape }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}",
+      "content": {{ post.content | strip_html | strip_newlines | truncatewords: 50 | jsonify }}
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+,
+    {% for post in site.visa %}
     {
       "title"    : "{{ post.title | escape }}",
       "subtitle" : "{{ post.subtitle | escape }}",

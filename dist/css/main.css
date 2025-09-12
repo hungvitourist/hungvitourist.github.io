@@ -780,8 +780,8 @@ footer .theme-by {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 350px;  /* chỉnh kích thước watermark */
-  height: 350px;
+  width: min(60vw, 60vh);  /* lấy cạnh nhỏ hơn của màn hình */
+  height: min(60vw, 60vh);
   background: url('/img/Picture-HSL/logo-trans.png') no-repeat center;
   background-size: contain; /* hoặc cover */
   opacity: 0.39; /* độ mờ */

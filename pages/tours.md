@@ -17,7 +17,7 @@ permalink: /tours
 
 <div id="domestic" class="content-index" style="
       background: 
-        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%), 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/HSL-index.png');
       background-size: cover; /* Ảnh nền bao phủ toàn bộ vùng */
       background-position: center; /* Căn giữa ảnh nền */
@@ -74,7 +74,7 @@ permalink: /tours
 
 <div id="international" class="content-index" style="
       background: 
-        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%), 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/HSL-index.png');
       background-size: cover; /* Ảnh nền bao phủ toàn bộ vùng */
       background-position: center; /* Căn giữa ảnh nền */
@@ -131,7 +131,7 @@ permalink: /tours
 
 <div id="combo" class="content-index" style="
       background: 
-        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%), 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/HSL-index.png');
       background-size: cover; /* Ảnh nền bao phủ toàn bộ vùng */
       background-position: center; /* Căn giữa ảnh nền */
@@ -188,7 +188,7 @@ permalink: /tours
 
 <div id="freeTravel" class="content-index" style="
       background: 
-        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%), 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/HSL-index.png');
       background-size: cover; /* Ảnh nền bao phủ toàn bộ vùng */
       background-position: center; /* Căn giữa ảnh nền */

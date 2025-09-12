@@ -1,20 +1,19 @@
 ---
 layout: post
-title: "Combo Du Lịch - Tiết Kiệm Chi Phí"
-meta-title: "Combo Du Lịch"
-# subtitle: "Vé máy bay + khách sạn giá ưu đãi"
+title: "Tour Nha Trang – Ninh Thuận 3N2Đ: Nha Trang – Vịnh Vĩnh Hy"
+meta-title: "Tour Nha Trang – Vịnh Vĩnh Hy"
+# subtitle: "Hành trình trải nghiệm cùng Hùng Vĩ Tourist"
 bigimg:
-- "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
-image: "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
-tags: hungvi, tourist, travel, combo, tour, package
-category: tours#combo
-categories: ["tours#combo", "special-offer", "hot"]
-transport: "✈️ + 🚌"
-location: Hà Khẩu – Bình Biên
+- "/img/tours/domestic/VINH-HY-800x533.jpg"
+image: "/img/tours/domestic/VINH-HY-800x533.jpg"
+tags: hungvi, tourist, travel, domestic, tour, vietnam
+category: tours#domestic
+categories: ["tours#domestic", "special-offer", "hot"]
+transport: "🚌"
+location: Vịnh Vĩnh Hy
 duration: 3N2Đ
-discount: 25
-price: 35.060.000
-
+discount: 15
+price: 12.060.000
 # author: "BangNguyen"
 # comments: true
 ---

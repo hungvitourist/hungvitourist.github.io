@@ -4,11 +4,16 @@ title: "Du Lịch Tự Túc - Tự Do Trải Nghiệm"
 meta-title: "Du Lịch Tự Túc"
 # subtitle: "Hành trình do chính bạn lựa chọn"
 bigimg:
-  - "/img/poi-tools/visual-hoop/banner-visual-hoop.jpg"
-image: "/img/poi-tools/visual-hoop/visual-hoop.jpg"
+- "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
+image: "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
 tags: hungvi, tourist, travel, freetravel, tour, backpacking
 category: tours#freeTravel
-
+categories: ["tours#freeTravel", "special-offer", "hot"]
+transport: "✈️ + 🚌"
+location: Hà Khẩu – Bình Biên
+duration: 3N2Đ
+discount: 25
+price: 35.060.000
 
 # author: "BangNguyen"
 # comments: true

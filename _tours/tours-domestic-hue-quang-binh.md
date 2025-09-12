@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Tour Du Lịch Trong Nước - Khám Phá Việt Nam"
-meta-title: "Tour Trong Nước"
+title: "TTour Đà Nẵng 5N4Đ: Hội An – Bà Nà – Huế – Động Thiên Đường"
+meta-title: "Tour Hội An – Bà Nà – Huế – Động Thiên Đường"
 # subtitle: "Hành trình trải nghiệm cùng Hùng Vĩ Tourist"
 bigimg:
-  - "/img/poi-tools/visual-hoop/banner-visual-hoop.jpg"
-image: "/img/poi-tools/visual-hoop/visual-hoop.jpg"
+- "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
+image: "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
 tags: hungvi, tourist, travel, domestic, tour, vietnam
 category: tours#domestic
-
-
+categories: ["tours#domestic", "special-offer", "hot"]
+transport: "🚌"
+location: Hội An - Bà Nà
+duration: 3N2Đ
+discount: 15
+price: 16.060.000
 # author: "BangNguyen"
 # comments: true
 ---

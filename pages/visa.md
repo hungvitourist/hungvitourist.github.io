@@ -17,7 +17,7 @@ permalink: /visa
 
 <div id="travel" class="content-index" style="
       background: 
-        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%), 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/HSL-index.png');
       background-size: cover; /* Ảnh nền bao phủ toàn bộ vùng */
       background-position: center; /* Căn giữa ảnh nền */
@@ -74,7 +74,7 @@ permalink: /visa
 
 <div id="business" class="content-index" style="
       background: 
-        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%), 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/HSL-index.png');
       background-size: cover; /* Ảnh nền bao phủ toàn bộ vùng */
       background-position: center; /* Căn giữa ảnh nền */
@@ -131,7 +131,7 @@ permalink: /visa
 
 <div id="study" class="content-index" style="
       background: 
-        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%), 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/HSL-index.png');
       background-size: cover; /* Ảnh nền bao phủ toàn bộ vùng */
       background-position: center; /* Căn giữa ảnh nền */
@@ -189,7 +189,7 @@ permalink: /visa
 
 <div id="other" class="content-index" style="
       background: 
-        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%), 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/HSL-index.png');
       background-size: cover; /* Ảnh nền bao phủ toàn bộ vùng */
       background-position: center; /* Căn giữa ảnh nền */

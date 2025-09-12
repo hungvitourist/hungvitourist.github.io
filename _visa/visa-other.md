@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Dịch Vụ Làm Hộ Chiếu & Visa Khác"
-meta-title: "Visa Khác - Hộ Chiếu, Thăm Thân, Định Cư"
+meta-title: "Hộ Chiếu, Thăm Thân, Định Cư"
 # subtitle: "Hỗ trợ khách hàng trong các thủ tục ngoài du lịch, du học, công tác"
 bigimg:
-  - "/img/controller-chip/banner.png"
-image: "/img/controller-chip/argb-v1.png"
+  - "/img/visa/other/passports.jpg"
+image: "/img/visa/other/passports.jpg"
 tags: visa, hộ chiếu, định cư, thăm thân, quá cảnh, dịch vụ khác
 category: visa#other
 
@@ -14,164 +14,74 @@ category: visa#other
 # comments: true
 ---
 
-# 🎉 Chào mừng đến với Bộ Điều Khiển LED ARGB! ✨  
+## ✨ Dịch Vụ Visa, Hộ Chiếu & Định Cư – Hùng Vĩ Tourist  
 
-📌 **Hướng dẫn nhanh:**  
-
-- [🛠 Bắt đầu cơ bản](/argb-hsl/basics/getting-started)  
-- [🎨 Hiệu ứng LED](/argb-hsl/features/effects)  
-  - Ví dụ: ![Ví dụ](https://raw.githubusercontent.com/scottrbailey/WLED-Utils/master/gifs/FX_112.gif)
-- [🌈 Bảng màu LED](/argb-hsl/features/palettes)  
-  - Ví dụ: ![Ví dụ](https://raw.githubusercontent.com/scottrbailey/WLED-Utils/master/gifs/PAL_46.gif)               
-- [📺 Video hướng dẫn](/argb-hsl/basics/tutorials)  
-
-🚀 Các **hiệu ứng có thể pha trộn (mix) với nhau** nên gần như **không giới hạn hiệu ứng** mà chỉ phụ thuộc vào sự sáng tạo của người sử dụng mạch.
-
-🚀 **Bộ điều khiển mạnh mẽ với khả năng triển khai nhanh chóng**, hỗ trợ **LED NeoPixel** (WS2812B, WS2811, SK6812, …) và các dòng LED SPI như WS2801, APA102!  
+Hùng Vĩ Tourist tự hào đồng hành cùng bạn trong các **thủ tục quốc tế**: từ visa công tác, du học, du lịch đến làm hộ chiếu và định cư.  
+Chúng tôi cam kết **tư vấn chuyên nghiệp, hồ sơ chuẩn xác, tiến trình minh bạch**, giúp hành trình của bạn trở nên **dễ dàng, nhanh chóng và an tâm**.
 
 ---
 
-## 🔥 Bộ điều khiển V1.0.0  
+### 1️⃣ Visa Công Tác
+Bạn cần **visa công tác** để sang Mỹ hoặc các quốc gia khác phục vụ hội nghị, ký kết hợp đồng, tham gia triển lãm, khảo sát thị trường?  
 
-✅ Hỗ trợ **IR hồng ngoại**, cảm biến nhiệt, **cầu chì bảo vệ** LED.  
-✅ 2 ngõ ra LED **3 chân độc lập** (hoặc 1 ngõ ra LED **4 chân**).  
-✅ PCB được thiết kế chắc chắn, **linh kiện chất lượng cao**, lắp ráp hoàn toàn bằng **dây chuyền robot tự động**.  
-✅ **2 ngõ ra LED 3 chân độc lập** (hoặc **1 ngõ ra LED 4 chân**).  
+**Lợi ích khi chọn Hùng Vĩ Tourist:**
+- ✅ Tư vấn hồ sơ, thủ tục nhanh chóng, chính xác.  
+- ✅ Hỗ trợ chuẩn bị giấy tờ theo yêu cầu Đại sứ quán.  
+- ✅ Theo dõi tiến trình hồ sơ và thông báo kịp thời.  
+- ✅ Tỷ lệ đậu visa cao, tiết kiệm thời gian và chi phí.  
 
+**Hồ sơ cần chuẩn bị:** hộ chiếu còn hạn, ảnh thẻ, giấy tờ chứng minh công việc, các giấy tờ bổ sung theo yêu cầu.  
 
-
-## 🔥 Bộ điều khiển V2.0.0  
-
-✅ Kích thước **siêu nhỏ gọn**: **22mm x 52mm**.  
-
-🖼 **Hình ảnh PCB V2.0.0:**  
-
-<div class="image-gallery">
-   <img src="/argb-hsl/image/v2.0.0_3D_PCB1_2024-12-04.png" alt="3D PCB 2">
-</div>
-
-{% include gallery-modal.html%}
-<div class="image-gallery">
-   <div class="image-item">
-      <img src="/argb-hsl/image/v2.0.0-3D_PCB1_2024-12-04-mat truoc.png" alt="Image 2" onclick="openModal(this.src)">
-   </div>
-   <div class="image-item">
-      <img src="/argb-hsl/image/3D_PCB1_mat-sau.png" alt="Image 3" onclick="openModal(this.src)">
-   </div>
-   <div class="image-item">
-      <img src="/argb-hsl/image/v2.0.0-3D_PCB1_2024-12-04-mat sau.png" alt="Image 4" onclick="openModal(this.src)">
-   </div>
-</div>
+**Phạm vi hỗ trợ:** Mỹ, Châu Âu, Nhật Bản, Hàn Quốc, Trung Quốc, Đài Loan.  
 
 ---
 
-## 🎬🎬🎬 VIDEO 🎬🎬🎬 Kết nối mạch với dãy LED 
+### 2️⃣ Visa Du Học
+Bạn chuẩn bị **hành trang du học**? Chúng tôi sẽ giúp bạn **xin visa du học nhanh chóng và hiệu quả**.
 
-<div class="cliptiktok">
-   <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@denthongminhhappy/video/7482259628428987666" data-video-id="7482259628428987666" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@denthongminhhappy" href="https://www.tiktok.com/@denthongminhhappy?refer=embed">@denthongminhhappy</a> Hướng dẫn sử dụng mạch ARGB IPEX V1.0.0 <a title="happysmartlight" target="_blank" href="https://www.tiktok.com/tag/happysmartlight?refer=embed">#happysmartlight</a> <a title="pixelart" target="_blank" href="https://www.tiktok.com/tag/pixelart?refer=embed">#pixelart</a> <a title="pixel" target="_blank" href="https://www.tiktok.com/tag/pixel?refer=embed">#pixel</a> <a title="hsl" target="_blank" href="https://www.tiktok.com/tag/hsl?refer=embed">#hsl</a> <a title="ledperformance" target="_blank" href="https://www.tiktok.com/tag/ledperformance?refer=embed">#LEDPerformance</a> <a title="led" target="_blank" href="https://www.tiktok.com/tag/led?refer=embed">#led</a> <a title="light" target="_blank" href="https://www.tiktok.com/tag/light?refer=embed">#light</a> <a title="ledchayduoi" target="_blank" href="https://www.tiktok.com/tag/ledchayduoi?refer=embed">#ledchayduoi</a> <a target="_blank" title="♬ We Dont Talk(抖音原版) - 珊爷" href="https://www.tiktok.com/music/We-Dont-Talk-抖音原版-6891677881726928910?refer=embed">♬ We Dont Talk(抖音原版) - 珊爷</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+**Lợi ích khi chọn Hùng Vĩ Tourist:**
+- Tư vấn chọn trường, ngành học phù hợp.  
+- Hướng dẫn chuẩn bị hồ sơ visa chính xác.  
+- Theo dõi tiến trình hồ sơ.  
+- Tỷ lệ đậu visa cao, tiết kiệm thời gian.  
 
-   <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@denthongminhhappy/video/7380609403973602577" data-video-id="7380609403973602577" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@denthongminhhappy" href="https://www.tiktok.com/@denthongminhhappy?refer=embed">@denthongminhhappy</a> Chạy chữ trên nền động. Phù hợp những tiệm trà sữa, chè, …<a title="happysmartlight" target="_blank" href="https://www.tiktok.com/tag/happysmartlight?refer=embed">#happysmartlight</a> <a title="led" target="_blank" href="https://www.tiktok.com/tag/led?refer=embed">#led</a> <a title="argb" target="_blank" href="https://www.tiktok.com/tag/argb?refer=embed">#argb</a> <a target="_blank" title="♬ nhạc nền  - Đèn thông minh Happy" href="https://www.tiktok.com/music/nhạc-nền-Đèn-thông-minh-Happy-7380609451478305553?refer=embed">♬ nhạc nền  - Đèn thông minh Happy</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-</div>
-
----
-
-> 📢 **Giá mạch điều khiển: 649.000đ/mạch** (đã bao gồm VAT)  
-> ✅ Khuyến khích dùng **2 mạch trở lên** để lập trình hiệu ứng đồng bộ  
+**Hồ sơ cần chuẩn bị:** hộ chiếu còn hạn, ảnh thẻ, thư mời nhập học, chứng minh tài chính, giấy tờ bổ sung theo yêu cầu quốc gia.  
 
 ---
 
-## 💡 Các loại chip LED được hỗ trợ  
+### 3️⃣ Visa Du Lịch
+Bạn lên kế hoạch cho những **chuyến du lịch quốc tế**? Chúng tôi giúp bạn **xin visa du lịch nhanh chóng và thuận tiện**.
 
-🔗 [Danh sách chi tiết các chip LED](/argb-hsl/basics/compatible-led-strips)  
+**Lợi ích:** tư vấn điểm đến và thủ tục visa, hướng dẫn chuẩn bị hồ sơ đầy đủ, theo dõi tiến trình hồ sơ, tỷ lệ đậu cao.  
 
-### 📌 SPI 3-wire & SPI 4-wire  
+**Hồ sơ:** hộ chiếu còn hạn, ảnh thẻ, chứng minh tài chính, lịch trình du lịch, các giấy tờ bổ sung.  
 
-| **SPI 3-wire**        | **SPI 4-wire**          |
-|-----------------------|-------------------------|
-| WS281x               | APA102                  |
-| SK6812/WS2814 RGBW   | LPD8806                 |
-| TM1814               | LPD6803                 |
-| 400kHz               | P9813                   |
-| TM1829               |                         |
-| UCS8903              |                         |
-| UCS8904 RGBW         |                         |
-| WS2801               |                         |
-
-### 📌 PWM & Các giao thức khác  
-
-| **PWM**              | **Khác**                 |
-|----------------------|-------------------------|
-| WS2811 White        | On/Off                   |
-| PWM White           | DDP RGB (Network)        |
-| PWM CCT             | E1.31 RGB (Network)      |
-| PWM RGB             | Art-Net RGB (Network)    |
-| PWM RGBW            | DDP RGBW (Network)       |
-| PWM RGB+CCT         |                         |
-| PWM RGB+DCCT        |                         |
+**Phạm vi:** Mỹ, Châu Âu, Nhật Bản, Hàn Quốc, Đài Loan, Trung Quốc.  
 
 ---
 
-## ⚙️ Tính năng nổi bật  
+### 4️⃣ Dịch Vụ Làm Hộ Chiếu
+Bạn cần **hộ chiếu mới** hoặc **gia hạn** để phục vụ du lịch, công tác, du học hoặc định cư?  
 
-✅ **180+ hiệu ứng đặc biệt** với thư viện **WS2812FX**.  
-✅ **FastLED** hỗ trợ **50 bảng màu** sinh động.  
-✅ **Phân đoạn LED linh hoạt** – tạo hiệu ứng riêng cho từng phần.  
-✅ **Kết nối WiFi thông minh**, quản lý từ xa.  
-✅ **Hỗ trợ 2 ngõ ra LED** – tối đa **800 LED mỗi đầu ra**.  
-✅ **Lưu trữ đến 250 Preset** – dễ dàng chuyển đổi giữa các hiệu ứng.  
-✅ **Tích hợp API, MQTT, HTTP, UDP**.  
-✅ **Hỗ trợ cập nhật OTA** – bảo mật bằng mật khẩu.  
-✅ **Chức năng đèn ngủ** – giảm độ sáng tự động.  
-✅ **Đồng hồ LED Analog & Cronixie**.  
-✅ **Tự động giới hạn độ sáng** – bảo vệ thiết bị.  
+**Lợi ích:** tư vấn thủ tục, hướng dẫn điền đơn và chuẩn bị hồ sơ, theo dõi tiến trình, nhanh chóng và an toàn.  
+
+**Hồ sơ:** CMND/CCCD hoặc giấy tờ tùy thân hợp lệ, ảnh thẻ, giấy tờ bổ sung tùy loại hộ chiếu.  
 
 ---
 
-## 🎬🎬🎬 VIDEO 🎬🎬🎬 Demo sản phẩm
+### 5️⃣ Dịch Vụ Định Cư
+Bạn muốn **định cư ở nước ngoài**? Chúng tôi cung cấp **dịch vụ tư vấn và làm hồ sơ định cư toàn diện**.  
 
-<div class="cliptiktok">
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@denthongminhhappy/video/7477953088481922312" data-video-id="7477953088481922312" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@denthongminhhappy" href="https://www.tiktok.com/@denthongminhhappy?refer=embed">@denthongminhhappy</a> Resolume điều khiển led Pixel dạng thang led hoặc ma trix led. <a title="hsl" target="_blank" href="https://www.tiktok.com/tag/hsl?refer=embed">#hsl</a> <a title="resolume" target="_blank" href="https://www.tiktok.com/tag/resolume?refer=embed">#resolume</a> <a title="pixel" target="_blank" href="https://www.tiktok.com/tag/pixel?refer=embed">#pixel</a> <a title="led" target="_blank" href="https://www.tiktok.com/tag/led?refer=embed">#led</a> <a title="light" target="_blank" href="https://www.tiktok.com/tag/light?refer=embed">#light</a> <a target="_blank" title="♬ nhạc nền - user00931528601" href="https://www.tiktok.com/music/nhạc-nền-7274620162584791851?refer=embed">♬ nhạc nền - user00931528601</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+**Lợi ích:** tư vấn chính xác chương trình định cư, hỗ trợ hồ sơ đầy đủ, theo dõi tiến trình hồ sơ, tỷ lệ thành công cao.  
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@denthongminhhappy/video/7452132920799661320" data-video-id="7452132920799661320" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@denthongminhhappy" href="https://www.tiktok.com/@denthongminhhappy?refer=embed">@denthongminhhappy</a> Led ARGB V2.1.0 <a title="led" target="_blank" href="https://www.tiktok.com/tag/led?refer=embed">#led</a> <a title="dance" target="_blank" href="https://www.tiktok.com/tag/dance?refer=embed">#dance</a>  <a title="lighttoys" target="_blank" href="https://www.tiktok.com/tag/lighttoys?refer=embed">#lighttoys</a> <a title="leddancer" target="_blank" href="https://www.tiktok.com/tag/leddancer?refer=embed">#leddancer</a> <a target="_blank" title="♬ Epic Cinematic Motivation Trailer - CinematicHub" href="https://www.tiktok.com/music/Epic-Cinematic-Motivation-Trailer-7376260653160646695?refer=embed">♬ Epic Cinematic Motivation Trailer - CinematicHub</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+**Hồ sơ:** hộ chiếu hợp lệ, giấy tờ tùy thân, chứng minh tài chính/học vấn/kinh nghiệm, giấy tờ bổ sung theo yêu cầu quốc gia.  
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@denthongminhhappy/video/7379796015752203536" data-video-id="7379796015752203536" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@denthongminhhappy" href="https://www.tiktok.com/@denthongminhhappy?refer=embed">@denthongminhhappy</a> Happy Smart Light ARGB V1.0.0 <a title="led" target="_blank" href="https://www.tiktok.com/tag/led?refer=embed">#led</a> <a title="argb" target="_blank" href="https://www.tiktok.com/tag/argb?refer=embed">#argb</a> <a title="happysmartlight" target="_blank" href="https://www.tiktok.com/tag/happysmartlight?refer=embed">#happysmartlight</a> <a title="denthongminhhappy" target="_blank" href="https://www.tiktok.com/tag/denthongminhhappy?refer=embed">#denthongminhhappy</a> <a target="_blank" title="♬ nhạc nền  - Đèn thông minh Happy" href="https://www.tiktok.com/music/nhạc-nền-Đèn-thông-minh-Happy-7379796080601008897?refer=embed">♬ nhạc nền  - Đèn thông minh Happy</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-</div>
-
----
-
-
-## 🎛 Ứng dụng điều khiển  
-
-### 🖥 **Trên PC/Laptop:**  
-- 🔥 [ARGB PC – LED Control](https://github.com/w00000dy/WLED-GUI/releases)  
-
-### 📱 **Trên Smartphone:**  
-- 🔥 [ARGB Android](https://play.google.com/store/apps/details?id=ca.cgagnier.wlednativeandroid)  
-- 🔥 [ARGB iOS](https://apps.apple.com/us/app/wled-native/id6446207239)  
-
-### ⚡ **Phần mềm tùy chọn:**  
-- 🔥 [xLights](https://xlights.org/releases) – lập trình LED chuyên nghiệp.  
-- 🔥 [Jinx!](https://live-leds.de/) – điều khiển LED ma trận.  
-- 🔥 [LedFx](https://www.ledfx.app/) – LED nhấp nháy theo nhạc.  
-- 🔥 [Hyperion](https://github.com/hyperion-project/hyperion.ng) – hiệu ứng Ambilight cho TV.  
-
-🔗 [Danh sách phần mềm đầy đủ](/argb-hsl/basics/compatible-software)  
+**Phạm vi:** Mỹ, Canada, Úc, Châu Âu và nhiều quốc gia khác.  
 
 ---
 
+### 📞 Liên hệ ngay
+- Hotline/Zalo: **0784 140 494 – 0936 601 944**  
+- Email: **hungvitourist@outlook.com**  
 
-## 💡 Các Chuẩn Kết Nối ARGB Có Thể Sử Dụng  
-
-- [JSON API](interfaces/json-api) & [HTTP request](interfaces/http-api)  
-- [MQTT](interfaces/mqtt)  
-- [E1.31](interfaces/e1.31-dmx), [Art-Net](interfaces/e1.31-dmx), DDP và [TPM2.net](interfaces/udp-realtime)  
-- [UDP realtime](interfaces/udp-realtime)  
-- [Alexa voice control](interfaces/remote-access-ifttt)  
-- [Sync to Philips Hue lights](interfaces/philips-hue)  
-- **Adalight (PC Ambilight via Serial) & TPM2**  
-- [Sync color giữa nhiều bộ điều khiển (UDP notifier)](interfaces/udp-notifier)  
-- [Điều khiển qua Remote Hồng Ngoại (IR)](interfaces/infrared)  
-
----
-
-## ✌️ Happy Smart Light – bangnguyendev  
+🌐 Với **Hùng Vĩ Tourist**, mọi thủ tục quốc tế của bạn sẽ trở nên **đơn giản, minh bạch và an tâm**.

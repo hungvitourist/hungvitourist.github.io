@@ -3,7 +3,7 @@ layout: page
 title: "Gậy LED Magic -  Magic LED HSL"
 meta-title: "Light Up Your Style"
 bigimg:
-- "/img/Picture-HSL/HSL-index.png"
+- "/img/Picture-HSL/japan-background.jpg"
 permalink: /visa
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: "Dịch Vụ Tour Du Lịch - Hùng Vĩ Tourist"
 meta-title: "TOUR TRONG NƯỚC & QUỐC TẾ"
 bigimg:
-- "/img/Picture-HSL/HSL-index.png"
+- "/img/Picture-HSL/japan-background.jpg"
 permalink: /tours
 ---
 

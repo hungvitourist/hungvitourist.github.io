@@ -3,7 +3,7 @@ layout: page
 title: "Dịch Vụ Vé Máy Bay - Hùng Vĩ Tourist"
 meta-title: "Đặt Vé Máy Bay Dễ Dàng & Nhanh Chóng"
 bigimg:
-- "/img/Picture-HSL/HSL-index.png"
+- "/img/Picture-HSL/japan-background.jpg"
 permalink: /flights
 ---
 

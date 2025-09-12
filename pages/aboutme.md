@@ -4,7 +4,7 @@ title: Hùng Vĩ Tourist
 meta-title: Hùng Vĩ Tourist
 # subtitle: "Hành trình trọn vẹn – Trải nghiệm khác biệt!"
 bigimg:
-- "/img/Picture-HSL/banner-bale.jpg"
+- "/img/Picture-HSL/japan-background.jpg"
 permalink: /aboutme
 ---
 # 🌍 **HÙNG VĨ TOURIST** – CHUYÊN NGHIỆP TOUR DU LỊCH & DỊCH VỤ XE HỢP ĐỒNG 🚐
@@ -76,14 +76,13 @@ Hùng Vĩ Tourist tự hào đồng hành cùng:
 ## 🗺️ **Chi Nhánh Hùng Vĩ Tourist**
 
 - 📍 **Chi nhánh 1:** [{{ site.address-1 }}]({{ site.map-address-1 }})  
-- 📍 **Chi nhánh 2:** [{{ site.address-2 }}]({{ site.map-address-2 }})  
 
 ---
 
 ## 📞 **Liên Hệ Ngay – Đặt Tour Nhanh Chóng!**
 
-- ☎️ **Mr. Bằng:** {{ site.author.telephone }}  
-- 📞 **Trợ lý Hiền:** 0936 601 944  
+- ☎️ **Mr. Hùng Vỉ:** {{ site.author.telephone }}  
+- 📞 **Trợ lý xxxxx:** 0909909909  
 - 📧 **Email:** happycar@outlook.com.vn  
 - 🌐 **Website:** [hungvitourist.com](https://hungvitourist.com)  
 

@@ -330,7 +330,7 @@ bigimg:
 </div> <!-- /#domestic -->
 
 
-<!-- Layer 2 tour trong nước -->
+<!-- Layer 2 visa hộ chiếu -->
 
 <div class="gradient-bg">
   <div class="gradient-text">
@@ -338,7 +338,7 @@ bigimg:
   </div>
 </div>
 
-<div id="combo" class="content-index" style="
+<div id="visa" class="content-index" style="
       background: 
         linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
         url('/img/Picture-HSL/background-1.svg');
@@ -347,12 +347,12 @@ bigimg:
       background-repeat: repeat;
     ">
   <div class="summary">
-    ✨Combo Du Lịch✨
+    ✨Visa Du Lịch | Công Tác | Du Học✨
   </div>
   <div class="description-content-index-sp">
-    🎁 Tiết kiệm chi phí với gói combo vé máy bay + khách sạn.<br>
-    🛫 Linh hoạt lựa chọn lịch trình phù hợp.<br>
-    🏨 Nhiều gói khuyến mãi hấp dẫn theo mùa.
+    🛂 Hỗ trợ làm hộ chiếu, gia hạn hộ chiếu.<br>
+    📄 Dịch thuật công chứng hồ sơ du lịch và công tác.<br>
+    🌍 Các dịch vụ giấy tờ xuất nhập cảnh khác theo yêu cầu.
   </div>
 
   {% assign hascategoryPosts = false %}
@@ -360,8 +360,8 @@ bigimg:
   <!-- Swiper container -->
   <div class="swiper">
     <div class="swiper-wrapper">
-      {% for post in site.tours limit:20 %}
-      {% if post.categories contains "tours#combo" %}
+      {% for post in site.visa limit:20 %}
+      {% if post.category contains "visa" %}
       <div class="swiper-slide">
         <div class="component">
           <div class="image-container">
@@ -402,11 +402,13 @@ bigimg:
               </div>
               <div class="tour-info">
                 <div class="tour-price">
+                  {% if post.price %}
                   {% if post.discount %}
                   <i class="fa-solid fa-sack-dollar"></i><span class="old-price"> {{ price | format_price }}</span><br>
                   <i class="fa-solid fa-sack-dollar"></i><span class="new-price"> {{ final_price | format_price }}</span>
                   {% else %}
                   <i class="fa-solid fa-sack-dollar"></i> {{ post.price }}
+                  {% endif %}
                   {% endif %}
                 </div>
               </div>

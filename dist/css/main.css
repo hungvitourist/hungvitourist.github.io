@@ -1592,7 +1592,7 @@ option:hover {
 
 /* Tổng quan bố cục của phần content */
 .content-index {
-  display: flex; /* Sử dụng flexbox để sắp xếp nội dung */
+  /* display: flex; Sử dụng flexbox để sắp xếp nội dung */
   flex-direction: column; /* Sắp xếp theo chiều dọc */
   justify-content: flex-end; /* Canh nội dung về cuối theo chiều dọc */
   align-items: center; /* Canh giữa theo chiều ngang */

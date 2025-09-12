@@ -9,6 +9,7 @@ image: "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"
 tags: hungvi, tourist, travel, international, tour, world
 category: tours#international
 categories: ["tours#international", "special-offer", "hot"]
+transport: "✈️ + 🚌"
 location: Hồng Kông
 duration: "4N3Đ"
 discount: 20

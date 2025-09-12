@@ -8,6 +8,7 @@ image: "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
 tags: hungvi, tourist, travel, international, tour, world
 category: tours#international
 categories: ["tours#international", "special-offer", "hot"]
+transport: "✈️ + 🚌"
 location: Hà Khẩu – Bình Biên
 duration: 3N2Đ
 # discount: 25

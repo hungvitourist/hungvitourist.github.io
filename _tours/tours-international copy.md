@@ -9,6 +9,7 @@ image: "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"
 tags: hungvi, tourist, travel, international, tour, world
 category: tours#international
 categories: ["tours#international", "special-offer", "hot"]
+transport: "✈️ + 🚌"
 location: Thẩm Quyến – Quảng Châu
 duration: "5N4Đ"
 discount: 25

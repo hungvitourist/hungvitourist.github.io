@@ -12,7 +12,7 @@ bigimg:
 
 <div class="gradient-bg">
   <div class="gradient-text">
-    <p>✈️ “Bay cùng niềm vui, đi cùng Hùng Vĩ Tourist.”</p>
+    <p>✈️ Bay cùng niềm vui, đi cùng Hùng Vĩ Tourist.</p>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ bigimg:
         {% if post.location %}
         <!-- Địa điểm -->
         <div class="location-label">
-          <i class="fas fa-map-marker-alt"></i> {{ post.location }}
+          <i class="fas fa-map-marker-alt"></i> {{ post.location }}  {% if post.transport %}  |  {{ post.transport }}  {% endif %}
         </div>
         {% endif %}
         {% endif %}
@@ -66,7 +66,8 @@ bigimg:
         <div class="component-name">
           <div class="title-label">
             {% if post.meta-title %}
-            {{ post["meta-title"] }} | ⏱ {{ post.duration }}
+            {{ post["meta-title"] }} 
+              {% if post.duration %} | ⏱ {{ post.duration }} {% endif %}
             {% else %}
             {{ post.title }}
             {% endif %}
@@ -104,7 +105,7 @@ bigimg:
 
 <div class="gradient-bg">
   <div class="gradient-text">
-    <p>✨ “Mỗi chuyến đi – Một kỷ niệm cùng Hùng Vĩ Tourist.”</p>
+    <p>Mỗi chuyến đi – Một kỷ niệm cùng Hùng Vĩ Tourist.✈️ </p>
   </div>
 </div>
 
@@ -142,7 +143,7 @@ bigimg:
         {% if post.location %}
         <!-- Địa điểm -->
         <div class="location-label">
-          <i class="fas fa-map-marker-alt"></i> {{ post.location }}
+          <i class="fas fa-map-marker-alt"></i> {{ post.location }}  {% if post.transport %}  |  {{ post.transport }}  {% endif %}
         </div>
         {% endif %}
         {% endif %}
@@ -158,7 +159,8 @@ bigimg:
         <div class="component-name">
           <div class="title-label">
             {% if post.meta-title %}
-            {{ post["meta-title"] }} | ⏱ {{ post.duration }}
+            {{ post["meta-title"] }} 
+              {% if post.duration %} | ⏱ {{ post.duration }} {% endif %}
             {% else %}
             {{ post.title }}
             {% endif %}
@@ -204,3 +206,5 @@ bigimg:
     </div>
   </div>
 </div>
+
+{% include form-booking.html %}

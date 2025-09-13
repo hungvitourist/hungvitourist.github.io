@@ -4,8 +4,8 @@ title: "Vé Máy Bay Nội Địa - Dễ Dàng & Tiện Lợi"
 meta-title: "Vé Nội Địa"
 # subtitle: "Đặt vé nhanh chóng, bay khắp Việt Nam"
 bigimg:
-  - "/img/poi-tools/visual-hoop/banner-visual-hoop.jpg"
-image: "/img/poi-tools/visual-hoop/visual-hoop.jpg"
+  - "/img/flights/international/22072.jpg"
+image: "/img/flights/international/22072.jpg"
 tags: hungvi, tourist, travel, flights, domestic, vietnam
 category: flights#domestic
 

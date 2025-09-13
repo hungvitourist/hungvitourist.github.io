@@ -7,7 +7,6 @@ bigimg:
   - "/img/tours/international/Nui-Phu-Si.gif"
 image: "/img/tours/international/Nui-Phu-Si.gif"
 tags: hungvi, tourist, travel, international, tour, world
-category: tours#international
 categories: ["tours#international", "special-offer", "hot"]
 transport: "✈️ + 🚌"
 location: TOKYO – PHÚ SĨ

@@ -4,8 +4,8 @@ title: "Đặt Chỗ & Hành Lý - Dịch Vụ Hoàn Hảo"
 meta-title: "Đặt Chỗ & Hành Lý"
 # subtitle: "Hỗ trợ chọn ghế, ký gửi hành lý thuận tiện"
 bigimg:
-  - "/img/poi-tools/visual-hoop/banner-visual-hoop.jpg"
-image: "/img/poi-tools/visual-hoop/visual-hoop.jpg"
+  - "/img/flights/international/3075.jpg"
+image: "/img/flights/international/3075.jpg"
 tags: hungvi, tourist, travel, flights, booking, luggage
 category: flights#booking
 

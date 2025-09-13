@@ -7,7 +7,6 @@ bigimg:
 - "/img/tours/domestic/NOVOTEL-RESORT-PHU-QUOC-View-800x533.jpg"
 image: "/img/tours/domestic/NOVOTEL-RESORT-PHU-QUOC-View-800x533.jpg"
 tags: hungvi, tourist, travel, domestic, tour, vietnam
-category: tours#domestic
 categories: ["tours#domestic", "special-offer", "hot"]
 transport: "✈️ + 🚌"
 location: Đảo Phú Quốc

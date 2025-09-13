@@ -7,7 +7,6 @@ bigimg:
   - "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"
 image: "/img/tours/international/Dao-Pho-Hong-Kong-1.gif"
 tags: hungvi, tourist, travel, international, tour, world
-category: tours#international
 categories: ["tours#international", "special-offer", "hot"]
 transport: "✈️ + 🚌"
 location: Hồng Kông

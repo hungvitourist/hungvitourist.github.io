@@ -7,7 +7,6 @@ bigimg:
 - "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
 image: "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
 tags: hungvi, tourist, travel, domestic, tour, vietnam
-category: tours#domestic
 categories: ["tours#domestic", "special-offer", "hot"]
 transport: "🚌"
 location: Hội An - Bà Nà

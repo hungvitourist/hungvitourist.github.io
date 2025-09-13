@@ -7,7 +7,6 @@ bigimg:
 - "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
 image: "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
 tags: hungvi, tourist, travel, freetravel, tour, backpacking
-category: tours#freeTravel
 categories: ["tours#freeTravel", "special-offer", "hot"]
 transport: "✈️ + 🚌"
 location: Hà Khẩu – Bình Biên

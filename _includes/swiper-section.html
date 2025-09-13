@@ -1,6 +1,12 @@
 <div class="gradient-bg">
   <div class="gradient-text">
-    <p>{{ include.slogan | default: "✈️ Bay cùng niềm vui, đi cùng Hùng Vĩ Tourist." }}</p>
+      <div class="summary">
+        {{ include.title | default: "✨🔥Ưu Đãi Đặc Biệt Hôm Nay🔥✨" }}
+      </div>
+      
+      <div class="description-content-index-sp">
+        {{ include.desc | default: "🎉 Giảm giá sốc lên đến 30% cho tour hot nhất.<br>✈️ Ưu đãi vé máy bay & khách sạn trọn gói.<br>🕒 Số lượng có hạn – chỉ áp dụng hôm nay!<br>👉 Đặt ngay để không bỏ lỡ cơ hội vàng!" }}
+      </div>
   </div>
 </div>
 
@@ -11,14 +17,6 @@
     background-size: cover;
     background-position: center;
     background-repeat: repeat;">
-  
-  <div class="summary">
-    {{ include.title | default: "✨🔥Ưu Đãi Đặc Biệt Hôm Nay🔥✨" }}
-  </div>
-  
-  <div class="description-content-index-sp">
-    {{ include.desc | default: "🎉 Giảm giá sốc lên đến 30% cho tour hot nhất.<br>✈️ Ưu đãi vé máy bay & khách sạn trọn gói.<br>🕒 Số lượng có hạn – chỉ áp dụng hôm nay!<br>👉 Đặt ngay để không bỏ lỡ cơ hội vàng!" }}
-  </div>
 
   {% assign hascategoryPosts = false %}
   {% assign filter_cats = include.category | split: "," %}

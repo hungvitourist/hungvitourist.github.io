@@ -4,8 +4,8 @@ title: "Vé Máy Bay Quốc Tế - Bay Đến Mọi Nơi"
 meta-title: "Vé Quốc Tế"
 # subtitle: "Kết nối chuyến bay toàn cầu dễ dàng"
 bigimg:
-  - "/img/poi-tools/visual-hoop/banner-visual-hoop.jpg"
-image: "/img/poi-tools/visual-hoop/visual-hoop.jpg"
+  - "/img/flights/international/22072.jpg"
+image: "/img/flights/international/22072.jpg"
 tags: hungvi, tourist, travel, flights, international, world
 category: flights#international
 

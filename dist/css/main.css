@@ -753,7 +753,7 @@ footer .theme-by {
   display: flex; /* Sử dụng Flexbox */
   align-items: center; /* Căn giữa theo chiều dọc */
   justify-content: center; /* Căn giữa theo chiều ngang */
-  height: 100vh; /* Chiều cao bằng với chiều cao */
+  height: 100%; /* Chiều cao bằng với chiều cao */
   width: 100%; /* Chiều rộng bằng với chiều ngang */
   padding-left: 10px;
   padding-right: 10px;
@@ -762,15 +762,14 @@ footer .theme-by {
 
 .ndb-transbox h1 {
   color: #ffcc00; /* Cam vàng tươi */
-  -webkit-text-stroke: 2.5px #003066; /* Viền xanh dương đậm */
+  -webkit-text-stroke: 3.5px #003066; /* Viền xanh dương đậm */
   /* text-shadow: 
     0 0 5px #ffcc00,
     0 0 10px #ffcc00,
     0 0 20px #ff9900; Tạo hiệu ứng phát sáng cam đậm */
   /* animation: glowing 3s infinite; */
   text-align: center;
-  padding: 25px;
-  padding-bottom: 25vw;
+  padding: 100px 0 350px 0; /* Tạo khoảng cách trên và dưới */
   z-index: 1; 
 }
 
@@ -971,7 +970,7 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
   justify-content: center; /* Canh giữa ngang */
   align-items: center;    /* Canh giữa dọc */
   width: 100%; /* Chiều rộng toàn màn hình */
-  height: 100vh; /* Chiều cao toàn màn hình */
+  height: 100%; /* Chiều cao toàn màn hình */
   background-size: cover;
   background-position: center; 
 }
@@ -1597,7 +1596,7 @@ option:hover {
   flex-direction: column; /* Sắp xếp theo chiều dọc */
   justify-content: flex-end; /* Canh nội dung về cuối theo chiều dọc */
   align-items: center; /* Canh giữa theo chiều ngang */
-  /*height: 100vh;  Chiều cao bằng với toàn màn hình */
+  /*height: 100%;  Chiều cao bằng với toàn màn hình */
   width: 100%; /* Chiều rộng bằng với toàn màn hình */
   color: white; /* Màu chữ trắng */
   text-align: center; /* Căn giữa văn bản */

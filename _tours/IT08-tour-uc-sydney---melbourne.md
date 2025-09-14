@@ -3,8 +3,8 @@ title: 'Tour Úc Sydney - Melbourne'
 layout: post
 meta-title: Úc Sydney - Melbourne
 bigimg:
-  - "/img/tours/international/japan-background.jpg"
-image: "/img/tours/international/japan-background.jpg"
+  - "/img/tours/international/hongkong.jpg"
+image: "/img/tours/international/hongkong.jpg"
 tags: tour úc, du lịch úc, tour sydney, tour melbourne, tour quốc tế, australia tour
 categories: [tours#international]
 transport: "✈️"

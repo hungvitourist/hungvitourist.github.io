@@ -3,8 +3,8 @@ title: 'Tour Hàn Quốc Seoul - Nami'
 layout: post
 meta-title: Hàn Quốc Seoul - Nami
 bigimg:
-  - "/img/tours/international/3075.jpg"
-image: "/img/tours/international/3075.jpg"
+  - "/img/tours/international/korea-banner.jpg"
+image: "/img/tours/international/korea-banner.jpg"
 tags: tour hàn quốc, du lịch hàn quốc, tour seoul, tour nami, tour quốc tế
 categories: [tours#international]
 transport: "✈️"

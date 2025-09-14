@@ -3,8 +3,8 @@ title: 'Tour Nhật Bản Mùa Hoa Anh Đào'
 layout: post
 meta-title: Nhật Bản Mùa Hoa Anh Đào
 bigimg:
-  - "/img/tours/international/22072.jpg"
-image: "/img/tours/international/22072.jpg"
+  - "/img/Picture-HSL/taiwan.jpg"
+image: "/img/Picture-HSL/taiwan.jpg"
 tags: tour nhật bản, hoa anh đào, du lịch nhật bản, tour quốc tế, tour tokyo, tour kyoto, tour osaka
 categories: [tours#international, special-offer,]
 transport: "✈️"

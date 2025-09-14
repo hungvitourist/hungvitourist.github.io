@@ -3,8 +3,8 @@ title: 'Tour Châu Âu 4 Nước'
 layout: post
 meta-title: Châu Âu 4 Nước
 bigimg:
-  - "/img/tours/international/deep-9dR2lg5-gPE-unsplash.svg"
-image: "/img/tours/international/deep-9dR2lg5-gPE-unsplash.svg"
+  - "/img/tours/international/korea-banner.jpg"
+image: "/img/tours/international/korea-banner.jpg"
 tags: tour châu âu, du lịch châu âu, tour pháp, tour đức, tour thụy sĩ, tour ý, tour quốc tế
 categories: [tours#international]
 transport: "✈️"

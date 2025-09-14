@@ -3,7 +3,7 @@ layout: page
 title: "Dịch vụ Hộ Chiếu VISA giấy tờ trọn gói"
 meta-title: "Hộ Chiếu VISA"
 bigimg:
-- "/img/Picture-HSL/japan-background.jpg"
+- "/img/Picture-HSL/chau-au.svg"
 permalink: /visa
 ---
 

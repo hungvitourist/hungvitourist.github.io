@@ -4,7 +4,7 @@ title: "Dịch Vụ Visa Du Lịch Đài Loan"
 meta-title: "Visa Du Lịch Đài Loan - Hùng Vĩ Tourist"
 # subtitle: "Thủ tục nhanh chóng, tỷ lệ đậu cao"
 bigimg:
-  - "/img/visa/business/avatar-visa.jpg"
+  - "/img/tours/international/cong-dai-loan.jpg"
 image: "/img/visa/business/avatar-visa.jpg"
 tags: visa, du lịch, Nhật Bản, Hùng Vĩ Tourist, dịch vụ
 category: visa#travel

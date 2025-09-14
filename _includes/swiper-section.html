@@ -73,7 +73,7 @@
                     <i class="fa-solid fa-sack-dollar"></i><span class="old-price"> {{ price | format_price }}</span><br>
                     <i class="fa-solid fa-sack-dollar"></i><span class="new-price"> {{ final_price | format_price }}</span>
                     {% else %}
-                    <i class="fa-solid fa-sack-dollar"></i> {{ post.price }}
+                    <i class="fa-solid fa-sack-dollar"></i><span class="new-price"> {{ final_price | format_price }}</span>
                     {% endif %}
                     {% endif %}
                   </div>

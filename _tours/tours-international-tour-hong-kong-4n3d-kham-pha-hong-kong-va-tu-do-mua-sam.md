@@ -12,7 +12,7 @@ transport: "✈️ + 🚌"
 location: Hồng Kông
 duration: "4N3Đ"
 discount: 10
-price: "33.060.000"
+price: "29.060.000"
 # author: "BangNguyen"
 # comments: true
 ---

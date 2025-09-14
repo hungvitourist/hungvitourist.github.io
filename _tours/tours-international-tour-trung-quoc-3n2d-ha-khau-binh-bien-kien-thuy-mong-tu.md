@@ -11,7 +11,7 @@ transport: "✈️ + 🚌"
 location: Hà Khẩu – Bình Biên
 duration: 3N2Đ
 discount: 25
-price: 35.060.000
+price: 45.060.000
 ---
 
 # ✈️ Tour Du Lịch Đài Loan 3N2Đ: Khám Phá Đảo Ngọc Xinh Đẹp  

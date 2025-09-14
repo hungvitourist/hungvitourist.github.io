@@ -12,7 +12,7 @@ transport: "🚌"
 location: Vịnh Vĩnh Hy
 duration: 3N2Đ
 discount: 15
-price: 12.060.000
+price: 3.060.000
 # author: "BangNguyen"
 # comments: true
 ---

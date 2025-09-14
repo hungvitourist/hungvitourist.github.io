@@ -12,7 +12,7 @@ transport: "✈️"
 location: TOKYO – PHÚ SĨ
 duration: "5N4Đ"
 discount: 25
-price: "53.060.000"
+price: "63.060.000"
 # author: "BangNguyen"
 # comments: true
 ---

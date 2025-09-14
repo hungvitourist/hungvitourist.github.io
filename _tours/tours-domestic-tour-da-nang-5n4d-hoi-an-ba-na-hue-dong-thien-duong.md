@@ -12,7 +12,7 @@ transport: "🚌"
 location: Hội An - Bà Nà
 duration: 3N2Đ
 discount: 15
-price: 16.060.000
+price: 7.060.000
 # author: "BangNguyen"
 # comments: true
 ---

@@ -12,7 +12,7 @@ transport: "✈️ + 🚌"
 location: Đảo Phú Quốc
 duration: 3N2Đ
 discount: 15
-price: 10.060.000
+price: 8.060.000
 # author: "BangNguyen"
 # comments: true
 ---

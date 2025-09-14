@@ -9,3 +9,6 @@ _site/
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+# ignore generated markdown posts in _data/_posts
+_data/_posts/

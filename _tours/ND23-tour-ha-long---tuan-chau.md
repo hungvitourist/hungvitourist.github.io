@@ -14,7 +14,7 @@ duration: 2N1Đ
 discount: 8
 price: 3.200.000
 description: "## ✈️ Tour Hạ Long - Tuần Châu"
-keywords: "Hạ Long - Tuần Châu luôn là điểm đến mơ mộng cho những ai muốn “đổi gió” cuối tuần. Tour 2N1Đ này thiết kế khoa học để bạn vừa được trải nghiệm vẻ đẹp kỳ vĩ của vịnh Hạ Long bằng du thuyền, vừa có thời gian thư giãn, thưởng thức ẩm thực và khám phá đảoTuần Châu sôi động. 🛥️🌊"
+keywords: "Hạ Long - Tuần Châu luôn là điểm đến mơ mộng cho những ai muốn đổi gió cuối tuần. Tour 2N1Đ này thiết kế khoa học để bạn vừa được trải nghiệm vẻ đẹp kỳ vĩ của vịnh Hạ Long bằng du thuyền, vừa có thời gian thư giãn, thưởng thức ẩm thực và khám phá đảoTuần Châu sôi động. 🛥️🌊"
 ---
 
 ## ✈️ Tour Hạ Long - Tuần Châu 

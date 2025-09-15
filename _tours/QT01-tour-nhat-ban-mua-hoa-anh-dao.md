@@ -14,7 +14,7 @@ duration: 5N4Đ
 discount: 8
 price: 32.900.000
 description: "- 🆔 Mã tour: **QT01**"
-keywords: "Khám phá tuyến Tokyo - Kyoto - Osaka trong 5 ngày 4 đêm là hành trình hoàn hảo dành cho những ai muốn cảm nhận trọn vẹn nhịp sống hiện đại pha lẫn truyền thống của Nhật Bản 🇯🇵. Từ những ngã tư sầm uất ở Shibuya, đến những con phố cổ thanh bình ở Gion, mỗi khoảnh khắc đều là cơ hội để chụp ảnh, thưởng thức ẩm thực và sưu tầm kỷ niệm đáng nhớ.  "
+keywords: "Khám phá tuyến Tokyo - Kyoto - Osaka trong 5 ngày 4 đêm là hành trình hoàn hảo dành cho những ai muốn cảm nhận trọn vẹn nhịp sống hiện đại pha lẫn truyền thống của Nhật Bản 🇯🇵. Từ những ngã tư sầm uất ở Shibuya, đến những con phố cổ thanh bình ở Gion, mỗi khoảnh khắc đều là cơ hội để chụp ảnh, thưởng thức ẩm thực và sưu tầm kỷ niệm đáng nhớ."
 ---
 
 ## ✈️ Tour Nhật Bản Mùa Hoa Anh Đào

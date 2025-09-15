@@ -14,7 +14,7 @@ duration: 3N2Đ
 discount: 9
 price: 5.400.000
 description: "## ✈️ Tour Lý Sơn - Đảo Tỏi"
-keywords: "Lý Sơn – hòn đảo nhỏ nổi tiếng với tên gọi 'Đảo Tỏi' không chỉ có những cánh đồng tỏi phủ trắng mà còn mang trong mình vẻ đẹp hoang sơ của núi lửa cổ, bãi đá hình thù kỳ lạ và biển xanh trong veo. 🌊 Chuyến đi 3N2Đ này được thiết kế dành cho những ai muốn khám phá trọn vẹn: từ cảnh hoàng hôn huyền ảo ở Hang Câu đến ngắm bình minh trên đỉnh Thới Lới, thưởng thức hải sản tươi và những câu chuyện văn hóa địa phương. 🧄"
+keywords: "Lý Sơn – hòn đảo nhỏ nổi tiếng với tên gọi Đảo Tỏi không chỉ có những cánh đồng tỏi phủ trắng mà còn mang trong mình vẻ đẹp hoang sơ của núi lửa cổ, bãi đá hình thù kỳ lạ và biển xanh trong veo. 🌊 Chuyến đi 3N2Đ này được thiết kế dành cho những ai muốn khám phá trọn vẹn: từ cảnh hoàng hôn huyền ảo ở Hang Câu đến ngắm bình minh trên đỉnh Thới Lới, thưởng thức hải sản tươi và những câu chuyện văn hóa địa phương. 🧄"
 ---
 
 ## ✈️ Tour Lý Sơn - Đảo Tỏi 

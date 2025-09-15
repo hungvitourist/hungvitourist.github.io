@@ -14,7 +14,7 @@ duration: 2N1Đ
 discount: 6
 price: 2.900.000
 description: "## ✈️ Tour Cần Giờ - Đảo Khỉ"
-keywords: "Cần Giờ — từng được mệnh danh là “lá phổi xanh” ngay sát Sài Gòn — là điểm đến hoàn hảo cho chuyến nghỉ cuối tuần ngắn ngày. Bạn sẽ được hòa mình vào rừng ngập mặn Vàm Sát, chiêm ngưỡng hệ sinh thái hoang sơ, gặp đàn khỉ tinh nghịch trên Đảo Khỉ và tận hưởng không khí trong lành, khác hẳn nhịp sống ồn ào thành phố. 🌿🐒"
+keywords: "Cần Giờ — từng được mệnh danh là lá phổi xanh ngay sát Sài Gòn — là điểm đến hoàn hảo cho chuyến nghỉ cuối tuần ngắn ngày. Bạn sẽ được hòa mình vào rừng ngập mặn Vàm Sát, chiêm ngưỡng hệ sinh thái hoang sơ, gặp đàn khỉ tinh nghịch trên Đảo Khỉ và tận hưởng không khí trong lành, khác hẳn nhịp sống ồn ào thành phố. 🌿🐒"
 ---
 
 ## ✈️ Tour Cần Giờ - Đảo Khỉ 

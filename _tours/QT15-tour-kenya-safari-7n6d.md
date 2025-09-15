@@ -14,7 +14,7 @@ duration: 7N6Đ
 discount: 20
 price: 56.900.000
 description: "- 🆔 Mã tour: **QT15**"
-keywords: "Trải nghiệm cuộc phiêu lưu hoang dã tại Kenya — nơi đồng cỏ Maasai Mara rộng lớn gặp gỡ vẻ hùng vĩ của núi Kilimanjaro tại Amboseli. Hành trình 7 ngày đưa bạn từ nhịp sống sôi động của Nairobi đến những cuộc săn ảnh hoang dã, ngắm “Big Five” và chiêm ngưỡng hoàng hôn rực rỡ trên savanna. 🌍📸"
+keywords: "Trải nghiệm cuộc phiêu lưu hoang dã tại Kenya — nơi đồng cỏ Maasai Mara rộng lớn gặp gỡ vẻ hùng vĩ của núi Kilimanjaro tại Amboseli. Hành trình 7 ngày đưa bạn từ nhịp sống sôi động của Nairobi đến những cuộc săn ảnh hoang dã, ngắm Big Five và chiêm ngưỡng hoàng hôn rực rỡ trên savanna. 🌍📸"
 ---
 
 ## ✈️ Tour Kenya Safari 7N6Đ

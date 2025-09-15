@@ -14,7 +14,7 @@ duration: 2N1Đ
 discount: 7
 price: 2.500.000
 description: "## ✈️ Tour Mũi Né - Đồi Cát Bay"
-keywords: "Mũi Né - Đồi Cát Bay là điểm đến lý tưởng cho những ai muốn đổi gió cuối tuần: biển xanh, cồn cát mênh mông và bình minh rực rỡ trên chân đồi. 🌊🏜️ Chỉ trong 2N1Đ, bạn sẽ được trải nghiệm cảm giác trượt trên cát, ngắm hoàng hôn tím trên bờ biển và thưởng thức hải sản tươi ngon từ làng chài địa phương. Đây là hành trình ngắn nhưng đầy cảm xúc, phù hợp cho cặp đôi, gia đình hoặc nhóm bạn trẻ muốn “refresh” tinh thần. ✨"
+keywords: "Mũi Né - Đồi Cát Bay là điểm đến lý tưởng cho những ai muốn đổi gió cuối tuần: biển xanh, cồn cát mênh mông và bình minh rực rỡ trên chân đồi. 🌊🏜️ Chỉ trong 2N1Đ, bạn sẽ được trải nghiệm cảm giác trượt trên cát, ngắm hoàng hôn tím trên bờ biển và thưởng thức hải sản tươi ngon từ làng chài địa phương. Đây là hành trình ngắn nhưng đầy cảm xúc, phù hợp cho cặp đôi, gia đình hoặc nhóm bạn trẻ muốn refresh tinh thần. ✨"
 ---
 
 ## ✈️ Tour Mũi Né - Đồi Cát Bay 

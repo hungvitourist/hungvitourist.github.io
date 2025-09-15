@@ -14,7 +14,7 @@ duration: 3N2Đ
 discount: 5
 price: 3.990.000
 description: "## ✈️ Tour Phú Quốc Nghỉ Dưỡng 3N2Đ"
-keywords: "Phú Quốc – thiên đường biển xanh, cát trắng và nắng vàng, là điểm đến hoàn hảo để “sạc” lại năng lượng sau những ngày bận rộn. Tour Phú Quốc nghỉ dưỡng 3N2Đ dành cho bạn trải nghiệm thư giãn tại resort cao cấp, tắm biển tại những bãi nổi tiếng như Bãi Sao, khám phá làng chài và thưởng thức hải sản tươi ngon. 🏖️🌊"
+keywords: "Phú Quốc – thiên đường biển xanh, cát trắng và nắng vàng, là điểm đến hoàn hảo để sạc lại năng lượng sau những ngày bận rộn. Tour Phú Quốc nghỉ dưỡng 3N2Đ dành cho bạn trải nghiệm thư giãn tại resort cao cấp, tắm biển tại những bãi nổi tiếng như Bãi Sao, khám phá làng chài và thưởng thức hải sản tươi ngon. 🏖️🌊"
 ---
 
 ## ✈️ Tour Phú Quốc Nghỉ Dưỡng 3N2Đ 

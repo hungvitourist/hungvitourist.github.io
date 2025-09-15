@@ -14,7 +14,7 @@ duration: 4N3Đ
 discount: 10
 price: 6.900.000
 description: "## ✈️ Tour Sapa - Fansipan"
-keywords: "Khám phá Sapa - Fansipan trong 4 ngày 3 đêm là hành trình dành cho những ai yêu thiên nhiên, săn mây và muốn trải nghiệm văn hóa bản địa. Bạn sẽ được đón bình minh trên các thửa ruộng bậc thang, hít thở không khí trong lành của núi rừng Tây Bắc và chiêm ngưỡng “nóc nhà Đông Dương” từ cáp treo Fansipan. 🏔️✨"
+keywords: "Khám phá Sapa - Fansipan trong 4 ngày 3 đêm là hành trình dành cho những ai yêu thiên nhiên, săn mây và muốn trải nghiệm văn hóa bản địa. Bạn sẽ được đón bình minh trên các thửa ruộng bậc thang, hít thở không khí trong lành của núi rừng Tây Bắc và chiêm ngưỡng nóc nhà Đông Dương từ cáp treo Fansipan. 🏔️✨"
 ---
 
 ## ✈️ Tour Sapa - Fansipan 

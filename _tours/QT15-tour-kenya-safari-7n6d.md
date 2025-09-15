@@ -13,62 +13,63 @@ location: Nairobi - Maasai Mara - Amboseli
 duration: 7N6Đ
 discount: 20
 price: 56.900.000
-description: "- 🆔 Mã tour: **QT15**"
-keywords: "Trải nghiệm cuộc phiêu lưu hoang dã tại Kenya — nơi đồng cỏ Maasai Mara rộng lớn gặp gỡ vẻ hùng vĩ của núi Kilimanjaro tại Amboseli. Hành trình 7 ngày đưa bạn từ nhịp sống sôi động của Nairobi đến những cuộc săn ảnh hoang dã, ngắm Big Five và chiêm ngưỡng hoàng hôn rực rỡ trên savanna. 🌍📸"
+description: "## ✈️ Tour Kenya Safari 7N6Đ"
 ---
 
-## ✈️ Tour Kenya Safari 7N6Đ
+## ✈️ Tour Kenya Safari 7N6Đ 
 
+- 🆔 Mã tour: **QT15**
+- 📍 Địa điểm: **Nairobi - Maasai Mara - Amboseli**
 - 🚗 Phương tiện: **✈️ + 🚙**
 - 💰 Giá tour gốc: **56.900.000 VND**
 - 🔥 Giảm giá: **20%**
 - 💵 Giá khuyến mãi: **45.520.000 VND**
 - ⏳ Thời gian du lịch: **7N6Đ**
 
+
 ## Giới thiệu
-Trải nghiệm cuộc phiêu lưu hoang dã tại Kenya — nơi đồng cỏ Maasai Mara rộng lớn gặp gỡ vẻ hùng vĩ của núi Kilimanjaro tại Amboseli. Hành trình 7 ngày đưa bạn từ nhịp sống sôi động của Nairobi đến những cuộc săn ảnh hoang dã, ngắm “Big Five” và chiêm ngưỡng hoàng hôn rực rỡ trên savanna. 🌍📸
+Khám phá Kenya — nơi cuộc sống hoang dã lên tiếng và bình minh nhuộm đỏ savanna. 🌅 Tour Kenya Safari 7N6Đ đưa bạn từ nhịp sống sôi động của Nairobi đến trái tim thiên nhiên tại Maasai Mara và Amboseli, nơi bạn có cơ hội quan sát "Big Five" trong môi trường tự nhiên của chúng. Mỗi chặng đều được thiết kế để tối ưu hóa thời gian săn ảnh, trải nghiệm văn hoá bản địa và nghỉ dưỡng thoải mái.
 
-Mỗi ngày là một khoảnh khắc đáng nhớ: game drive lúc bình minh, buổi chiều tìm đàn linh dương và buổi tối thư giãn tại lodge/ tent camp ấm cúng. Bạn sẽ có cơ hội tiếp xúc văn hóa Maasai, thưởng thức ẩm thực địa phương và chụp những bức ảnh hoang dã không thể quên. 🐘🦁
+Trải nghiệm game drive buổi sáng/chiều, chuyến bay ngắm cảnh và lựa chọn khinh khí cầu trên Maasai Mara để ngắm đàn động vật di chuyển như một bức tranh sống động dưới ánh bình minh. 🐘🦁 Ngoài ra, bạn sẽ gặp gỡ người Maasai, tìm hiểu phong tục truyền thống và thưởng thức ẩm thực địa phương — tất cả được hướng dẫn bởi hướng dẫn viên giàu kinh nghiệm, cam kết an toàn và sự chân thật trong trải nghiệm.
 
-Hành trình được thiết kế hợp lý với phương tiện nội địa bằng máy bay và xe 4x4, hướng dẫn viên tiếng Anh bản địa giàu kinh nghiệm và dịch vụ an toàn, chu đáo. Thích hợp cho cặp đôi, gia đình hoặc nhóm bạn yêu thiên nhiên và nhiếp ảnh. ✨
-
-Sẵn sàng khám phá Kenya cùng chúng tôi? Số chỗ có hạn — đặt ngay để giữ mức giá khuyến mãi hấp dẫn! ☀️📞
+Hành trình phù hợp cả gia đình và nhóm bạn muốn một kỳ nghỉ thiên nhiên nhưng vẫn tiện nghi. 🧳 Resort, bữa ăn chuẩn quốc tế và xe 4x4 chuyên dụng đều đã sắp xếp sẵn để bạn tập trung tận hưởng khoảnh khắc. Đặt chỗ sớm để giữ giá khuyến mãi và chọn ngày khởi hành phù hợp — liên hệ ngay để được tư vấn chi tiết! ✨
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Đáp cánh tại Nairobi, làm thủ tục nhập cảnh, đón về khách sạn nghỉ ngơi.
-  🌞 Trưa: ➡️ Thưởng thức bữa trưa, tham quan Bảo tàng Quốc gia hoặc Karura Forest.
-  🌙 Tối: ➡️ Ăn tối chào mừng, briefing hành trình, nghỉ đêm tại Nairobi.
+  🌅 Sáng: ➡️ Đáp xuống Nairobi, làm thủ tục nhập cảnh ➡️ Xe đưa về khách sạn, nghỉ ngơi
+  🌞 Trưa: Thưởng thức bữa trưa tại nhà hàng địa phương
+  🌙 Tối: City tour nhẹ, ăn tối và briefing hành trình
 - Ngày 2:
-  🌅 Sáng: ➡️ Bay/di chuyển đến Maasai Mara, check-in camp/lodge.
-  🌞 Trưa: ➡️ Nghỉ ngơi, ăn trưa tại camp.
-  🌙 Tối: ➡️ Game drive hoàng hôn đầu tiên, ngắm thú về chuồng, đêm tại Maasai Mara.
+  🌅 Sáng: ➡️ Bay nội địa đến Maasai Mara ➡️ Nhận phòng lodge/camp
+  🌞 Trưa: Nghỉ ngơi, ăn trưa tại lodge
+  🌙 Tối: Game drive buổi tối, ngắm hoàng hôn trên savanna
 - Ngày 3:
-  🌅 Sáng: ➡️ Game drive lúc bình minh — săn ảnh sư tử, voi, báo.
-  🌞 Trưa: ➡️ Trở về camp, ăn trưa, có thể chọn tham gia hot air balloon (tùy chọn).
-  🌙 Tối: ➡️ Tham quan làng Maasai, giao lưu văn hóa, nghe kể chuyện bản địa.
+  🌅 Sáng: ➡️ Game drive buổi sáng săn "Big Five" ➡️ Trở về lodge, brunch
+  🌞 Trưa: Thư giãn, chụp ảnh tại viewpoint
+  🌙 Tối: Tiệc nướng BBQ (tùy lịch), giao lưu văn hóa Maasai
 - Ngày 4:
-  🌅 Sáng: ➡️ Game drive sáng sớm, theo dõi động vật săn mồi.
-  🌞 Trưa: ➡️ Trả phòng, di chuyển về Nairobi (hoặc bay nối chuyến).
-  🌙 Tối: ➡️ Đi tiếp tới Amboseli, nhận phòng, nghỉ ngơi.
+  🌅 Sáng: ➡️ Tùy chọn khinh khí cầu (booking trước) ➡️ Game drive tiếp tục
+  🌞 Trưa: Tham quan nông trại hoặc bảo tồn địa phương
+  🌙 Tối: Nghỉ dưỡng, tự do tại camp
 - Ngày 5:
-  🌅 Sáng: ➡️ Game drive sớm tại Amboseli, view núi Kilimanjaro (nếu thời tiết cho phép).
-  🌞 Trưa: ➡️ Tham quan khu bảo tồn, picnic giữa thiên nhiên.
-  🌙 Tối: ➡️ Thư giãn tại lodge, quan sát chim và động vật nhỏ.
+  🌅 Sáng: ➡️ Rời Maasai Mara, di chuyển về Amboseli (có thể bay hoặc đường bộ) ➡️ Nhận phòng
+  🌞 Trưa: Ăn trưa và nghỉ ngơi tại lodge
+  🌙 Tối: Ngắm hoàng hôn với view Núi Kilimanjaro
 - Ngày 6:
-  🌅 Sáng: ➡️ Game drive và chụp ảnh hoàng hôn với background Kilimanjaro.
-  🌞 Trưa: ➡️ Thăm Trung tâm Văn hóa, tìm hiểu cuộc sống người Maasai vùng Amboseli.
-  🌙 Tối: ➡️ Buổi tối tự do, thưởng thức ẩm thực địa phương, nghỉ đêm.
+  🌅 Sáng: ➡️ Game drive tại Amboseli, chụp ảnh voi với Kilimanjaro làm nền
+  🌞 Trưa: Tham quan trung tâm bảo tồn, ăn trưa
+  🌙 Tối: Dạo làng Maasai gần đó, trải nghiệm văn hóa
 - Ngày 7:
-  🌅 Sáng: ➡️ Trả phòng, chuyển về Nairobi.
-  🌞 Trưa: ➡️ Nghỉ ngơi, mua sắm quà lưu niệm.
-  🌙 Tối: ➡️ Ra sân bay đáp chuyến bay về Việt Nam/tiếp tục hành trình.
+  🌅 Sáng: ➡️ Buổi sáng tự do, check-out ➡️ Trở về Nairobi bằng xe/flight
+  🌞 Trưa: Mua sắm quà lưu niệm, ăn trưa
+  🌙 Tối: Ra sân bay, kết thúc tour và khởi hành về Việt Nam
 
 ## Ưu đãi
-Chương trình giảm giá đặc biệt: GIẢM 20% — chỉ còn **45.520.000 VND** (từ giá gốc 56.900.000 VND). Nhanh tay đặt chỗ để hưởng ngay mức giá hấp dẫn này cùng dịch vụ trọn gói, chỗ giới hạn!
+🔥 Ưu đãi mùa này: Giảm ngay 20% so với giá gốc.  
+💵 Giá khuyến mãi đã áp dụng: **45.520.000 VND** — tiết kiệm rõ rệt cho hành trình safari đẳng cấp, bao gồm lưu trú, một số bữa ăn và game drive theo chương trình. Nhanh tay đặt chỗ để giữ mức giá hấp dẫn!
 
 ## SEO Keywords
-tour Kenya, safari Maasai Mara, Amboseli Kilimanjaro, tour Nairobi, du lịch châu Phi
+tour Kenya, safari Maasai Mara, du lịch Kenya, Amboseli Safari, safari châu Phi
 
 ---
 

@@ -13,12 +13,13 @@ location: Lima - Cusco - Machu Picchu
 duration: 8N7Đ
 discount: 15
 price: 69.900.000
-description: "- 🆔 Mã tour: **QT18**"
-keywords: "Khám phá Peru — hành trình từ thủ đô năng động Lima đến cao nguyên huyền thoại Cusco và đỉnh cao là Machu Picchu — nơi lịch sử Inca hòa quyện với thiên nhiên hùng vĩ. Bạn sẽ được đắm mình trong những phố cổ rợp bóng cây, chợ truyền thống đầy màu sắc và những thung lũng linh thiêng với cảnh quan ngoạn mục. 🌄✈️"
+description: "## ✈️ Tour Peru 8N7Đ: Lima - Cusco - Machu Picchu"
 ---
 
-## ✈️ Tour Peru 8N7Đ: Lima - Cusco - Machu Picchu
+## ✈️ Tour Peru 8N7Đ: Lima - Cusco - Machu Picchu 
 
+- 🆔 Mã tour: **QT18**
+- 📍 Địa điểm: **Lima - Cusco - Machu Picchu**
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **69.900.000 VND**
 - 🔥 Giảm giá: **15%**
@@ -26,51 +27,59 @@ keywords: "Khám phá Peru — hành trình từ thủ đô năng động Lima �
 - ⏳ Thời gian du lịch: **8N7Đ**
 
 ## Giới thiệu
-Khám phá Peru — hành trình từ thủ đô năng động Lima đến cao nguyên huyền thoại Cusco và đỉnh cao là Machu Picchu — nơi lịch sử Inca hòa quyện với thiên nhiên hùng vĩ. Bạn sẽ được đắm mình trong những phố cổ rợp bóng cây, chợ truyền thống đầy màu sắc và những thung lũng linh thiêng với cảnh quan ngoạn mục. 🌄✈️
+Peru — một kho tàng lịch sử, văn hóa và thiên nhiên hùng vĩ, từ thủ đô ven biển Lima đến trái tim Andes là Cusco và kỳ quan Machu Picchu. Hành trình 8N7Đ này thiết kế dành cho những ai khao khát khám phá di sản Inca, thưởng thức ẩm thực độc đáo và lưu giữ những bức ảnh để đời tại một trong bảy kỳ quan thế giới 🌄📸.
 
-Trong 8 ngày 7 đêm, hành trình cân bằng giữa trải nghiệm văn hóa, thư giãn và chinh phục di sản. Từ bữa sáng bên bờ Thái Bình Dương ở Lima đến bình minh trên Machu Picchu, mỗi khoảnh khắc đều là cơ hội chụp ảnh và tạo kỷ niệm không thể nào quên. 📸🏞️
+Bạn sẽ đi nhẹ nhàng, tận hưởng chuyến bay nội địa nhanh chóng, di chuyển bằng ôtô qua thung lũng thiêng Sacred Valley và trải nghiệm chuyến tàu ngoạn mục tới Aguas Calientes. Hướng dẫn viên bản địa giàu kinh nghiệm, khách sạn 3–4 sao thoải mái, lịch trình cân bằng giữa tham quan và thời gian nghỉ ngơi để thích nghi với độ cao ⛰️.
 
-Tour được thiết kế dành cho du khách Việt: lịch trình hợp lý để thích nghi độ cao, hướng dẫn tiếng Việt/Anh bản địa, và dịch vụ chu đáo để bạn an tâm tận hưởng. Nhanh tay giữ chỗ để cùng chúng tôi khám phá kỳ quan Nam Mỹ này — số chỗ có hạn! Đặt ngay hoặc liên hệ để nhận tư vấn chi tiết. 📲✨
+Từ hoàng hôn ở Miraflores đến bình minh trên Machu Picchu, mỗi ngày đều mang đến cảm xúc khác biệt: lịch sử, nét đẹp thiên nhiên và văn hóa đặc sắc. Đây là tour phù hợp cho cả gia đình, nhóm bạn và cặp đôi muốn một chuyến đi trọn vẹn, an toàn và đầy cảm hứng ✨. Đặt chỗ sớm để giữ mức giá ưu đãi và suất tàu đẹp nhất — liên hệ ngay để lên lịch chuyến đi mơ ước của bạn! 📞✉️
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay đến Lima ➡️ Làm thủ tục nhập cảnh ➡️ Nhận hành lý và di chuyển về khách sạn  
-  🌞 Trưa: Thưởng thức ẩm thực địa phương, nghỉ ngơi nhẹ  
-  🌙 Tối: Dạo phố Miraflores, ngắm hoàng hôn bên bờ biển
+  🌅 Sáng: ➡️ Khởi hành từ Việt Nam (hướng dẫn chi tiết xuất phát)  
+  🌞 Trưa: ➡️ Đến Lima, làm thủ tục nhập cảnh, nhận phòng khách sạn  
+  🌙 Tối: ➡️ Dạo Miraflores, ăn tối thử ceviche đặc trưng Peru 🍤
+
 - Ngày 2:
-  🌅 Sáng: ➡️ Tham quan Plaza Mayor ➡️ Nhà thờ Lima ➡️ Viếng khu Barranco nghệ thuật  
-  🌞 Trưa: Trải nghiệm ẩm thực fusion Peru (ceviche)  
-  🌙 Tối: Bay nội địa tới Cusco, nhận phòng và nghỉ ngơi để thích nghi
+  🌅 Sáng: ➡️ Tham quan Trung tâm lịch sử: Plaza Mayor, Nhà thờ, Tu viện San Francisco  
+  🌞 Trưa: ➡️ Tham quan Bảo tàng Larco hoặc khu nghệ thuật Barranco  
+  🌙 Tối: ➡️ Bay nội địa đến Cusco, nhận phòng, nghỉ ngơi để thích nghi độ cao
+
 - Ngày 3:
-  🌅 Sáng: ➡️ Tham quan Plaza de Armas Cusco ➡️ Thăm Qorikancha (Đền Mặt Trời)  
-  🌞 Trưa: Thăm chợ San Pedro, trải nghiệm mua sắm đồ thủ công  
-  🌙 Tối: Thưởng thức chương trình văn hóa truyền thống Inca
+  🌅 Sáng: ➡️ Di chuyển đến Sacred Valley, tham quan Pisac và chợ thủ công  
+  🌞 Trưa: ➡️ Thăm ruộng bậc thang Moray và mỏ muối Maras (tùy chọn)  
+  🌙 Tối: ➡️ Nghỉ tại Ollantaytambo, chuẩn bị cho hành trình tàu
+
 - Ngày 4:
-  🌅 Sáng: ➡️ Khởi hành đi Sacred Valley ➡️ Tham quan Pisac và chợ địa phương  
-  🌞 Trưa: Thăm ruộng bậc thang & di tích tại Ollantaytambo  
-  🌙 Tối: Nghỉ đêm tại Sacred Valley, chuẩn bị cho hành trình lên tàu
+  🌅 Sáng: ➡️ Đi tàu từ Ollantaytambo đến Aguas Calientes, nhận phòng  
+  🌞 Trưa: ➡️ Tham quan thị trấn nhỏ, thư giãn tại suối nước nóng (tùy chọn)  
+  🌙 Tối: ➡️ Nghỉ sớm để dậy sớm khám phá Machu Picchu
+
 - Ngày 5:
-  🌅 Sáng: ➡️ Tham quan Moray và Muối Maras (tuỳ chọn) ➡️ Trở về Ollantaytambo  
-  🌞 Trưa: Lên tàu tới Aguas Calientes (thị trấn dưới chân Machu Picchu)  
-  🌙 Tối: Nghỉ ngơi, chuẩn bị sớm cho ngày khám phá
+  🌅 Sáng: ➡️ Lên bus sớm, hướng dẫn viên đưa đoàn tham quan Machu Picchu (tour có hướng dẫn)  
+  🌞 Trưa: ➡️ Thời gian tự do chụp ảnh, khám phá các góc di tích, chọn thêm leo Huayna Picchu (nếu có vé)  
+  🌙 Tối: ➡️ Tàu trở về Cusco, nhận phòng, nghỉ ngơi
+
 - Ngày 6:
-  🌅 Sáng: ➡️ Lên xe bus sớm ➡️ Tham quan Machu Picchu lúc bình minh ➡️ Hướng dẫn khám phá khu di tích  
-  🌞 Trưa: Tham quan thêm, chụp hình, trở về Aguas Calientes  
-  🌙 Tối: Tàu trở lại Cusco, nghỉ ngơi trong thành phố
+  🌅 Sáng: ➡️ Tham quan Cusco: Qoricancha, khu San Blas, Quảng trường vũ hội  
+  🌞 Trưa: ➡️ Thưởng thức ẩm thực địa phương, mua sắm quà lưu niệm  
+  🌙 Tối: ➡️ Tự do khám phá ẩm thực đêm tại Cusco
+
 - Ngày 7:
-  🌅 Sáng: ➡️ Buổi sáng tự do khám phá Cusco hoặc tham gia tour phụ (Rainbow Mountain/Valle Sagrado)  
-  🌞 Trưa: Thưởng thức ẩm thực tại nhà hàng địa phương  
-  🌙 Tối: Dạo chợ đêm, mua quà lưu niệm, chuẩn bị hành lý
+  🌅 Sáng: ➡️ Tùy chọn: Excursion đến Rainbow Mountain hoặc ngày nghỉ thư giãn tại Cusco  
+  🌞 Trưa: ➡️ Chuẩn bị hành lý, trả phòng  
+  🌙 Tối: ➡️ Bay về Lima, ăn tối chia tay, nghỉ đêm tại Lima
+
 - Ngày 8:
-  🌅 Sáng: ➡️ Bay về Lima hoặc nối chuyến quốc tế  
-  🌞 Trưa: Hoàn tất thủ tục, thời gian tự do cuối cùng  
-  🌙 Tối: Kết thúc chương trình — chia tay và trở về Việt Nam
+  🌅 Sáng: ➡️ Thời gian tự do mua sắm, tham quan ngắn tùy chọn  
+  🌞 Trưa: ➡️ Ra sân bay, làm thủ tục về Việt Nam  
+  🌙 Tối: ➡️ Kết thúc hành trình — hẹn gặp lại ở chuyến đi tiếp theo!
 
 ## Ưu đãi
-Hiện có GIẢM GIÁ 15% cho tour QT18 — giá gốc 69.900.000 VND, giá khuyến mãi chỉ còn 59.415.000 VND. Nhanh tay đặt để tiết kiệm 10.485.000 VND và giữ chỗ trong nhóm khởi hành giới hạn! 🔥💸
+🔥 Giảm giá đặc biệt: **15%** — từ giá tour gốc **69.900.000 VND** chỉ còn **59.415.000 VND**.  
+Ưu đãi có số lượng có hạn — đặt sớm để giữ chỗ, chọn lịch tàu đẹp và hưởng dịch vụ trọn gói tốt nhất. Liên hệ ngay để nhận tư vấn chi tiết và thanh toán trước bảo đảm chỗ!
 
 ## SEO Keywords
-tour Peru, Machu Picchu, du lịch Cusco, tour Lima Peru, Sacred Valley
+Tour Peru, Machu Picchu, Du lịch Peru, Tour Cusco, Tour Lima
 
 ---
 

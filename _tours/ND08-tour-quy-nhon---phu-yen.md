@@ -14,7 +14,6 @@ duration: 4N3Đ
 discount: 9
 price: 5.900.000
 description: "## ✈️ Tour Quy Nhơn - Phú Yên"
-keywords: "Khám phá hành trình Quy Nhơn - Phú Yên 4N3Đ là lời mời dành cho những ai yêu biển, thích chụp ảnh và muốn tìm về nhịp sống thanh bình miền Trung. Từ bờ cát vàng của Kỳ Co, vách đá hùng vĩ Eo Gió đến ghềnh đá hình tổ ong Gành Đá Đĩa, mỗi điểm đến đều mang vẻ hoang sơ, ánh sáng tuyệt đẹp cho những bức ảnh đáng nhớ. 🏖️📸"
 ---
 
 ## ✈️ Tour Quy Nhơn - Phú Yên 
@@ -28,40 +27,38 @@ keywords: "Khám phá hành trình Quy Nhơn - Phú Yên 4N3Đ là lời mời d
 - ⏳ Thời gian du lịch: **4N3Đ**
 
 ## Giới thiệu
-Khám phá hành trình Quy Nhơn - Phú Yên 4N3Đ là lời mời dành cho những ai yêu biển, thích chụp ảnh và muốn tìm về nhịp sống thanh bình miền Trung. Từ bờ cát vàng của Kỳ Co, vách đá hùng vĩ Eo Gió đến ghềnh đá hình tổ ong Gành Đá Đĩa, mỗi điểm đến đều mang vẻ hoang sơ, ánh sáng tuyệt đẹp cho những bức ảnh đáng nhớ. 🏖️📸
+Khám phá Quy Nhơn - Phú Yên trong 4 ngày 3 đêm là hành trình của những bãi biển hoang sơ, vách đá kỳ vĩ và nền ẩm thực miền Trung đậm đà. Bạn sẽ lắng nghe tiếng sóng vỗ ở Eo Gió, thả mình dưới nắng vàng tại Kỳ Co, và chiêm ngưỡng Gành Đá Đĩa – kỳ quan thiên nhiên độc đáo của vùng đất Phú Yên 🌊🏝️. Hành trình kết hợp giữa trải nghiệm biển đảo, văn hóa địa phương và những góc sống ảo nên thơ, phù hợp cả nhóm bạn và gia đình.
 
-Bạn sẽ được trải nghiệm đi thuyền ra đảo Hòn Khô, lặn ngắm san hô, thưởng thức hải sản tươi sống và hòa mình vào văn hóa địa phương ấm áp. Các bữa ăn, phương tiện và hướng dẫn viên địa phương chuyên nghiệp sẽ đảm bảo hành trình thoải mái, an toàn. 🚤🥘
+Mỗi ngày đều có điểm nhấn khác nhau: bình minh trên Mũi Đại Lãnh, hoàng hôn ở Đầm Ô Loan, khám phá tháp Chăm và nhà thờ cổ Mằng Lăng. Bạn sẽ được hướng dẫn tận tình, di chuyển thuận tiện bằng máy bay + xe du lịch, ăn uống thử đặc sản địa phương như bánh hỏi cháo lòng, hải sản tươi ngon 🦀🍤. Lịch trình cân bằng giữa tham quan và thời gian tự do để bạn thư giãn hoặc khám phá theo ý muốn.
 
-Hành trình phù hợp với nhóm bạn, gia đình hoặc cặp đôi muốn nghỉ dưỡng ngắn ngày nhưng vẫn khám phá được nhiều điểm nổi bật. Với lịch trình hợp lý, thời gian di chuyển tối ưu, bạn sẽ có nhiều thời gian tắm biển, ngắm bình minh và hoàng hôn. 🌅
-
-Nhanh tay đặt chỗ để tận hưởng giá khuyến mãi và chụp lại những khoảnh khắc biển xanh nắng vàng cùng người thân. Đặt tour ngay để giữ chỗ và được tư vấn chi tiết! ✨
+Đừng bỏ lỡ cơ hội trải nghiệm vùng đất “hoa vàng trên cỏ xanh” này với mức giá ưu đãi hấp dẫn. Hãy đặt chỗ sớm để giữ hành trình và nhận thêm dịch vụ tốt nhất từ chúng tôi 📞✨
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Đón sân bay/ga, di chuyển về khách sạn Quy Nhơn ➡️ Nhận phòng, nghỉ ngơi nhẹ  
-  🌞 Trưa: Tham quan Tháp Đôi, ăn trưa đặc sản địa phương  
-  🌙 Tối: Dạo biển Quy Nhơn, ăn hải sản, khám phá chợ đêm/Quảng trường
+  🌅 Sáng: ➡️ Bay tới Quy Nhơn ➡️ Xe đón và nhận phòng khách sạn ➡️ Tham quan Tháp Đôi  
+  🌞 Trưa: ➡️ Ăn trưa đặc sản Quy Nhơn ➡️ Nghỉ ngơi tại khách sạn  
+  🌙 Tối: ➡️ Dạo biển Quy Nhơn, thưởng thức hải sản tại chợ đêm
 
 - Ngày 2:
-  🌅 Sáng: ➡️ Khởi hành đến Kỳ Co bằng ca nô ➡️ Tắm biển, lặn ngắm san hô ➡️ Chụp ảnh tại Eo Gió  
-  🌞 Trưa: Ăn trưa trên đảo hoặc nghỉ tại nhà hàng ven biển  
-  🌙 Tối: Về lại Quy Nhơn, thưởng thức BBQ hải sản hoặc tự do khám phá thành phố
+  🌅 Sáng: ➡️ Khởi hành tới Kỳ Co ➡️ Cano đưa ra đảo ➡️ Tắm biển, lặn ngắm san hô  
+  🌞 Trưa: ➡️ BBQ hải sản trên bãi biển hoặc ăn tại nhà hàng  
+  🌙 Tối: ➡️ Tham quan Eo Gió ngắm hoàng hôn ➡️ Về khách sạn nghỉ ngơi
 
 - Ngày 3:
-  🌅 Sáng: ➡️ Khởi hành đi Phú Yên, tham quan Gành Đá Đĩa ➡️ Dừng chân chụp ảnh tại Nhà thờ Mằng Lăng  
-  🌞 Trưa: Ăn trưa, tiếp tục đến Bãi Xép - địa điểm nổi tiếng bộ phim  
-  🌙 Tối: Nghỉ ngơi tại homestay/khách sạn Phú Yên, thưởng thức đặc sản địa phương
+  🌅 Sáng: ➡️ Di chuyển từ Quy Nhơn sang Phú Yên ➡️ Tham quan Nhà thờ Mằng Lăng  
+  🌞 Trưa: ➡️ Ăn trưa tại Phú Yên, thưởng thức đặc sản địa phương  
+  🌙 Tối: ➡️ Khám phá Gành Đá Đĩa lúc chiều muộn và ngắm hoàng hôn tại Đầm Ô Loan
 
 - Ngày 4:
-  🌅 Sáng: ➡️ Ngắm bình minh tại Mũi Đại Lãnh (Mũi Điện) ➡️ Tản bộ, chụp hình, thư giãn trên bãi biển  
-  🌞 Trưa: Về lại chỗ lưu trú, thu xếp hành lý, ăn trưa nhẹ  
-  🌙 Tối: Di chuyển ra sân bay/ga, kết thúc hành trình và chia tay đoàn
+  🌅 Sáng: ➡️ Dậy sớm ngắm bình minh tại Mũi Đại Lãnh (Mũi Điện) ➡️ Tham quan Hải đăng  
+  🌞 Trưa: ➡️ Trở về, ăn trưa và làm thủ tục trả phòng  
+  🌙 Tối: ➡️ Xe đưa ra sân bay, chuyến bay về điểm khởi hành — kết thúc tour
 
 ## Ưu đãi
-Chương trình đang có GIẢM NGAY 9% — chỉ còn **5.369.000 VND** (từ giá gốc 5.900.000 VND). Số lượng ưu đãi có hạn, đặt sớm để nhận mức giá tốt nhất và chọn được ngày khởi hành ưng ý! 🔥🎫
+Chương trình đang có GIẢM 9% — từ giá gốc 5.900.000 VND chỉ còn còn **5.369.000 VND**. Nhanh tay đặt tour ND08 để tận hưởng biển xanh, ăn hải sản tươi ngon và nhận ngay giá khuyến mãi hấp dẫn! 🔥✨
 
 ## SEO Keywords
-tour Quy Nhơn Phú Yên, Kỳ Co Eo Gió, du lịch Quy Nhơn, du lịch Phú Yên, tour biển miền Trung
+tour Quy Nhơn Phú Yên, du lịch Quy Nhơn Phú Yên, Eo Gió Kỳ Co, Gành Đá Đĩa Phú Yên, tour 4N3Đ Quy Nhơn
 
 ---
 

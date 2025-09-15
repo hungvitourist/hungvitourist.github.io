@@ -14,7 +14,6 @@ duration: 3N2Đ
 discount: 10
 price: 7.500.000
 description: "## ✈️ Tour Côn Đảo Thiêng Liêng"
-keywords: "Côn Đảo — mảnh đất thiêng liêng, nơi lịch sử hòa cùng biển trời xanh ngắt và bãi cát mịn màng. Hành trình 3N2Đ này dành cho bạn muốn vừa lắng lòng giữa không gian yên bình, vừa khám phá những di tích lịch sử đầy cảm xúc. ✨ Hít thật sâu không khí trong lành, nghe sóng vỗ và cảm nhận nhịp sống hiền hòa của người dân đảo — đó là trải nghiệm không thể thiếu khi đến Côn Đảo."
 ---
 
 ## ✈️ Tour Côn Đảo Thiêng Liêng 
@@ -27,32 +26,35 @@ keywords: "Côn Đảo — mảnh đất thiêng liêng, nơi lịch sử hòa c
 - 💵 Giá khuyến mãi: **6.750.000 VND**
 - ⏳ Thời gian du lịch: **3N2Đ**
 
+
 ## Giới thiệu
-Côn Đảo — mảnh đất thiêng liêng, nơi lịch sử hòa cùng biển trời xanh ngắt và bãi cát mịn màng. Hành trình 3N2Đ này dành cho bạn muốn vừa lắng lòng giữa không gian yên bình, vừa khám phá những di tích lịch sử đầy cảm xúc. ✨ Hít thật sâu không khí trong lành, nghe sóng vỗ và cảm nhận nhịp sống hiền hòa của người dân đảo — đó là trải nghiệm không thể thiếu khi đến Côn Đảo.
+Côn Đảo là điểm đến hòa quyện giữa thiên nhiên hoang sơ và lịch sử thiêng liêng — nơi bạn có thể vừa lắng lòng trước những di tích, vừa thả mình trong làn nước xanh mát và bãi cát mịn. Tour 3N2Đ này được thiết kế để bạn khám phá những di tích nổi tiếng như Nhà tù Côn Đảo, Nghĩa trang Hàng Dương, đồng thời tận hưởng trải nghiệm biển đặc sắc như lặn ngắm san hô và tìm hiểu về rùa biển. 🐢🌊
 
-Chương trình được thiết kế cân bằng giữa tham quan văn hóa — như nhà tù Côn Đảo, Nghĩa trang Hàng Dương — và hoạt động thư giãn: tắm biển Bãi Đầm Trầu, lặn ngắm san hô và ngắm hoàng hôn từ cầu cảng. 🐠🚤 Bạn sẽ được trải nghiệm ẩm thực hải sản tươi ngon, nghỉ dưỡng tại khách sạn tiện nghi, có hướng dẫn viên địa phương giàu kinh nghiệm đồng hành suốt chuyến đi.
+Chuyến đi phù hợp cho cả người yêu lịch sử, cặp đôi muốn tìm chốn bình yên, và nhóm bạn thích trải nghiệm khám phá. Lịch trình cân bằng giữa tham quan có hướng dẫn và thời gian tự do, giúp bạn vừa hiểu sâu về ký ức của nơi này, vừa có khoảnh khắc thư giãn tuyệt vời tại resort hoặc trên bãi biển. 🏖️✨
 
-Hãy để tâm hồn mình được hồi lại, tìm lại sự lắng đọng và lưu giữ những khoảnh khắc đẹp cùng người thân hoặc bạn bè. 📸 Đặt tour ngay để nhận ưu đãi và giữ chỗ cho hành trình khám phá Côn Đảo thiêng liêng này! ✨
+Hành trình ngắn gọn nhưng đầy cảm xúc, hướng dẫn viên am hiểu sẽ dẫn dắt bạn qua từng điểm đến, kể những câu chuyện ít ai biết về Côn Đảo để hành trình thêm ý nghĩa. Đặt tour ngay để giữ chỗ, trải nghiệm Côn Đảo thiêng liêng và nên thơ trong chuyến đi sắp tới! 📩✉️
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay từ TP lớn đến Côn Đảo ➡️ Đón và làm thủ tục nhận phòng khách sạn.
-  🌞 Trưa: ➡️ Ăn trưa với đặc sản hải sản ➡️ Nghỉ ngơi, tự do tắm biển.
-  🌙 Tối: ➡️ Tham quan cảng, dạo phố nhỏ ➡️ Dùng bữa tối và nghe giới thiệu lịch trình.
+  🌅 Sáng: ➡️ Bay đến Côn Đảo ➡️ Nhận phòng khách sạn/ resort ➡️ Nghỉ ngơi, ăn trưa nhẹ  
+  🌞 Trưa: ➡️ Tham quan Bảo tàng Côn Đảo ➡️ Đi bộ khám phá khu trung tâm, thưởng thức hải sản  
+  🌙 Tối: ➡️ Tham quan Cầu cảng 914 ngắm hoàng hôn ➡️ Dùng bữa tối, tự do dạo biển buổi tối
+
 - Ngày 2:
-  🌅 Sáng: ➡️ Tham quan Nhà tù Côn Đảo và Nghĩa trang Hàng Dương ➡️ Thắp hương tưởng niệm.
-  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương ➡️ Chuẩn bị cho tour lặn/snorkeling.
-  🌙 Tối: ➡️ Ngắm hoàng hôn trên cầu cảng ➡️ Thưởng thức hải sản nướng, giao lưu văn nghệ.
+  🌅 Sáng: ➡️ Xuất phát bằng tàu/tour ra Hòn Bảy Cạnh hoặc đảo lân cận ➡️ Lặn ngắm san hô, snorkeling, tìm hiểu về rùa biển (nếu theo mùa)  
+  🌞 Trưa: ➡️ Dùng cơm trưa trên tàu/đảo ➡️ Thư giãn trên bãi biển, chụp hình check-in  
+  🌙 Tối: ➡️ Về đất liền, tham quan Miếu Bà Phi Yến hoặc chùa địa phương ➡️ Thưởng thức đặc sản Côn Đảo, tự do khám phá đêm
+
 - Ngày 3:
-  🌅 Sáng: ➡️ Khám phá Vườn quốc gia Côn Đảo hoặc tham quan Hòn Bảy Cạnh (nếu điều kiện thời tiết cho phép).
-  🌞 Trưa: ➡️ Trả phòng, ăn trưa nhẹ ➡️ Mua quà lưu niệm.
-  🌙 Tối: ➡️ Ra sân bay, bay về điểm đón — kết thúc hành trình, chia tay và hẹn gặp lại.
+  🌅 Sáng: ➡️ Tham quan Nghĩa trang Hàng Dương, lắng nghe câu chuyện lịch sử và viếng mộ các Anh Hùng  
+  🌞 Trưa: ➡️ Tham quan khu di tích Nhà tù Chuồng Cọp ➡️ Mua quà lưu niệm, dùng bữa trưa  
+  🌙 Tối: ➡️ Trả phòng, ra sân bay, kết thúc hành trình và trở về (an toàn)
 
 ## Ưu đãi
-Chương trình đang giảm giá 10% — bạn chỉ còn trả **6.750.000 VND** cho tour 3N2Đ khám phá Côn Đảo thiêng liêng (giá gốc 7.500.000 VND). Nhanh tay đặt chỗ để tận hưởng tiết kiệm và dịch vụ trọn gói tiện lợi!
+Chương trình đang áp dụng GIẢM NGAY 10% — từ giá gốc 7.500.000 VND xuống còn chỉ **6.750.000 VND** cho tour 3N2Đ. Đây là cơ hội tiết kiệm đáng kể để trải nghiệm Côn Đảo thiêng liêng với hành trình trọn vẹn, dịch vụ chất lượng và hướng dẫn viên chuyên nghiệp. Nhanh tay đặt chỗ để nhận ưu đãi!
 
 ## SEO Keywords
-tour Côn Đảo, du lịch Côn Đảo, tour 3N2Đ Côn Đảo, lặn ngắm san hô Côn Đảo, trải nghiệm lịch sử Côn Đảo
+tour Côn Đảo, du lịch Côn Đảo 3 ngày 2 đêm, tour lặn Côn Đảo, vé máy bay Côn Đảo, trải nghiệm lịch sử Côn Đảo
 
 ---
 

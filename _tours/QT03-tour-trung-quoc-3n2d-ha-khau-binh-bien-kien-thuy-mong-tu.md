@@ -13,12 +13,13 @@ location: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự
 duration: 3N2Đ
 discount: 12
 price: 11.900.000
-description: "- 🆔 Mã tour: **QT03**"
-keywords: "Hành trình Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự là lựa chọn hoàn hảo cho những bạn thích khám phá biên giới pha lẫn văn hóa truyền thống và cảnh sắc thiên nhiên tươi đẹp 🌿. Bạn sẽ có trải nghiệm bay thuận tiện, sau đó di chuyển bằng ôtô thoải mái qua những con đường núi, chợ biên và làng cổ mang đậm bản sắc địa phương. Mỗi điểm dừng đều có câu chuyện riêng, từ phố thị náo nhiệt đến vùng quê thanh bình, khiến hành trình luôn mới mẻ và giàu cảm xúc 🧭."
+description: "## ✈️ Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự"
 ---
 
-## ✈️ Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự
+## ✈️ Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự 
 
+- 🆔 Mã tour: **QT03**
+- 📍 Địa điểm: **Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự**
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **11.900.000 VND**
 - 🔥 Giảm giá: **12%**
@@ -26,33 +27,35 @@ keywords: "Hành trình Hà Khẩu – Bình Biên – Kiến Thủy – Mông T
 - ⏳ Thời gian du lịch: **3N2Đ**
 
 ## Giới thiệu
-Hành trình Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự là lựa chọn hoàn hảo cho những bạn thích khám phá biên giới pha lẫn văn hóa truyền thống và cảnh sắc thiên nhiên tươi đẹp 🌿. Bạn sẽ có trải nghiệm bay thuận tiện, sau đó di chuyển bằng ôtô thoải mái qua những con đường núi, chợ biên và làng cổ mang đậm bản sắc địa phương. Mỗi điểm dừng đều có câu chuyện riêng, từ phố thị náo nhiệt đến vùng quê thanh bình, khiến hành trình luôn mới mẻ và giàu cảm xúc 🧭.
+Khám phá vùng biên giới Yunnan huyền thoại trong hành trình 3 ngày 2 đêm đến Hà Khẩu, Bình Biên, Kiến Thủy và Mông Tự — nơi giao thoa giữa thiên nhiên hùng vĩ và văn hóa đa sắc tộc. Bạn sẽ được bước chân qua chợ biên giới sầm uất, dạo phố cổ đọng dấu thời gian và thưởng thức ẩm thực địa phương đậm vị Trung Hoa-Đông Nam Á. 🌿🍜
 
-Trong 3 ngày 2 đêm, tour tập trung mang đến trải nghiệm thực tế: thưởng thức ẩm thực địa phương, tham quan chợ biên sầm uất, check-in những góc sống ảo và gặp gỡ người dân thân thiện 😊. Hướng dẫn viên kinh nghiệm sẽ đồng hành, giải thích văn hóa, hỗ trợ thủ tục và gợi ý những góc chụp đẹp nhất. Đây là chuyến đi phù hợp cho cặp đôi, nhóm bạn hoặc gia đình muốn đổi gió ngắn ngày nhưng vẫn đầy đủ trải nghiệm.
+Từ những con đường cổ lát đá ở Kiến Thủy đến các quán trà truyền thống ở Mông Tự, mỗi khoảnh khắc đều là bức tranh ký ức đáng nhớ. Hành trình phù hợp cả khách thích khám phá lịch sử lẫn người say mê nhiếp ảnh và văn hoá bản địa. 📸❤️
 
-Đừng bỏ lỡ cơ hội tận hưởng khung cảnh trữ tình và văn hóa độc đáo với mức giá khuyến mãi hấp dẫn. Liên hệ ngay để giữ chỗ và nhận tư vấn chi tiết — chỗ có hạn, đặt sớm càng tiết kiệm! 📞✉️
+Với lịch trình hợp lý, thời gian di chuyển tối ưu và hướng dẫn viên thân thiện, bạn sẽ tận hưởng trọn vẹn vẻ đẹp Yunnan mà không bị gấp gáp. Đặc biệt chương trình có giá khuyến mãi chỉ còn 10.472.000 VND — cơ hội hiếm có để trải nghiệm trọn vẹn với chi phí tiết kiệm. ✨
+
+Muốn biết thêm lịch khởi hành và đặt chỗ nhanh chóng? Liên hệ tư vấn ngay để giữ chỗ và nhận ưu đãi sớm! 📞✉️
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay tới Hà Khẩu ➡️ Làm thủ tục nhập cảnh/đón tại điểm tập trung ➡️ Khởi hành đi Bình Biên, dừng tham quan dọc đường
-  🌞 Trưa: Thưởng thức đặc sản địa phương tại nhà hàng, nghỉ ngơi nhẹ
-  🌙 Tối: Check-in khách sạn, tự do khám phá chợ đêm hoặc tham gia chương trình văn hóa (tùy option)
+  🌅 Sáng: ➡️ Khởi hành từ Việt Nam, bay đến Hà Khẩu (Hekou) ➡️ Làm thủ tục nhập cảnh ➡️ Tham quan chợ biên giới, phố cổ Hà Khẩu  
+  🌞 Trưa: Thưởng thức ẩm thực địa phương, nghỉ ngơi  
+  🌙 Tối: Di chuyển về Bình Biên, nhận phòng khách sạn, dạo phố đêm, trải nghiệm ẩm thực đường phố
 
 - Ngày 2:
-  🌅 Sáng: ➡️ Khởi hành đi Kiến Thủy ➡️ Tham quan làng cổ, chụp hình, tìm hiểu thủ công truyền thống
-  🌞 Trưa: Dùng bữa với món bản địa, trải nghiệm ẩm thực đường phố
-  🌙 Tối: Di chuyển về Mông Tự, nhận phòng, tham gia hoạt động tự do hoặc giao lưu cùng người dân
+  🌅 Sáng: ➡️ Khởi hành đi Kiến Thủy (Jianshui) ➡️ Tham quan Phố cổ Kiến Thủy và Văn Miếu/Đền thờ Khổng Tử ➡️ Thăm Cầu Song Long (Shuanglong Bridge)  
+  🌞 Trưa: Thưởng thức món đặc sản địa phương, tiếp tục tham quan Vườn họ Chu (Zhu Family Garden)  
+  🌙 Tối: Dạo phố cổ về đêm, mua sắm quà lưu niệm, nghỉ đêm tại Kiến Thủy
 
 - Ngày 3:
-  🌅 Sáng: ➡️ Tham quan điểm nổi bật ở Mông Tự ➡️ Mua sắm đặc sản, check-out khách sạn
-  🌞 Trưa: Trên đường về ăn trưa, tổng kết hành trình
-  🌙 Tối: Trở về sân bay, làm thủ tục về Việt Nam — kết thúc tour, chia tay và hẹn gặp lại!
+  🌅 Sáng: ➡️ Di chuyển đến Mông Tự (Mengzi) ➡️ Tham quan Phố cổ Mông Tự, khám phá kiến trúc và chợ địa phương  
+  🌞 Trưa: Ăn trưa, thời gian tự do chụp ảnh, mua sắm đặc sản  
+  🌙 Tối: Trở về Hà Khẩu, làm thủ tục bay về Việt Nam, kết thúc hành trình
 
 ## Ưu đãi
-Hiện chương trình có ưu đãi giảm giá 12% từ giá gốc 11.900.000 VND, giá khuyến mãi chỉ còn 10.472.000 VND. Tiết kiệm ngay khi đặt sớm — ưu đãi có hạn, phù hợp cho chuyến du lịch ngắn ngày nhưng đầy trải nghiệm! 🔥💸
+Ưu đãi hấp dẫn: giảm ngay **12%** so với giá gốc. Giá khuyến mãi chỉ còn **10.472.000 VND** — tiết kiệm rõ rệt so với giá ban đầu 11.900.000 VND. Đặt sớm để giữ chỗ và nhận thêm tư vấn miễn phí từ đội ngũ chuyên nghiệp! 🔥🎉
 
 ## SEO Keywords
-Tour Hà Khẩu, Du lịch Bình Biên, Tour Kiến Thủy Mông Tự, Tour biên giới Trung Quốc, Tour 3N2Đ giá rẻ
+Tour Trung Quốc Hà Khẩu, Tour Hà Khẩu Bình Biên, Du lịch Kiến Thủy Mông Tự, Tour Yunnan 3 ngày 2 đêm, Tour biên giới Hà Khẩu Bình Biên
 
 ---
 

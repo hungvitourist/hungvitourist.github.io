@@ -5,7 +5,7 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-csv_files = ["tour_domestic.csv"]
+csv_files = ["tour_international.csv", "tour_domestic.csv"]
 output_dir = "_posts"
 
 os.makedirs(output_dir, exist_ok=True)
@@ -166,7 +166,6 @@ duration: {duration}
 discount: {discount}
 price: {price}
 description: "{meta_desc}"
-keywords: "{keywords}"
 ---
 
 ## ✈️ {title} 

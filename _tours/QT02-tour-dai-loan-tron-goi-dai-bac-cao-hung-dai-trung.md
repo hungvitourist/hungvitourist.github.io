@@ -13,12 +13,13 @@ location: Đài Bắc – Cao Hùng – Đài Trung
 duration: 5N4Đ
 discount: 10
 price: 15.900.000
-description: "- 🆔 Mã tour: **QT02**"
-keywords: "Hãy cùng chúng tôi trải nghiệm hành trình 5N4Đ khám phá tinh hoa Đài Loan: từ nhịp sống hiện đại của Đài Bắc, vẻ thanh bình của Đài Trung đến không khí cảng biển đầy cảm hứng ở Cao Hùng. Mỗi điểm đến là một bức tranh văn hóa, ẩm thực và thiên nhiên — hoàn hảo cho cả nhóm bạn trẻ, gia đình hoặc cặp đôi tìm kiếm kỷ niệm khó quên. 🌏✨"
+description: "## ✈️ Tour Đài Loan Trọn Gói: Đài Bắc – Cao Hùng – Đài Trung"
 ---
 
-## ✈️ Tour Đài Loan Trọn Gói: Đài Bắc – Cao Hùng – Đài Trung
+## ✈️ Tour Đài Loan Trọn Gói: Đài Bắc – Cao Hùng – Đài Trung 
 
+- 🆔 Mã tour: **QT02**
+- 📍 Địa điểm: **Đài Bắc – Cao Hùng – Đài Trung**
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **15.900.000 VND**
 - 🔥 Giảm giá: **10%**
@@ -26,41 +27,39 @@ keywords: "Hãy cùng chúng tôi trải nghiệm hành trình 5N4Đ khám phá 
 - ⏳ Thời gian du lịch: **5N4Đ**
 
 ## Giới thiệu
-Hãy cùng chúng tôi trải nghiệm hành trình 5N4Đ khám phá tinh hoa Đài Loan: từ nhịp sống hiện đại của Đài Bắc, vẻ thanh bình của Đài Trung đến không khí cảng biển đầy cảm hứng ở Cao Hùng. Mỗi điểm đến là một bức tranh văn hóa, ẩm thực và thiên nhiên — hoàn hảo cho cả nhóm bạn trẻ, gia đình hoặc cặp đôi tìm kiếm kỷ niệm khó quên. 🌏✨
+Khám phá Đài Loan trong 5 ngày 4 đêm: hành trình trọn vẹn kết hợp nét hiện đại của Đài Bắc, bầu không khí ấm áp của Cao Hùng và sự duyên dáng của Đài Trung. Bạn sẽ được trải nghiệm các biểu tượng nổi tiếng như Taipei 101, phố cổ Jiufen, bến cảng yêu thích ở Cao Hùng và những góc nghệ thuật tại Đài Trung — tất cả được sắp xếp hợp lý để tiết kiệm thời gian nhưng vẫn đầy ắp kỷ niệm. ✨
 
-Bạn sẽ được thưởng thức hương vị đường phố tại night market, chiêm ngưỡng kiến trúc độc đáo, thả hồn bên hồ Sun Moon Lake và thăm các khu nghệ thuật sôi động. Lộ trình kết hợp tiện lợi bằng máy bay và xe ô tô đưa đón, giúp tối ưu thời gian khám phá và nghỉ ngơi. 🚌✈️
+Hành trình phù hợp cả gia đình, nhóm bạn hoặc cặp đôi muốn nghỉ dưỡng kèm trải nghiệm văn hóa — bao gồm vé máy bay khứ hồi, hướng dẫn viên tiếng Việt, khách sạn tiêu chuẩn và xe đưa đón tiện nghi. Mỗi ngày đều có thời gian tự do để bạn khám phá ẩm thực đường phố, chợ đêm nổi tiếng và mua sắm đặc sản địa phương. 🍜🛍️
 
-Hành trình được thiết kế cân bằng giữa tham quan và trải nghiệm tự do: ăn uống, mua sắm và chụp ảnh “check-in” những góc đẹp nhất. Tất cả dịch vụ, vé vào cửa và hướng dẫn viên tiếng Việt chuyên nghiệp đều đã được chuẩn bị sẵn — bạn chỉ việc mang theo tâm trạng háo hức! 📸💖
-
-Muốn giữ chỗ ưu đãi này? Liên hệ ngay để được tư vấn chi tiết và đặt tour trong hôm nay. 📞✉️
+Đây là lựa chọn lý tưởng nếu bạn muốn vừa check-in “cần phải có” vừa hưởng trọn trải nghiệm địa phương, từ cảnh đẹp thiên nhiên đến kiến trúc đô thị sôi động. Hãy đặt chỗ sớm để hưởng giá khuyến mãi và lịch bay thuận tiện — số lượng có hạn! 📞✉️
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay đến Đài Bắc ➡️ Làm thủ tục ➡️ Nhận hành lý và xe đưa đón
-  🌞 Trưa: ➡️ Thưởng thức ẩm thực địa phương tại phố cổ
-  🌙 Tối: ➡️ Tham quan Taipei 101 & night market (Ximending/Raohe)  
+  🌅 Sáng: ➡️ Đến sân bay Đào Viên, làm thủ tục nhập cảnh ➡️ Xe đón về khách sạn, nghỉ ngơi
+  🌞 Trưa: Tham quan Taipei 101, khu Xinyi, chụp ảnh toàn cảnh thành phố
+  🌙 Tối: Khám phá Shilin Night Market, thưởng thức street food
 - Ngày 2:
-  🌅 Sáng: ➡️ Khởi hành đi Jiufen ➡️ Tham quan Old Street và view núi biển
-  🌞 Trưa: ➡️ Dùng bữa tại quán trà địa phương ➡️ Thăm Shifen, thả đèn trời
-  🌙 Tối: ➡️ Trở về Đài Bắc, tự do khám phá chợ đêm  
+  🌅 Sáng: ➡️ Thăm Chiang Kai-shek Memorial Hall ➡️ Longshan Temple ➡️ National Palace Museum (tùy thời gian)
+  🌞 Trưa: Thưởng thức dim sum hoặc mì bò Đài Loan
+  🌙 Tối: Du lịch Jiufen về đêm, ngắm phố cổ và trà đạo
 - Ngày 3:
-  🌅 Sáng: ➡️ Di chuyển đến Đài Trung bằng xe ➡️ Tham quan Rainbow Village
-  🌞 Trưa: ➡️ Thưởng thức đặc sản Taichung ➡️ Ghé National Taichung Theater
-  🌙 Tối: ➡️ Tham quan Fengjia Night Market  
+  🌅 Sáng: ➡️ Check-out, đi tàu cao tốc tới Đài Trung ➡️ Tham quan Rainbow Village
+  🌞 Trưa: Khám phá Công viên Văn hóa Nghệ thuật Quốc gia (theo lịch)
+  🌙 Tối: Dạo chợ đêm Fengjia, mua sắm đặc sản
 - Ngày 4:
-  🌅 Sáng: ➡️ Khởi hành đi Sun Moon Lake ➡️ Du thuyền, lên đài Ci'en Pagoda
-  🌞 Trưa: ➡️ Tham quan làng Ita Thao, thử đồ ăn bản địa
-  🌙 Tối: ➡️ Di chuyển về Cao Hùng, nhận phòng nghỉ ngơi  
+  🌅 Sáng: ➡️ Thăm Gaomei Wetlands hoặc Sun Moon Lake (tùy lựa chọn) ➡️ Check-out
+  🌞 Trưa: Di chuyển bằng HSR đến Cao Hùng, nhận phòng
+  🌙 Tối: Dạo bờ sông Love River, thưởng thức ẩm thực tại Liuhe Night Market
 - Ngày 5:
-  🌅 Sáng: ➡️ Tham quan Lotus Pond (Dragon & Tiger Pagodas) ➡️ Ghé Pier-2 Art Center
-  🌞 Trưa: ➡️ Dùng bữa tại cảng, mua quà lưu niệm
-  🌙 Tối: ➡️ Thả thuyền trên Love River (nếu có thời gian) ➡️ Ra sân bay về Việt Nam
+  🌅 Sáng: ➡️ Tham quan Fo Guang Shan hoặc đảo Cijin (đi phà, ăn hải sản)
+  🌞 Trưa: Thời gian tự do mua sắm, chuẩn bị hành lý
+  🌙 Tối: Xe đưa ra sân bay, làm thủ tục lên máy bay về Việt Nam
 
 ## Ưu đãi
-Chương trình đang có GIẢM NGAY 10% so với giá gốc. Giá tour gốc 15.900.000 VND — sau khi áp dụng giảm giá 10% còn chỉ còn 14.310.000 VND. Nhanh tay đặt để tiết kiệm 1.590.000 VND và giữ chỗ hành trình khám phá Đài Bắc – Cao Hùng – Đài Trung tuyệt vời này! 🔥💸
+Hiện tại tour được giảm ngay 10% so với giá gốc — tiết kiệm đến **1.590.000 VND**, giá khuyến mãi chỉ còn **14.310.000 VND**. Đặt sớm để giữ chỗ và nhận thêm ưu đãi theo nhóm hoặc nâng hạng phòng nếu có chương trình khuyến mãi thêm!
 
 ## SEO Keywords
-tour Đài Bắc Cao Hùng Đài Trung, du lịch Đài Loan 5N4Đ, tour Đài Loan giá tốt, khám phá Jiufen Shifen, Sun Moon Lake Taichung
+tour Đài Loan trọn gói, du lịch Đài Bắc, tour Đài Trung Cao Hùng, vé máy bay Đài Loan, khám phá Đài Loan
 
 ---
 

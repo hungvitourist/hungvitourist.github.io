@@ -13,12 +13,13 @@ location: Moscow - St. Petersburg
 duration: 8N7Đ
 discount: 15
 price: 39.900.000
-description: "- 🆔 Mã tour: **QT21**"
-keywords: "Hành trình Moscow - St. Petersburg 8N7Đ là cơ hội vàng để bạn bước vào hai thành phố mang dấu ấn lịch sử, nghệ thuật và kiến trúc lộng lẫy bậc nhất châu Âu. Từ Quảng trường Đỏ hùng vĩ, điện Kremlin uy nghi ở Moscow đến cung điện mùa hè và Bảo tàng Hermitage trứ danh ở St. Petersburg, mỗi bước chân đều mang đến một bức tranh văn hóa sống động. ✨"
+description: "## ✈️ Tour Nga 8N7Đ: Moscow - St. Petersburg"
 ---
 
-## ✈️ Tour Nga 8N7Đ: Moscow - St. Petersburg
+## ✈️ Tour Nga 8N7Đ: Moscow - St. Petersburg 
 
+- 🆔 Mã tour: **QT21**
+- 📍 Địa điểm: **Moscow - St. Petersburg**
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **39.900.000 VND**
 - 🔥 Giảm giá: **15%**
@@ -26,51 +27,51 @@ keywords: "Hành trình Moscow - St. Petersburg 8N7Đ là cơ hội vàng để 
 - ⏳ Thời gian du lịch: **8N7Đ**
 
 ## Giới thiệu
-Hành trình Moscow - St. Petersburg 8N7Đ là cơ hội vàng để bạn bước vào hai thành phố mang dấu ấn lịch sử, nghệ thuật và kiến trúc lộng lẫy bậc nhất châu Âu. Từ Quảng trường Đỏ hùng vĩ, điện Kremlin uy nghi ở Moscow đến cung điện mùa hè và Bảo tàng Hermitage trứ danh ở St. Petersburg, mỗi bước chân đều mang đến một bức tranh văn hóa sống động. ✨
+Khám phá hai trái tim lịch sử của nước Nga — Moscow rực rỡ và St. Petersburg thanh nhã — trong hành trình 8 ngày 7 đêm đầy cảm hứng. Bạn sẽ được chiêm ngưỡng Quảng trường Đỏ, Kremlin hùng vĩ, cung điện mùa Đông lộng lẫy và những vườn hoa, đài phun tại Peterhof. Mỗi điểm đến đều kể một câu chuyện văn hóa, nghệ thuật và kiến trúc khiến trái tim du khách rung động. ✨
 
-Du lịch cùng QT21, bạn sẽ trải nghiệm cả nhịp sống hiện đại và những giá trị truyền thống: metro nghệ thuật, nhà hát ballet, những con kênh thơ mộng và ẩm thực địa phương đậm đà. Hướng dẫn viên thân thiện, lịch trình hợp lý và phương tiện thoải mái giúp hành trình thêm trọn vẹn. 🚌✈️
+Hành trình được thiết kế hài hòa giữa tham quan, trải nghiệm ẩm thực và thời gian tự do để bạn dạo phố, chụp ảnh và tận hưởng không khí châu Âu ở xứ bạch dương. Hướng dẫn viên tiếng Việt giàu kinh nghiệm sẽ dẫn dắt bạn qua từng di tích, giải thích lịch sử và gợi ý những góc sống ảo tuyệt vời. 🍽️📸
 
-Hành trình phù hợp cả đối với người thích khám phá lẫn yêu nhiếp ảnh, mang đến nhiều khoảnh khắc để lưu giữ. Đặc biệt chương trình đang ưu đãi 15% — đây là lúc lên kế hoạch và đặt chỗ để tận hưởng mùa du lịch tuyệt vời này! Đăng ký ngay để giữ chỗ và nhận tư vấn chi tiết. 📞
+Đây là cơ hội hiếm có để ghé thăm hai thành phố biểu tượng của Nga với mức giá ưu đãi, lịch trình hợp lý và dịch vụ tận tâm. Nhanh tay giữ chỗ để tận hưởng mùa du lịch với trải nghiệm đáng nhớ — liên hệ ngay để được tư vấn chi tiết và ghi danh! 📞✉️
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay đến Moscow, ➡️ Làm thủ tục nhập cảnh, ➡️ Nhận hành lý và đón về khách sạn  
-  🌞 Trưa: Nghỉ ngơi, ăn trưa nhẹ tại nhà hàng địa phương  
-  🌙 Tối: Tham quan Quảng trường Đỏ về đêm, chụp ảnh kỷ niệm
+  🌅 Sáng: ➡️ Tập trung tại sân bay, làm thủ tục ➡️ Khởi hành đến Moscow ✈️
+  🌞 Trưa: Nhận phòng khách sạn, nghỉ ngơi, ăn trưa
+  🌙 Tối: Dạo quanh Quảng trường Đỏ về đêm, chụp ảnh
 - Ngày 2:
-  🌅 Sáng: ➡️ Tham quan Kremlin, ➡️ Nhà thờ St. Basil, ➡️ Bảo tàng lịch sử quốc gia  
-  🌞 Trưa: Thưởng thức ẩm thực Nga truyền thống  
-  🌙 Tối: Tham quan metro nghệ thuật, tự do khám phá phố cổ
+  🌅 Sáng: ➡️ Tham quan Kremlin ➡️ Nhà thờ St. Basil
+  🌞 Trưa: Thưởng thức ẩm thực Nga tại nhà hàng địa phương
+  🌙 Tối: Xem chương trình biểu diễn nhạc hoặc múa dân gian (tùy lịch)
 - Ngày 3:
-  🌅 Sáng: ➡️ Tham quan khu Arbat, ➡️ Mua sắm quà lưu niệm  
-  🌞 Trưa: Thăm khu chợ và thưởng trà bánh ngọt  
-  🌙 Tối: Xem chương trình ballet hoặc nhạc cổ điển (tuỳ lịch)
+  🌅 Sáng: ➡️ Thăm Bảo tàng Lịch sử Quốc gia ➡️ Đại lộ Arbat
+  🌞 Trưa: Tham quan chợ địa phương, thử các món ăn đường phố
+  🌙 Tối: Tự do mua sắm hoặc nghỉ ngơi tại khách sạn
 - Ngày 4:
-  🌅 Sáng: ➡️ Khởi hành bằng xe/xe lửa đến St. Petersburg, ➡️ Nhận phòng khách sạn  
-  🌞 Trưa: Tham quan dọc bờ sông Neva, ăn trưa tại quán ven kênh  
-  🌙 Tối: Dạo bộ trên Nevsky Prospect, cảm nhận nhịp sống về đêm
+  🌅 Sáng: ➡️ Khởi hành đến St. Petersburg bằng phương tiện (chuyến bay/xe)
+  🌞 Trưa: Nhận phòng, ăn trưa, khởi đầu khám phá Nevsky Prospect
+  🌙 Tối: Dạo ven sông Neva, thưởng thức không gian lãng mạn
 - Ngày 5:
-  🌅 Sáng: ➡️ Thăm Bảo tàng Hermitage (Cung điện Mùa Đông), ➡️ Tham quan phòng trưng bày nghệ thuật  
-  🌞 Trưa: Nghỉ trưa tại nhà hàng trong thành phố  
-  🌙 Tối: Tham quan Nhà thờ Máu Đổ và chụp ảnh
+  🌅 Sáng: ➡️ Tham quan Hermitage (Cung điện Mùa Đông) ➡️ Quảng trường Cung điện
+  🌞 Trưa: Ăn trưa tại khu trung tâm
+  🌙 Tối: Tham quan nhà hát hoặc tự do khám phá thành phố
 - Ngày 6:
-  🌅 Sáng: ➡️ Khám phá Petrodvorets (Cung điện mùa hè) và vườn đài phun nước  
-  🌞 Trưa: Ăn trưa, nghỉ ngơi tại khu vực công viên  
-  🌙 Tối: Tự do mua sắm hoặc tham gia tour ẩm thực địa phương
+  🌅 Sáng: ➡️ Thăm Peterhof và các đài phun nước lộng lẫy
+  🌞 Trưa: Thưởng thức hải sản tươi tại nhà hàng gần bờ biển
+  🌙 Tối: Dạo phố cổ, ghé quán cà phê truyền thống
 - Ngày 7:
-  🌅 Sáng: ➡️ Tham quan bảo tàng nghệ thuật nhỏ, ➡️ Trải nghiệm thuyền trên kênh (nếu thời tiết)  
-  🌞 Trưa: Thưởng thức món cá và hải sản đặc trưng  
-  🌙 Tối: Chuẩn bị hành lý, buổi chia tay nhỏ với đoàn
+  🌅 Sáng: ➡️ Khám phá Nhà thờ Spilled Blood ➡️ Cung điện Catherine ở Pushkin
+  🌞 Trưa: Tham quan vườn cung điện và chụp ảnh
+  🌙 Tối: Tiệc chia tay, tổng kết hành trình
 - Ngày 8:
-  🌅 Sáng: ➡️ Trả phòng, ➡️ Khởi hành ra sân bay, ➡️ Làm thủ tục bay về Việt Nam  
-  🌞 Trưa: Nghỉ ngơi trên máy bay  
-  🌙 Tối: Đáp sân bay, kết thúc chương trình và tạm biệt
+  🌅 Sáng: ➡️ Thời gian tự do, chuẩn bị hành lý
+  🌞 Trưa: Làm thủ tục trả phòng, ra sân bay
+  🌙 Tối: Lên chuyến bay về Việt Nam, kết thúc tour an toàn và nhiều kỷ niệm
 
 ## Ưu đãi
-Chương trình đang giảm ngay 15% so với giá gốc. Giá khuyến mãi chỉ còn 33.915.000 VND — tiết kiệm rõ rệt mà vẫn đảm bảo dịch vụ chất lượng. Nhanh tay đặt chỗ để nhận ưu đãi và suất có hạn! 🔥
+Chương trình đang có GIẢM GIÁ 15% — tiết kiệm đáng kể so với giá gốc. Giá khuyến mãi đã được cập nhật: chỉ còn **33.915.000 VND** (từ 39.900.000 VND). Nhanh tay đặt chỗ để giữ mức giá ưu đãi này và tận hưởng dịch vụ trọn gói chất lượng!
 
 ## SEO Keywords
-du lịch Nga, tour Moscow St. Petersburg, khám phá Hermitage, tour 8N7Đ, vé máy bay + xe buýt
+Tour Nga, du lịch Moscow St. Petersburg, tour Nga 8N7Đ, du lịch châu Âu giá rẻ, khám phá Hermitage
 
 ---
 

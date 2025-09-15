@@ -14,7 +14,6 @@ duration: 2N1Đ
 discount: 6
 price: 2.900.000
 description: "## ✈️ Tour Cần Giờ - Đảo Khỉ"
-keywords: "Cần Giờ — từng được mệnh danh là lá phổi xanh ngay sát Sài Gòn — là điểm đến hoàn hảo cho chuyến nghỉ cuối tuần ngắn ngày. Bạn sẽ được hòa mình vào rừng ngập mặn Vàm Sát, chiêm ngưỡng hệ sinh thái hoang sơ, gặp đàn khỉ tinh nghịch trên Đảo Khỉ và tận hưởng không khí trong lành, khác hẳn nhịp sống ồn ào thành phố. 🌿🐒"
 ---
 
 ## ✈️ Tour Cần Giờ - Đảo Khỉ 
@@ -27,30 +26,28 @@ keywords: "Cần Giờ — từng được mệnh danh là lá phổi xanh ngay 
 - 💵 Giá khuyến mãi: **2.726.000 VND**
 - ⏳ Thời gian du lịch: **2N1Đ**
 
-
 ## Giới thiệu
-Cần Giờ — từng được mệnh danh là “lá phổi xanh” ngay sát Sài Gòn — là điểm đến hoàn hảo cho chuyến nghỉ cuối tuần ngắn ngày. Bạn sẽ được hòa mình vào rừng ngập mặn Vàm Sát, chiêm ngưỡng hệ sinh thái hoang sơ, gặp đàn khỉ tinh nghịch trên Đảo Khỉ và tận hưởng không khí trong lành, khác hẳn nhịp sống ồn ào thành phố. 🌿🐒
+Khám phá Cần Giờ - Đảo Khỉ là hành trình trở về với thiên nhiên xanh mát, nơi rừng ngập mặn giao hoà cùng biển cả trong ánh nắng dịu dàng. 🌴🐒 Tour 2N1Đ dành cho bạn muốn tạm rời thành phố ồn ào, hít thở không khí trong lành, nghe tiếng sóng vỗ và ngắm hoàng hôn lãng mạn bên bờ biển.  
 
-Tour 2N1Đ ND10 thiết kế nhẹ nhàng, phù hợp cả gia đình và nhóm bạn trẻ, kết hợp tham quan, trải nghiệm sinh thái và thưởng thức hải sản tươi ngon. Những khoảnh khắc bình minh trên biển, chuyến đi thuyền lướt qua rừng ngập mặn hay tiếng chim kêu sẽ giúp bạn tái tạo năng lượng và lấy lại cân bằng. 🏖️🍤📸
+Bạn sẽ được trải nghiệm cuộc sống hoang dã, tương tác thân thiện với những chú khỉ tinh nghịch, dạo bộ giữa rừng đước và thử hải sản tươi ngon tại các quán địa phương. 🍤🥥 Lịch trình hài hoà, phù hợp gia đình, nhóm bạn và cặp đôi muốn có khoảnh khắc thư giãn, chụp ảnh sống ảo.  
 
-Hành trình di chuyển bằng xe khách tiện nghi, lưu trú thoải mái và có hướng dẫn viên địa phương nhiệt tình. Nếu bạn cần một chuyến chạy trốn ngắn ngày nhưng vẫn giàu trải nghiệm thiên nhiên, đây là lựa chọn lý tưởng. Nhanh tay đặt chỗ để giữ lịch cuối tuần tuyệt vời nhé! ✨☎️
+Hướng dẫn viên địa phương nhiệt tình, phương tiện an toàn, bữa ăn đầy đặn và thời gian tự do hợp lý giúp chuyến đi vừa thú vị vừa thoải mái. 📸✨ Đừng chần chờ — đặt tour ngay để tận hưởng trọn vẹn trải nghiệm biển đảo, thiên nhiên và ẩm thực đặc trưng của Cần Giờ! 📞
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành từ TP.HCM bằng xe 🚌 ➡️ Nghỉ dừng đường, tiếp tục đến Cần Giờ ➡️ Check-in nhận phòng.
-  🌞 Trưa: ➡️ Ăn trưa đặc sản hải sản tại nhà hàng địa phương ➡️ Tham quan Đảo Khỉ, xem biểu diễn và chụp ảnh.
-  🌙 Tối: ➡️ Dùng bữa tối, tự do dạo biển hoặc nghỉ ngơi tại resort ➡️ Hoạt động tự do / chương trình lửa trại (nếu có).
-
+  🌅 Sáng: ➡️ Xe đón tại điểm hẹn ở TP.HCM ➡️ Di chuyển đến Cần Giờ ➡️ Tham quan Vàm Sát, xem chim và rừng ngập mặn.
+  🌞 Trưa: ➡️ Ăn trưa với hải sản địa phương ➡️ Nghỉ ngơi, tự do tắm biển.
+  🌙 Tối: ➡️ Tham quan Đảo Khỉ buổi tối ➡️ Tiệc nướng/ăn tối ➡️ Nghỉ đêm tại nhà nghỉ/khách sạn.
 - Ngày 2:
-  🌅 Sáng: ➡️ Tour thuyền Vàm Sát, dạo rừng ngập mặn, ngắm chim và trải nghiệm hệ sinh thái ➡️ Tham quan đầm, chụp ảnh hoàng hôn (nếu kịp).
-  🌞 Trưa: ➡️ Ăn trưa với đặc sản địa phương, mua sắm hải sản khô/ quà lưu niệm.
-  🌙 Tối: ➡️ Trả phòng, khởi hành về TP.HCM ➡️ Kết thúc chương trình, chia tay đoàn, hẹn gặp lại.
+  🌅 Sáng: ➡️ Dậy sớm ngắm bình minh ➡️ Thăm suối Ồ Ồ hoặc bến tàu địa phương.
+  🌞 Trưa: ➡️ Trả phòng ➡️ Thưởng thức bữa trưa nhẹ ➡️ Tham quan chợ hải sản, mua quà.
+  🌙 Tối: ➡️ Lên xe về lại TP.HCM ➡️ Kết thúc tour, chia tay và hẹn gặp lại.
 
 ## Ưu đãi
-Chương trình đang có GIẢM 6% so với giá gốc — bạn chỉ còn trả **2.726.000 VND** (tiết kiệm 174.000 VND). Ưu đãi có giới hạn, đặt sớm để giữ chỗ và nhận thêm tư vấn lịch trình, phòng nghỉ tốt nhất. 🔥💸
+Hiện có GIẢM GIÁ 6% — giá khuyến mãi chỉ còn **2.726.000 VND** (từ giá gốc 2.900.000 VND). Nhanh tay đặt chỗ để hưởng ưu đãi này và tận hưởng chuyến nghỉ dưỡng ngắn ngày tiết kiệm, trọn vẹn!
 
 ## SEO Keywords
-tour Cần Giờ, đảo khỉ Cần Giờ, tour 2N1Đ Cần Giờ, du lịch Vàm Sát, tour hải sản Cần Giờ
+tour Cần Giờ, Đảo Khỉ, tour 2N1Đ, du lịch biển Sài Gòn, tour hải sản Cần Giờ
 
 ---
 

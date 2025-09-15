@@ -13,12 +13,13 @@ location: Rio de Janeiro - Iguazu Falls - Buenos Aires
 duration: 10N9Đ
 discount: 18
 price: 78.900.000
-description: "- 🆔 Mã tour: **QT17**"
-keywords: "Khám phá ba biểu tượng rực rỡ của Nam Mỹ: bãi biển Copacabana ở Rio de Janeiro, thác Iguazu hùng vĩ và sức sống nghệ thuật của Buenos Aires. Hành trình 10N9Đ QT17 đưa bạn đi từ những đỉnh núi có tượng Chúa Kitô dang tay đến những dòng nước tưng bọt của thác Iguazu, rồi đắm mình trong vũ điệu tango và ẩm thực đậm đà tại Argentina. 🌎✈️"
+description: "## ✈️ Tour Brazil - Argentina 10N9Đ"
 ---
 
-## ✈️ Tour Brazil - Argentina 10N9Đ
+## ✈️ Tour Brazil - Argentina 10N9Đ 
 
+- 🆔 Mã tour: **QT17**
+- 📍 Địa điểm: **Rio de Janeiro - Iguazu Falls - Buenos Aires**
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **78.900.000 VND**
 - 🔥 Giảm giá: **18%**
@@ -26,59 +27,68 @@ keywords: "Khám phá ba biểu tượng rực rỡ của Nam Mỹ: bãi biển 
 - ⏳ Thời gian du lịch: **10N9Đ**
 
 ## Giới thiệu
-Khám phá ba biểu tượng rực rỡ của Nam Mỹ: bãi biển Copacabana ở Rio de Janeiro, thác Iguazu hùng vĩ và sức sống nghệ thuật của Buenos Aires. Hành trình 10N9Đ QT17 đưa bạn đi từ những đỉnh núi có tượng Chúa Kitô dang tay đến những dòng nước tưng bọt của thác Iguazu, rồi đắm mình trong vũ điệu tango và ẩm thực đậm đà tại Argentina. 🌎✈️
+Khám phá hai biểu tượng Nam Mỹ trong một hành trình: năng lượng rực rỡ của Rio de Janeiro và vẻ hùng vĩ đầy mê hoặc của thác Iguazu, kết thúc bằng sự sang trọng, nhịp sống nghệ thuật của Buenos Aires. Bạn sẽ được hòa mình vào bãi biển Copacabana, chiêm ngưỡng tượng Chúa Cứu Thế trên đỉnh Corcovado, rồi cảm nhận sức mạnh của thiên nhiên khi đứng trước dải nước trắng xóa của Iguazu từ cả hai phía Brazil và Argentina. 🌊🌴
 
-Trải nghiệm được thiết kế đan xen giữa khám phá thiên nhiên hoang dã, văn hóa địa phương và thời gian thư giãn trên bờ biển. Bạn sẽ có cơ hội chụp ảnh ngoạn mục trên đỉnh Sugarloaf, thỏa sức trước hàng trăm tia nước của Garganta del Diablo, và thưởng thức bít tết ngon chuẩn Argentina trong không gian đầy nhạc tango. 📸🍷
+Hành trình được thiết kế cân bằng giữa trải nghiệm tham quan và thời gian tự do, phù hợp cho cả du khách thích khám phá lẫn gia đình muốn nghỉ dưỡng. Phương tiện kết hợp máy bay và xe buýt giúp di chuyển nhanh, tiết kiệm thời gian để bạn tận hưởng nhiều điểm đến nhất trong 10 ngày. ✈️🚌
 
-Hành trình phù hợp cho cả nhóm bạn trẻ, cặp đôi lãng mạn và gia đình muốn một chuyến đi kết hợp kỳ quan thiên nhiên — văn hóa — ẩm thực. Đặt chỗ sớm để tận dụng giá khuyến mãi và lịch bay tốt nhất — liên hệ để giữ chỗ ngay hôm nay! ☀️📞
+Ẩm thực, điệu tango, và cảnh quan ngoạn mục sẽ khiến mỗi ngày đều là một bức ảnh đẹp để đời. Hướng dẫn viên tiếng Việt thân thiện sẽ đồng hành, hỗ trợ bạn xuyên suốt chuyến đi. Đặt chỗ ngay hôm nay để giữ giá tốt và biến giấc mơ Nam Mỹ thành hiện thực! 📸✨
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay đến Rio de Janeiro, làm thủ tục nhập cảnh ➡️ Di chuyển về khách sạn, nhận phòng
-  🌞 Trưa: ➡️ Nghỉ ngơi, ăn trưa nhẹ, dạo bãi biển Copacabana
-  🌙 Tối: ➡️ Ăn tối chào mừng, hướng dẫn viên giới thiệu chương trình
+  🌅 Sáng: ➡️ Khởi hành từ Việt Nam, đáp sân bay quốc tế tại Rio de Janeiro ➡️ Làm thủ tục nhập cảnh.
+  🌞 Trưa: ➡️ Nhận phòng khách sạn, nghỉ ngơi, ăn trưa.
+  🌙 Tối: ➡️ Dạo bờ biển Copacabana, thưởng thức hải sản địa phương.
+
 - Ngày 2:
-  🌅 Sáng: ➡️ Tham quan tượng Chúa Cứu Thế (Corcovado) ➡️ View toàn cảnh thành phố
-  🌞 Trưa: ➡️ Thưởng thức ẩm thực địa phương
-  🌙 Tối: ➡️ Tự do khám phá khu Ipanema, quán bar ven biển
+  🌅 Sáng: ➡️ Tham quan tượng Chúa Cứu Thế (Corcovado) ➡️ Check-in view toàn cảnh Rio.
+  🌞 Trưa: ➡️ Thưởng thức ẩm thực Brazil tại nhà hàng địa phương.
+  🌙 Tối: ➡️ Tự do khám phá khu Lapa, nghe nhạc samba.
+
 - Ngày 3:
-  🌅 Sáng: ➡️ Lên đỉnh Sugarloaf bằng cáp treo ➡️ Check-in panorama
-  🌞 Trưa: ➡️ Tham quan bảo tàng, khu phố nghệ thuật
-  🌙 Tối: ➡️ Dùng bữa, nghỉ ngơi chuẩn bị bay đến Iguazu
+  🌅 Sáng: ➡️ Thăm Sugarloaf Mountain bằng cáp treo ➡️ Chụp ảnh panorama.
+  🌞 Trưa: ➡️ Khám phá khu Ipanema, mua sắm nhỏ.
+  🌙 Tối: ➡️ Thưởng thức show nhạc sống hoặc tự do.
+
 - Ngày 4:
-  🌅 Sáng: ➡️ Bay nội địa đến Foz do Iguaçu (Brazil side)
-  🌞 Trưa: ➡️ Tham quan các điểm nhìn phía Brazil, chụp hình toàn cảnh thác
-  🌙 Tối: ➡️ Nghỉ tại khách sạn gần thác, tự do dạo phố
+  🌅 Sáng: ➡️ Bay nội địa tới Foz do Iguaçu ➡️ Nhận phòng.
+  🌞 Trưa: ➡️ Thăm Parque das Aves (vườn chim).
+  🌙 Tối: ➡️ Nghỉ ngơi, chuẩn bị cho chuyến tham quan thác.
+
 - Ngày 5:
-  🌅 Sáng: ➡️ Qua biên giới tham quan phía Argentina, lên đường khám phá bộ phận thác
-  🌞 Trưa: ➡️ Tham gia tour thuyền gần chân thác (tùy chọn)
-  🌙 Tối: ➡️ Thưởng thức bữa tối truyền thống, nghỉ ngơi
+  🌅 Sáng: ➡️ Tham quan thác Iguazu phía Brazil, đi bộ trên lối mòn ngắm toàn cảnh.
+  🌞 Trưa: ➡️ Ăn trưa ven công viên.
+  🌙 Tối: ➡️ Tự do, có thể đi chợ đêm nhỏ.
+
 - Ngày 6:
-  🌅 Sáng: ➡️ Khám phá thêm các tuyến đi bộ, vườn quốc gia
-  🌞 Trưa: ➡️ Chuẩn bị check-out, ra sân bay bay đến Buenos Aires
-  🌙 Tối: ➡️ Tham gia show tango + ăn tối đặc sắc
+  🌅 Sáng: ➡️ Vượt biên sang phía Argentina, khám phá thác Iguazu từ góc nhìn Argentina ➡️ Thử trải nghiệm boat ride (tuỳ chọn).
+  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng view thác.
+  🌙 Tối: ➡️ Trở về Foz do Iguaçu, nghỉ ngơi.
+
 - Ngày 7:
-  🌅 Sáng: ➡️ City tour Buenos Aires: Plaza de Mayo, Casa Rosada
-  🌞 Trưa: ➡️ Thăm Recoleta, nghĩa trang lịch sử
-  🌙 Tối: ➡️ Dạo khu Palermo, quán ăn địa phương
+  🌅 Sáng: ➡️ Bay tới Buenos Aires ➡️ Nhận phòng khách sạn.
+  🌞 Trưa: ➡️ Tham quan Plaza de Mayo, Casa Rosada.
+  🌙 Tối: ➡️ Thưởng thức show tango có bữa tối (tuỳ chọn).
+
 - Ngày 8:
-  🌅 Sáng: ➡️ Tham quan La Boca, Caminito, chụp ảnh nghệ thuật đường phố
-  🌞 Trưa: ➡️ Trải nghiệm ẩm thực Argentina, bít tết truyền thống
-  🌙 Tối: ➡️ Tự do mua sắm, khám phá phố đêm
+  🌅 Sáng: ➡️ Khám phá khu Recoleta: nghĩa trang nổi tiếng và quán cà phê.
+  🌞 Trưa: ➡️ Dạo San Telmo, chợ đồ cổ, ăn trưa kiểu Argentina.
+  🌙 Tối: ➡️ Dạo phố La Boca, xem nghệ sĩ đường phố.
+
 - Ngày 9:
-  🌅 Sáng: ➡️ Tham quan một estancia truyền thống hoặc du ngoạn Delta Tigre (tùy chọn)
-  🌞 Trưa: ➡️ Trải nghiệm phong cách sống địa phương, ăn trưa tại estancia
-  🌙 Tối: ➡️ Tiệc chia tay, tặng quà lưu niệm
+  🌅 Sáng: ➡️ Tham quan công viên và khu mua sắm, mua quà lưu niệm.
+  🌞 Trưa: ➡️ Trải nghiệm ẩm thực asado truyền thống.
+  🌙 Tối: ➡️ Tự do chuẩn bị hành lý, nghỉ ngơi.
+
 - Ngày 10:
-  🌅 Sáng: ➡️ Thời gian tự do, đóng gói hành lý
-  🌞 Trưa: ➡️ Làm thủ tục trả phòng, ra sân bay
-  🌙 Tối: ➡️ Bay về Việt Nam, kết thúc chương trình
+  🌅 Sáng: ➡️ Trả phòng, di chuyển ra sân bay.
+  🌞 Trưa: ➡️ Làm thủ tục bay về Việt Nam.
+  🌙 Tối: ➡️ Về đến Việt Nam, kết thúc chương trình.
 
 ## Ưu đãi
-Chương trình đang giảm giá mạnh: GIẢM 18% — từ 78.900.000 VND xuống chỉ còn 64.698.000 VND. 🎉 Đây là cơ hội tiết kiệm rõ rệt để trải nghiệm Rio, thác Iguazu và Buenos Aires trong một hành trình trọn vẹn. Số lượng chỗ khuyến mãi có hạn — đặt ngay để giữ mức giá ưu đãi! 📩
+Bạn được hưởng mức giảm giá lớn lên đến 18% — từ giá gốc 78.900.000 VND nay chỉ còn **64.698.000 VND**. Đây là cơ hội hiếm có để khám phá Rio, Iguazu và Buenos Aires với chi phí tiết kiệm mà vẫn đầy đủ trải nghiệm chất lượng. Nhanh tay đặt chỗ để giữ giá tốt nhất! 🔥🎉
 
 ## SEO Keywords
-Rio de Janeiro, thác Iguazu, Buenos Aires, tour Nam Mỹ, du lịch Rio Iguazu Buenos Aires
+tour Brazil Argentina, tour Rio de Janeiro, tour Iguazu, tour Buenos Aires, tour du lịch Nam Mỹ
 
 ---
 

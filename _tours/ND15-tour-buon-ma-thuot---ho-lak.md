@@ -14,7 +14,6 @@ duration: 3N2Đ
 discount: 9
 price: 4.900.000
 description: "## ✈️ Tour Buôn Ma Thuột - Hồ Lắk"
-keywords: "       Đắm mình trong trái tim cà phê Việt — Buôn Ma Thuột, nơi nắng vàng trải dài trên những vườn cà phê bạt ngàn và văn hóa Tây Nguyên sôi động. Hành trình 3N2Đ đưa bạn khám phá Hồ Lắk yên bình với mặt nước lấp lánh, chèo thuyền giữa mây nước và trải nghiệm nhà dài, cồng chiêng đậm chất bản địa. ☕🌄"
 ---
 
 ## ✈️ Tour Buôn Ma Thuột - Hồ Lắk 
@@ -27,34 +26,34 @@ keywords: "       Đắm mình trong trái tim cà phê Việt — Buôn Ma Thu�
 - 💵 Giá khuyến mãi: **4.459.000 VND**
 - ⏳ Thời gian du lịch: **3N2Đ**
 
-       ## Giới thiệu
-       Đắm mình trong trái tim cà phê Việt — Buôn Ma Thuột, nơi nắng vàng trải dài trên những vườn cà phê bạt ngàn và văn hóa Tây Nguyên sôi động. Hành trình 3N2Đ đưa bạn khám phá Hồ Lắk yên bình với mặt nước lấp lánh, chèo thuyền giữa mây nước và trải nghiệm nhà dài, cồng chiêng đậm chất bản địa. ☕🌄
-       
-       Bạn sẽ được thưởng thức cà phê tươi, tìm hiểu quy trình rang xay, thăm buôn làng, trò chuyện cùng đồng bào Ê Đê và thử cưỡi voi/ xem biểu diễn voi (tùy chương trình). Những hoàng hôn trên Hồ Lắk và bữa tối đặc sản Tây Nguyên sẽ để lại kỷ niệm khó quên. 🐘🌅
-       
-       Tour phù hợp cả gia đình, nhóm bạn muốn vừa nghỉ dưỡng vừa khám phá văn hóa. Lộ trình linh hoạt, hướng dẫn viên địa phương thân thiện, chỗ ở thoải mái — tất cả chuẩn bị để bạn có chuyến đi trọn vẹn. 🎒✨
-       
-       Đặt tour ngay để giữ chỗ và nhận ưu đãi hấp dẫn — trải nghiệm Tây Nguyên đậm bản sắc đang chờ bạn! 📲
+## Giới thiệu
+Khám phá Buôn Ma Thuột - trái tim cà phê Tây Nguyên và Hồ Lắk - hồ nước rộng mênh mang giữa núi rừng, tour 3N2Đ này là hành trình hoà mình vào thiên nhiên, văn hoá và ẩm thực đặc sắc. Bạn sẽ bước vào thế giới cà phê nguyên bản: thăm đồn điền, học cách rang xay, thưởng thức ly cà phê thức tỉnh buổi sớm giữa đồi chè xanh mướt ☕️🌄.
 
-       ## Hành trình
-       - Ngày 1:
-         🌅 Sáng: ➡️ Bay/đến Buôn Ma Thuột ➡️ Nhận khách, ăn sáng nhẹ ➡️ Tham quan Bảo tàng cà phê, vườn cà phê trải nghiệm
-         🌞 Trưa: Ăn trưa đặc sản Tây Nguyên, nghỉ ngơi tại khách sạn
-         🌙 Tối: Tham quan chợ đêm, tự do thưởng thức ẩm thực địa phương, nghỉ đêm tại Buôn Ma Thuột
-       - Ngày 2:
-         🌅 Sáng: ➡️ Khởi hành đi Hồ Lắk ➡️ Tham quan bến thuyền, trải nghiệm đi thuyền trên hồ, thăm buôn làng dân tộc
-         🌞 Trưa: Dùng bữa trưa bên hồ với đặc sản cá lăng, nghỉ ngơi
-         🌙 Tối: Giao lưu văn hóa cồng chiêng, thưởng thức chương trình văn nghệ, nghỉ đêm homestay/khách sạn gần hồ
-       - Ngày 3:
-         🌅 Sáng: ➡️ Tham quan Nhà dài truyền thống ➡️ Mua sắm quà đặc sản (cà phê, măng khô, mật ong)
-         🌞 Trưa: Ăn trưa, trả phòng
-         🌙 Tối: Đưa ra sân bay/khởi hành về điểm đến, kết thúc tour an toàn
+Tiếp đó là cảm xúc yên bình khi lướt thuyền trên Hồ Lắk, ghé thăm buôn làng dân tộc M’Nông và Ede, nghe tiếng cồng chiêng vang vọng giữa rừng già — những trải nghiệm văn hoá khiến hành trình thêm phần trọn vẹn 🎶🌿. Hành trình được thiết kế vừa đủ để bạn thư giãn, vừa đủ để khám phá những điểm đến ấn tượng của Dak Lak.
 
-       ## Ưu đãi
-       Hiện có ưu đãi giảm giá 9% — bạn chỉ còn phải trả **4.459.000 VND** (giá gốc **4.900.000 VND**). Nhanh tay đặt chỗ để tận hưởng trải nghiệm Tây Nguyên với mức giá tiết kiệm và dịch vụ trọn gói! 🔥💸
+Dành cho những ai muốn selfie cùng hoang dã, muốn thử cảm giác cưỡi voi (tùy chọn) hay đơn giản là thưởng thức bữa tối bên bờ hồ dưới bầu trời đầy sao, tour này mang đến mọi cung bậc cảm xúc. Đặt chỗ ngay hôm nay để nhận ưu đãi hấp dẫn và bắt đầu hành trình Tây Nguyên đầy cảm hứng! ✨📩
 
-       ## SEO Keywords
-       Tour Buôn Ma Thuột, Hồ Lắk, du lịch Tây Nguyên, tour 3N2Đ Buôn Ma Thuột, cà phê Buôn Ma Thuột
+## Hành trình
+- Ngày 1:
+  🌅 Sáng: ➡️ Đón sân bay Buôn Ma Thuột, ➡️ nhận phòng khách sạn, ➡️ tham quan Bảo tàng Cà phê và làng cà phê địa phương.
+  🌞 Trưa: Thưởng thức đặc sản Tây Nguyên tại nhà hàng địa phương.
+  🌙 Tối: Dạo chợ đêm Buôn Ma Thuột, trải nghiệm ẩm thực đường phố và nghỉ ngơi chuẩn bị ngày khám phá tiếp theo.
+
+- Ngày 2:
+  🌅 Sáng: ➡️ Khởi hành đến Hồ Lắk, ➡️ lên thuyền tham quan hồ, ➡️ ghé thăm buôn làng M’Nông/Ede.
+  🌞 Trưa: Dùng cơm trưa bên hồ với món cá nướng và cơm lam.
+  🌙 Tối: Tham gia chương trình văn hoá cồng chiêng, đốt lửa trại, nghỉ đêm homestay/khách sạn ven hồ.
+
+- Ngày 3:
+  🌅 Sáng: ➡️ Thăm vườn cà phê, ➡️ trải nghiệm thu hoạch & rang xay, ➡️ thưởng thức cà phê tươi.
+  🌞 Trưa: Trở về Buôn Ma Thuột, ăn trưa và mua sắm đặc sản (cà phê, mật ong, măng khô).
+  🌙 Tối: Tiễn sân bay, kết thúc tour, chia tay và hẹn gặp lại.
+
+## Ưu đãi
+Hiện có chương trình giảm giá hấp dẫn: Giảm ngay **9%** so với giá gốc. Giá khuyến mãi đã được tính sẵn chỉ còn **4.459.000 VND** — tiết kiệm rõ rệt mà vẫn đảm bảo trải nghiệm trọn vẹn. Nhanh tay đặt chỗ để giữ mức giá ưu đãi này! 🔥
+
+## SEO Keywords
+tour Buôn Ma Thuột, Hồ Lắk, tour Dak Lak 3N2Đ, du lịch Tây Nguyên, tour văn hóa cồng chiêng
 
 ---
 

@@ -14,7 +14,6 @@ duration: 4N3Đ
 discount: 10
 price: 6.900.000
 description: "## ✈️ Tour Sapa - Fansipan"
-keywords: "Khám phá Sapa - Fansipan trong 4 ngày 3 đêm là hành trình dành cho những ai yêu thiên nhiên, săn mây và muốn trải nghiệm văn hóa bản địa. Bạn sẽ được đón bình minh trên các thửa ruộng bậc thang, hít thở không khí trong lành của núi rừng Tây Bắc và chiêm ngưỡng nóc nhà Đông Dương từ cáp treo Fansipan. 🏔️✨"
 ---
 
 ## ✈️ Tour Sapa - Fansipan 
@@ -28,35 +27,35 @@ keywords: "Khám phá Sapa - Fansipan trong 4 ngày 3 đêm là hành trình dà
 - ⏳ Thời gian du lịch: **4N3Đ**
 
 ## Giới thiệu
-Khám phá Sapa - Fansipan trong 4 ngày 3 đêm là hành trình dành cho những ai yêu thiên nhiên, săn mây và muốn trải nghiệm văn hóa bản địa. Bạn sẽ được đón bình minh trên các thửa ruộng bậc thang, hít thở không khí trong lành của núi rừng Tây Bắc và chiêm ngưỡng “nóc nhà Đông Dương” từ cáp treo Fansipan. 🏔️✨
+Sapa - mảnh đất mây phủ, ruộng bậc thang uốn lượn và những bản làng dân tộc nhiều màu sắc là điểm đến lý tưởng cho ai muốn trốn khỏi ồn ào thành phố. Hít một hơi không khí trong trẻo, đi giữa thung lũng Muông Hoa hay chạm tay vào sương mờ trên đỉnh Fansipan sẽ cho bạn cảm giác nhẹ nhàng và đầy cảm hứng. 🌿❄️
 
-Tour kết hợp tiện lợi giữa tàu và ô tô, giúp bạn có trải nghiệm trọn vẹn mà vẫn thoải mái nghỉ ngơi. Trong hành trình, du khách sẽ tham quan bản Cát Cát, thung lũng Mường Hoa, chợ đêm Sapa và thưởng thức ẩm thực đặc sản như cá suối, thắng cố, cơm lam. Đặc biệt, chinh phục đỉnh Fansipan bằng cáp treo là điểm nhấn không thể bỏ qua, mang đến cảm giác tự hào và thư thái khi đứng giữa mây trời. 🚠🌤️
+Hành trình kết hợp trải nghiệm cáp treo lên đỉnh Fansipan - “nóc nhà Đông Dương” và những chuyến trekking qua bản làng sẽ giúp bạn cả thấy thán phục trước thiên nhiên, lẫn hiểu thêm về văn hóa địa phương. Thưởng thức thắng cố, cá nướng hay đồ nướng Tây Bắc giữa tiết trời se lạnh là kỷ niệm khó quên. 🚡🏔️
 
-Hãy chọn ND03 để trải nghiệm một Sapa chân thực, vừa lãng mạn vừa phượt nhẹ nhàng cùng hướng dẫn viên bản địa tận tâm. Đặt chỗ sớm để nhận ngay giá khuyến mãi 10% và giữ vị trí đẹp cho mùa săn mây! 📞✅
+Chuyến đi được thiết kế nhẹ nhàng 4N3Đ, di chuyển bằng tàu + xe để tối ưu tiện nghi và tiết kiệm thời gian. Phù hợp cho cặp đôi, gia đình hoặc nhóm bạn muốn khám phá Sapa sâu hơn mà vẫn thư thái. Hãy cùng chúng tôi lên kế hoạch cho hành trình chinh phục mây trắng và lưu giữ những khoảnh khắc tuyệt đẹp! 📸✨ Đặt chỗ sớm để nhận ưu đãi hấp dẫn nhé!
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Tập trung tại điểm hẹn ở Hà Nội ➡️ Lên tàu/xe khởi hành đi Lào Cai/Sapa.
-  🌞 Trưa: ➡️ Nghỉ ngơi trên đường, ăn nhẹ trên tàu/xe ➡️ Đến Sapa, nhận phòng, ăn trưa.
-  🌙 Tối: ➡️ Tham quan chợ đêm Sapa ➡️ Thưởng thức ẩm thực địa phương, tự do khám phá.
+  🌅 Sáng: ➡️ Tập trung tại điểm hẹn, làm thủ tục lên tàu khởi hành đi Lào Cai ➡️ Nghỉ ngơi trên tàu.
+  🌞 Trưa: ➡️ Đến Lào Cai, xe đón lên Sapa ➡️ Nhận phòng khách sạn, ăn trưa.
+  🌙 Tối: ➡️ Dạo chợ đêm Sapa, thưởng thức ẩm thực địa phương, nghỉ ngơi tại khách sạn.
 - Ngày 2:
-  🌅 Sáng: ➡️ Ăn sáng tại khách sạn ➡️ Khởi hành đi cáp treo Fansipan ➡️ Chinh phục đỉnh Fansipan, check-in.
-  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương ➡️ Tham quan khu du lịch Sun World.
-  🌙 Tối: ➡️ Trở về Sapa, nghỉ ngơi hoặc thưởng thức spa chân/masage tùy chọn.
+  🌅 Sáng: ➡️ Ăn sáng, di chuyển tới ga cáp treo Fansipan ➡️ Trải nghiệm cáp treo lên đỉnh, check-in panorama.
+  🌞 Trưa: ➡️ Tham quan quần thể Sun World, ăn trưa tại nhà hàng địa phương.
+  🌙 Tối: ➡️ Về lại Sapa, tự do khám phá town hoặc tham gia chương trình văn hóa dân tộc.
 - Ngày 3:
-  🌅 Sáng: ➡️ Khởi hành trekking bản Cát Cát / Tả Van ➡️ Gặp gỡ người dân tộc, tìm hiểu văn hóa.
-  🌞 Trưa: ➡️ Dùng bữa trưa tại homestay hoặc nhà hàng bản địa ➡️ Tham quan thung lũng Mường Hoa.
-  🌙 Tối: ➡️ Thưởng thức chương trình văn hóa (nếu có) ➡️ Tự do dạo phố, mua quà lưu niệm.
+  🌅 Sáng: ➡️ Trekking thung lũng Mường Hoa, bản Lao Chải - Tả Van ➡️ Tham quan bản người H’Mông, Giáy.
+  🌞 Trưa: ➡️ Dùng cơm trưa cùng gia đình người dân bản địa, nghỉ ngơi.
+  🌙 Tối: ➡️ Thưởng thức đồ nướng, tự do mua sắm quà lưu niệm.
 - Ngày 4:
-  🌅 Sáng: ➡️ Thăm vườn hoa Hàm Rồng hoặc chụp ảnh check-out phòng.
-  🌞 Trưa: ➡️ Trả phòng, ăn trưa nhẹ ➡️ Lên tàu/xe quay về Hà Nội.
-  🌙 Tối: ➡️ Về đến điểm đón ban đầu, kết thúc tour, chào tạm biệt và hẹn gặp lại.
+  🌅 Sáng: ➡️ Tham quan Thác Bạc hoặc vườn hoa, check-out khách sạn.
+  🌞 Trưa: ➡️ Di chuyển về Lào Cai, ăn trưa nhẹ.
+  🌙 Tối: ➡️ Lên tàu về Hà Nội / trả khách tại điểm hẹn, kết thúc hành trình.
 
 ## Ưu đãi
-Chương trình đang áp dụng GIẢM NGAY 10% — từ giá gốc 6.900.000 VND xuống chỉ còn 6.210.000 VND. Ưu đãi giới hạn, đặt sớm để giữ chỗ và nhận mức giá khuyến mãi hấp dẫn này! 🔥💸
+Hiện có chương trình GIẢM NGAY 10% — bạn chỉ cần thanh toán giá khuyến mãi: **6.210.000 VND** (tiết kiệm 690.000 VND so với giá gốc 6.900.000 VND). Nhanh tay đặt chỗ để giữ mức giá ưu đãi và chọn vị trí tốt trên tàu/cáp treo!
 
 ## SEO Keywords
-tour Sapa, Fansipan, tour Sapa Fansipan, du lịch Sapa, chinh phục Fansipan
+Tour Sapa, Fansipan, tour Sapa 4N3Đ, du lịch Sapa, cáp treo Fansipan
 
 ---
 

@@ -13,12 +13,13 @@ location: Seoul - Đảo Nami
 duration: 4N3Đ
 discount: 12
 price: 18.900.000
-description: "- 🆔 Mã tour: **QT04**"
-keywords: "Khám phá Seoul rực rỡ và lãng mạn Đảo Nami trong hành trình 4N3Đ — sự kết hợp hoàn hảo giữa văn hóa cổ truyền và nhịp sống hiện đại của Hàn Quốc 🇰🇷. Từ cung điện Gyeongbokgung, phố cổ Bukchon đến những con đường mua sắm sầm uất Myeongdong, mỗi khoảnh khắc đều là cơ hội sống ảo và trải nghiệm ẩm thực tuyệt vời 🍜."
+description: "## ✈️ Tour Hàn Quốc Seoul - Nami"
 ---
 
-## ✈️ Tour Hàn Quốc Seoul - Nami
+## ✈️ Tour Hàn Quốc Seoul - Nami 
 
+- 🆔 Mã tour: **QT04**
+- 📍 Địa điểm: **Seoul - Đảo Nami**
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **18.900.000 VND**
 - 🔥 Giảm giá: **12%**
@@ -26,36 +27,35 @@ keywords: "Khám phá Seoul rực rỡ và lãng mạn Đảo Nami trong hành t
 - ⏳ Thời gian du lịch: **4N3Đ**
 
 ## Giới thiệu
-Khám phá Seoul rực rỡ và lãng mạn Đảo Nami trong hành trình 4N3Đ — sự kết hợp hoàn hảo giữa văn hóa cổ truyền và nhịp sống hiện đại của Hàn Quốc 🇰🇷. Từ cung điện Gyeongbokgung, phố cổ Bukchon đến những con đường mua sắm sầm uất Myeongdong, mỗi khoảnh khắc đều là cơ hội sống ảo và trải nghiệm ẩm thực tuyệt vời 🍜.
+Hãy để mình dẫn bạn vào hành trình khám phá Seoul rực rỡ và Đảo Nami thơ mộng — nơi giao thoa giữa nhịp sống đô thị hiện đại và bình yên của thiên nhiên. Bạn sẽ được dạo bước trong những con phố mua sắm Myeongdong sầm uất, ngắm thành phố từ N Seoul Tower, và thả hồn giữa hàng cây lãng mạn trên Đảo Nami — điểm check-in không thể bỏ qua cho mọi mùa trong năm. 🌸🍂
 
-Đảo Nami nổi tiếng với hàng cây đẹp như tranh, là background lý tưởng cho ảnh cưới, ảnh couple và kỷ niệm mùa thu hoặc mùa đông ❄️. Bạn sẽ được cảm nhận không khí yên bình, đi dạo trên lối mòn gỗ và thử các món đặc sản địa phương. Hành trình được thiết kế hợp lý, tiết kiệm thời gian nhưng vẫn đảm bảo trải nghiệm sâu sắc và thoải mái cho du khách 👣.
+Tour 4N3Đ này được thiết kế vừa đủ để bạn trải nghiệm tinh hoa văn hóa Hàn Quốc: lễ nghi cung điện, làng cổ Bukchon, phố nghệ thuật Insadong và những khu mua sắm chính hiệu. Hướng dẫn viên tiếng Việt nhiệt tình sẽ đồng hành, giúp bạn hiểu hơn về lịch sử, ẩm thực và mẹo mua sắm tiết kiệm. 🥢🛍️
 
-Dịch vụ bay trọn gói, khách sạn tiêu chuẩn, hướng dẫn viên tiếng Việt giàu kinh nghiệm và lịch trình linh hoạt giúp chuyến đi trở nên nhẹ nhàng và đáng nhớ. Đừng bỏ lỡ cơ hội săn ưu đãi đặc biệt này — đặt chỗ sớm để giữ chỗ và nhận giá khuyến mãi hấp dẫn nhé! ✨
+Dành cho cặp đôi, nhóm bạn hay gia đình muốn một chuyến đi nhẹ nhàng nhưng trọn vẹn — lịch trình linh hoạt, chỗ ở tiện nghi và bữa sáng chuẩn Hàn. Đặt ngay để tận hưởng ưu đãi đặc biệt và lên đường khám phá Seoul cùng chúng tôi! ✨📲
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay từ Việt Nam ➡️ Đến sân bay Incheon ➡️ Làm thủ tục nhập cảnh và di chuyển về trung tâm Seoul.
-  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương ➡️ Tham quan Gyeongbokgung, chụp hình ở cổng Gwanghwamun.
-  🌙 Tối: ➡️ Dạo phố Insadong ➡️ Thưởng thức ẩm thực truyền thống ➡️ Nhận phòng khách sạn, nghỉ ngơi.
+  🌅 Sáng: ➡️ Bay từ Việt Nam đến Seoul ➡️ Làm thủ tục nhập cảnh ➡️ Nhận hành lý và xe đưa đón
+  🌞 Trưa: Nhận phòng khách sạn, nghỉ ngơi, dùng bữa trưa
+  🌙 Tối: Tham quan Myeongdong, ăn tối với món nướng Hàn, tự do mua sắm
 - Ngày 2:
-  🌅 Sáng: ➡️ Tham quan Đảo Nami ➡️ Đi bộ dọc lối cây, chụp ảnh check-in.
-  🌞 Trưa: ➡️ Thưởng thức món địa phương trên đảo ➡️ Ghé Garden of Morning Calm (nếu thời gian cho phép).
-  🌙 Tối: ➡️ Trở về Seoul ➡️ Khám phá Myeongdong, shopping mỹ phẩm và street food.
+  🌅 Sáng: ➡️ Khởi hành đến Đảo Nami ➡️ Dạo bộ giữa hàng cây, chụp hình sống ảo
+  🌞 Trưa: Thưởng thức ẩm thực địa phương trên đảo
+  🌙 Tối: Thăm Petite France hoặc khu rừng lãng mạn, trở về Seoul
 - Ngày 3:
-  🌅 Sáng: ➡️ Tham quan Bukchon Hanok Village ➡️ Thăm Nhà Xanh (Blue House) bên ngoài.
-  🌞 Trưa: ➡️ Thưởng thức món ăn Hàn Quốc, trải nghiệm quán cà phê chủ đề.
-  🌙 Tối: ➡️ Tham quan N Seoul Tower ➡️ Ngắm toàn cảnh thành phố về đêm.
+  🌅 Sáng: ➡️ Tham quan Cung Gyeongbokgung ➡️ Xem nghi thức đổi gác, chụp hình áo hanbok
+  🌞 Trưa: Tham quan Bukchon Hanok Village và phố Insadong, ăn trưa
+  🌙 Tối: Ghé Hongdae/Guangjang Market, trải nghiệm ẩm thực đường phố
 - Ngày 4:
-  🌅 Sáng: ➡️ Check-out khách sạn ➡️ Tham quan chợ địa phương (Dongdaemun/ Namdaemun).
-  🌞 Trưa: ➡️ Mua sắm đồ lưu niệm ➡️ Ăn trưa và chuẩn bị ra sân bay.
-  🌙 Tối: ➡️ Làm thủ tục lên máy bay ➡️ Về Việt Nam, kết thúc hành trình.
+  🌅 Sáng: ➡️ Thời gian tự do mua sắm, đóng gói hành lý
+  🌞 Trưa: Check-out, di chuyển ra sân bay
+  🌙 Tối: Bay về Việt Nam, kết thúc hành trình và chia tay đoàn
 
 ## Ưu đãi
-🔥 Hiện có ưu đãi giảm giá 12% — Giá tour gốc 18.900.000 VND, giá khuyến mãi chỉ còn 16.632.000 VND.  
-Nhanh tay đặt chỗ để tận hưởng hành trình chất lượng với mức giá tiết kiệm, số lượng có hạn!
+Hiện tại tour được giảm ngay **12%** — từ giá gốc **18.900.000 VND** chỉ còn **16.632.000 VND**, bạn tiết kiệm **2.268.000 VND**. Nhanh tay đặt chỗ để nhận mức giá ưu đãi này và giữ chỗ cho ngày khởi hành mong muốn! 🎉
 
 ## SEO Keywords
-Tour Seoul Đảo Nami, Du lịch Hàn Quốc 4N3Đ, Tour Nami Island, Khám phá Seoul Myeongdong, Tour giá rẻ Seoul
+Tour Hàn Quốc, Du lịch Seoul, Đảo Nami, Tour 4N3Đ, Tour Hàn Quốc giá rẻ
 
 ---
 

@@ -88,6 +88,6 @@ tour Nam Phi, Cape Town Kruger, safari Nam Phi, du lịch Cape Town, tour Johann
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

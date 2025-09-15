@@ -59,6 +59,6 @@ tour Hạ Long 2 ngày 1 đêm, tour Tuần Châu, du lịch Hạ Long giá rẻ
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

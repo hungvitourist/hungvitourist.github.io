@@ -68,6 +68,6 @@ tour Quy Nhơn Phú Yên, du lịch Quy Nhơn, tour 4N3Đ Quy Nhơn, Kỳ Co Eo 
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

@@ -75,6 +75,6 @@ tour Đài Loan 5N4Đ, tour Đài Bắc Cao Hùng Đài Trung, du lịch Đài L
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

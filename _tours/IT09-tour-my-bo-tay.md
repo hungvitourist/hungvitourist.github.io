@@ -91,6 +91,6 @@ du lịch Mỹ, tour Los Angeles Las Vegas San Francisco, tour Mỹ 10 ngày, du
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

@@ -73,6 +73,6 @@ tour Bali, du lịch Bali 5 ngày, Ubud Tanah Lot, tour trọn gói Bali, tour g
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

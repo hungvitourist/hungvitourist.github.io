@@ -58,6 +58,6 @@ tour Núi Bà Đen, du lịch Tây Ninh 1N, cáp treo Núi Bà Đen, tour ngắn
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

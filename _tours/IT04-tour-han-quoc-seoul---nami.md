@@ -66,6 +66,6 @@ Tour Seoul Đảo Nami, Tour Hàn Quốc 4N3Đ, Du lịch Seoul, Đảo Nami, To
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

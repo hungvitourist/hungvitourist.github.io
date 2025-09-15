@@ -68,6 +68,6 @@ tour Sapa, Fansipan, tour 4N3Đ Sapa, du lịch Sapa bằng tàu, tour Sapa giá
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

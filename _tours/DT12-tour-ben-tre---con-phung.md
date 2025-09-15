@@ -58,6 +58,6 @@ tour Bến Tre, tour Cồn Phụng 2N1Đ, du lịch miệt vườn, tour giá r�
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

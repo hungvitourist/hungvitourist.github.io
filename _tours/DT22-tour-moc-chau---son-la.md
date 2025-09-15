@@ -58,6 +58,6 @@ tour Mộc Châu 2 ngày, du lịch Mộc Châu, tour Mộc Châu giá rẻ, đ�
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{ site.phone_number }}
+☎️ Hotline: (+84) {{ site.author.telephone }}
 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

@@ -19,8 +19,6 @@ keywords: "Khám phá Bến Tre - Cồn Phụng 2N1Đ: sông nước miệt vư�
 
 ## ✈️ Tour Bến Tre - Cồn Phụng
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.700.000 VND**
 - 🔥 Giảm giá: **6%**

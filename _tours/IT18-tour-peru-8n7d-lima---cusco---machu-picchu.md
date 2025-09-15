@@ -19,8 +19,6 @@ keywords: "Khám phá Peru: Lima, Cusco và kỳ quan Machu Picchu trong 8N7Đ t
 
 ## ✈️ Tour Peru 8N7Đ: Lima - Cusco - Machu Picchu
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **69.900.000 VND**
 - 🔥 Giảm giá: **15%**

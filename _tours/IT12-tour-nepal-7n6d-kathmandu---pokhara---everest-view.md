@@ -19,8 +19,6 @@ keywords: "Khám phá Nepal 7N6Đ: Kathmandu, Pokhara và Everest View. Hành tr
 
 ## ✈️ Tour Nepal 7N6Đ: Kathmandu - Pokhara - Everest View
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **32.500.000 VND**
 - 🔥 Giảm giá: **12%**

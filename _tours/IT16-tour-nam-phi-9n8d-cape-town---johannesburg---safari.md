@@ -19,8 +19,6 @@ keywords: "Khám phá Nam Phi 9N8Đ: từ Cape Town rực rỡ, chuyến du ngo�
 
 ## ✈️ Tour Nam Phi 9N8Đ: Cape Town - Johannesburg - Safari
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚙**
 - 💰 Giá tour gốc: **62.900.000 VND**
 - 🔥 Giảm giá: **15%**

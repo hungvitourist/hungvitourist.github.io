@@ -19,8 +19,6 @@ keywords: "Tour Pleiku - Kon Tum 3N2Đ: khám phá Biển Hồ T'Nưng, Nhà th�
 
 ## ✈️ Tour Pleiku - Kon Tum
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **5.100.000 VND**
 - 🔥 Giảm giá: **8%**

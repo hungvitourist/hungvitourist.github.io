@@ -19,8 +19,6 @@ keywords: "Khám phá Quy Nhơn - Phú Yên 4N3Đ: bãi biển hoang sơ, Kỳ C
 
 ## ✈️ Tour Quy Nhơn - Phú Yên
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **5.900.000 VND**
 - 🔥 Giảm giá: **9%**

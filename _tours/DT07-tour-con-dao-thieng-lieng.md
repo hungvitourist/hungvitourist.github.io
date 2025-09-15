@@ -19,8 +19,6 @@ keywords: "Tour Côn Đảo 3N2Đ: tận hưởng biển xanh, bãi cát trắng
 
 ## ✈️ Tour Côn Đảo Thiêng Liêng
 
-
-
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **7.500.000 VND**
 - 🔥 Giảm giá: **10%**

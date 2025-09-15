@@ -19,8 +19,6 @@ keywords: "Khám phá Cà Mau - Đất Mũi 3N2Đ: đón bình minh tại mũi c
 
 ## ✈️ Tour Cà Mau - Đất Mũi
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **4.600.000 VND**
 - 🔥 Giảm giá: **8%**

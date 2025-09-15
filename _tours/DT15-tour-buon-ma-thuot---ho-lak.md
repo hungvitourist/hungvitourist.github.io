@@ -19,8 +19,6 @@ keywords: "Tour Buôn Ma Thuột - Hồ Lắk 3N2Đ: thưởng thức cà phê �
 
 ## ✈️ Tour Buôn Ma Thuột - Hồ Lắk
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **4.900.000 VND**
 - 🔥 Giảm giá: **9%**

@@ -19,8 +19,6 @@ keywords: "Trải nghiệm 3N2Đ khám phá Hà Khẩu - Bình Biên - Kiến Th
 
 ## ✈️ Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **11.900.000 VND**
 - 🔥 Giảm giá: **12%**

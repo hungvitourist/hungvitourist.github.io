@@ -19,8 +19,6 @@ keywords: "Tour Mộc Châu 2N1Đ: đồi chè, rừng thông Bản Áng, thác 
 
 ## ✈️ Tour Mộc Châu - Sơn La
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **3.300.000 VND**
 - 🔥 Giảm giá: **9%**

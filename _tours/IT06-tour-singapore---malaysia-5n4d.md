@@ -19,8 +19,6 @@ keywords: "Khám phá Singapore - Kuala Lumpur 5N4Đ: trải nghiệm Marina Bay
 
 ## ✈️ Tour Singapore - Malaysia 5N4Đ
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **21.500.000 VND**
 - 🔥 Giảm giá: **8%**

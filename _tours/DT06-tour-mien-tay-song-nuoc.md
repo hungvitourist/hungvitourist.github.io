@@ -19,8 +19,6 @@ keywords: "Tour Cần Thơ - Sóc Trăng - Bạc Liêu 3N2Đ: trải nghiệm ch
 
 ## ✈️ Tour Miền Tây Sông Nước
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **4.500.000 VND**
 - 🔥 Giảm giá: **8%**

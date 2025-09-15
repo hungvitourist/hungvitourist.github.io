@@ -19,8 +19,6 @@ keywords: "Tour Moscow - St. Petersburg 8N7Đ: thưởng ngoạn Quảng trườ
 
 ## ✈️ Tour Nga 8N7Đ: Moscow - St. Petersburg
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **39.900.000 VND**
 - 🔥 Giảm giá: **15%**

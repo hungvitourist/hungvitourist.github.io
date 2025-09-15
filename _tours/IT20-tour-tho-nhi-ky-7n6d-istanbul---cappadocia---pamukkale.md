@@ -19,8 +19,6 @@ keywords: "Khám phá Istanbul, Cappadocia và Pamukkale trong 7N6Đ: khinh khí
 
 ## ✈️ Tour Thổ Nhĩ Kỳ 7N6Đ: Istanbul - Cappadocia - Pamukkale
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **41.900.000 VND**
 - 🔥 Giảm giá: **14%**

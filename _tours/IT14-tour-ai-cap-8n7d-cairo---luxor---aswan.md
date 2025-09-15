@@ -19,8 +19,6 @@ keywords: "Khám phá Ai Cập cổ đại: Cairo - Luxor - Aswan 8N7Đ trên du
 
 ## ✈️ Tour Ai Cập 8N7Đ: Cairo - Luxor - Aswan
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚢**
 - 💰 Giá tour gốc: **45.900.000 VND**
 - 🔥 Giảm giá: **18%**

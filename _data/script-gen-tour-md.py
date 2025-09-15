@@ -160,8 +160,6 @@ keywords: "{keywords}"
 
 ## ✈️ {title}
 
-
-
 {content}
 
 ---

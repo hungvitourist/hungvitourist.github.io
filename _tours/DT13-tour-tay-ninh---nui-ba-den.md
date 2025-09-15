@@ -8,7 +8,7 @@ bigimg:
 image: "/img/tours/domestic/tay-ninh-nui-ba-den.jpg"
 tags: tour tây ninh, núi bà đen, du lịch tâm linh, tour nội địa
 categories: [tours#domestic]
-transport: "🚌 + Cáp treo"
+transport: "🚌 + 🚠"
 location: Tây Ninh - Núi Bà Đen
 duration: 1N
 discount: 5
@@ -18,8 +18,6 @@ keywords: "Tour 1N Núi Bà Đen (Tây Ninh) bằng cáp treo: ngắm biển mâ
 ---
 
 ## ✈️ Tour Tây Ninh - Núi Bà Đen
-
-
 
 - 🚗 Phương tiện: **🚌 + Cáp treo**
 - 💰 Giá tour gốc: **1.500.000 VND**

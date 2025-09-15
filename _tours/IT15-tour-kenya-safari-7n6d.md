@@ -19,8 +19,6 @@ keywords: "Trải nghiệm safari Kenya 7N6Đ: khám phá Nairobi, Maasai Mara h
 
 ## ✈️ Tour Kenya Safari 7N6Đ
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚙**
 - 💰 Giá tour gốc: **56.900.000 VND**
 - 🔥 Giảm giá: **20%**

@@ -19,8 +19,6 @@ keywords: "Tour Nha Trang - Đà Lạt 4N3Đ: trải nghiệm biển xanh - sư�
 
 ## ✈️ Tour Nha Trang - Đà Lạt
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **5.500.000 VND**
 - 🔥 Giảm giá: **10%**

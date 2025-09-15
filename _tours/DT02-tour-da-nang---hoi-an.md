@@ -19,8 +19,6 @@ keywords: "Khám phá Đà Nẵng - Hội An 3N2Đ: bãi biển Mỹ Khê, cầu
 
 ## ✈️ Tour Đà Nẵng - Hội An
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **5.990.000 VND**
 - 🔥 Giảm giá: **8%**

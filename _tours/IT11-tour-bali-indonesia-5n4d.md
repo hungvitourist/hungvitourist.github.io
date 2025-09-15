@@ -19,8 +19,6 @@ keywords: "Khám phá Bali: Ubud thơ mộng, ruộng bậc thang, Monkey Forest
 
 ## ✈️ Tour Bali Indonesia 5N4Đ
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **19.900.000 VND**
 - 🔥 Giảm giá: **10%**

@@ -19,8 +19,6 @@ keywords: "Khám phá Hà Giang - Cao Bằng 5N4Đ: đèo Mã Pí Lèng, đồng
 
 ## ✈️ Tour Hà Giang - Cao Bằng
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **7.900.000 VND**
 - 🔥 Giảm giá: **12%**

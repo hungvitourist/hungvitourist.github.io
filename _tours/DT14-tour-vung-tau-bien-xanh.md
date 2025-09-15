@@ -19,8 +19,6 @@ keywords: "Tour Vũng Tàu 2N1Đ trọn gói: biển, ẩm thực, ngắm bình 
 
 ## ✈️ Tour Vũng Tàu Biển Xanh
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.600.000 VND**
 - 🔥 Giảm giá: **8%**

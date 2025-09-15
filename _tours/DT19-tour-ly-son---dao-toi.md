@@ -8,7 +8,7 @@ bigimg:
 image: "/img/tours/domestic/ly-son-dao-toi.jpg"
 tags: tour lý sơn, đảo tỏi, du lịch biển đảo, tour nội địa
 categories: [tours#domestic,hot]
-transport: "✈️ + Tàu"
+transport: "✈️ + 🚅"
 location: Lý Sơn - Đảo Tỏi
 duration: 3N2Đ
 discount: 9
@@ -18,8 +18,6 @@ keywords: "Khám phá Lý Sơn 3N2Đ: đảo tỏi hoang sơ, lặn ngắm san h
 ---
 
 ## ✈️ Tour Lý Sơn - Đảo Tỏi
-
-
 
 - 🚗 Phương tiện: **✈️ + Tàu**
 - 💰 Giá tour gốc: **5.400.000 VND**

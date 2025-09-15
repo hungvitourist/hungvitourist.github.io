@@ -19,8 +19,6 @@ keywords: "Trải nghiệm Hồ Ba Bể 3N2Đ: chèo thuyền giữa hồ xanh b
 
 ## ✈️ Tour Bắc Kạn - Hồ Ba Bể
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **5.200.000 VND**
 - 🔥 Giảm giá: **10%**

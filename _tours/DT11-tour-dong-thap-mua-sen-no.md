@@ -19,8 +19,6 @@ keywords: "Khám phá Đồng Tháp 2N1Đ: đầm sen bạt ngàn, làng hoa Sa 
 
 ## ✈️ Tour Đồng Tháp Mùa Sen Nở
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.800.000 VND**
 - 🔥 Giảm giá: **7%**

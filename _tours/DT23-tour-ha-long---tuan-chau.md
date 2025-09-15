@@ -8,7 +8,7 @@ bigimg:
 image: "/img/tours/domestic/ha-long-tuan-chau.jpg"
 tags: tour hạ long, tuần châu, du lịch miền bắc, tour nội địa
 categories: [tours#domestic]
-transport: "🚌 + Tàu"
+transport: "🚌 + 🚅"
 location: Hạ Long - Tuần Châu
 duration: 2N1Đ
 discount: 8
@@ -18,8 +18,6 @@ keywords: "Khám phá Hạ Long - Tuần Châu 2N1Đ: du thuyền ngắm vịnh,
 ---
 
 ## ✈️ Tour Hạ Long - Tuần Châu
-
-
 
 - 🚗 Phương tiện: **🚌 + Tàu**
 - 💰 Giá tour gốc: **3.200.000 VND**

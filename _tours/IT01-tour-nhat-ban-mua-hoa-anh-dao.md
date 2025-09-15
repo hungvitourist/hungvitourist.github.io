@@ -19,8 +19,6 @@ keywords: "Tour Tokyo - Kyoto - Osaka 5N4Đ: khám phá văn hóa truyền thố
 
 ## ✈️ Tour Nhật Bản Mùa Hoa Anh Đào
 
-
-
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **32.900.000 VND**
 - 🔥 Giảm giá: **8%**

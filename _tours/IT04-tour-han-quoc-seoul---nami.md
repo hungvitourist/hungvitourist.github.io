@@ -19,8 +19,6 @@ keywords: "Khám phá Seoul & lãng mạn Đảo Nami trong tour 4N3Đ: bay, KS 
 
 ## ✈️ Tour Hàn Quốc Seoul - Nami
 
-
-
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **18.900.000 VND**
 - 🔥 Giảm giá: **12%**

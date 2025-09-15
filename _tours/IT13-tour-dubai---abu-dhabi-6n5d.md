@@ -19,8 +19,6 @@ keywords: "Khám phá Dubai - Abu Dhabi 6N5Đ: trải nghiệm Burj Khalifa, sa 
 
 ## ✈️ Tour Dubai - Abu Dhabi 6N5Đ
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **39.900.000 VND**
 - 🔥 Giảm giá: **15%**

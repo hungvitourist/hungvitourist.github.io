@@ -19,8 +19,6 @@ keywords: "Khám phá Phú Quốc 3N2Đ: biển xanh, cát trắng, lặn ngắm
 
 ## ✈️ Tour Phú Quốc Nghỉ Dưỡng 3N2Đ
 
-
-
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **3.990.000 VND**
 - 🔥 Giảm giá: **5%**

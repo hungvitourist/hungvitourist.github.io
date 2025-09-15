@@ -19,8 +19,6 @@ keywords: "Khám phá Cần Giờ - Đảo Khỉ 2N1Đ: tham quan rừng ngập 
 
 ## ✈️ Tour Cần Giờ - Đảo Khỉ
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.900.000 VND**
 - 🔥 Giảm giá: **6%**

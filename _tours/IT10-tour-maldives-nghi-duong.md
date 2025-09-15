@@ -19,8 +19,6 @@ keywords: "Khám phá thiên đường Maldives 5N4Đ: nghỉ dưỡng Malé & r
 
 ## ✈️ Tour Maldives Nghỉ Dưỡng
 
-
-
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **55.900.000 VND**
 - 🔥 Giảm giá: **10%**

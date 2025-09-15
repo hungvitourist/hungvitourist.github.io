@@ -19,8 +19,6 @@ keywords: "Khám phá Huế - Quảng Bình 3N2Đ: lăng tẩm cổ kính, sông
 
 ## ✈️ Tour Huế - Động Phong Nha
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **4.800.000 VND**
 - 🔥 Giảm giá: **7%**

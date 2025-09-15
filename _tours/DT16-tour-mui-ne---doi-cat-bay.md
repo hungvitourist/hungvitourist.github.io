@@ -19,8 +19,6 @@ keywords: "Khám phá Mũi Né - Đồi Cát Bay 2N1Đ: ngắm bình minh trên 
 
 ## ✈️ Tour Mũi Né - Đồi Cát Bay
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.500.000 VND**
 - 🔥 Giảm giá: **7%**

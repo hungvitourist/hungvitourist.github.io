@@ -19,8 +19,6 @@ keywords: "Tour 5N4Đ Bangkok - Pattaya: khám phá đền chùa, mua sắm, đ�
 
 ## ✈️ Tour Thái Lan Bangkok - Pattaya
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **12.900.000 VND**
 - 🔥 Giảm giá: **10%**

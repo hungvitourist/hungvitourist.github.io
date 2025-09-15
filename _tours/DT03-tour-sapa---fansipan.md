@@ -19,8 +19,6 @@ keywords: "Khám phá Sapa - Fansipan 4N3Đ trọn vẹn: tàu + xe tiện lợi
 
 ## ✈️ Tour Sapa - Fansipan
 
-
-
 - 🚗 Phương tiện: **🚆 + 🚌**
 - 💰 Giá tour gốc: **6.900.000 VND**
 - 🔥 Giảm giá: **10%**

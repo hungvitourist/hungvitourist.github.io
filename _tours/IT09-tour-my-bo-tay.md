@@ -19,8 +19,6 @@ keywords: "Tour 10N9Đ Los Angeles - Las Vegas - San Francisco: khám phá bãi 
 
 ## ✈️ Tour Mỹ Bờ Tây
 
-
-
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **89.900.000 VND**
 - 🔥 Giảm giá: **18%**

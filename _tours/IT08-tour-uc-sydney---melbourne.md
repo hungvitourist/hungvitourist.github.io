@@ -19,8 +19,6 @@ keywords: "Trải nghiệm Sydney - Melbourne 7N6Đ: Opera House, Bondi Beach, B
 
 ## ✈️ Tour Úc Sydney - Melbourne
 
-
-
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **59.900.000 VND**
 - 🔥 Giảm giá: **15%**

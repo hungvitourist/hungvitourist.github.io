@@ -19,8 +19,6 @@ keywords: "Khám phá Vinh - Cửa Lò 2N1Đ: tắm biển, đảo Hòn Ngư, th
 
 ## ✈️ Tour Vinh - Cửa Lò
 
-
-
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.400.000 VND**
 - 🔥 Giảm giá: **7%**

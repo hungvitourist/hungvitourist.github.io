@@ -19,8 +19,6 @@ keywords: "Khám phá Rio de Janeiro, thác Iguazu hùng vĩ và Buenos Aires s�
 
 ## ✈️ Tour Brazil - Argentina 10N9Đ
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **78.900.000 VND**
 - 🔥 Giảm giá: **18%**

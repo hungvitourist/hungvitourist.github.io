@@ -19,8 +19,6 @@ keywords: "Khám phá Pháp-Đức-Thụy Sĩ-Ý 8N7Đ: Paris lãng mạn, Rừn
 
 ## ✈️ Tour Châu Âu 4 Nước
 
-
-
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **49.900.000 VND**
 - 🔥 Giảm giá: **15%**

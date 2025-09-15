@@ -19,8 +19,6 @@ keywords: "Khám phá Iceland 7N6Đ: Reykjavik - Golden Circle - Blue Lagoon. Th
 
 ## ✈️ Tour Iceland 7N6Đ: Reykjavik - Golden Circle - Blue Lagoon
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **74.900.000 VND**
 - 🔥 Giảm giá: **12%**

@@ -19,8 +19,6 @@ keywords: "Khám phá Đài Bắc - Cao Hùng - Đài Trung trong 5N4Đ: chợ �
 
 ## ✈️ Tour Đài Loan Trọn Gói: Đài Bắc – Cao Hùng – Đài Trung
 
-
-
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **15.900.000 VND**
 - 🔥 Giảm giá: **10%**

@@ -13,12 +13,14 @@ location: Vinh - Cửa Lò
 duration: 2N1Đ
 discount: 7
 price: 2.400.000
-description: "- 🆔 Mã tour: **ND21**"
-keywords: "Cửa Lò – biển xanh, cát trắng và nắng vàng là điểm dừng lý tưởng cho chuyến nghỉ ngơi ngắn ngày từ Vinh. Tour ND21 mang đến trải nghiệm 2N1Đ vừa đủ để bạn tận hưởng làn nước mát, dạo biển hoàng hôn và thưởng thức hải sản tươi ngon ngay sát bờ. 🌊🍤"
+description: "## ✈️ Tour Vinh - Cửa Lò"
+keywords: "Vinh - Cửa Lò là điểm đến lý tưởng cho ai cần một chuyến nghỉ ngắn nhưng đầy trải nghiệm: bờ cát mịn, biển xanh trong vắt và hải sản tươi rói. Chỉ sau một hành trình ngắn trên xe giường nằm hoặc ô tô, bạn sẽ hòa mình vào không khí biển mát rượi, ngắm hoàng hôn tuyệt đẹp và thả lỏng sau những ngày làm việc căng thẳng. 🌊🌅"
 ---
 
-## ✈️ Tour Vinh - Cửa Lò
+## ✈️ Tour Vinh - Cửa Lò 
 
+- 🆔 Mã tour: **ND21**
+- 📍 Địa điểm: **Vinh - Cửa Lò**
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.400.000 VND**
 - 🔥 Giảm giá: **7%**
@@ -26,33 +28,34 @@ keywords: "Cửa Lò – biển xanh, cát trắng và nắng vàng là điểm 
 - ⏳ Thời gian du lịch: **2N1Đ**
 
 ## Giới thiệu
-Cửa Lò – biển xanh, cát trắng và nắng vàng là điểm dừng lý tưởng cho chuyến nghỉ ngơi ngắn ngày từ Vinh. Tour ND21 mang đến trải nghiệm 2N1Đ vừa đủ để bạn tận hưởng làn nước mát, dạo biển hoàng hôn và thưởng thức hải sản tươi ngon ngay sát bờ. 🌊🍤
+Vinh - Cửa Lò là điểm đến lý tưởng cho ai cần một chuyến nghỉ ngắn nhưng đầy trải nghiệm: bờ cát mịn, biển xanh trong vắt và hải sản tươi rói. Chỉ sau một hành trình ngắn trên xe giường nằm hoặc ô tô, bạn sẽ hòa mình vào không khí biển mát rượi, ngắm hoàng hôn tuyệt đẹp và thả lỏng sau những ngày làm việc căng thẳng. 🌊🌅
 
-Hành trình kết hợp thư giãn và khám phá: tắm biển, ghé Hòn Ngư thăm đền cổ, đi chợ hải sản địa phương và nếm thử đặc sản Nghệ An. Không ồn ào, không vội vàng — chỉ có khoảng lặng biển cả và những khoảnh khắc lưu giữ cùng gia đình, bạn bè hoặc người yêu. 🏖️📸
+Hành trình 2N1Đ kết hợp khám phá văn hóa quê Bác tại Kim Liên, dạo chơi trên bãi Cửa Lò và tham quan Hòn Ngư – nơi ngư dân vẫn giữ nguyên nét sinh hoạt truyền thống. Bạn sẽ được thưởng thức đặc sản vùng miền: cháo lươn, bánh đa, ghẹ rang me và nhiều món hải sản chế biến tại chỗ. Một lịch trình vừa đủ để check-in, sống ảo và nạp lại năng lượng. 🐟📸
 
-Tour phù hợp cả nhóm, cặp đôi và gia đình muốn đổi gió cuối tuần. Lộ trình tiện lợi, xe đưa đón an toàn, hướng dẫn viên thân thiện và giá cả ưu đãi. Đặt ngay để giữ chỗ, tận hưởng kỳ nghỉ ngắn mà đầy cảm xúc ở Cửa Lò! ✨🚌👉 Liên hệ để nhận ưu đãi sớm.
+Tour phù hợp cả gia đình, nhóm bạn và cặp đôi muốn đi ngắn ngày. Với mức giá khuyến mãi hấp dẫn và lịch trình nhẹ nhàng, đây là cơ hội tuyệt vời cho một cuối tuần thư giãn. Đặt tour sớm để giữ chỗ và nhận ưu đãi đặc biệt! ✨📞
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Tập trung tại điểm hẹn ở Vinh ➡️ Khởi hành đến Cửa Lò ➡️ Nhận phòng, nghỉ ngơi  
-  🌞 Trưa: ➡️ Ăn trưa với hải sản đặc trưng Cửa Lò ➡️ Tự do tắm biển, chụp ảnh  
-  🌙 Tối: ➡️ Dạo biển ngắm hoàng hôn ➡️ Thưởng thức bữa tối, khám phá chợ đêm
+  🌅 Sáng: ➡️ Tập trung tại điểm hẹn, khởi hành đi Vinh - Cửa Lò ➡️ Nghỉ giải lao dọc đường, check-in khách sạn
+  🌞 Trưa: ➡️ Ăn trưa thưởng thức đặc sản Nghệ An ➡️ Nghỉ ngơi, tự do tắm biển
+  🌙 Tối: ➡️ Dùng bữa hải sản tại nhà hàng ➡️ Dạo biển, tự do khám phá chợ đêm, sinh hoạt tự do
+
 - Ngày 2:
-  🌅 Sáng: ➡️ Thức dậy ngắm bình minh trên biển ➡️ Tham quan Hòn Ngư / đền cổ (tuỳ điều kiện)  
-  🌞 Trưa: ➡️ Trở về khách sạn, trả phòng ➡️ Ăn trưa, mua đặc sản mang về  
-  🌙 Tối: ➡️ Khởi hành về Vinh, kết thúc chương trình, chia tay
+  🌅 Sáng: ➡️ Tham quan Kim Liên (quê Bác Hồ) hoặc đi Hòn Ngư ➡️ Trải nghiệm cano/đi thuyền (tuỳ chương trình)
+  🌞 Trưa: ➡️ Ăn trưa, mua sắm hải sản khô làm quà ➡️ Trả phòng, chuẩn bị về
+  🌙 Tối: ➡️ Lên xe khởi hành về lại điểm đón ban đầu ➡️ Kết thúc chương trình, chia tay và hẹn gặp lại
 
 ## Ưu đãi
-Hiện chương trình có GIẢM NGAY 7% — từ giá gốc 2.400.000 VND xuống chỉ còn 2.232.000 VND. Bạn tiết kiệm được 168.000 VND cho mỗi khách. Số lượng ưu đãi có hạn, nhanh tay đặt chỗ để hưởng giá tốt nhất! 🔥💸
+Chương trình đang giảm giá 7% so với giá gốc. Giá khuyến mãi chỉ còn **2.232.000 VND** (tiết kiệm **168.000 VND**). Nhanh tay đặt tour để nhận ưu đãi và lịch khởi hành phù hợp!
 
 ## SEO Keywords
-tour Vinh Cửa Lò, du lịch Vinh, biển Cửa Lò, tour 2N1Đ, khám phá Vinh
+tour Vinh Cửa Lò, du lịch Cửa Lò, tour biển Nghệ An, du lịch Vinh 2 ngày 1 đêm, tour giá rẻ Vinh
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

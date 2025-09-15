@@ -64,7 +64,7 @@ tour Singapore Kuala Lumpur, du lịch Singapore 5N4Đ, tour Kuala Lumpur giá r
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

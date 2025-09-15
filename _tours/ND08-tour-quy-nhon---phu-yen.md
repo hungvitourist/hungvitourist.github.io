@@ -4,8 +4,8 @@ layout: post
 tour_code: ND08
 meta-title: Quy Nhơn - Phú Yên
 bigimg:
-  - "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
-image: "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
+  - "/img/tours/domestic/tour-quy-nhon-phu-yen.jpg"
+image: "/img/tours/domestic/tour-quy-nhon-phu-yen.jpg"
 tags: tour quy nhơn, tour phú yên, du lịch miền trung, biển xanh, tour nội địa
 categories: [tours#domestic,hot]
 transport: "✈️ + 🚌"
@@ -13,12 +13,14 @@ location: Quy Nhơn - Phú Yên
 duration: 4N3Đ
 discount: 9
 price: 5.900.000
-description: "- 🆔 Mã tour: **ND08**"
-keywords: "Quy Nhơn - Phú Yên là hành trình dành cho những ai yêu biển xanh, cát vàng và những khung cảnh thiên nhiên hoang sơ đầy cảm hứng. Từ Eo Gió hùng vĩ đến Kỳ Co trong vắt, mỗi bước chân là một bức tranh, mỗi hoàng hôn là một kỷ niệm để lưu giữ. Hành trình 4N3Đ này cân bằng giữa khám phá và nghỉ dưỡng, phù hợp cho nhóm bạn, cặp đôi hoặc gia đình muốn “refresh” sau những ngày bận rộn. 🌊🏝️"
+description: "## ✈️ Tour Quy Nhơn - Phú Yên"
+keywords: "Khám phá hành trình Quy Nhơn - Phú Yên 4N3Đ là lời mời dành cho những ai yêu biển, thích chụp ảnh và muốn tìm về nhịp sống thanh bình miền Trung. Từ bờ cát vàng của Kỳ Co, vách đá hùng vĩ Eo Gió đến ghềnh đá hình tổ ong Gành Đá Đĩa, mỗi điểm đến đều mang vẻ hoang sơ, ánh sáng tuyệt đẹp cho những bức ảnh đáng nhớ. 🏖️📸"
 ---
 
-## ✈️ Tour Quy Nhơn - Phú Yên
+## ✈️ Tour Quy Nhơn - Phú Yên 
 
+- 🆔 Mã tour: **ND08**
+- 📍 Địa điểm: **Quy Nhơn - Phú Yên**
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **5.900.000 VND**
 - 🔥 Giảm giá: **9%**
@@ -26,42 +28,46 @@ keywords: "Quy Nhơn - Phú Yên là hành trình dành cho những ai yêu bi�
 - ⏳ Thời gian du lịch: **4N3Đ**
 
 ## Giới thiệu
-Quy Nhơn - Phú Yên là hành trình dành cho những ai yêu biển xanh, cát vàng và những khung cảnh thiên nhiên hoang sơ đầy cảm hứng. Từ Eo Gió hùng vĩ đến Kỳ Co trong vắt, mỗi bước chân là một bức tranh, mỗi hoàng hôn là một kỷ niệm để lưu giữ. Hành trình 4N3Đ này cân bằng giữa khám phá và nghỉ dưỡng, phù hợp cho nhóm bạn, cặp đôi hoặc gia đình muốn “refresh” sau những ngày bận rộn. 🌊🏝️
+Khám phá hành trình Quy Nhơn - Phú Yên 4N3Đ là lời mời dành cho những ai yêu biển, thích chụp ảnh và muốn tìm về nhịp sống thanh bình miền Trung. Từ bờ cát vàng của Kỳ Co, vách đá hùng vĩ Eo Gió đến ghềnh đá hình tổ ong Gành Đá Đĩa, mỗi điểm đến đều mang vẻ hoang sơ, ánh sáng tuyệt đẹp cho những bức ảnh đáng nhớ. 🏖️📸
 
-Bạn sẽ được trải nghiệm tốc độ với đường bay nhanh chóng, sau đó di chuyển bằng xe chất lượng để đến từng điểm đến nổi tiếng. Thưởng thức hải sản tươi ngon, hòa mình vào văn hóa địa phương, chụp ảnh sống ảo ở Gành Đá Đĩa — nơi khiến mọi khung hình đều đáng nhớ. Ẩm thực, cảnh quan và con người nơi đây sẽ để lại ấn tượng khó quên. 🍤📸
+Bạn sẽ được trải nghiệm đi thuyền ra đảo Hòn Khô, lặn ngắm san hô, thưởng thức hải sản tươi sống và hòa mình vào văn hóa địa phương ấm áp. Các bữa ăn, phương tiện và hướng dẫn viên địa phương chuyên nghiệp sẽ đảm bảo hành trình thoải mái, an toàn. 🚤🥘
 
-Hành trình thiết kế hợp lý, có hướng dẫn viên nhiệt tình, chỗ nghỉ tiện nghi và lịch trình thoải mái để bạn tận hưởng tối đa. Đặt tour ngay để giữ chỗ vào mùa đẹp nhất, trải nghiệm Quy Nhơn – Phú Yên theo cách trọn vẹn và an tâm. Liên hệ ngay để được tư vấn chi tiết! ✨📞
+Hành trình phù hợp với nhóm bạn, gia đình hoặc cặp đôi muốn nghỉ dưỡng ngắn ngày nhưng vẫn khám phá được nhiều điểm nổi bật. Với lịch trình hợp lý, thời gian di chuyển tối ưu, bạn sẽ có nhiều thời gian tắm biển, ngắm bình minh và hoàng hôn. 🌅
+
+Nhanh tay đặt chỗ để tận hưởng giá khuyến mãi và chụp lại những khoảnh khắc biển xanh nắng vàng cùng người thân. Đặt tour ngay để giữ chỗ và được tư vấn chi tiết! ✨
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay đến Quy Nhơn ➡️ Nhận hành lý và xe đưa đón ➡️ Nhận phòng khách sạn  
-  🌞 Trưa: Thưởng thức hải sản địa phương tại nhà hàng ven biển  
-  🌙 Tối: Dạo biển Quy Nhơn, tự do khám phá chợ đêm, nghỉ ngơi
+  🌅 Sáng: ➡️ Đón sân bay/ga, di chuyển về khách sạn Quy Nhơn ➡️ Nhận phòng, nghỉ ngơi nhẹ  
+  🌞 Trưa: Tham quan Tháp Đôi, ăn trưa đặc sản địa phương  
+  🌙 Tối: Dạo biển Quy Nhơn, ăn hải sản, khám phá chợ đêm/Quảng trường
+
 - Ngày 2:
-  🌅 Sáng: ➡️ Khởi hành tới Kỳ Co (ca nô hoặc 4x4) ➡️ Tắm biển, lặn ngắm san hô ➡️ Chụp hình tại Eo Gió  
-  🌞 Trưa: Dùng cơm trưa trên đảo/nhà hàng ven biển  
-  🌙 Tối: Về khách sạn, tự do thưởng thức đặc sản Quy Nhơn
+  🌅 Sáng: ➡️ Khởi hành đến Kỳ Co bằng ca nô ➡️ Tắm biển, lặn ngắm san hô ➡️ Chụp ảnh tại Eo Gió  
+  🌞 Trưa: Ăn trưa trên đảo hoặc nghỉ tại nhà hàng ven biển  
+  🌙 Tối: Về lại Quy Nhơn, thưởng thức BBQ hải sản hoặc tự do khám phá thành phố
+
 - Ngày 3:
-  🌅 Sáng: ➡️ Khởi hành từ Quy Nhơn đi Phú Yên bằng xe đường bộ ➡️ Tham quan Gành Đá Đĩa  
-  🌞 Trưa: Dùng bữa tại Tuy Hòa, khám phá Bãi Xép (điểm check-in nổi tiếng)  
-  🌙 Tối: Nghỉ tại Phú Yên, trải nghiệm ẩm thực địa phương, tự do dạo biển
+  🌅 Sáng: ➡️ Khởi hành đi Phú Yên, tham quan Gành Đá Đĩa ➡️ Dừng chân chụp ảnh tại Nhà thờ Mằng Lăng  
+  🌞 Trưa: Ăn trưa, tiếp tục đến Bãi Xép - địa điểm nổi tiếng bộ phim  
+  🌙 Tối: Nghỉ ngơi tại homestay/khách sạn Phú Yên, thưởng thức đặc sản địa phương
+
 - Ngày 4:
-  🌅 Sáng: ➡️ Tham quan Mũi Đôi / Vũng Rô (tùy lịch trình) ➡️ Mua quà lưu niệm tại chợ địa phương  
-  🌞 Trưa: Trở về điểm tập kết, dùng bữa nhẹ  
-  🌙 Tối: Xe đưa ra sân bay/ga, kết thúc chương trình, chia tay và về lại điểm xuất phát
+  🌅 Sáng: ➡️ Ngắm bình minh tại Mũi Đại Lãnh (Mũi Điện) ➡️ Tản bộ, chụp hình, thư giãn trên bãi biển  
+  🌞 Trưa: Về lại chỗ lưu trú, thu xếp hành lý, ăn trưa nhẹ  
+  🌙 Tối: Di chuyển ra sân bay/ga, kết thúc hành trình và chia tay đoàn
 
 ## Ưu đãi
-🔥 Ưu đãi đang có: giảm mạnh **9%** so với giá gốc.  
-💵 Giá khuyến mãi đã tính: **5.369.000 VND** — tiết kiệm ngay 531.000 VND cho mỗi khách! Nhanh tay đặt để giữ chỗ và tận hưởng dịch vụ trọn gói, bay + xe đưa đón, lịch trình linh hoạt.
+Chương trình đang có GIẢM NGAY 9% — chỉ còn **5.369.000 VND** (từ giá gốc 5.900.000 VND). Số lượng ưu đãi có hạn, đặt sớm để nhận mức giá tốt nhất và chọn được ngày khởi hành ưng ý! 🔥🎫
 
 ## SEO Keywords
-tour Quy Nhơn Phú Yên, du lịch Quy Nhơn, Kỳ Co Eo Gió, Gành Đá Đĩa, tour 4N3Đ Quy Nhơn
+tour Quy Nhơn Phú Yên, Kỳ Co Eo Gió, du lịch Quy Nhơn, du lịch Phú Yên, tour biển miền Trung
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

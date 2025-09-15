@@ -61,7 +61,7 @@ Tour Seoul Đảo Nami, Du lịch Hàn Quốc 4N3Đ, Tour Nami Island, Khám ph�
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

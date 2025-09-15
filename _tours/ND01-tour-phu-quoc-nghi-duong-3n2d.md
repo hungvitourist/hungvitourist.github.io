@@ -4,8 +4,8 @@ layout: post
 tour_code: ND01
 meta-title: Phú Quốc Nghỉ Dưỡng 3N2Đ
 bigimg:
-  - "/img/tours/domestic/tour-cam-trai-ben-ho-tuyen-lam.jpg"
-image: "/img/tours/domestic/tour-cam-trai-ben-ho-tuyen-lam.jpg"
+  - "/img/tours/domestic/NOVOTEL-RESORT-PHU-QUOC-View-800x533.jpg"
+image: "/img/tours/domestic/NOVOTEL-RESORT-PHU-QUOC-View-800x533.jpg"
 tags: tour phú quốc, du lịch phú quốc, tour nội địa, nghỉ dưỡng biển, đảo ngọc, tour biển việt nam
 categories: [tours#domestic,special-offer,hot]
 transport: "✈️"
@@ -13,52 +13,53 @@ location: Phú Quốc
 duration: 3N2Đ
 discount: 5
 price: 3.990.000
-description: "- 🆔 Mã tour: **ND01**"
-keywords: "Khám phá Phú Quốc trong chuyến đi 3N2Đ đầy cảm hứng — nơi biển xanh, nắng vàng và những bãi cát mịn chờ đón bạn. 🌴☀️ Tour ND01 thiết kế cân bằng giữa trải nghiệm thư giãn và khám phá: tắm biển ở Bãi Sao, lặn ngắm san hô, thưởng thức hải sản tươi sống và dạo chợ đêm Dinh Cậu. Mỗi hành trình đều có hướng dẫn viên bản địa tận tình, giúp bạn cảm nhận trọn vẹn văn hóa, ẩm thực và phong cảnh đảo ngọc."
+description: "## ✈️ Tour Phú Quốc Nghỉ Dưỡng 3N2Đ"
+keywords: "Phú Quốc – thiên đường biển xanh, cát trắng và nắng vàng, là điểm đến hoàn hảo để “sạc” lại năng lượng sau những ngày bận rộn. Tour Phú Quốc nghỉ dưỡng 3N2Đ dành cho bạn trải nghiệm thư giãn tại resort cao cấp, tắm biển tại những bãi nổi tiếng như Bãi Sao, khám phá làng chài và thưởng thức hải sản tươi ngon. 🏖️🌊"
 ---
 
-## ✈️ Tour Phú Quốc Nghỉ Dưỡng 3N2Đ
+## ✈️ Tour Phú Quốc Nghỉ Dưỡng 3N2Đ 
 
+- 🆔 Mã tour: **ND01**
+- 📍 Địa điểm: **Phú Quốc**
 - 🚗 Phương tiện: **✈️**
 - 💰 Giá tour gốc: **3.990.000 VND**
 - 🔥 Giảm giá: **5%**
 - 💵 Giá khuyến mãi: **3.790.500 VND**
 - ⏳ Thời gian du lịch: **3N2Đ**
 
+
 ## Giới thiệu
-Khám phá Phú Quốc trong chuyến đi 3N2Đ đầy cảm hứng — nơi biển xanh, nắng vàng và những bãi cát mịn chờ đón bạn. 🌴☀️ Tour ND01 thiết kế cân bằng giữa trải nghiệm thư giãn và khám phá: tắm biển ở Bãi Sao, lặn ngắm san hô, thưởng thức hải sản tươi sống và dạo chợ đêm Dinh Cậu. Mỗi hành trình đều có hướng dẫn viên bản địa tận tình, giúp bạn cảm nhận trọn vẹn văn hóa, ẩm thực và phong cảnh đảo ngọc.
+Phú Quốc – thiên đường biển xanh, cát trắng và nắng vàng, là điểm đến hoàn hảo để “sạc” lại năng lượng sau những ngày bận rộn. Tour Phú Quốc nghỉ dưỡng 3N2Đ dành cho bạn trải nghiệm thư giãn tại resort cao cấp, tắm biển tại những bãi nổi tiếng như Bãi Sao, khám phá làng chài và thưởng thức hải sản tươi ngon. 🏖️🌊
 
-Ngày đầu tới làn gió biển mát rượi và hoàng hôn rực rỡ; ngày thứ hai dành cho các hoạt động biển, cáp treo Hòn Thơm và khu vui chơi giải trí; ngày cuối cùng là khoảnh khắc thong thả tham quan làng chài, mua quà đặc sản như nước mắm, hồ tiêu. 🐠🍹
+Hành trình cân bằng giữa khám phá và nghỉ ngơi: sáng dậy đón bình minh, chiều tận hưởng dịch vụ spa hoặc lặn ngắm san hô, tối dạo chợ đêm Vinpearl hoặc thưởng thức BBQ bên bờ biển. Các điểm tham quan được chọn lọc, di chuyển thoải mái bằng máy bay, cam kết thời gian hợp lý để bạn không bị áp lực lịch trình. ✨✈️
 
-Tour phù hợp cả gia đình, nhóm bạn và cặp đôi muốn trốn đô thị. Hành trình vừa đủ để tận hưởng mà không gấp gáp, đảm bảo chụp ảnh đẹp và nạp đầy năng lượng. 📸✨ Nhanh tay đặt chỗ để giữ ngày đẹp và nhận ưu đãi hấp dẫn! 😉
+Đây là lựa chọn lý tưởng cho cặp đôi, gia đình hoặc nhóm bạn muốn kết hợp trải nghiệm và thư giãn. Giá trọn gói đã bao gồm vé máy bay khứ hồi, khách sạn tiện nghi và một số bữa ăn tại địa phương — tiết kiệm và tiện lợi. Đặt tour ngay để giữ chỗ và tận hưởng ưu đãi đặc biệt! Book ngay để có hành trình hoàn hảo cho mùa nghỉ dưỡng của bạn. 📲🌴
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Bay đến Phú Quốc ➡️ Xe đón & làm thủ tục nhận phòng ➡️ Nghỉ ngơi, tự do khám phá Bãi Trường.
-  🌞 Trưa: Ăn trưa tại nhà hàng local với đặc sản hải sản.
-  🌙 Tối: Dạo chợ đêm Dinh Cậu ➡️ Thưởng thức hải sản, mua quà lưu niệm.
-
+  🌅 Sáng: ➡️ Bay đến Phú Quốc ➡️ Xe đón về resort, nhận phòng và thư giãn ➡️ Tắm biển tự do
+  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng resort ➡️ Nghỉ ngơi
+  🌙 Tối: ➡️ Dạo chợ đêm Dinh Cậu ➡️ Thưởng thức hải sản địa phương
 - Ngày 2:
-  🌅 Sáng: ➡️ Khởi hành đi Hòn Thơm ➡️ Trải nghiệm cáp treo & lặn ngắm san hô (snorkeling).
-  🌞 Trưa: Ăn trưa trên đảo hoặc khu ẩm thực VinWonders (tùy lịch trình).
-  🌙 Tối: Trở về đảo chính ➡️ Tham gia câu mực đêm (tuỳ chọn) hoặc tự do khám phá phố biển.
-
+  🌅 Sáng: ➡️ Đi câu, lặn ngắm san hô hoặc tham gia tour đảo Hòn Thơm ➡️ Chụp ảnh tại các bãi tắm đẹp
+  🌞 Trưa: ➡️ Ăn trưa trên đảo hoặc BBQ hải sản
+  🌙 Tối: ➡️ Thư giãn tại resort, tận hưởng spa hoặc xem chương trình biểu diễn
 - Ngày 3:
-  🌅 Sáng: ➡️ Tham quan Suối Tranh hoặc Vườn Quốc gia Phú Quốc ➡️ Ghé thăm làng chài Hàm Ninh.
-  🌞 Trưa: Thưởng thức ghẹ Hàm Ninh, tham quan nhà thùng nước mắm & cửa hàng đặc sản.
-  🌙 Tối: Trở về, làm thủ tục trả phòng ➡️ Xe đưa ra sân bay, kết thúc chuyến đi an toàn.
+  🌅 Sáng: ➡️ Tự do tắm biển, chụp ảnh ở resort ➡️ Kiểm tra phòng và mua sắm đặc sản
+  🌞 Trưa: ➡️ Trả phòng, ăn trưa nhẹ
+  🌙 Tối: ➡️ Ra sân bay, kết thúc hành trình, trở về điểm đón
 
 ## Ưu đãi
-Hiện tại tour đang giảm giá 5% so với giá gốc, từ 3.990.000 VND xuống chỉ còn 3.790.500 VND — tiết kiệm ngay 199.500 VND cho mỗi khách. 🔥💸 Nhanh tay đặt để giữ chỗ và tận hưởng ưu đãi có hạn!
+🔥 Giảm ngay 5% cho tour Phú Quốc 3N2Đ — bạn chỉ còn trả: **3.790.500 VND** (từ giá gốc 3.990.000 VND). Nhanh tay đặt vé để giữ chỗ và hưởng ưu đãi tốt nhất cho kỳ nghỉ dưỡng đáng nhớ này!
 
 ## SEO Keywords
-tour Phú Quốc, du lịch Phú Quốc 3 ngày 2 đêm, tour Phú Quốc trọn gói, du lịch biển Phú Quốc, tour giá rẻ Phú Quốc
+Tour Phú Quốc 3N2Đ, du lịch Phú Quốc, nghỉ dưỡng Phú Quốc, vé máy bay Phú Quốc, resort Phú Quốc
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

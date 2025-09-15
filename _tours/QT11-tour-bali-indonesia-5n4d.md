@@ -64,7 +64,7 @@ Tour Bali Ubud, Du lịch Bali giá rẻ, Du lịch Ubud Tanah Lot, Tour 5N4Đ B
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

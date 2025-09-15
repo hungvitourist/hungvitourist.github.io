@@ -13,12 +13,14 @@ location: Lý Sơn - Đảo Tỏi
 duration: 3N2Đ
 discount: 9
 price: 5.400.000
-description: "- 🆔 Mã tour: **ND19**"
-keywords: "Lý Sơn - Đảo Tỏi là điểm đến mơ mộng cho những ai muốn rời xa ồn ào thành phố, hòa mình vào biển xanh, cát trắng và hương tỏi nồng nàn đặc trưng. 🌊 Hòn đảo nhỏ nằm giữa vịnh biển miền Trung mang đến trải nghiệm hoang sơ nhưng vẫn đầy đủ dịch vụ, từ ngắm bình minh trên đỉnh Thới Lới đến khám phá vòm đá tự nhiên Cổng Tò Vò. Những con đường quanh đảo, ruộng tỏi xen kẽ cùng biển cả tạo nên khung hình check-in triệu like. 📸"
+description: "## ✈️ Tour Lý Sơn - Đảo Tỏi"
+keywords: "Lý Sơn – hòn đảo nhỏ nổi tiếng với tên gọi 'Đảo Tỏi' không chỉ có những cánh đồng tỏi phủ trắng mà còn mang trong mình vẻ đẹp hoang sơ của núi lửa cổ, bãi đá hình thù kỳ lạ và biển xanh trong veo. 🌊 Chuyến đi 3N2Đ này được thiết kế dành cho những ai muốn khám phá trọn vẹn: từ cảnh hoàng hôn huyền ảo ở Hang Câu đến ngắm bình minh trên đỉnh Thới Lới, thưởng thức hải sản tươi và những câu chuyện văn hóa địa phương. 🧄"
 ---
 
-## ✈️ Tour Lý Sơn - Đảo Tỏi
+## ✈️ Tour Lý Sơn - Đảo Tỏi 
 
+- 🆔 Mã tour: **ND19**
+- 📍 Địa điểm: **Lý Sơn - Đảo Tỏi**
 - 🚗 Phương tiện: **✈️ + 🚅**
 - 💰 Giá tour gốc: **5.400.000 VND**
 - 🔥 Giảm giá: **9%**
@@ -26,39 +28,39 @@ keywords: "Lý Sơn - Đảo Tỏi là điểm đến mơ mộng cho những ai 
 - ⏳ Thời gian du lịch: **3N2Đ**
 
 ## Giới thiệu
-Lý Sơn - Đảo Tỏi là điểm đến mơ mộng cho những ai muốn rời xa ồn ào thành phố, hòa mình vào biển xanh, cát trắng và hương tỏi nồng nàn đặc trưng. 🌊 Hòn đảo nhỏ nằm giữa vịnh biển miền Trung mang đến trải nghiệm hoang sơ nhưng vẫn đầy đủ dịch vụ, từ ngắm bình minh trên đỉnh Thới Lới đến khám phá vòm đá tự nhiên Cổng Tò Vò. Những con đường quanh đảo, ruộng tỏi xen kẽ cùng biển cả tạo nên khung hình check-in "triệu like". 📸
+Lý Sơn – hòn đảo nhỏ nổi tiếng với tên gọi "Đảo Tỏi" không chỉ có những cánh đồng tỏi phủ trắng mà còn mang trong mình vẻ đẹp hoang sơ của núi lửa cổ, bãi đá hình thù kỳ lạ và biển xanh trong veo. 🌊 Chuyến đi 3N2Đ này được thiết kế dành cho những ai muốn khám phá trọn vẹn: từ cảnh hoàng hôn huyền ảo ở Hang Câu đến ngắm bình minh trên đỉnh Thới Lới, thưởng thức hải sản tươi và những câu chuyện văn hóa địa phương. 🧄
 
-Chuyến đi 3 ngày 2 đêm kết hợp máy bay và tàu cao tốc giúp bạn tiết kiệm thời gian nhưng vẫn tận hưởng trọn vẹn: lặn ngắm san hô, câu mực đêm, thưởng thức hải sản tươi sống ngay tại bờ biển. 🐟 Buổi chiều dạo biển, hoàng hôn phủ sắc vàng rực rỡ; buổi tối ghé chợ hải sản, thưởng thức tỏi Lý Sơn nổi tiếng. Hành trình phù hợp cho cặp đôi, gia đình hoặc nhóm bạn trẻ thích khám phá và thư giãn. ✨
+Hành trình kết hợp tiện lợi bằng máy bay và tàu/xe giúp bạn tiết kiệm thời gian, tận hưởng nhiều trải nghiệm hơn trong 3 ngày ngắn ngủi nhưng trọn vẹn. 🚅✈️ Hướng dẫn viên bản địa giàu kinh nghiệm sẽ đồng hành, giới thiệu lịch sử, phong tục và những góc sống ảo ít người biết trên đảo. 📸
 
-Đặt tour ND19 ngay hôm nay để giữ chỗ vào mùa cao điểm và nhận ưu đãi hấp dẫn. Liên hệ để được tư vấn chi tiết và đặt vé nhanh — hành trình biển đảo mời gọi bạn khám phá! 📞✉️
+Đây là hành trình lý tưởng cho cặp đôi, nhóm bạn hoặc gia đình muốn đổi gió cuối tuần, vừa thư giãn vừa khám phá. Mùa đẹp nhất là từ tháng 3 đến tháng 9 khi biển êm, tỏi vào mùa thu hoạch. 🌤️ Đặt chỗ sớm để giữ suất và hưởng giá khuyến mãi hấp dẫn! Liên hệ ngay để book tour nhé. ✨
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành bằng tàu/xe tới cảng, ➡️ Lên tàu cao tốc ra đảo Lý Sơn, ➡️ Nhận phòng khách sạn, nghỉ ngơi.
-  🌞 Trưa: Thưởng thức hải sản địa phương, nghỉ trưa.
-  🌙 Tối: Dạo chợ đêm, thưởng thức mực nướng, tỏi Lý Sơn, tự do khám phá.
+  🌅 Sáng: ➡️ Tập trung tại điểm hẹn, làm thủ tục, di chuyển bằng máy bay/ tàu đến Quảng Ngãi/ Sa Kỳ ➡️ Lên cano/tàu cao tốc ra Lý Sơn ➡️ Nhận phòng, nghỉ ngơi.
+  🌞 Trưa: ➡️ Thưởng thức đặc sản hải sản tươi — cơm cháy, ốc, cá tàu.
+  🌙 Tối: ➡️ Dạo chợ đêm, tự do khám phá cảng biển, nghe hướng dẫn viên chia sẻ lịch sử đảo.
 
 - Ngày 2:
-  🌅 Sáng: ➡️ Leo núi Thới Lới ngắm bình minh, ➡️ Tham quan cột cờ, ➡️ Check-in Cổng Tò Vò và Hang Câu.
-  🌞 Trưa: Ăn trưa tại nhà hàng, nghỉ ngơi.
-  🌙 Tối: Câu mực đêm hoặc tự do, trải nghiệm ẩm thực biển về đêm.
+  🌅 Sáng: ➡️ Tham quan Cổng Tò Vò – địa điểm núi lửa nham thạch đặc sắc ➡️ Leo lên Đỉnh Thới Lới ngắm bình minh và toàn cảnh đảo.
+  🌞 Trưa: ➡️ Thăm chùa Hang, Đảo Bé (nếu điều kiện cho phép) và ăn trưa trên đảo.
+  🌙 Tối: ➡️ Thưởng thức tiệc nướng hải sản tập thể, giao lưu văn hóa, tự do chụp ảnh hoàng hôn tại Hang Câu.
 
 - Ngày 3:
-  🌅 Sáng: ➡️ Lặn ngắm san hô/khám phá rạn, ➡️ Tham quan đầm An Vĩnh và vườn tỏi, ➡️ Mua đặc sản làm quà.
-  🌞 Trưa: Trả phòng, dùng bữa nhẹ.
-  🌙 Tối: Lên tàu/xe về đất liền, kết thúc hành trình.
+  🌅 Sáng: ➡️ Khám phá làng tỏi, tìm hiểu quy trình trồng và chế biến tỏi Lý Sơn ➡️ Mua quà địa phương.
+  🌞 Trưa: ➡️ Trở về cảng, lên tàu/xe quay lại đất liền, hành trình kết thúc.
+  🌙 Tối: ➡️ Về điểm đón ban đầu, chia tay kết thúc tour — an toàn và nhiều kỷ niệm.
 
 ## Ưu đãi
-Chương trình đang giảm giá mạnh: giảm 9% so với giá gốc 5.400.000 VND — bạn chỉ phải trả **4.914.000 VND**. Tiết kiệm ngay **486.000 VND** cho mỗi đặt chỗ! 🔥 Đừng bỏ lỡ cơ hội trải nghiệm Lý Sơn chất lượng với chi phí hợp lý — số lượng chỗ có giới hạn, đặt sớm để nhận khuyến mãi.
+Hiện tại tour được GIẢM NGAY 9% — từ giá gốc 5.400.000 VND xuống chỉ còn 4.914.000 VND! 🔥 Số lượng ưu đãi có hạn, đặt sớm để nhận mức giá khuyến mãi hấp dẫn này và giữ chỗ tốt nhất cho mùa du lịch. ✅
 
 ## SEO Keywords
-Lý Sơn đảo tỏi, tour Lý Sơn 3N2Đ, du lịch Lý Sơn, lặn ngắm san hô Lý Sơn, đặc sản tỏi Lý Sơn
+tour Lý Sơn, du lịch Lý Sơn, đảo tỏi Lý Sơn, tour 3N2Đ Lý Sơn, khám phá Lý Sơn
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

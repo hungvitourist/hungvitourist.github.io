@@ -4,8 +4,8 @@ layout: post
 tour_code: ND09
 meta-title: Huế - Động Phong Nha
 bigimg:
-  - "/img/tours/domestic/tour-cam-trai-ben-ho-tuyen-lam.jpg"
-image: "/img/tours/domestic/tour-cam-trai-ben-ho-tuyen-lam.jpg"
+  - "/img/tours/domestic/tour_dong_phong_nha_tu_hue.jpg"
+image: "/img/tours/domestic/tour_dong_phong_nha_tu_hue.jpg"
 tags: tour huế, tour động phong nha, du lịch miền trung, hang động, tour nội địa
 categories: [tours#domestic]
 transport: "🚌"
@@ -13,12 +13,14 @@ location: Huế - Quảng Bình
 duration: 3N2Đ
 discount: 7
 price: 4.800.000
-description: "- 🆔 Mã tour: **ND09**"
-keywords: "Hành trình Huế – Quảng Bình 3N2Đ là sự kết hợp hoàn hảo giữa di sản văn hóa cổ kính và thiên nhiên kỳ vĩ. Từ kinh thành Huế lắng đọng, bạn sẽ lướt về Quảng Bình – nơi có hang động tráng lệ, bờ biển thanh bình và những trải nghiệm khám phá mạo hiểm. Đây là tour phù hợp cho cặp đôi, gia đình hoặc nhóm bạn muốn vừa thư giãn vừa chiêm nghiệm. 🌄✨"
+description: "## ✈️ Tour Huế - Động Phong Nha"
+keywords: "Khám phá sự hòa quyện giữa cố đô trầm mặc và kỳ quan thiên nhiên hùng vĩ trong hành trình Huế - Động Phong Nha 3N2Đ. 🌅 Bạn sẽ được lắng nghe lịch sử tại Kinh thành Huế, ngắm sông Hương bình yên và thưởng thức ẩm thực cung đình, rồi men theo những con đường miền Trung để tới vùng đất hang động nổi tiếng của Quảng Bình. 🚍"
 ---
 
-## ✈️ Tour Huế - Động Phong Nha
+## ✈️ Tour Huế - Động Phong Nha 
 
+- 🆔 Mã tour: **ND09**
+- 📍 Địa điểm: **Huế - Quảng Bình**
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **4.800.000 VND**
 - 🔥 Giảm giá: **7%**
@@ -26,41 +28,39 @@ keywords: "Hành trình Huế – Quảng Bình 3N2Đ là sự kết hợp hoàn
 - ⏳ Thời gian du lịch: **3N2Đ**
 
 ## Giới thiệu
-Hành trình Huế – Quảng Bình 3N2Đ là sự kết hợp hoàn hảo giữa di sản văn hóa cổ kính và thiên nhiên kỳ vĩ. Từ kinh thành Huế lắng đọng, bạn sẽ lướt về Quảng Bình – nơi có hang động tráng lệ, bờ biển thanh bình và những trải nghiệm khám phá mạo hiểm. Đây là tour phù hợp cho cặp đôi, gia đình hoặc nhóm bạn muốn vừa thư giãn vừa chiêm nghiệm. 🌄✨
+Khám phá sự hòa quyện giữa cố đô trầm mặc và kỳ quan thiên nhiên hùng vĩ trong hành trình Huế - Động Phong Nha 3N2Đ. 🌅 Bạn sẽ được lắng nghe lịch sử tại Kinh thành Huế, ngắm sông Hương bình yên và thưởng thức ẩm thực cung đình, rồi men theo những con đường miền Trung để tới vùng đất hang động nổi tiếng của Quảng Bình. 🚍
 
-Khởi hành bằng xe du lịch tiện nghi, bạn sẽ được hướng dẫn viên giàu kinh nghiệm dẫn dắt từng điểm đến, kể chuyện lịch sử và gợi ý góc chụp ảnh đẹp. Thực đơn địa phương, nghỉ dưỡng trong khách sạn tiện nghi và thời gian khám phá linh hoạt giúp chuyến đi nhẹ nhàng mà trọn vẹn. 🍽️🏨
+Động Phong Nha và Động Thiên Đường mang đến trải nghiệm như bước vào thế giới cổ tích: thạch nhũ muôn hình, sông ngầm trong xanh và những khung cảnh khiến trái tim lữ khách rung động. ⛵ Chuyến đi vừa có giá trị văn hóa vừa có trải nghiệm mạo hiểm nhẹ nhàng, phù hợp cả gia đình và nhóm bạn trẻ thích “săn” khung hình đẹp. 📸
 
-Hành trình được tối ưu để bạn tận hưởng nhiều trải nghiệm: tham quan di tích ở Huế, khám phá động Phong Nha – Kẻ Bàng và tắm biển ở bãi biển Đồng Hới. Mỗi ngày đều có điểm nhấn đặc sắc để bạn lưu giữ kỷ niệm khó quên. 📸💖
-
-Đặt chỗ ngay hôm nay để tận hưởng mức giá ưu đãi và lịch khởi hành linh hoạt — số chỗ có hạn, nhanh tay giữ chỗ nhé! 📝☎️
+Hành trình tiết kiệm thời gian, xe đời mới, hướng dẫn viên am hiểu, khách sạn tiện nghi và bữa ăn đậm hương vị địa phương. 🍲 Đặt ngay để nhận ưu đãi hấp dẫn và khởi hành cùng chúng tôi — trải nghiệm lịch sử, thiên nhiên và ẩm thực chỉ trong một chuyến đi! ✨
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Tập trung tại điểm hẹn ở Huế ➡️ Tham quan Đại Nội, Ngọ Môn ➡️ Chụp ảnh tại sân điện Cần Chánh  
-  🌞 Trưa: ➡️ Ăn trưa đặc sản Huế (bún bò, cơm hến) ➡️ Nghỉ ngơi, nhận phòng  
-  🌙 Tối: ➡️ Tham quan cầu Tràng Tiền, dạo phố cổ, thưởng thức ẩm thực ven sông
+  🌅 Sáng: ➡️ Khởi hành từ điểm hẹn (Huế) ➡️ Tham quan Đại Nội - Kinh thành Huế ➡️ Thăm chùa Thiên Mụ và check-in sông Hương  
+  🌞 Trưa: Thưởng thức đặc sản cung đình/ẩm thực Huế tại nhà hàng địa phương  
+  🌙 Tối: Tự do dạo phố đêm Huế, thưởng thức ăn vặt và hoạt động văn hóa (huế ca, đờn ca tài tử)
 
 - Ngày 2:
-  🌅 Sáng: ➡️ Khởi hành sớm đi Quảng Bình ➡️ Tham quan Vườn quốc gia Phong Nha – Kẻ Bàng  
-  🌞 Trưa: ➡️ Thăm động Phong Nha/Paradise Cave ➡️ Ăn trưa tại nhà hàng địa phương  
-  🌙 Tối: ➡️ Về khách sạn ở Đồng Hới, tự do tắm biển và thưởng hải sản
+  🌅 Sáng: ➡️ Khởi hành đi Quảng Bình ➡️ Dừng chân nghỉ ngơi, ngắm cảnh miền Trung ➡️ Đến Phong Nha, nhận phòng khách sạn  
+  🌞 Trưa: Ăn trưa, chuẩn bị tham quan hang động  
+  🌙 Tối: Tham quan Động Phong Nha bằng thuyền trên sông Son, ngắm thạch nhũ lung linh, về khách sạn nghỉ ngơi
 
 - Ngày 3:
-  🌅 Sáng: ➡️ Dạo biển bờ cát, chụp ảnh lưu niệm ➡️ Tham quan Lý Sơn (nếu lịch cho phép) hoặc check-out, mua quà địa phương  
-  🌞 Trưa: ➡️ Ăn trưa, tổng kết hành trình  
-  🌙 Tối: ➡️ Về lại điểm đón ban đầu, kết thúc chương trình, tiễn khách
+  🌅 Sáng: ➡️ Tham quan Động Thiên Đường hoặc tour khám phá các hang khác ➡️ Thưởng thức cảnh núi rừng và chụp ảnh check-in  
+  🌞 Trưa: Ăn trưa, trả phòng, di chuyển về Huế/điểm đón  
+  🌙 Tối: Kết thúc tour, chia tay đoàn — hẹn gặp lại trong chuyến đi tiếp theo!
 
 ## Ưu đãi
-Chương trình đang giảm giá đặc biệt 7%! Từ giá tour gốc 4.800.000 VND, bạn chỉ còn phải trả **4.464.000 VND**. Nhanh tay đặt chỗ để nhận mức giá khuyến mãi hấp dẫn này và tận hưởng trải nghiệm Huế – Quảng Bình trọn vẹn với chi phí tiết kiệm. 🎉💸
+Hiện tại tour được giảm giá **7%**, từ giá gốc **4.800.000 VND** chỉ còn **4.464.000 VND** — bạn tiết kiệm ngay **336.000 VND** cho mỗi khách! 🔥 Đặt sớm để giữ chỗ và tận hưởng combo di sản + thiên nhiên với mức giá tốt nhất. ✨
 
 ## SEO Keywords
-tour Huế Quảng Bình, du lịch Phong Nha, tour 3N2Đ, khám phá Quảng Bình, tour Huế giá rẻ
+tour Huế Phong Nha, tour Huế 3N2Đ, du lịch Phong Nha, tour Quảng Bình từ Huế, khám phá động Phong Nha
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

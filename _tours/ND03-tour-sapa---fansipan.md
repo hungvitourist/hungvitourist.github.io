@@ -4,8 +4,8 @@ layout: post
 tour_code: ND03
 meta-title: Sapa - Fansipan
 bigimg:
-  - "/img/tours/domestic/VINH-HY-800x533.jpg"
-image: "/img/tours/domestic/VINH-HY-800x533.jpg"
+  - "/img/tours/domestic/sapa-fansipan.jpg"
+image: "/img/tours/domestic/sapa-fansipan.jpg"
 tags: tour sapa, tour fansipan, du lịch tây bắc, leo núi, tour nội địa
 categories: [tours#domestic,special-offer,hot]
 transport: "🚆 + 🚌"
@@ -13,12 +13,14 @@ location: Sapa - Fansipan
 duration: 4N3Đ
 discount: 10
 price: 6.900.000
-description: "- 🆔 Mã tour: **ND03**"
-keywords: "Sapa - Fansipan là hành trình kết hợp giữa thiên nhiên hùng vĩ và văn hóa các dân tộc vùng cao, nơi bạn có thể ngắm biển mây, trải nghiệm cáp treo đạt kỷ lục và lắng nghe câu chuyện từ những bản làng cổ. 🌄 Với lịch trình 4N3Đ, tour ND03 thiết kế cân bằng giữa khám phá và thư giãn, phù hợp cả gia đình, nhóm bạn và cặp đôi muốn tạo ký ức đáng nhớ."
+description: "## ✈️ Tour Sapa - Fansipan"
+keywords: "Khám phá Sapa - Fansipan trong 4 ngày 3 đêm là hành trình dành cho những ai yêu thiên nhiên, săn mây và muốn trải nghiệm văn hóa bản địa. Bạn sẽ được đón bình minh trên các thửa ruộng bậc thang, hít thở không khí trong lành của núi rừng Tây Bắc và chiêm ngưỡng “nóc nhà Đông Dương” từ cáp treo Fansipan. 🏔️✨"
 ---
 
-## ✈️ Tour Sapa - Fansipan
+## ✈️ Tour Sapa - Fansipan 
 
+- 🆔 Mã tour: **ND03**
+- 📍 Địa điểm: **Sapa - Fansipan**
 - 🚗 Phương tiện: **🚆 + 🚌**
 - 💰 Giá tour gốc: **6.900.000 VND**
 - 🔥 Giảm giá: **10%**
@@ -26,44 +28,41 @@ keywords: "Sapa - Fansipan là hành trình kết hợp giữa thiên nhiên hù
 - ⏳ Thời gian du lịch: **4N3Đ**
 
 ## Giới thiệu
-Sapa - Fansipan là hành trình kết hợp giữa thiên nhiên hùng vĩ và văn hóa các dân tộc vùng cao, nơi bạn có thể ngắm biển mây, trải nghiệm cáp treo đạt kỷ lục và lắng nghe câu chuyện từ những bản làng cổ. 🌄 Với lịch trình 4N3Đ, tour ND03 thiết kế cân bằng giữa khám phá và thư giãn, phù hợp cả gia đình, nhóm bạn và cặp đôi muốn tạo ký ức đáng nhớ.
+Khám phá Sapa - Fansipan trong 4 ngày 3 đêm là hành trình dành cho những ai yêu thiên nhiên, săn mây và muốn trải nghiệm văn hóa bản địa. Bạn sẽ được đón bình minh trên các thửa ruộng bậc thang, hít thở không khí trong lành của núi rừng Tây Bắc và chiêm ngưỡng “nóc nhà Đông Dương” từ cáp treo Fansipan. 🏔️✨
 
-Từ khoảnh khắc lên tàu ngắm bình minh trên đường đến Lao Cai, đến khi chinh phục “Nóc nhà Đông Dương” bằng cáp treo, mỗi bước đều là trải nghiệm trọn vẹn: đi bộ giữa ruộng bậc thang, thăm bản văn hóa, thưởng thức ẩm thực miền núi đậm đà. 🚆🚌 Khách sạn tiện nghi và lựa chọn homestay bản địa giúp bạn hiểu hơn về cuộc sống người dân tộc.
+Tour kết hợp tiện lợi giữa tàu và ô tô, giúp bạn có trải nghiệm trọn vẹn mà vẫn thoải mái nghỉ ngơi. Trong hành trình, du khách sẽ tham quan bản Cát Cát, thung lũng Mường Hoa, chợ đêm Sapa và thưởng thức ẩm thực đặc sản như cá suối, thắng cố, cơm lam. Đặc biệt, chinh phục đỉnh Fansipan bằng cáp treo là điểm nhấn không thể bỏ qua, mang đến cảm giác tự hào và thư thái khi đứng giữa mây trời. 🚠🌤️
 
-Hãy để ND03 dẫn lối bạn đến với sương mù, hoàng hôn trên đỉnh núi và những khoảnh khắc yên bình không quên. 🌟 Đặt chỗ ngay hôm nay để hưởng ưu đãi và lên kế hoạch cho chuyến đi trọn vẹn! Book nhanh để giữ chỗ nhé. ✨
+Hãy chọn ND03 để trải nghiệm một Sapa chân thực, vừa lãng mạn vừa phượt nhẹ nhàng cùng hướng dẫn viên bản địa tận tâm. Đặt chỗ sớm để nhận ngay giá khuyến mãi 10% và giữ vị trí đẹp cho mùa săn mây! 📞✅
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Tập trung tại Hà Nội, làm thủ tục lên tàu/khởi hành bằng ô tô ➡️ Di chuyển tới Lào Cai ➡️ Đón xe đưa lên Sapa và nhận phòng.
-  🌞 Trưa: Thưởng thức bữa trưa đặc sản, nghỉ ngơi, tự do khám phá trung tâm thị trấn Sapa, chụp hình nhà thờ đá.
-  🌙 Tối: Dạo chợ đêm Sapa, thưởng thức nướng/khẩu ẩm thực địa phương, nghỉ đêm tại khách sạn.
-
+  🌅 Sáng: ➡️ Tập trung tại điểm hẹn ở Hà Nội ➡️ Lên tàu/xe khởi hành đi Lào Cai/Sapa.
+  🌞 Trưa: ➡️ Nghỉ ngơi trên đường, ăn nhẹ trên tàu/xe ➡️ Đến Sapa, nhận phòng, ăn trưa.
+  🌙 Tối: ➡️ Tham quan chợ đêm Sapa ➡️ Thưởng thức ẩm thực địa phương, tự do khám phá.
 - Ngày 2:
-  🌅 Sáng: ➡️ Ăn sáng tại khách sạn ➡️ Khởi hành đi ga cáp treo Fansipan ➡️ Lên đỉnh Fansipan bằng cáp treo, tham quan tượng Phật, ngắm cảnh.
-  🌞 Trưa: Ăn trưa tại nhà hàng, nghỉ ngơi, chụp ảnh panorama.
-  🌙 Tối: Về Sapa, tự do thưởng thức ẩm thực, có thể tham gia quán cà phê ngắm đồi núi về đêm, nghỉ đêm.
-
+  🌅 Sáng: ➡️ Ăn sáng tại khách sạn ➡️ Khởi hành đi cáp treo Fansipan ➡️ Chinh phục đỉnh Fansipan, check-in.
+  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương ➡️ Tham quan khu du lịch Sun World.
+  🌙 Tối: ➡️ Trở về Sapa, nghỉ ngơi hoặc thưởng thức spa chân/masage tùy chọn.
 - Ngày 3:
-  🌅 Sáng: ➡️ Ăn sáng ➡️ Trek nhẹ đến bản Lao Chải - Tả Van, đi bộ qua ruộng bậc thang và cầu treo ➡️ Thăm homestay/khám phá nghề truyền thống.
-  🌞 Trưa: Dùng cơm trưa cùng gia đình bản địa, thưởng thức món ăn dân tộc.
-  🌙 Tối: Trở lại thị trấn Sapa, thời gian tự do mua quà, nghỉ ngơi tại khách sạn.
-
+  🌅 Sáng: ➡️ Khởi hành trekking bản Cát Cát / Tả Van ➡️ Gặp gỡ người dân tộc, tìm hiểu văn hóa.
+  🌞 Trưa: ➡️ Dùng bữa trưa tại homestay hoặc nhà hàng bản địa ➡️ Tham quan thung lũng Mường Hoa.
+  🌙 Tối: ➡️ Thưởng thức chương trình văn hóa (nếu có) ➡️ Tự do dạo phố, mua quà lưu niệm.
 - Ngày 4:
-  🌅 Sáng: ➡️ Thăm bản Cát Cát, thác Cát Cát, trải nghiệm văn hóa H’Mông ➡️ Trở về khách sạn, làm thủ tục trả phòng.
-  🌞 Trưa: Ăn trưa, tập trung lên xe về Lào Cai, khởi hành về Hà Nội.
-  🌙 Tối: Về đến Hà Nội, kết thúc chương trình, chia tay và hẹn gặp lại.
+  🌅 Sáng: ➡️ Thăm vườn hoa Hàm Rồng hoặc chụp ảnh check-out phòng.
+  🌞 Trưa: ➡️ Trả phòng, ăn trưa nhẹ ➡️ Lên tàu/xe quay về Hà Nội.
+  🌙 Tối: ➡️ Về đến điểm đón ban đầu, kết thúc tour, chào tạm biệt và hẹn gặp lại.
 
 ## Ưu đãi
-Chương trình đang giảm giá 10% — giá gốc 6.900.000 VND, giá khuyến mãi chỉ còn 6.210.000 VND. 🔥 Tiết kiệm rõ rệt mà vẫn đảm bảo chất lượng dịch vụ: vận chuyển 🚆+🚌, vé cáp treo Fansipan, hướng dẫn viên, ăn uống và chỗ nghỉ. Nhanh tay đặt tour để giữ chỗ và hưởng ưu đãi hấp dẫn này!
+Chương trình đang áp dụng GIẢM NGAY 10% — từ giá gốc 6.900.000 VND xuống chỉ còn 6.210.000 VND. Ưu đãi giới hạn, đặt sớm để giữ chỗ và nhận mức giá khuyến mãi hấp dẫn này! 🔥💸
 
 ## SEO Keywords
-tour Sapa, Fansipan, tour 4N3Đ Sapa, du lịch Sapa giá rẻ, cáp treo Fansipan
+tour Sapa, Fansipan, tour Sapa Fansipan, du lịch Sapa, chinh phục Fansipan
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

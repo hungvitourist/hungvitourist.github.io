@@ -4,8 +4,8 @@ layout: post
 tour_code: ND17
 meta-title: Cà Mau - Đất Mũi
 bigimg:
-  - "/img/tours/domestic/ca-mau-dat-mui.jpg"
-image: "/img/tours/domestic/ca-mau-dat-mui.jpg"
+  - "/img/tours/domestic/tour-ca-mau-dat-mui.jpg"
+image: "/img/tours/domestic/tour-ca-mau-dat-mui.jpg"
 tags: tour cà mau, đất mũi, du lịch miền tây, tour nội địa
 categories: [tours#domestic]
 transport: "🚌"
@@ -13,48 +13,53 @@ location: Cà Mau - Đất Mũi
 duration: 3N2Đ
 discount: 8
 price: 4.600.000
-description: "- 🆔 Mã tour: **ND17**"
-keywords: "Hành trình 3N2Đ khám phá Cà Mau - Đất Mũi mang đến cho bạn cơ hội chạm tay vào mũi đất tận cùng của Tổ quốc, nơi sóng biển ôm lấy bãi bồi xanh rì và bầu trời rộng mở như một bức tranh tự nhiên tuyệt đẹp 🌊. Tour phù hợp cho cặp đôi, gia đình hoặc nhóm bạn muốn trốn thành phố, tận hưởng hải sản tươi ngon và bình minh trên biển, hòa mình vào văn hóa miền sông nước đậm đà bản sắc.  "
+description: "## ✈️ Tour Cà Mau - Đất Mũi"
+keywords: "Cà Mau — nơi mũi đất cuối cùng của Tổ quốc, là điểm đến lý tưởng cho những ai muốn trải nghiệm thiên nhiên hoang sơ và văn hóa miền Tây thuần khiết. Hành trình 3N2Đ đưa bạn đi qua rừng ngập mặn, chiêm ngưỡng mốc tọa độ Quốc gia tại Đất Mũi, ngắm bình minh và hoàng hôn trên biển, đồng thời thưởng thức hải sản tươi rói ngay tại chỗ. 🌅🦀"
 ---
 
-## ✈️ Tour Cà Mau - Đất Mũi
+## ✈️ Tour Cà Mau - Đất Mũi 
 
+- 🆔 Mã tour: **ND17**
+- 📍 Địa điểm: **Cà Mau - Đất Mũi**
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **4.600.000 VND**
 - 🔥 Giảm giá: **8%**
 - 💵 Giá khuyến mãi: **4.232.000 VND**
 - ⏳ Thời gian du lịch: **3N2Đ**
 
-## Giới thiệu
-Hành trình 3N2Đ khám phá Cà Mau - Đất Mũi mang đến cho bạn cơ hội chạm tay vào mũi đất tận cùng của Tổ quốc, nơi sóng biển ôm lấy bãi bồi xanh rì và bầu trời rộng mở như một bức tranh tự nhiên tuyệt đẹp 🌊. Tour phù hợp cho cặp đôi, gia đình hoặc nhóm bạn muốn trốn thành phố, tận hưởng hải sản tươi ngon và bình minh trên biển, hòa mình vào văn hóa miền sông nước đậm đà bản sắc.  
 
-Bạn sẽ được trải nghiệm đi tàu ra Mũi Cà Mau, check-in mốc tọa độ, đi tham quan rừng đước ngập mặn, thử câu mực đêm và thưởng thức đặc sản địa phương dưới ánh sao ✨. Lịch trình thiết kế vừa đủ để thư giãn nhưng vẫn đầy ắp trải nghiệm, phù hợp mọi lứa tuổi. Đặt tour ngay để giữ chỗ và nhận ưu đãi hấp dẫn - hành trình khám phá miền Tây sâu thẳm đang chờ bạn! 📲
+## Giới thiệu
+Cà Mau — nơi mũi đất cuối cùng của Tổ quốc, là điểm đến lý tưởng cho những ai muốn trải nghiệm thiên nhiên hoang sơ và văn hóa miền Tây thuần khiết. Hành trình 3N2Đ đưa bạn đi qua rừng ngập mặn, chiêm ngưỡng mốc tọa độ Quốc gia tại Đất Mũi, ngắm bình minh và hoàng hôn trên biển, đồng thời thưởng thức hải sản tươi rói ngay tại chỗ. 🌅🦀
+
+Tour thiết kế nhẹ nhàng, phù hợp cả gia đình và nhóm bạn trẻ: tham quan ven sông, đi ghe tham quan rừng đước, trải nghiệm cuộc sống ngư dân và chụp những bức ảnh check-in độc đáo ở Mũi Cà Mau — nơi đất liền chạm biển. Hướng dẫn viên địa phương giàu kinh nghiệm sẽ kể bạn nghe những câu chuyện văn hóa, lịch sử độc đáo của vùng đất cuối trời này. 🚤📸
+
+Hành trình được tổ chức an toàn với xe đời mới, khách sạn tiện nghi và các bữa ăn đặc sắc mang hương vị miền Tây. Đây cũng là cơ hội để bạn tạm rời thành phố, hòa mình vào không gian yên bình của thiên nhiên và thư giãn thực sự. Đặt tour ngay để tận hưởng ưu đãi và kịp chọn lịch bạn mong muốn! 📞✨
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành bằng xe giường nằm/ghế ngồi đến Cà Mau ➡️ Nghỉ dọc đường, ăn sáng tự túc  
-  🌞 Trưa: ➡️ Đến Cà Mau, dùng cơm trưa đặc sản, nhận phòng, nghỉ ngơi  
-  🌙 Tối: ➡️ Dạo chợ đêm, thưởng thức hải sản tươi và trải nghiệm câu mực đêm (tự túc/tuỳ chương trình)
+  🌅 Sáng: ➡️ Khởi hành từ điểm hẹn, di chuyển theo đoàn bằng xe du lịch.
+  🌞 Trưa: ➡️ Dùng cơm trưa ở địa phương, nhận phòng khách sạn, nghỉ ngơi.
+  🌙 Tối: ➡️ Dạo chợ đêm, thưởng thức hải sản và tự do khám phá TP Cà Mau.
 - Ngày 2:
-  🌅 Sáng: ➡️ Di chuyển ra Đất Mũi bằng tàu ➡️ Tham quan mốc tọa độ quốc gia, chụp ảnh check-in  
-  🌞 Trưa: ➡️ Thưởng thức bữa trưa trên tàu/homestay với đặc sản miền biển  
-  🌙 Tối: ➡️ Tham quan rừng đước, ngắm hoàng hôn, tham gia chương trình văn hóa địa phương
+  🌅 Sáng: ➡️ Khởi hành tham quan Rừng Đước, đi ghe/lênh đênh trên kênh rạch.
+  🌞 Trưa: ➡️ Ăn trưa với đặc sản vùng sông nước, nghỉ ngơi tại bến.
+  🌙 Tối: ➡️ Tham gia trải nghiệm câu mực/đốt lửa trại (tùy chương trình), sinh hoạt đoàn.
 - Ngày 3:
-  🌅 Sáng: ➡️ Xem bình minh tại Mũi Cà Mau ➡️ Tham quan chợ đặc sản, mua quà lưu niệm  
-  🌞 Trưa: ➡️ Trả phòng, ăn trưa, chuẩn bị khởi hành về lại điểm đón  
-  🌙 Tối: ➡️ Về đến điểm xuất phát, kết thúc hành trình, chia tay và hẹn gặp lại
+  🌅 Sáng: ➡️ Thăm Mốc Tọa Độ Quốc Gia, chinh phục mũi đất và check-in tại Cột mốc hình tam giác.
+  🌞 Trưa: ➡️ Dùng bữa, mua quà đặc sản, chuẩn bị trả phòng.
+  🌙 Tối: ➡️ Lên xe về lại điểm đón ban đầu, kết thúc chương trình, chia tay đoàn.
 
 ## Ưu đãi
-Chương trình đang giảm ngay 8% — từ giá gốc 4.600.000 VND xuống chỉ còn 4.232.000 VND! 🔥 Giá khuyến mãi đã bao gồm các dịch vụ chính theo chương trình, giúp bạn tiết kiệm nhưng vẫn tận hưởng trọn vẹn trải nghiệm Đất Mũi. Nhanh tay đặt chỗ để giữ ưu đãi trong thời gian giới hạn!
+Hiện có chương trình giảm giá hấp dẫn: giảm ngay **8%**, đưa giá tour từ **4.600.000 VND** xuống chỉ còn **4.232.000 VND**. Nhanh tay đặt giữ chỗ để nhận mức giá khuyến mãi này và chọn ngày khởi hành phù hợp — số lượng có hạn! 🔥🎉
 
 ## SEO Keywords
-Cà Mau Đất Mũi, tour Cà Mau 3N2Đ, du lịch miền Tây, mũi Cà Mau, tour khám phá Đất Mũi
+tour Cà Mau, Đất Mũi, du lịch Cà Mau 3N2Đ, tour miền Tây, tour Cà Mau giá rẻ
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

@@ -4,8 +4,8 @@ layout: post
 tour_code: ND18
 meta-title: Bắc Kạn - Hồ Ba Bể
 bigimg:
-  - "/img/tours/domestic/bac-kan-ho-ba-be.jpg"
-image: "/img/tours/domestic/bac-kan-ho-ba-be.jpg"
+  - "/img/tours/domestic/ho-ba-be-bac-kan.webp"
+image: "/img/tours/domestic/ho-ba-be-bac-kan.webp"
 tags: tour bắc kạn, hồ ba bể, du lịch đông bắc, tour nội địa
 categories: [tours#domestic,special-offer]
 transport: "🚌"
@@ -13,52 +13,57 @@ location: Bắc Kạn - Hồ Ba Bể
 duration: 3N2Đ
 discount: 10
 price: 5.200.000
-description: "- 🆔 Mã tour: **ND18**"
-keywords: "Hồ Ba Bể - viên ngọc xanh giữa núi rừng Đông Bắc, là điểm đến dịu dàng dành cho những ai muốn rời xa ồn ào thành phố và hòa mình cùng thiên nhiên 🌿🚣‍♀️. Tour Bắc Kạn 3N2Đ đưa bạn lướt trên mặt nước trong vắt, khám phá hang động kỳ vĩ, ghé thăm làng bản dân tộc và nếm thử ẩm thực mộc mạc mà đậm đà. Những cảnh sắc bình yên của hồ, rừng cổ thụ và sương mờ buổi sớm sẽ chạm đến trái tim bất kỳ ai yêu thiên nhiên."
+description: "## ✈️ Tour Bắc Kạn - Hồ Ba Bể"
+keywords: "Hồ Ba Bể là một kỳ quan thiên nhiên nằm giữa lòng núi rừng Bắc Kạn, nơi mặt nước xanh ngọc phản chiếu chân trời và vách đá tưởng chừng chỉ xuất hiện trong tranh. Tour 3N2Đ này đưa bạn đến với những khung cảnh thơ mộng: thuyền nhẹ lướt trên hồ, rừng nguyên sinh mênh mông, và những hang động bí ẩn chờ bạn khám phá. 🌿🚣‍♀️"
 ---
 
-## ✈️ Tour Bắc Kạn - Hồ Ba Bể
+## ✈️ Tour Bắc Kạn - Hồ Ba Bể 
 
+- 🆔 Mã tour: **ND18**
+- 📍 Địa điểm: **Bắc Kạn - Hồ Ba Bể**
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **5.200.000 VND**
 - 🔥 Giảm giá: **10%**
 - 💵 Giá khuyến mãi: **4.680.000 VND**
 - ⏳ Thời gian du lịch: **3N2Đ**
 
+
 ## Giới thiệu
-Hồ Ba Bể - viên ngọc xanh giữa núi rừng Đông Bắc, là điểm đến dịu dàng dành cho những ai muốn rời xa ồn ào thành phố và hòa mình cùng thiên nhiên 🌿🚣‍♀️. Tour Bắc Kạn 3N2Đ đưa bạn lướt trên mặt nước trong vắt, khám phá hang động kỳ vĩ, ghé thăm làng bản dân tộc và nếm thử ẩm thực mộc mạc mà đậm đà. Những cảnh sắc bình yên của hồ, rừng cổ thụ và sương mờ buổi sớm sẽ chạm đến trái tim bất kỳ ai yêu thiên nhiên.
+Hồ Ba Bể là một kỳ quan thiên nhiên nằm giữa lòng núi rừng Bắc Kạn, nơi mặt nước xanh ngọc phản chiếu chân trời và vách đá tưởng chừng chỉ xuất hiện trong tranh. Tour 3N2Đ này đưa bạn đến với những khung cảnh thơ mộng: thuyền nhẹ lướt trên hồ, rừng nguyên sinh mênh mông, và những hang động bí ẩn chờ bạn khám phá. 🌿🚣‍♀️
 
-Hành trình được thiết kế cân bằng giữa trải nghiệm khám phá và nghỉ dưỡng: chèo thuyền ngắm phong cảnh, trekking nhẹ qua rừng nguyên sinh, thăm động Puông huyền ảo và đêm homestay ấm áp bên bếp lửa cùng người dân bản địa 🏞️🔥. Hướng dẫn viên giàu kinh nghiệm sẽ dẫn dắt bạn an toàn và truyền cảm hứng suốt chuyến đi.
+Hành trình kết hợp trải nghiệm văn hóa độc đáo với bản làng người Tày, Nùng, thưởng thức cơm lam, cá nướng dưới mái nhà sàn truyền thống. Bạn sẽ được trekking nhẹ, chèo thuyền trên các nhánh suối, chinh phục góc nhìn cao để ngắm toàn cảnh hồ Ba Bể lúc bình minh và hoàng hôn — khoảnh khắc lý tưởng cho nhiếp ảnh gia và người yêu thiên nhiên. 📸🌄
 
-Dù bạn đi cùng gia đình, nhóm bạn hay muốn một chuyến solo tĩnh lặng, tour ND18 là lựa chọn lý tưởng để cảm nhận trọn vẹn vẻ đẹp hoang sơ của Ba Bể. Nhanh tay đặt chỗ để nhận giá khuyến mãi 10% và giữ chỗ cho mùa du lịch sắp tới nhé ✨📞
+Chuyến đi được thiết kế phù hợp cho gia đình, nhóm bạn và cặp đôi thích sự yên bình nhưng vẫn muốn tiện nghi. Xe giường nằm/chất lượng, hướng dẫn viên chuyên nghiệp, và lịch trình linh hoạt giúp bạn tận hưởng trọn vẹn mà không vội vàng. Đây là cơ hội để “sạc” lại năng lượng giữa thiên nhiên xanh mát. 🛶🍃
+
+Đặt chỗ ngay hôm nay để giữ mức giá khuyến mãi và chuẩn bị hành lý cho một hành trình thư giãn, tràn đầy cảm xúc! ✨
 
 ## Hành trình
-- Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành từ Hà Nội (hoặc điểm hẹn) ➡️ Di chuyển đến Bắc Kạn, nghỉ dọc đường, tham quan cảnh núi non.
-  🌞 Trưa: ➡️ Đến Ba Bể, dùng cơm trưa đặc sản, làm thủ tục nhận phòng/homestay.
-  🌙 Tối: ➡️ Chèo thuyền buổi tối trên hồ (nếu có) hoặc dạo bản, thưởng thức văn hóa ẩm thực dân tộc, nghỉ đêm homestay.
+- Ngày 1: 
+  🌅 Sáng: ➡️ Khởi hành từ điểm hẹn (Hà Nội) bằng xe đời mới ➡️ Nghỉ dọc đường, giới thiệu tổng quan tour.
+  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương ➡️ Tiếp tục hành trình đến Bắc Kạn.
+  🌙 Tối: ➡️ Nhận phòng homestay/khách sạn ➡️ Dùng bữa tối với đặc sản vùng miền ➡️ Tự do dạo bản, khám phá văn hóa đêm.
 
-- Ngày 2:
-  🌅 Sáng: ➡️ Tham quan động Puông ➡️ Ngắm cảnh từ hang, chụp ảnh.
-  🌞 Trưa: ➡️ Thưởng thức bữa trưa tại nhà dân, nghỉ ngơi.
-  🌙 Tối: ➡️ Trekking nhẹ trong rừng nguyên sinh, ghé thác Đầu Đẳng (hoặc điểm tương tự), trở về homestay, giao lưu văn hóa.
+- Ngày 2: 
+  🌅 Sáng: ➡️ Tham quan Hồ Ba Bể bằng thuyền ➡️ Ghé thăm Động Puông và hòn Con Cóc.
+  🌞 Trưa: ➡️ Picnic/ăn trưa tại bờ hồ hoặc quay về homestay.
+  🌙 Tối: ➡️ Tham gia chương trình văn nghệ, giao lưu với người dân bản địa ➡️ Nghỉ đêm tại homestay.
 
-- Ngày 3:
-  🌅 Sáng: ➡️ Cano/đò tham quan đảo An Mã và những vịnh nhỏ ➡️ Check-out.
-  🌞 Trưa: ➡️ Dùng bữa, mua quà lưu niệm từ bản làng.
-  🌙 Tối: ➡️ Lên đường về Hà Nội, kết thúc tour, chia tay và hẹn gặp lại.
+- Ngày 3: 
+  🌅 Sáng: ➡️ Trek nhẹ thăm rừng nguyên sinh hoặc thác bản Giốc (tùy lịch trình) ➡️ Check-out.
+  🌞 Trưa: ➡️ Ăn trưa, tổng kết chuyến đi.
+  🌙 Tối: ➡️ Trả khách về điểm hẹn ban đầu, kết thúc tour an toàn và đầy kỷ niệm.
 
 ## Ưu đãi
-Nhanh tay nhận ngay ưu đãi giảm 10% cho tour ND18! Giá tour gốc 5.200.000 VND — bạn chỉ còn trả 4.680.000 VND cho trọn vẹn hành trình 3N2Đ khám phá Hồ Ba Bể. Số chỗ có hạn, đặt sớm để giữ mức giá khuyến mãi và lựa chọn ngày khởi hành thuận tiện nhất 🎉📩
+Hiện có GIẢM GIÁ 10% cho tour Bắc Kạn - Hồ Ba Bể! Giá gốc 5.200.000 VND, sau khuyến mãi chỉ còn 4.680.000 VND — tiết kiệm rõ rệt mà vẫn được trải nghiệm trọn vẹn. Nhanh tay đặt để giữ chỗ và nhận dịch vụ tốt nhất! 🔥💸
 
 ## SEO Keywords
-Tour Bắc Kạn, Hồ Ba Bể, du lịch Ba Bể 3N2Đ, tour Bắc Kạn khuyến mãi, homestay Ba Bể
+tour Bắc Kạn, du lịch Hồ Ba Bể, tour Ba Bể 3N2Đ, homestay Bắc Kạn, khám phá Ba Bể
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

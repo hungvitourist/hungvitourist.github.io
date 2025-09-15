@@ -13,12 +13,14 @@ location: Mộc Châu - Sơn La
 duration: 2N1Đ
 discount: 9
 price: 3.300.000
-description: "- 🆔 Mã tour: **ND22**"
-keywords: "Mộc Châu - Sơn La là điểm đến lý tưởng cho những ai muốn rời xa phố thị, tìm về với thiên nhiên xanh mướt và không khí trong lành. Đồi chè bát ngát, rừng thông uốn lượn và thác nước mát rượi tạo nên bức tranh phong cảnh xao xuyến lòng người. Hãy để từng bước chân dẫn bạn khám phá khung cảnh thơ mộng, chụp những bức ảnh triệu like và thưởng thức ẩm thực đậm đà vùng cao. 🌿📸"
+description: "## ✈️ Tour Mộc Châu - Sơn La"
+keywords: "Mộc Châu - Sơn La là điểm đến lý tưởng cho những ai muốn trốn khỏi nhịp sống ồn ào, hoà mình vào thiên nhiên xanh ngát và tận hưởng không khí trong lành của cao nguyên. Tour 2N1Đ ND22 đưa bạn qua những cung đường uốn lượn, rừng thông mát rượi, thung lũng hoa cải và đồi chè mênh mông — nơi mỗi bức ảnh đều như một tấm postcard. 🌿📸"
 ---
 
-## ✈️ Tour Mộc Châu - Sơn La
+## ✈️ Tour Mộc Châu - Sơn La 
 
+- 🆔 Mã tour: **ND22**
+- 📍 Địa điểm: **Mộc Châu - Sơn La**
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **3.300.000 VND**
 - 🔥 Giảm giá: **9%**
@@ -26,34 +28,33 @@ keywords: "Mộc Châu - Sơn La là điểm đến lý tưởng cho những ai 
 - ⏳ Thời gian du lịch: **2N1Đ**
 
 ## Giới thiệu
-Mộc Châu - Sơn La là điểm đến lý tưởng cho những ai muốn rời xa phố thị, tìm về với thiên nhiên xanh mướt và không khí trong lành. Đồi chè bát ngát, rừng thông uốn lượn và thác nước mát rượi tạo nên bức tranh phong cảnh xao xuyến lòng người. Hãy để từng bước chân dẫn bạn khám phá khung cảnh thơ mộng, chụp những bức ảnh "triệu like" và thưởng thức ẩm thực đậm đà vùng cao. 🌿📸
+Mộc Châu - Sơn La là điểm đến lý tưởng cho những ai muốn trốn khỏi nhịp sống ồn ào, hoà mình vào thiên nhiên xanh ngát và tận hưởng không khí trong lành của cao nguyên. Tour 2N1Đ ND22 đưa bạn qua những cung đường uốn lượn, rừng thông mát rượi, thung lũng hoa cải và đồi chè mênh mông — nơi mỗi bức ảnh đều như một tấm postcard. 🌿📸
 
-Chuyến đi 2N1Đ này được thiết kế vừa đủ để bạn trải nghiệm những điểm nổi bật nhất: thăm đồi chè, rừng thông Bản Áng, nếm sữa Mộc Châu tươi ngon và khám phá bản làng văn hóa dân tộc. Lịch trình linh hoạt, hướng dẫn viên thân thiện cùng xe giường nằm tiện nghi sẽ mang đến hành trình thư thái, trọn vẹn cảm xúc. 🚍✨
+Bạn sẽ có cơ hội trải nghiệm văn hóa bản địa độc đáo, thưởng thức đặc sản Tây Bắc như bê chao, cá suối, mận, đào chín mọng và tham quan nông trại, vườn hoa rực rỡ theo mùa. Hướng dẫn viên thân thiện cùng lịch trình hợp lý giúp hành trình thoải mái, không gấp gáp, phù hợp cả gia đình và nhóm bạn trẻ. 🥘🎒
 
-Nếu bạn cần một kỳ nghỉ ngắn nhưng giàu trải nghiệm, ND22 là lựa chọn hoàn hảo để nạp đầy năng lượng và lưu giữ kỷ niệm đáng nhớ. Đừng bỏ lỡ giá khuyến mãi hấp dẫn và suất có hạn — đăng ký ngay để giữ chỗ và tận hưởng Mộc Châu trong mùa đẹp nhất! 🌸📞
+Nếu bạn cần một chuyến ngắn ngày nhưng nhiều cảm xúc, tour Mộc Châu 2N1Đ là lựa chọn hoàn hảo để nạp đầy năng lượng và lưu giữ kỷ niệm đẹp. Đặt chỗ sớm để hưởng giá khuyến mãi và ưu đãi hấp dẫn — khám phá ngay cùng chúng tôi! ✨🚌
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Tập trung tại điểm hẹn, khởi hành đi Mộc Châu ➡️ Dừng chân nghỉ giữa đường, chụp ảnh check-in.
-  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương ➡️ Tham quan Nông trường bò sữa Mộc Châu, thử sữa và sản phẩm từ sữa.
-  🌙 Tối: ➡️ Nhận phòng/nhà sàn homestay ➡️ Thưởng thức đặc sản vùng cao, dạo chợ đêm hoặc tự do khám phá bản làng.
-
+  🌅 Sáng: ➡️ Xuất phát từ điểm hẹn, ngắm cảnh trên đường đi ➡️ Dừng chân chụp hình tại đèo, check-in vườn hoa (tuỳ mùa) ➡️ Tham quan đồi chè, nông trại địa phương.
+  🌞 Trưa: ➡️ Dùng bữa trưa với đặc sản vùng cao ➡️ Nghỉ ngơi tại homestay/khách sạn.
+  🌙 Tối: ➡️ Tham gia chương trình văn hóa bản địa hoặc dạo phố, thưởng thức ẩm thực đêm.
 - Ngày 2:
-  🌅 Sáng: ➡️ Ăn sáng tại nơi lưu trú ➡️ Tham quan Đồi chè trái tim và Rừng thông Bản Áng, chụp ảnh.
-  🌞 Trưa: ➡️ Ghé thác Dải Yếm hoặc các điểm thăm quan gần đó ➡️ Ăn trưa, mua đặc sản (phở chua, mận, sữa chua).
-  🌙 Tối: ➡️ Lên xe khởi hành về Hà Nội, dừng nghỉ giải lao ➡️ Về tới điểm hẹn, chia tay kết thúc hành trình an toàn.
+  🌅 Sáng: ➡️ Tham quan thác Dải Yếm/Ngũ động Bản Ôn (tuỳ chương trình) ➡️ Check-in đồi mận/đồi hoa cải (theo mùa).
+  🌞 Trưa: ➡️ Ăn trưa, mua đặc sản làm quà (mận, chanh leo, sữa chua Mộc Châu).
+  🌙 Tối: ➡️ Lên xe về lại điểm đón ban đầu, kết thúc tour, chia tay và hẹn gặp lại.
 
 ## Ưu đãi
-Chương trình đang có GIẢM NGAY 9% so với giá gốc 3.300.000 VND — bạn chỉ còn phải thanh toán 3.003.000 VND cho tour ND22 (2N1Đ). Nhanh tay đặt chỗ để nhận mức giá khuyến mãi và suất có hạn — cơ hội tiết kiệm rõ rệt cho kỳ nghỉ ngắn ngày của bạn! 🔥💸
+Hiện có GIẢM GIÁ 9% — giá gốc 3.300.000 VND, giá khuyến mãi chỉ còn 3.003.000 VND. Nhanh tay đặt tour để tiết kiệm ngay và tận hưởng trải nghiệm trọn vẹn với chi phí hợp lý! 🔥🛍️
 
 ## SEO Keywords
-tour Mộc Châu, du lịch Mộc Châu Sơn La, tour 2 ngày 1 đêm Mộc Châu, đồi chè Mộc Châu, homestay Mộc Châu
+Tour Mộc Châu, du lịch Mộc Châu, homestay Mộc Châu, vườn hoa Mộc Châu, du lịch Sơn La
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

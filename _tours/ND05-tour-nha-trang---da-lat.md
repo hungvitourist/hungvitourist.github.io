@@ -4,8 +4,8 @@ layout: post
 tour_code: ND05
 meta-title: Nha Trang - Đà Lạt
 bigimg:
-  - "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
-image: "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
+  - "/img/tours/domestic/canh-dep-da-lat-nha-trang.webp"
+image: "/img/tours/domestic/canh-dep-da-lat-nha-trang.webp"
 tags: tour nha trang, tour đà lạt, du lịch biển, cao nguyên, tour nội địa
 categories: [tours#domestic,special-offer,hot]
 transport: "✈️ + 🚌"
@@ -13,12 +13,14 @@ location: Nha Trang - Đà Lạt
 duration: 4N3Đ
 discount: 10
 price: 5.500.000
-description: "- 🆔 Mã tour: **ND05**"
-keywords: "Hãy cùng khám phá hai vẻ đẹp đối lập nhưng hòa quyện hoàn hảo: nắng vàng, biển xanh của Nha Trang và sương mù, thông reo của Đà Lạt. Tour ND05 thiết kế để bạn có trải nghiệm trọn vẹn trong 4N3Đ — tắm biển, lặn san hô, thưởng thức hải sản tươi, rồi nhẹ nhàng đổi không khí lên cao nguyên mát mẻ, thả mình giữa rừng thông và đồi hoa. 🌊🌲"
+description: "## ✈️ Tour Nha Trang - Đà Lạt"
+keywords: "Hành trình Nha Trang - Đà Lạt 4N3Đ là sự kết hợp hoàn hảo giữa biển xanh, nắng vàng và cao nguyên mơ mộng. Bạn sẽ bắt đầu bằng những bãi cát mịn, làn nước trong vắt và trải nghiệm lặn ngắm san hô tại Hòn Mun, sau đó thưởng thức hải sản tươi ngon dưới bầu trời hoàng hôn. Nha Trang đem lại cảm giác năng động, thư thái cho những ai cần nạp lại năng lượng. 🐠🏖️"
 ---
 
-## ✈️ Tour Nha Trang - Đà Lạt
+## ✈️ Tour Nha Trang - Đà Lạt 
 
+- 🆔 Mã tour: **ND05**
+- 📍 Địa điểm: **Nha Trang - Đà Lạt**
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **5.500.000 VND**
 - 🔥 Giảm giá: **10%**
@@ -26,41 +28,41 @@ keywords: "Hãy cùng khám phá hai vẻ đẹp đối lập nhưng hòa quyệ
 - ⏳ Thời gian du lịch: **4N3Đ**
 
 ## Giới thiệu
-Hãy cùng khám phá hai vẻ đẹp đối lập nhưng hòa quyện hoàn hảo: nắng vàng, biển xanh của Nha Trang và sương mù, thông reo của Đà Lạt. Tour ND05 thiết kế để bạn có trải nghiệm trọn vẹn trong 4N3Đ — tắm biển, lặn san hô, thưởng thức hải sản tươi, rồi nhẹ nhàng đổi không khí lên cao nguyên mát mẻ, thả mình giữa rừng thông và đồi hoa. 🌊🌲
+Hành trình Nha Trang - Đà Lạt 4N3Đ là sự kết hợp hoàn hảo giữa biển xanh, nắng vàng và cao nguyên mơ mộng. Bạn sẽ bắt đầu bằng những bãi cát mịn, làn nước trong vắt và trải nghiệm lặn ngắm san hô tại Hòn Mun, sau đó thưởng thức hải sản tươi ngon dưới bầu trời hoàng hôn. Nha Trang đem lại cảm giác năng động, thư thái cho những ai cần nạp lại năng lượng. 🐠🏖️
 
-Lịch trình hợp lý với chuyến bay thuận tiện và di chuyển bằng xe du lịch chất lượng giúp bạn tiết kiệm thời gian, tận hưởng nhiều điểm tham quan nhất. Mỗi buổi sáng là cơ hội cho những khoảnh khắc đáng nhớ: bình minh trên biển, cà phê sớm ở Đà Lạt, hoàng hôn lãng mạn và những đêm ăn hải sản tươi ngon. ☀️🌅
+Tiếp nối là Đà Lạt — thành phố ngàn hoa, sương mù lãng đãng và rừng thông bạt ngàn. Ở đây bạn sẽ được chinh phục đỉnh Langbiang, dạo quanh Hồ Xuân Hương, khám phá Datanla bằng máng trượt và nhấm nháp cà phê thơm nồng trong một quán cổ kính. Từ biển đến cao nguyên, mỗi ngày đều là một trải nghiệm khác biệt, giàu cảm xúc và ảnh sống ảo. 🌲🌸
 
-Dành cho cặp đôi, gia đình hoặc nhóm bạn muốn cân bằng giữa thư giãn và khám phá, hành trình này mang đến trải nghiệm đa dạng nhưng vẫn nhẹ nhàng, không quá gấp rút. Đặt chỗ ngay để giữ mức giá ưu đãi, số lượng có hạn — trải nghiệm biển và núi chỉ trong một tour! 📲✨
+Tour được thiết kế linh hoạt, tiện lợi với chuyến bay và xe khách đưa đón, phù hợp gia đình, cặp đôi hoặc nhóm bạn. Hướng dẫn viên nhiệt tình, lịch trình hợp lý để bạn vừa khám phá vừa nghỉ ngơi. Nhanh tay giữ chỗ để không bỏ lỡ ưu đãi mùa này! 📞✨
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành bằng máy bay đến Nha Trang ➡️ Nhận phòng khách sạn và nghỉ ngơi
-  🌞 Trưa: Thưởng thức hải sản tại nhà hàng địa phương
-  🌙 Tối: Dạo biển, tự do khám phá chợ đêm Nha Trang
+  🌅 Sáng: ➡️ Bay đến Cam Ranh/Quy Nhơn (tuỳ điểm khởi hành) ➡️ Đón về Nha Trang ➡️ Nhận phòng và nghỉ ngơi  
+  🌞 Trưa: ➡️ Thưởng thức hải sản tươi tại nhà hàng địa phương  
+  🌙 Tối: ➡️ Tham quan chợ đêm, dạo biển, tự do khám phá ẩm thực
 - Ngày 2:
-  🌅 Sáng: ➡️ Đi đảo (Vinpearl/ Hòn Mun/ Hòn Tằm) ➡️ Lặn ngắm san hô, chụp hình biển
-  🌞 Trưa: Tiệc trên tàu / bãi biển
-  🌙 Tối: Xe khởi hành lên Đà Lạt, nghỉ đêm trên xe hoặc đến nơi nhận phòng (tùy lịch)
+  🌅 Sáng: ➡️ Xuất phát tham quan đảo Hòn Mun ➡️ Lặn ngắm san hô, chụp ảnh trên tàu  
+  🌞 Trưa: ➡️ Dùng bữa trưa trên đảo, thư giãn trên bãi biển Hòn Tằm  
+  🌙 Tối: ➡️ Về đất liền, tối lên xe/xe giường nằm đi Đà Lạt (hoặc khởi hành tối bằng xe)
 - Ngày 3:
-  🌅 Sáng: ➡️ Tham quan Thung Lũng Tình Yêu ➡️ Dinh Bảo Đại
-  🌞 Trưa: Ăn trưa đặc sản Đà Lạt (nem nướng, bánh căn)
-  🌙 Tối: Khám phá chợ đêm, thưởng thức bánh tráng nướng, sữa đậu nành
+  🌅 Sáng: ➡️ Đến Đà Lạt, nhận phòng, dùng điểm tâm  
+  🌞 Trưa: ➡️ Tham quan Langbiang, Datanla (máng trượt/cáp treo)  
+  🌙 Tối: ➡️ Dạo chợ đêm Đà Lạt, thưởng thức đặc sản địa phương
 - Ngày 4:
-  🌅 Sáng: ➡️ Tham quan Đồi Cỏ Hồng / Vườn hoa thành phố ➡️ Check-out
-  🌞 Trưa: Ăn trưa, mua quà lưu niệm
-  🌙 Tối: Xe đưa ra sân bay/ trả khách, kết thúc hành trình an toàn
+  🌅 Sáng: ➡️ Tham quan Trúc Lâm, cáp treo, Thung Lũng Tình Yêu  
+  🌞 Trưa: ➡️ Thưởng thức cà phê, mua sắm đặc sản (mứt, trà, hoa)  
+  🌙 Tối: ➡️ Kết thúc tour, trả phòng và di chuyển về điểm đến/nhà ga/phi trường theo lịch
 
 ## Ưu đãi
-Nhanh tay nhận ưu đãi giảm ngay 10% — từ giá gốc 5.500.000 VND chỉ còn 4.950.000 VND. Bạn tiết kiệm 550.000 VND cho một hành trình biển và núi trọn gói 4N3Đ, giá đã bao gồm dịch vụ cơ bản. Số lượng khuyến mãi có hạn, đặt ngay để giữ chỗ!
+Hiện tại tour giảm ngay 10% — từ giá gốc 5.500.000 VND xuống chỉ còn 4.950.000 VND. Ưu đãi có hạn, đặt sớm để giữ chỗ và tận hưởng trọn vẹn trải nghiệm biển – rừng với chi phí tiết kiệm nhất! 🔥💸
 
 ## SEO Keywords
-tour Nha Trang Đà Lạt, du lịch Nha Trang Đà Lạt, tour 4N3Đ Nha Trang Đà Lạt, combo biển núi, tour trọn gói Nha Trang Đà Lạt
+tour Nha Trang Đà Lạt, du lịch Nha Trang Đà Lạt, tour 4N3Đ, tour Nha Trang khuyến mãi, du lịch Đà Lạt mùa đẹp
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

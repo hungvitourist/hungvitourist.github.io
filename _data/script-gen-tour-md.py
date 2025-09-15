@@ -24,27 +24,31 @@ def slugify(text):
     return text.strip("-")
 
 def generate_ai_content(ma_tour, title, location, transport, price, duration, discount=None):
-    # Xử lý giá gốc
+    # Xử lý giá gốc (chuẩn hóa thành số)
     try:
-        gia_raw = int(str(price).replace(".", "").replace(",", ""))
+        gia_raw = int(str(price).replace(".", "").replace(",", "").strip())
     except:
         gia_raw = 0
 
     # Nếu có discount thì tính giá sau giảm
-    discount_note = ""
-    if discount and str(discount).isdigit() and int(discount) > 0:
+    if discount and int(discount) > 0:
         discount = int(discount)
         final_price = int(gia_raw * (100 - discount) / 100)
-        # Format giá đẹp
+        # Format giá
         gia_fmt = f"{gia_raw:,.0f} VND".replace(",", ".")
         final_fmt = f"{final_price:,.0f} VND".replace(",", ".")
-        discount_note = f"- 💰 Giá tour gốc: **{gia_fmt}**\n- 🔥 Giảm giá: **{discount}%**\n- 💵 Giá khuyến mãi: **{final_fmt}**\n"
+        discount_note = (
+            f"- 💰 Giá tour gốc: **{gia_fmt}**\n"
+            f"- 🔥 Giảm giá: **{discount}%**\n"
+            f"- 💵 Giá khuyến mãi: **{final_fmt}**\n"
+        )
     else:
         gia_fmt = f"{gia_raw:,.0f} VND".replace(",", ".")
         discount_note = f"- 💰 Giá tour: **{gia_fmt}**\n"
 
     # Header thông tin tour
     header = f"""
+## ✈️ {title}
 
 - 🆔 Mã tour: **{ma_tour}**
 - 📍 Địa điểm: **{location}**
@@ -97,10 +101,10 @@ def generate_ai_content(ma_tour, title, location, transport, price, duration, di
 
 
 
-# Xóa các file md cũ bắt đầu bằng QTxx hoặc NĐxx
-print("🧹 Đang kiểm tra và xóa các file .md cũ (QTxx-*.md, NĐxx-*.md) trong thư mục _posts...")
+# Xóa các file md cũ bắt đầu bằng QTxx hoặc NDxx
+print("🧹 Đang kiểm tra và xóa các file .md cũ (QTxx-*.md, NDxx-*.md) trong thư mục _posts...")
 for fname in os.listdir(output_dir):
-    if fname.endswith(".md") and (fname.startswith("QT") or fname.startswith("NĐ")):
+    if fname.endswith(".md") and (fname.startswith("QT") or fname.startswith("ND")):
         os.remove(os.path.join(output_dir, fname))
         print(f"🗑️  Đã xóa: {fname}")
 
@@ -128,9 +132,17 @@ for csv_file in csv_files:
             slug = slugify(title)
             ai_output = generate_ai_content(ma_tour, title, location, transport, price, duration, discount)
             parts = ai_output.split("\n")
+
             meta_desc = next((p for p in parts if p.strip()), "")
+
+            # Tìm dòng có từ khóa (có dấu phẩy)
             keywords = next((p for p in parts if "," in p), "")
+            # Làm sạch: bỏ ngoặc kép thừa và strip khoảng trắng
+            keywords = keywords.replace('"', "'").strip()
+
+            # Ghép lại content
             content = "\n".join(parts[2:]).strip()
+
 
             filename = f"{ma_tour}-{slug}.md"
             filepath = os.path.join(output_dir, filename)
@@ -157,7 +169,7 @@ description: "{meta_desc}"
 keywords: "{keywords}"
 ---
 
-## ✈️ {title}
+## ✈️ {title} 
 
 {content}
 
@@ -165,8 +177,8 @@ keywords: "{keywords}"
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) {{ site.author.telephone }}
-- 📧 Email: {{ site.author.email }}
+- ☎️ Hotline: (+84) {{{{ site.author.telephone }}}}
+- 📧 Email: {{{{ site.author.email }}}}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 
 """

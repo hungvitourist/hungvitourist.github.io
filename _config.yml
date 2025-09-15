@@ -39,10 +39,10 @@ author:
   rss: true
   email: hungvitourist@gmail.com
   facebook: hungvitourist
-  instagram: nguyen.duy.bang
+  instagram: "@hungvitourist"
   youtube: '@HùngVĩTourist'
-  telephone: 0396510099
-  tiktok: '@denthongminhhappy'
+  telephone: '0868 549 586'
+  tiktok: '@hungvitourist'
 company: "CÔNG TY TNHH DỊCH VỤ DU LỊCH HÙNG VĨ"
 company_SHORT_NAME: "✨HÙNG VĨ TOURIST✨"
 Tax-code: "MST: 0315546297"
@@ -119,43 +119,6 @@ collections:
 # Optionally, add permalink defaults (for better structure)
 permalink: pretty
 
-metadata:
-  _posts:
-    - name: layout
-      field:
-        element: hidden
-        value: post
-    - name: title
-      field:
-        element: text
-        label: Post title
-        placeholder: Title
-        alterable: true
-    - name: subtitle
-      field:
-        element: textarea
-        label: Subtitle
-        placeholder: A description of your post.
-        alterable: true
-    - name: date
-      field:
-        element: text
-        label: Date
-        help: Enter date of post.
-        placeholder: yyyy-mm-dd
-        alterable: true
-    - name: image
-      field:
-        element: text
-        label: Image
-        help: Add a thumbnail image to your post.
-        placeholder: Thumbnail
-        alterable: true
-    - name: published
-      field:
-        element: checkbox
-        label: Publish
-        help: 'Check to publish post, uncheck to hide.'
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

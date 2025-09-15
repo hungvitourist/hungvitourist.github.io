@@ -4,8 +4,8 @@ layout: post
 tour_code: ND12
 meta-title: Bến Tre - Cồn Phụng
 bigimg:
-  - "/img/tours/domestic/ben-tre-con-phung.jpg"
-image: "/img/tours/domestic/ben-tre-con-phung.jpg"
+  - "/img/tours/domestic/khu-du-lich-con-phung-ben-tre.jpg"
+image: "/img/tours/domestic/khu-du-lich-con-phung-ben-tre.jpg"
 tags: tour bến tre, cồn phụng, du lịch miền tây, tour nội địa
 categories: [tours#domestic]
 transport: "🚌"
@@ -13,12 +13,14 @@ location: Bến Tre - Cồn Phụng
 duration: 2N1Đ
 discount: 6
 price: 2.700.000
-description: "- 🆔 Mã tour: **ND12**"
-keywords: "Bến Tre - Cồn Phụng là điểm đến lý tưởng để trốn khỏi ồn ào thành phố, hòa mình vào khung cảnh sông nước miệt vườn, dừa xanh mướt và nhịp sống chậm rãi của người Nam Bộ. 🌴 Từ những con rạch nhỏ uốn lượn, ghe xuồng đưa bạn lướt qua làng nghề truyền thống, nghe cải lương vọng lại và ngửi thấy mùi dừa nồng nàn — tất cả tạo nên trải nghiệm khó quên. 🚤"
+description: "## ✈️ Tour Bến Tre - Cồn Phụng"
+keywords: "Cồn Phụng - Bến Tre là điểm đến lý tưởng cho ai muốn rời xa phố thị, hòa mình vào không gian miệt vườn xanh mướt, ngắm sông nước mênh mang và thưởng thức đặc sản dừa độc đáo 🥥. Chỉ cách Sài Gòn vài giờ đi xe, hành trình 2N1Đ mang đến trải nghiệm vừa thư giãn vừa khám phá văn hóa sông nước Nam Bộ."
 ---
 
-## ✈️ Tour Bến Tre - Cồn Phụng
+## ✈️ Tour Bến Tre - Cồn Phụng 
 
+- 🆔 Mã tour: **ND12**
+- 📍 Địa điểm: **Bến Tre - Cồn Phụng**
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.700.000 VND**
 - 🔥 Giảm giá: **6%**
@@ -26,33 +28,34 @@ keywords: "Bến Tre - Cồn Phụng là điểm đến lý tưởng để trố
 - ⏳ Thời gian du lịch: **2N1Đ**
 
 ## Giới thiệu
-Bến Tre - Cồn Phụng là điểm đến lý tưởng để trốn khỏi ồn ào thành phố, hòa mình vào khung cảnh sông nước miệt vườn, dừa xanh mướt và nhịp sống chậm rãi của người Nam Bộ. 🌴 Từ những con rạch nhỏ uốn lượn, ghe xuồng đưa bạn lướt qua làng nghề truyền thống, nghe cải lương vọng lại và ngửi thấy mùi dừa nồng nàn — tất cả tạo nên trải nghiệm khó quên. 🚤
+Cồn Phụng - Bến Tre là điểm đến lý tưởng cho ai muốn rời xa phố thị, hòa mình vào không gian miệt vườn xanh mướt, ngắm sông nước mênh mang và thưởng thức đặc sản dừa độc đáo 🥥. Chỉ cách Sài Gòn vài giờ đi xe, hành trình 2N1Đ mang đến trải nghiệm vừa thư giãn vừa khám phá văn hóa sông nước Nam Bộ.
 
-Chuyến đi 2 ngày 1 đêm mang đến sự cân bằng hoàn hảo giữa khám phá và thư giãn: tham quan Cồn Phụng, xem nghề làm kẹo dừa, thử các món ăn địa phương đậm đà và ngồi hát cùng đàn organ, tận hưởng homestay ấm cúng. 🍽️🌅 Bạn sẽ được trải nghiệm thực tế văn hóa miệt vườn, tham gia hoạt động dạo vườn trái cây, chèo thuyền ba lá và học làm đồ thủ công từ dừa.
+Bạn sẽ được đi xuồng, chèo thuyền, dạo quanh vườn trái cây, tham quan lò kẹo dừa truyền thống và thử làm kẹo ngay tại chỗ — những trải nghiệm thân mật, gần gũi, rất “điền viên” 🌴. Buổi tối là thời gian nghỉ ngơi tại homestay, nghe đờn ca tài tử hoặc đạp xe ngắm hoàng hôn ven sông, tạo nên những khoảnh khắc bình yên khó quên.
 
-Tour phù hợp cho mọi lứa tuổi muốn tìm không gian bình yên cuối tuần hoặc kỳ nghỉ ngắn ngày với bạn bè, gia đình. ✨ Với lộ trình gọn nhẹ, phương tiện tiện nghi và hướng dẫn viên thân thiện, bạn chỉ việc đến và tận hưởng. Đặt chỗ sớm để giữ vị trí và nhận ưu đãi hấp dẫn! 📞
+Tour phù hợp cặp đôi, gia đình và nhóm bạn muốn đổi gió cuối tuần. Hành trình gọn nhẹ nhưng đầy trải nghiệm, có hướng dẫn viên và bữa ăn địa phương thơm ngon. Nhanh tay đặt chỗ để tận hưởng ưu đãi mùa này và khám phá Cồn Phụng cùng chúng tôi 🚩 — liên hệ để giữ chỗ nhé!
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành từ điểm hẹn bằng xe khách ➡️ Dừng nghỉ dọc đường ➡️ Đến Bến Tre, lên thuyền ra Cồn Phụng.
-  🌞 Trưa: ➡️ Thưởng thức bữa trưa đặc sản miền Tây ➡️ Tham quan làng nghề làm kẹo dừa, thử sản phẩm.
-  🌙 Tối: ➡️ Nhận phòng homestay ➡️ Dùng bữa tối, giao lưu văn nghệ, dạo bến sông về đêm.
+  🌅 Sáng: ➡️ Khởi hành từ điểm hẹn, di chuyển bằng xe du lịch ➡️ Đến Bến Tre, dùng điểm tâm ➡️ Lên xuồng khám phá rạch nhỏ, tham quan Cồn Phụng.
+  🌞 Trưa: ➡️ Thưởng thức đặc sản miền Tây, nghỉ ngơi tại homestay/nhà dân.
+  🌙 Tối: ➡️ Tham gia chương trình văn nghệ dân gian/đờn ca tài tử hoặc tự do dạo bộ, nghỉ đêm tại homestay.
 - Ngày 2:
-  🌅 Sáng: ➡️ Dạo vườn trái cây, hái và thưởng thức tại chỗ ➡️ Chèo xuồng tham quan kênh rạch.
-  🌞 Trưa: ➡️ Trải nghiệm làm bánh, làm đồ thủ công từ dừa ➡️ Ăn trưa, nghỉ ngơi.
-  🌙 Tối: ➡️ Trở về điểm đón, kết thúc tour, trả khách tại điểm ban đầu.
+  🌅 Sáng: ➡️ Dạo vườn, hái trái cây theo mùa và thử làm kẹo dừa tại lò truyền thống.
+  🌞 Trưa: ➡️ Thưởng thức bữa trưa với hải sản và món ăn địa phương, tự do tham quan chụp ảnh.
+  🌙 Tối: ➡️ Khởi hành về lại điểm đón, kết thúc tour, chia tay và hẹn gặp lại.
 
 ## Ưu đãi
-Bạn được giảm ngay **6%** từ giá gốc, chỉ còn **2.538.000 VND** cho tour 2N1Đ Bến Tre - Cồn Phụng. 🎉 Ưu đãi giới hạn — đặt sớm để hưởng giá khuyến mãi và giữ chỗ tốt nhất!
+Nhanh tay nhận ngay ưu đãi giảm giá **6%** — từ **2.700.000 VND** chỉ còn **2.538.000 VND**!  
+Giá khuyến mãi đã bao gồm một số bữa ăn, vé tham quan và hướng dẫn viên. Số lượng có hạn, đặt tour sớm để tiết kiệm và chọn chỗ đẹp nhất 🎉.
 
 ## SEO Keywords
-Bến Tre, Cồn Phụng, tour Bến Tre 2 ngày 1 đêm, du lịch miền Tây, cồn dừa
+Tour Bến Tre, Cồn Phụng, du lịch Bến Tre 2N1Đ, tour miền Tây, trải nghiệm miệt vườn
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

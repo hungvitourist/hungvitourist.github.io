@@ -13,12 +13,14 @@ location: Hạ Long - Tuần Châu
 duration: 2N1Đ
 discount: 8
 price: 3.200.000
-description: "- 🆔 Mã tour: **ND23**"
-keywords: "Hạ Long – Tuần Châu là điểm đến hòa quyện giữa kỳ quan thiên nhiên và trải nghiệm giải trí đẳng cấp. Vịnh Hạ Long với hàng nghìn đảo đá vôi kỳ vĩ, hang động huyền bí và mặt nước xanh biếc sẽ khiến bạn ngỡ ngàng từ những khoảnh khắc đầu tiên. 🌊🪨 Hãy để làn gió biển, bình minh trên du thuyền và những góc chụp “triệu like” làm đầy album kỷ niệm của bạn."
+description: "## ✈️ Tour Hạ Long - Tuần Châu"
+keywords: "Hạ Long - Tuần Châu luôn là điểm đến mơ mộng cho những ai muốn “đổi gió” cuối tuần. Tour 2N1Đ này thiết kế khoa học để bạn vừa được trải nghiệm vẻ đẹp kỳ vĩ của vịnh Hạ Long bằng du thuyền, vừa có thời gian thư giãn, thưởng thức ẩm thực và khám phá đảoTuần Châu sôi động. 🛥️🌊"
 ---
 
-## ✈️ Tour Hạ Long - Tuần Châu
+## ✈️ Tour Hạ Long - Tuần Châu 
 
+- 🆔 Mã tour: **ND23**
+- 📍 Địa điểm: **Hạ Long - Tuần Châu**
 - 🚗 Phương tiện: **🚌 + 🚅**
 - 💰 Giá tour gốc: **3.200.000 VND**
 - 🔥 Giảm giá: **8%**
@@ -26,34 +28,35 @@ keywords: "Hạ Long – Tuần Châu là điểm đến hòa quyện giữa k�
 - ⏳ Thời gian du lịch: **2N1Đ**
 
 ## Giới thiệu
-Hạ Long – Tuần Châu là điểm đến hòa quyện giữa kỳ quan thiên nhiên và trải nghiệm giải trí đẳng cấp. Vịnh Hạ Long với hàng nghìn đảo đá vôi kỳ vĩ, hang động huyền bí và mặt nước xanh biếc sẽ khiến bạn ngỡ ngàng từ những khoảnh khắc đầu tiên. 🌊🪨 Hãy để làn gió biển, bình minh trên du thuyền và những góc chụp “triệu like” làm đầy album kỷ niệm của bạn.
+Hạ Long - Tuần Châu luôn là điểm đến mơ mộng cho những ai muốn “đổi gió” cuối tuần. Tour 2N1Đ này thiết kế khoa học để bạn vừa được trải nghiệm vẻ đẹp kỳ vĩ của vịnh Hạ Long bằng du thuyền, vừa có thời gian thư giãn, thưởng thức ẩm thực và khám phá đảoTuần Châu sôi động. 🛥️🌊
 
-Tuần Châu nổi bật với bờ biển riêng, show diễn đặc sắc và hệ tiện ích nghỉ dưỡng thuận tiện, phù hợp cả gia đình và nhóm bạn trẻ thích khám phá. 🚤🍽️ Thưởng thức hải sản tươi ngon, đi bộ trên bờ cát mịn hay tham gia chương trình biểu diễn văn hóa sẽ mang đến trải nghiệm phong phú, thoải mái.
+Ngày đầu bạn sẽ rời Hà Nội bằng xe khách/tàu, cảm nhận không khí biển khi đặt chân lên Tuần Châu, ngắm hoàng hôn trên boong tàu và thử đặc sản vùng biển. Đêm trên đảo hoặc du thuyền đem lại cảm giác thư thái khó quên dưới bầu trời đầy sao. 🌅✨
 
-Chuyến đi 2 ngày 1 đêm này được thiết kế vừa đủ để bạn khám phá vịnh, thư giãn và tận hưởng dịch vụ tốt mà không quá gấp rút. Với phương tiện kết hợp ô tô và tàu, hành trình an toàn, tiện lợi cho mọi lứa tuổi. 📸✨ Đặt chỗ sớm để giữ vị trí đẹp và nhận ưu đãi — liên hệ ngay để được tư vấn chi tiết!
+Ngày thứ hai, hành trình khám phá các hang động, bãi tắm nổi tiếng và check-in những góc sống ảo “triệu like” sẽ khiến bạn muốn quay lại ngay lần nữa. Với lịch trình tiện lợi và đầy trải nghiệm, đây là lựa chọn hoàn hảo cho nhóm bạn, gia đình hoặc cặp đôi muốn tận hưởng kỳ nghỉ ngắn nhưng chất lượng. 📸❤️
+
+Sẵn sàng xách ba lô lên và cảm nhận Hạ Long theo cách riêng của bạn chưa? Đặt ngay để nhận ưu đãi tốt nhất! 🔔
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành từ điểm hẹn (Hà Nội) bằng xe ô tô ➡️ Nghỉ chân, tiếp tục hành trình đến Hạ Long.
-  🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương ➡️ Nhận phòng/ gửi hành lý tại Tuần Châu.
-  🌙 Tối: ➡️ Tham quan Tuần Châu, xem show văn hóa/giải trí hoặc tự do dạo biển ➡️ Nghỉ đêm tại khách sạn.
-
+  🌅 Sáng: ➡️ Khởi hành từ Hà Nội bằng xe khách/xe đưa đón ➡️ Nghỉ giải lao, tiếp tục hành trình đến Tuần Châu.
+  🌞 Trưa: ➡️ Nhận phòng/đăng ký lên du thuyền ➡️ Thưởng thức bữa trưa hải sản trên tàu.
+  🌙 Tối: ➡️ Ngắm hoàng hôn trên vịnh ➡️ Tham gia chương trình giải trí/ăn tối trên đảo hoặc trên du thuyền ➡️ Nghỉ đêm tại Tuần Châu/du thuyền.
 - Ngày 2:
-  🌅 Sáng: ➡️ Lên du thuyền tham quan Vịnh Hạ Long ➡️ Thăm hang Sửng Sốt/Động Thiên Cung hoặc tự do chèo kayak.
-  🌞 Trưa: ➡️ Thưởng thức hải sản/tiệc trên du thuyền ➡️ Trở về Tuần Châu, làm thủ tục trả phòng.
-  🌙 Tối: ➡️ Lên xe về điểm đón ban đầu, kết thúc hành trình, chia tay và hẹn gặp lại.
+  🌅 Sáng: ➡️ Dùng bữa sáng ➡️ Tham quan Hang Sửng Sốt hoặc Động Thiên Cung ➡️ Chụp ảnh tại đảo Titop hoặc bãi tắm.
+  🌞 Trưa: ➡️ Trả phòng/ăn trưa nhẹ ➡️ Tham quan khu vui chơi hoặc mua sắm quà lưu niệm tại Tuần Châu.
+  🌙 Tối: ➡️ Lên đường về Hà Nội ➡️ Kết thúc hành trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi
-Hiện có chương trình GIẢM GIÁ 8% cho tour ND23 — từ giá gốc 3.200.000 VND chỉ còn **2.944.000 VND**. 🔥💸 Nhanh tay đặt chỗ để tận hưởng kỳ nghỉ trọn vẹn với mức giá ưu đãi này!
+Hiện đang có ƯU ĐÃI giảm ngay 8% so với giá gốc. Giá khuyến mãi đã được tính: chỉ còn **2.944.000 VND** (từ 3.200.000 VND). Nhanh tay đặt tour ND23 để tận hưởng tiết kiệm và nhiều trải nghiệm đáng nhớ tại Hạ Long - Tuần Châu! 🔥🎉
 
 ## SEO Keywords
-tour Hạ Long, du lịch Hạ Long 2 ngày 1 đêm, Tuần Châu, tour Hạ Long giá rẻ, du thuyền Hạ Long
+Tour Hạ Long, Du lịch Tuần Châu 2 ngày 1 đêm, Tour Hạ Long giá rẻ, Du thuyền Hạ Long, Tour Hạ Long từ Hà Nội
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

@@ -4,8 +4,8 @@ layout: post
 tour_code: ND16
 meta-title: Mũi Né - Đồi Cát Bay
 bigimg:
-  - "/img/tours/domestic/mui-ne-doi-cat.jpg"
-image: "/img/tours/domestic/mui-ne-doi-cat.jpg"
+  - "/img/tours/domestic/doi-cat-bay-mui-ne.jpg"
+image: "/img/tours/domestic/doi-cat-bay-mui-ne.jpg"
 tags: tour mũi né, đồi cát bay, du lịch biển, tour nội địa
 categories: [tours#domestic,hot]
 transport: "🚌"
@@ -13,49 +13,51 @@ location: Mũi Né - Đồi Cát Bay
 duration: 2N1Đ
 discount: 7
 price: 2.500.000
-description: "- 🆔 Mã tour: **ND16**"
-keywords: "Mũi Né – Đồi Cát Bay là hành trình đưa bạn đến với những bức tranh thiên nhiên rực rỡ của miền biển Nam Trung Bộ. Cát trắng, đồi cao uốn lượn như thảo nguyên vàng dưới ánh nắng tạo khung cảnh hoàn hảo cho những bức ảnh check-in sống động 📸. Đây là điểm đến lý tưởng cho cả gia đình, nhóm bạn trẻ hay cặp đôi tìm kiếm sự lãng mạn và thư giãn."
+description: "## ✈️ Tour Mũi Né - Đồi Cát Bay"
+keywords: "Mũi Né - Đồi Cát Bay là điểm đến lý tưởng cho những ai muốn đổi gió cuối tuần: biển xanh, cồn cát mênh mông và bình minh rực rỡ trên chân đồi. 🌊🏜️ Chỉ trong 2N1Đ, bạn sẽ được trải nghiệm cảm giác trượt trên cát, ngắm hoàng hôn tím trên bờ biển và thưởng thức hải sản tươi ngon từ làng chài địa phương. Đây là hành trình ngắn nhưng đầy cảm xúc, phù hợp cho cặp đôi, gia đình hoặc nhóm bạn trẻ muốn “refresh” tinh thần. ✨"
 ---
 
-## ✈️ Tour Mũi Né - Đồi Cát Bay
+## ✈️ Tour Mũi Né - Đồi Cát Bay 
 
+- 🆔 Mã tour: **ND16**
+- 📍 Địa điểm: **Mũi Né - Đồi Cát Bay**
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **2.500.000 VND**
 - 🔥 Giảm giá: **7%**
 - 💵 Giá khuyến mãi: **2.325.000 VND**
 - ⏳ Thời gian du lịch: **2N1Đ**
 
+
 ## Giới thiệu
-Mũi Né – Đồi Cát Bay là hành trình đưa bạn đến với những bức tranh thiên nhiên rực rỡ của miền biển Nam Trung Bộ. Cát trắng, đồi cao uốn lượn như thảo nguyên vàng dưới ánh nắng tạo khung cảnh hoàn hảo cho những bức ảnh check-in sống động 📸. Đây là điểm đến lý tưởng cho cả gia đình, nhóm bạn trẻ hay cặp đôi tìm kiếm sự lãng mạn và thư giãn.
+Mũi Né - Đồi Cát Bay là điểm đến lý tưởng cho những ai muốn đổi gió cuối tuần: biển xanh, cồn cát mênh mông và bình minh rực rỡ trên chân đồi. 🌊🏜️ Chỉ trong 2N1Đ, bạn sẽ được trải nghiệm cảm giác trượt trên cát, ngắm hoàng hôn tím trên bờ biển và thưởng thức hải sản tươi ngon từ làng chài địa phương. Đây là hành trình ngắn nhưng đầy cảm xúc, phù hợp cho cặp đôi, gia đình hoặc nhóm bạn trẻ muốn “refresh” tinh thần. ✨
 
-Trong 2 ngày 1 đêm, bạn sẽ được trải nghiệm bình minh huyền ảo trên đồi cát, cảm giác trượt cát sảng khoái và thăm làng chài truyền thống với hải sản tươi ngon 🦐. Ngoài ra, hành trình có các hoạt động như đồi cát đỏ, Suối Tiên (Suối Hồng) và chợ địa phương để khám phá văn hoá, ẩm thực đặc sắc.
+Hành trình được thiết kế nhẹ nhàng, di chuyển bằng xe khách tiện lợi, phù hợp mọi độ tuổi. Bạn sẽ được hướng dẫn viên địa phương tận tình dẫn đường, giới thiệu những góc chụp ảnh đẹp nhất và bảo đảm an toàn khi trải nghiệm các hoạt động trên cồn cát. 📸🧭 Buổi tối là thời gian thư giãn với bữa hải sản ấm cúng và dạo chợ đêm Mũi Né — một trải nghiệm ẩm thực không thể bỏ lỡ. 🍤🌙
 
-Tour được tổ chức khép kín, phù hợp cả khách lần đầu đến Mũi Né với phương tiện tiện nghi, hướng dẫn viên bản địa thân thiện và thời gian hợp lý để bạn vừa tham quan vừa nghỉ ngơi. Hãy để ND16 biến kỳ nghỉ ngắn ngày của bạn thành trải nghiệm khó quên ✨.
+Nhanh tay đăng ký để tận hưởng giá khuyến mãi và giữ chỗ cho kỳ nghỉ ngắn đầy kỷ niệm này. ❤️ Đặt tour ngay để chuẩn bị hành trang, máy ảnh và tinh thần khám phá! 📲
 
-Nhanh tay đặt chỗ để giữ lịch, số lượng có hạn — liên hệ ngay để được tư vấn chi tiết! ☀️
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành từ điểm hẹn bằng xe ô tô tiện nghi ➡️ Nghỉ dọc đường, tiếp tục hành trình ➡️ Đến Mũi Né, nhận phòng khách sạn
-  🌞 Trưa: ➡️ Ăn trưa với đặc sản hải sản địa phương ➡️ Thăm Làng Chài, chụp hình cầu cảng
-  🌙 Tối: ➡️ Tự do dạo chợ đêm Mũi Né hoặc thưởng thức hải sản tại nhà hàng ➡️ Nghỉ ngơi, tự do khám phá bãi biển về đêm
+  🌅 Sáng: ➡️ Tập trung tại điểm hẹn, lên xe khởi hành đi Mũi Né ➡️ Nghỉ chân, tiếp tục hành trình ➡️ Đến Mũi Né, check-in khách sạn.
+  🌞 Trưa: ➡️ Dùng bữa trưa với hải sản địa phương ➡️ Thư giãn tại bãi biển hoặc nghỉ ngơi tại khách sạn.
+  🌙 Tối: ➡️ Tham quan chợ đêm/ăn tối hải sản ➡️ Tự do dạo biển, nghỉ ngơi.
 
 - Ngày 2:
-  🌅 Sáng: ➡️ Dậy sớm ngắm bình minh trên Đồi Cát Bay ➡️ Trải nghiệm trượt cát và chụp ảnh tại đồi cát đỏ/đồi cát trắng
-  🌞 Trưa: ➡️ Về khách sạn, dùng bữa sáng và làm thủ tục trả phòng ➡️ Tham quan Suối Tiên (Suối Hồng) hoặc Làng dệt địa phương
-  🌙 Tối: ➡️ Khởi hành về lại điểm đón ban đầu ➡️ Kết thúc tour, chia tay đoàn
+  🌅 Sáng: ➡️ Thức dậy sớm, lên đường ngắm bình minh tại Đồi Cát Bay ➡️ Trải nghiệm trượt cát, chụp hình.
+  🌞 Trưa: ➡️ Tham quan Làng Chài, Suối Tiên (Fairy Stream) ➡️ Dùng bữa trưa, mua quà lưu niệm.
+  🌙 Tối: ➡️ Lên xe khởi hành về lại điểm đón ban đầu ➡️ Kết thúc chương trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi
-Hiện có ưu đãi giảm giá 7% cho tour ND16 — bạn sẽ tiết kiệm ngay 175.000 VND, chỉ còn **2.325.000 VND**/khách thay vì 2.500.000 VND. Nhanh tay đặt để nhận mức giá khuyến mãi này và giữ chỗ trong dịp cao điểm!
+Chương trình đang giảm giá **7%**, giá khuyến mãi chỉ còn **2.325.000 VND** (từ 2.500.000 VND). Nhanh tay đặt chỗ để hưởng ưu đãi và số lượng có hạn — tiết kiệm chi phí nhưng vẫn trọn vẹn trải nghiệm Đồi Cát Bay! 🎉📉
 
 ## SEO Keywords
-Mũi Né, Đồi Cát Bay, tour 2 ngày 1 đêm Mũi Né, trượt cát Mũi Né, du lịch Mũi Né
+tour Mũi Né, Đồi Cát Bay, du lịch Mũi Né 2N1Đ, trượt cát Mũi Né, tour giá rẻ Mũi Né
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

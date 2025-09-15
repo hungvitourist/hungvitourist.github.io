@@ -4,8 +4,8 @@ layout: post
 tour_code: ND04
 meta-title: Hà Giang - Cao Bằng
 bigimg:
-  - "/img/tours/domestic/tour-cam-trai-ben-ho-tuyen-lam.jpg"
-image: "/img/tours/domestic/tour-cam-trai-ben-ho-tuyen-lam.jpg"
+  - "/img/tours/domestic/ha-giang-cao-bang.jpg"
+image: "/img/tours/domestic/ha-giang-cao-bang.jpg"
 tags: tour hà giang, tour cao bằng, du lịch đông bắc, tour nội địa, phượt việt nam
 categories: [tours#domestic,special-offer,hot]
 transport: "🚌"
@@ -13,58 +13,68 @@ location: Hà Giang - Cao Bằng
 duration: 5N4Đ
 discount: 12
 price: 7.900.000
-description: "- 🆔 Mã tour: **ND04**"
-keywords: "Hành trình Hà Giang - Cao Bằng 5N4Đ là trải nghiệm đậm chất cao nguyên với cung đường uốn lượn, những khối đá kỳ thú và bản làng đậm bản sắc miền Bắc. Bạn sẽ được chiêm ngưỡng những khung cảnh hùng vĩ như đèo Mã Pí Lèng, cột mốc biên giới, thác Bản Giốc huyền thoại và các ruộng bậc thang mùa chín vàng. 🚍🌄"
+description: "## ✈️ Tour Hà Giang - Cao Bằng"
+keywords: "Hành trình Hà Giang - Cao Bằng là cuộc phiêu lưu dành cho những ai mê cảnh núi non hùng vĩ, những cung đường đèo uốn lượn và bản sắc văn hóa vùng cao đậm đà. 🌄 Từ cao nguyên đá Đồng Văn với những khối đá cổ kính tới những con đường quanh co ở Mã Pí Lèng, mỗi tấm ảnh đều là một kỷ niệm khó quên. Đi cùng hướng dẫn viên địa phương, bạn sẽ hiểu thêm về lịch sử, phong tục và những câu chuyện của người dân bản địa."
 ---
 
-## ✈️ Tour Hà Giang - Cao Bằng
+## ✈️ Tour Hà Giang - Cao Bằng 
 
+- 🆔 Mã tour: **ND04**
+- 📍 Địa điểm: **Hà Giang - Cao Bằng**
 - 🚗 Phương tiện: **🚌**
 - 💰 Giá tour gốc: **7.900.000 VND**
 - 🔥 Giảm giá: **12%**
 - 💵 Giá khuyến mãi: **6.952.000 VND**
 - ⏳ Thời gian du lịch: **5N4Đ**
 
+
 ## Giới thiệu
-Hành trình Hà Giang - Cao Bằng 5N4Đ là trải nghiệm đậm chất cao nguyên với cung đường uốn lượn, những khối đá kỳ thú và bản làng đậm bản sắc miền Bắc. Bạn sẽ được chiêm ngưỡng những khung cảnh hùng vĩ như đèo Mã Pí Lèng, cột mốc biên giới, thác Bản Giốc huyền thoại và các ruộng bậc thang mùa chín vàng. 🚍🌄
+Hành trình Hà Giang - Cao Bằng là cuộc phiêu lưu dành cho những ai mê cảnh núi non hùng vĩ, những cung đường đèo uốn lượn và bản sắc văn hóa vùng cao đậm đà. 🌄 Từ cao nguyên đá Đồng Văn với những khối đá cổ kính tới những con đường quanh co ở Mã Pí Lèng, mỗi tấm ảnh đều là một kỷ niệm khó quên. Đi cùng hướng dẫn viên địa phương, bạn sẽ hiểu thêm về lịch sử, phong tục và những câu chuyện của người dân bản địa.
 
-Tour phù hợp cho cả nhóm bạn trẻ muốn săn ảnh, gia đình muốn khám phá văn hóa dân tộc và người yêu thiên nhiên cần một chuyến đi thư giãn giữa núi rừng. Hướng dẫn viên địa phương giàu kinh nghiệm sẽ dẫn dắt bạn qua từng câu chuyện vùng đất, thưởng thức ẩm thực đặc sản và chiêm nghiệm đời sống bản xứ. 🥾🍲
+Cao Bằng mang tới sự đối lập dịu dàng: thác Bản Giốc hùng vĩ, hang động Ngườm Ngao huyền ảo và những làng quê yên bình quanh hồ Thang Hen. 💧 Kết hợp hai điểm đến này trong một tour 5 ngày giúp bạn trải nghiệm đa dạng: từ trekking nhẹ, ngắm bình minh trên đèo đến thưởng thức đặc sản như thắng cố, phở chua và các món nướng rừng.
 
-Hãy để mỗi ngày của bạn là một bức tranh mới: bình minh mây bay trên sườn núi, chiều hoàng hôn trên cao nguyên và đêm ngắn bên lửa trại kể chuyện cổ. ✨ Đặt chỗ ngay để giữ vị trí trong đoàn và nhận ưu đãi mùa này — hành trình trải nghiệm, kỷ niệm để đời! 📲
+Lộ trình được thiết kế vừa đủ để khám phá nhưng vẫn thoải mái, phù hợp cho cả gia đình, nhóm bạn và cặp đôi muốn tìm không gian tĩnh lặng. 🚶‍♀️📸 Đội ngũ tổ chức sẽ chăm sóc chỗ nghỉ, bữa ăn và phương tiện để bạn chỉ việc tận hưởng vẻ đẹp của thiên nhiên và văn hoá địa phương.
+
+Hãy cùng chúng tôi khám phá những cung đường miền núi Bắc Bộ, lưu giữ khoảnh khắc và mang về những trải nghiệm khó quên. Đặt chỗ sớm để hưởng giá tốt nhé! ✨
+
 
 ## Hành trình
 - Ngày 1:
-  🌅 Sáng: ➡️ Khởi hành từ Hà Nội ➡️ Nghỉ dọc đường và ăn sáng ➡️ Đến Hà Giang, nhận phòng
-  🌞 Trưa: Ăn trưa tại nhà hàng địa phương, nghỉ ngơi
-  🌙 Tối: Tham quan chợ đêm, thưởng thức ẩm thực bản địa
+  🌅 Sáng: ➡️ Khởi hành từ Hà Nội bằng xe giường nằm/ô tô du lịch ➡️ Dừng nghỉ trên đường, ngắm núi non dần hiện ra
+  🌞 Trưa: Nghỉ ăn trưa tại thị trấn, thưởng thức đặc sản địa phương
+  🌙 Tối: Nhận phòng, dạo chợ đêm, tự do khám phá ẩm thực bản địa
+
 - Ngày 2:
-  🌅 Sáng: ➡️ Tham quan đèo Mã Pí Lèng ➡️ Dừng điểm check-in Panorama
-  🌞 Trưa: Ăn tại thị trấn, ghé thăm làng văn hóa
-  🌙 Tối: Nghỉ ngơi, tự do khám phá phố núi
+  🌅 Sáng: ➡️ Hành trình lên cao nguyên Đồng Văn ➡️ Tham quan Phố cổ Đồng Văn ➡️ Check-in cột cờ Lũng Cú (nếu thời gian)
+  🌞 Trưa: Ăn trưa tại nhà hàng địa phương
+  🌙 Tối: Nghe hát then, giao lưu văn hóa (nếu có), nghỉ đêm tại Đồng Văn
+
 - Ngày 3:
-  🌅 Sáng: ➡️ Lên đường đến Cao Bằng ➡️ Đi qua các bản làng, ngắm cảnh hùng vĩ
-  🌞 Trưa: Dùng bữa trưa trên đường, tiếp tục hành trình
-  🌙 Tối: Nhận phòng, thưởng thức đặc sản địa phương
+  🌅 Sáng: ➡️ Lên đèo Mã Pí Lèng, ngắm hẻm vực Nho Quế từ trên cao ➡️ Chụp hình tại điểm view nổi tiếng
+  🌞 Trưa: Dùng bữa trưa nhẹ, khởi hành sang Cao Bằng
+  🌙 Tối: Nhận phòng ở Cao Bằng, tự do dạo phố
+
 - Ngày 4:
-  🌅 Sáng: ➡️ Tham quan thác Bản Giốc ➡️ Tham quan động Ngườm Ngao
-  🌞 Trưa: Picnic hoặc ăn tại nhà hàng gần thác
-  🌙 Tối: Tự do khám phá, chụp ảnh hoàng hôn bên suối
+  🌅 Sáng: ➡️ Thăm thác Bản Giốc, chiêm ngưỡng hệ thống thác lớn nhất Đông Nam Á ➡️ Tham quan động Ngườm Ngao
+  🌞 Trưa: Ăn trưa gần thác, thưởng thức cá suối, rau rừng
+  🌙 Tối: Thưởng ngoạn không khí núi rừng, nghỉ đêm tại Cao Bằng
+
 - Ngày 5:
-  🌅 Sáng: ➡️ Thăm khu di tích Pác Bó ➡️ Học hỏi lịch sử, chụp ảnh lưu niệm
-  🌞 Trưa: Ăn trưa, chuẩn bị hành lý
-  🌙 Tối: Về Hà Nội, kết thúc hành trình, chia tay đoàn
+  🌅 Sáng: ➡️ Thăm hồ Thang Hen hoặc làng bản gần đó ➡️ Mua quà lưu niệm, đặc sản
+  🌞 Trưa: Trả phòng, ăn trưa và khởi hành về Hà Nội
+  🌙 Tối: Về tới điểm trả khách, kết thúc tour, chia tay và hẹn gặp lại
 
 ## Ưu đãi
-Chương trình đang giảm giá mạnh: giảm ngay 12% so với giá gốc. Giá khuyến mãi chỉ còn **6.952.000 VND** — tiết kiệm rõ rệt mà vẫn giữ trọn dịch vụ chất lượng. Nhanh tay đặt chỗ để nhận ưu đãi hấp dẫn này! 🎉
+Hiện có chương trình giảm giá mạnh: giảm ngay **12%**, chỉ còn **6.952.000 VND** (tiết kiệm 948.000 VND so với giá gốc 7.900.000 VND). Nhanh tay đặt tour để giữ chỗ và tận hưởng ưu đãi giới hạn! 🎉
 
 ## SEO Keywords
-Hà Giang Cao Bằng, tour Hà Giang 5N4Đ, du lịch Cao Bằng, tour khám phá miền Bắc, thác Bản Giốc Hà Giang
+du lịch Hà Giang, tour Hà Giang Cao Bằng, thác Bản Giốc, cao nguyên đá Đồng Văn, du lịch trải nghiệm Bắc Bộ
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

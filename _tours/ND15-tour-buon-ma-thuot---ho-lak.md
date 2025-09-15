@@ -4,8 +4,8 @@ layout: post
 tour_code: ND15
 meta-title: Buôn Ma Thuột - Hồ Lắk
 bigimg:
-  - "/img/tours/domestic/buon-ma-thuot.jpg"
-image: "/img/tours/domestic/buon-ma-thuot.jpg"
+  - "/img/tours/domestic/buon-ma-thuat-crop_ho-lak.jpg"
+image: "/img/tours/domestic/buon-ma-thuat-crop_ho-lak.jpg"
 tags: tour buôn ma thuột, hồ lắk, du lịch tây nguyên, tour nội địa
 categories: [tours#domestic,hot]
 transport: "✈️ + 🚌"
@@ -13,53 +13,54 @@ location: Buôn Ma Thuột - Hồ Lắk
 duration: 3N2Đ
 discount: 9
 price: 4.900.000
-description: "- 🆔 Mã tour: **ND15**"
-keywords: "Khám phá Buôn Ma Thuột - trái tim cà phê của Việt Nam và hồ Lắk mênh mang trong hành trình 3N2Đ đầy cảm xúc. Bạn sẽ được hòa mình vào không gian xanh bạt ngàn của vườn cà phê, thưởng thức ly cà phê thơm nồng tại nguồn, đồng thời tìm hiểu câu chuyện văn hóa độc đáo của đồng bào Êđê qua nhà dài và tiếng cồng chiêng huyền thoại. ☕🌿"
+description: "## ✈️ Tour Buôn Ma Thuột - Hồ Lắk"
+keywords: "       Đắm mình trong trái tim cà phê Việt — Buôn Ma Thuột, nơi nắng vàng trải dài trên những vườn cà phê bạt ngàn và văn hóa Tây Nguyên sôi động. Hành trình 3N2Đ đưa bạn khám phá Hồ Lắk yên bình với mặt nước lấp lánh, chèo thuyền giữa mây nước và trải nghiệm nhà dài, cồng chiêng đậm chất bản địa. ☕🌄"
 ---
 
-## ✈️ Tour Buôn Ma Thuột - Hồ Lắk
+## ✈️ Tour Buôn Ma Thuột - Hồ Lắk 
 
+- 🆔 Mã tour: **ND15**
+- 📍 Địa điểm: **Buôn Ma Thuột - Hồ Lắk**
 - 🚗 Phương tiện: **✈️ + 🚌**
 - 💰 Giá tour gốc: **4.900.000 VND**
 - 🔥 Giảm giá: **9%**
 - 💵 Giá khuyến mãi: **4.459.000 VND**
 - ⏳ Thời gian du lịch: **3N2Đ**
 
-## Giới thiệu
-Khám phá Buôn Ma Thuột - trái tim cà phê của Việt Nam và hồ Lắk mênh mang trong hành trình 3N2Đ đầy cảm xúc. Bạn sẽ được hòa mình vào không gian xanh bạt ngàn của vườn cà phê, thưởng thức ly cà phê thơm nồng tại nguồn, đồng thời tìm hiểu câu chuyện văn hóa độc đáo của đồng bào Êđê qua nhà dài và tiếng cồng chiêng huyền thoại. ☕🌿
+       ## Giới thiệu
+       Đắm mình trong trái tim cà phê Việt — Buôn Ma Thuột, nơi nắng vàng trải dài trên những vườn cà phê bạt ngàn và văn hóa Tây Nguyên sôi động. Hành trình 3N2Đ đưa bạn khám phá Hồ Lắk yên bình với mặt nước lấp lánh, chèo thuyền giữa mây nước và trải nghiệm nhà dài, cồng chiêng đậm chất bản địa. ☕🌄
+       
+       Bạn sẽ được thưởng thức cà phê tươi, tìm hiểu quy trình rang xay, thăm buôn làng, trò chuyện cùng đồng bào Ê Đê và thử cưỡi voi/ xem biểu diễn voi (tùy chương trình). Những hoàng hôn trên Hồ Lắk và bữa tối đặc sản Tây Nguyên sẽ để lại kỷ niệm khó quên. 🐘🌅
+       
+       Tour phù hợp cả gia đình, nhóm bạn muốn vừa nghỉ dưỡng vừa khám phá văn hóa. Lộ trình linh hoạt, hướng dẫn viên địa phương thân thiện, chỗ ở thoải mái — tất cả chuẩn bị để bạn có chuyến đi trọn vẹn. 🎒✨
+       
+       Đặt tour ngay để giữ chỗ và nhận ưu đãi hấp dẫn — trải nghiệm Tây Nguyên đậm bản sắc đang chờ bạn! 📲
 
-Hồ Lắk hiện ra như một bức tranh thủy mặc: mặt nước phẳng lặng, thuyền nan trôi nhẹ và hoàng hôn rực rỡ. Đây là nơi lý tưởng để thư giãn, chèo thuyền, chụp ảnh và trải nghiệm homestay cùng người dân bản địa — một chuyến đi vừa nghỉ dưỡng vừa khám phá văn hóa. 🚣‍♀️🌅
+       ## Hành trình
+       - Ngày 1:
+         🌅 Sáng: ➡️ Bay/đến Buôn Ma Thuột ➡️ Nhận khách, ăn sáng nhẹ ➡️ Tham quan Bảo tàng cà phê, vườn cà phê trải nghiệm
+         🌞 Trưa: Ăn trưa đặc sản Tây Nguyên, nghỉ ngơi tại khách sạn
+         🌙 Tối: Tham quan chợ đêm, tự do thưởng thức ẩm thực địa phương, nghỉ đêm tại Buôn Ma Thuột
+       - Ngày 2:
+         🌅 Sáng: ➡️ Khởi hành đi Hồ Lắk ➡️ Tham quan bến thuyền, trải nghiệm đi thuyền trên hồ, thăm buôn làng dân tộc
+         🌞 Trưa: Dùng bữa trưa bên hồ với đặc sản cá lăng, nghỉ ngơi
+         🌙 Tối: Giao lưu văn hóa cồng chiêng, thưởng thức chương trình văn nghệ, nghỉ đêm homestay/khách sạn gần hồ
+       - Ngày 3:
+         🌅 Sáng: ➡️ Tham quan Nhà dài truyền thống ➡️ Mua sắm quà đặc sản (cà phê, măng khô, mật ong)
+         🌞 Trưa: Ăn trưa, trả phòng
+         🌙 Tối: Đưa ra sân bay/khởi hành về điểm đến, kết thúc tour an toàn
 
-Hành trình được thiết kế nhẹ nhàng, phù hợp mọi đối tượng, kết hợp tiện nghi bay + xe đưa đón, hướng dẫn viên địa phương am hiểu, và nhiều trải nghiệm đặc sắc. Đặt tour ngay để nhận ưu đãi và cảm nhận Tây Nguyên theo cách riêng của bạn! ✨📩
+       ## Ưu đãi
+       Hiện có ưu đãi giảm giá 9% — bạn chỉ còn phải trả **4.459.000 VND** (giá gốc **4.900.000 VND**). Nhanh tay đặt chỗ để tận hưởng trải nghiệm Tây Nguyên với mức giá tiết kiệm và dịch vụ trọn gói! 🔥💸
 
-## Hành trình
-- Ngày 1:
-  🌅 Sáng: ➡️ Bay tới Buôn Ma Thuột ➡️ Đón sân bay, ăn sáng nhẹ ➡️ Tham quan Bảo tàng cà phê  
-  🌞 Trưa: ➡️ Ăn trưa đặc sản Tây Nguyên ➡️ Nhận phòng khách sạn, nghỉ ngơi  
-  🌙 Tối: ➡️ Tham quan chợ đêm Buôn Ma Thuột ➡️ Thưởng thức cà phê tại quán nổi tiếng, tự do khám phá
-
-- Ngày 2:
-  🌅 Sáng: ➡️ Khởi hành đi Hồ Lắk ➡️ Tham quan bờ hồ, chèo thuyền trên hồ ➡️ Thăm nhà dài của đồng bào Êđê  
-  🌞 Trưa: ➡️ Ăn trưa bên hồ với đặc sản cá nướng và rau rừng ➡️ Tham quan vườn cà phê, thử hái và rang cà phê tại chỗ  
-  🌙 Tối: ➡️ Trải nghiệm cồng chiêng, đốt lửa trại và homestay văn hóa (tùy chọn) ➡️ Nghỉ đêm tại homestay/khách sạn gần hồ
-
-- Ngày 3:
-  🌅 Sáng: ➡️ Thức dậy ngắm bình minh trên hồ ➡️ Đi dạo, chụp hình kỷ niệm ➡️ Trả phòng  
-  🌞 Trưa: ➡️ Ăn trưa nhẹ, mua quà là cà phê đặc sản về làm quà  
-  🌙 Tối: ➡️ Lên xe về sân bay Buôn Ma Thuột ➡️ Bay trở về, kết thúc hành trình an toàn
-
-## Ưu đãi
-Hiện chương trình có giảm giá 9% — tiết kiệm ngay từ giá gốc 4.900.000 VND chỉ còn 4.459.000 VND! 🔥  
-Giá khuyến mãi đã bao gồm: vé máy bay chiều đi/về, xe đưa đón, hướng dẫn viên, một phần bữa ăn theo chương trình và các hoạt động chính. Số chỗ có hạn — đặt sớm để giữ ưu đãi và lịch đẹp. 📞🛎️
-
-## SEO Keywords
-Buôn Ma Thuột, Hồ Lắk, tour 3N2Đ Buôn Ma Thuột, du lịch Tây Nguyên, tour cà phê Buôn Ma Thuột
+       ## SEO Keywords
+       Tour Buôn Ma Thuột, Hồ Lắk, du lịch Tây Nguyên, tour 3N2Đ Buôn Ma Thuột, cà phê Buôn Ma Thuột
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-- ☎️ Hotline: (+84) { site.author.telephone }
-- 📧 Email: { site.author.email }
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
 - 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

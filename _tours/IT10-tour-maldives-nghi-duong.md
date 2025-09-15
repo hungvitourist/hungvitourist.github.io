@@ -1,57 +1,78 @@
 ---
 title: 'Tour Maldives Nghỉ Dưỡng'
 layout: post
+tour_code: IT10
 meta-title: Maldives Nghỉ Dưỡng
 bigimg:
-  - "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
-image: "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
+  - "/img/tours/international/Tour-du-lich-maldives.jpg"
+image: "/img/tours/international/Tour-du-lich-maldives.jpg"
 tags: tour maldives, du lịch maldives, nghỉ dưỡng biển, resort maldives, tour quốc tế
-categories: [tours#international]
+categories: [tours#international, special-offer, hot]
 transport: "✈️"
 location: Malé - Resort Maldives
 duration: 5N4Đ
 discount: 10
 price: 55.900.000
-description: "### Meta Description"
-keywords: "tour Maldives, nghỉ dưỡng Maldives, resort Maldives, du lịch Maldives, tour 5N4Đ"
+description: "- 🆔 Mã tour: **IT10**"
+keywords: "Khám phá thiên đường Maldives 5N4Đ: nghỉ dưỡng Malé & resort cao cấp — bungalow trên biển, spa thư giãn, ẩm thực hải sản tươi ngon. Ưu đãi 10%, 50.310.000 VND."
 ---
 
 ## ✈️ Tour Maldives Nghỉ Dưỡng
 
-- 🆔 Mã tour: **IT10**
-- 📍 Địa điểm: **Malé - Resort Maldives**
+
+
 - 🚗 Phương tiện: **✈️**
-- 💰 Giá tour: **55.900.000 VND**
-- ⏳ Thời lượng: **5N4Đ**
+- 💰 Giá tour gốc: **55.900.000 VND**
+- 🔥 Giảm giá: **10%**
+- 💵 Giá khuyến mãi: **50.310.000 VND**
+- ⏳ Thời gian du lịch: **5N4Đ**
 
----
+## Meta Description
+Khám phá thiên đường Maldives 5N4Đ: nghỉ dưỡng Malé & resort cao cấp — bungalow trên biển, spa thư giãn, ẩm thực hải sản tươi ngon. Ưu đãi 10%, 50.310.000 VND.
 
-### Từ khóa SEO
-tour Maldives, nghỉ dưỡng Maldives, resort Maldives, du lịch Maldives, tour 5N4Đ
+## Giới thiệu
+Maldives — nơi mặt trời và biển ôm nhau trên nền cát trắng mịn, là điểm đến mơ ước cho ai muốn tạm quên nhịp sống ồn ào. Hành trình IT10 đưa bạn đến Malé và resort sang trọng, nghỉ trong bungalow trên mặt nước, thức dậy với tiếng sóng vỗ và hoàng hôn rực rỡ mỗi tối 🌅🏝️. Đây là chuyến đi kết hợp hoàn hảo giữa thư giãn, khám phá đại dương và trải nghiệm dịch vụ 5 sao.
 
-### Nội dung giới thiệu tour
-🌴 Chào mừng bạn đến với Tour Maldives Nghỉ Dưỡng, hành trình ngập tràn sắc xanh của trời biển và những bãi cát trắng mịn màng! Hãy sẵn sàng khám phá thiên đường Maldives với 5 ngày 4 đêm tuyệt vời tại Malé - nơi hội tụ của những khu nghỉ dưỡng đẳng cấp. 🏝️
+Trong 5 ngày 4 đêm, bạn sẽ được tham gia snorkel hay lặn ngắm rặng san hô đầy màu sắc, chèo SUP trên mặt biển trong veo, thư giãn tại spa với liệu trình đặc trưng hải đảo và thưởng thức ẩm thực hải sản tươi ngon 🐠🍤. Resort cũng cung cấp các hoạt động giải trí nhẹ nhàng như yoga buổi sáng, sunset cruise và tham quan đảo địa phương để hiểu hơn văn hóa Maldives.
 
-Với giá chỉ 55.900.000 VND, bạn sẽ có cơ hội thưởng thức cảnh biển tuyệt đẹp, tham gia vào những hoạt động thú vị như lặn biển ngắm san hô, hay đơn giản là thư giãn trên những bãi biển yên bình. Đừng quên khám phá ẩm thực phong phú nơi đây với những món hải sản tươi ngon! 🍽️ 
+Hành trình phù hợp cả cặp đôi, gia đình hay nhóm bạn muốn nghỉ dưỡng đẳng cấp. Với ưu đãi 10% đã áp dụng, giá chỉ còn 50.310.000 VND — cơ hội tuyệt vời để hiện thực hóa giấc mơ Maldives của bạn ✨. Liên hệ để giữ chỗ và nhận tư vấn chi tiết ngay hôm nay!
 
-Tour sẽ mang đến cho bạn những trải nghiệm khó quên, từ những khoảnh khắc thú vị bên gia đình đến những giây phút bình yên của riêng mình. Hãy để Maldives nâng niu tâm hồn bạn nhé! ✈️ 
+## Hành trình
+- Ngày 1
+  🌅 Sáng: Khởi hành từ Việt Nam, bay thẳng/chuyển tiếp đến Malé.  
+  🌞 Trưa: Đến sân bay Malé, làm thủ tục xuất nhập cảnh và di chuyển bằng speedboat/seaplane tới resort. Check-in, nhận bungalow.  
+  🌙 Tối: Dùng bữa tối tại nhà hàng resort, dạo bờ biển ngắm hoàng hôn.
 
-### Mô tả hành trình tour từng ngày
+- Ngày 2
+  🌅 Sáng: Yoga/thiền nhẹ trên bãi biển, buffet sáng tại resort.  
+  🌞 Trưa: Tour snorkeling khám rặng san hô, xem cá đuối và cá nhiệt đới. Ăn trưa trên thuyền hoặc tại đảo.  
+  🌙 Tối: Thưởng thức set menu hải sản, chương trình giải trí nhẹ tại resort.
 
-**Ngày 1**: ✈️ Khởi hành từ điểm hẹn, chặng bay đưa bạn đến thiên đường Maldives. Sau khi đến Malé, bạn sẽ di chuyển đến resort, nơi bạn sẽ tận hưởng cảm giác sang trọng và thoải mái ngay từ giây phút đầu tiên.
+- Ngày 3
+  🌅 Sáng: Khám phá đảo địa phương, tìm hiểu đời sống cư dân Malé, mua sắm quà lưu niệm.  
+  🌞 Trưa: Trải nghiệm spa/masage truyền thống Maldives, nghỉ ngơi tại bungalow.  
+  🌙 Tối: Sunset cruise ngắm hoàng hôn, chụp hình lãng mạn.
 
-**Ngày 2**: 🏖️ Khám phá vẻ đẹp của Maldives với một ngày thư giãn tại bãi biển. Thưởng thức nắng vàng và làn nước trong xanh, hãy tham gia các hoạt động thể thao như lặn biển, kayaking và nhiều hơn nữa!
+- Ngày 4
+  🌅 Sáng: Excursion đến sandbank (bãi cát giữa biển) – picnic & chụp hình.  
+  🌞 Trưa: Các hoạt động thể thao nước: kayak, paddleboard, jet-ski (tùy chọn).  
+  🌙 Tối: Tiệc buffet chủ đề, tận hưởng không khí biển về đêm.
 
-**Ngày 3**: 🌊 Hãy chuẩn bị cho một ngày đầy hồi hộp với tour lặn ngắm san hô. Đặc biệt, bạn sẽ có cơ hội khám phá đại dương trong lành, chiêm ngưỡng những rạn san hô và các sinh vật biển độc đáo.
+- Ngày 5
+  🌅 Sáng: Thư giãn, check-out sớm, trả phòng và di chuyển về sân bay Malé.  
+  🌞 Trưa: Làm thủ tục bay về Việt Nam.  
+  🌙 Tối: Về đến điểm đón, kết thúc chương trình.
 
-**Ngày 4**: 🍹 Một ngày dành riêng cho việc thư giãn. Tham gia lớp học nấu ăn Maldives, thưởng thức ẩm thực địa phương và kết thúc ngày bằng buổi tiệc BBQ bên bờ biển, ngắm hoàng hôn lãng mạn.
+## Ưu đãi
+Ưu đãi giảm giá 10% đã được áp dụng — bạn chỉ cần thanh toán **50.310.000 VND** (giá gốc 55.900.000 VND). Đây là cơ hội hiếm có để trải nghiệm Maldives cao cấp với chi phí tiết kiệm; số lượng chỗ có hạn, đặt sớm để giữ giá tốt nhất!
 
-**Ngày 5**: 🛫 Thời gian tiễn biệt. Trên đường trở về, hãy ghi lại những kỷ niệm đẹp cùng bạn bè và gia đình, và mong đợi những chuyến đi tuyệt vời khác trong tương lai!
+## SEO Keywords
+du lịch Maldives, tour Maldives 5N4Đ, resort Malé, nghỉ dưỡng Maldives, tour biển Maldives giá rẻ
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-tour Maldives, nghỉ dưỡng Maldives, resort Maldives, du lịch Maldives, tour 5N4Đ
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

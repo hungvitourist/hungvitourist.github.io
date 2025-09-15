@@ -1,6 +1,7 @@
 ---
 title: 'Tour Cần Giờ - Đảo Khỉ'
 layout: post
+tour_code: DT10
 meta-title: Cần Giờ - Đảo Khỉ
 bigimg:
   - "/img/tours/domestic/VINH-HY-800x533.jpg"
@@ -12,41 +13,53 @@ location: Cần Giờ - Đảo Khỉ
 duration: 2N1Đ
 discount: 6
 price: 2.900.000
-description: "### Meta Description"
-keywords: "Tour Cần Giờ, Đảo Khỉ, du lịch Cần Giờ, trải nghiệm thiên nhiên, tham quan động vật hoang dã"
+description: "- 🆔 Mã tour: **DT10**"
+keywords: "Khám phá Cần Giờ - Đảo Khỉ 2N1Đ: tham quan rừng ngập mặn, gặp khỉ hoang dã, tắm biển, thưởng hải sản tươi ngon và nghỉ dưỡng tiện nghi. Đặt tour DT10 ngay hôm nay!"
 ---
 
 ## ✈️ Tour Cần Giờ - Đảo Khỉ
 
-- 🆔 Mã tour: **DT10**
-- 📍 Địa điểm: **Cần Giờ - Đảo Khỉ**
+
+
 - 🚗 Phương tiện: **🚌**
-- 💰 Giá tour: **2.900.000 VND**
-- ⏳ Thời lượng: **2N1Đ**
+- 💰 Giá tour gốc: **2.900.000 VND**
+- 🔥 Giảm giá: **6%**
+- 💵 Giá khuyến mãi: **2.726.000 VND**
+- ⏳ Thời gian du lịch: **2N1Đ**
 
----
+## Meta Description
+Khám phá Cần Giờ - Đảo Khỉ 2N1Đ: tham quan rừng ngập mặn, gặp khỉ hoang dã, tắm biển, thưởng hải sản tươi ngon và nghỉ dưỡng tiện nghi. Đặt tour DT10 ngay hôm nay!
 
-### Từ khóa SEO
-Tour Cần Giờ, Đảo Khỉ, du lịch Cần Giờ, trải nghiệm thiên nhiên, tham quan động vật hoang dã
+## Giới thiệu
+Bạn đang tìm một chuyến nghỉ ngơi gần TP.HCM nhưng vẫn tràn đầy trải nghiệm thiên nhiên? Tour DT10 đến Cần Giờ - Đảo Khỉ 2N1Đ là lựa chọn hoàn hảo: rừng ngập mặn, bờ biển hoang sơ và những đàn khỉ tinh nghịch chờ bạn khám phá. 🐒🌊
 
-### Nội dung giới thiệu tour
-🌅 Hãy cùng nhau khám phá Tour Cần Giờ - Đảo Khỉ, một hành trình tuyệt vời dành cho những ai yêu thiên nhiên và muốn tìm kiếm sự thanh bình ở vùng ngoại ô! Với giá chỉ 2.900.000 VND cho 2 ngày 1 đêm, bạn sẽ có cơ hội trải nghiệm những điều thú vị mà thiên nhiên ban tặng. 
+Hành trình được thiết kế nhẹ nhàng, phù hợp gia đình, nhóm bạn hoặc cặp đôi muốn đổi gió cuối tuần. Bạn sẽ có cơ hội chụp hình, tham quan vườn quốc gia, tắm biển và thưởng thức hải sản tươi sống tại địa phương — tất cả trong 2 ngày 1 đêm tiện nghi với xe đưa đón. 🚍🍤
 
-Chúng ta sẽ cùng nhau khám phá các rừng ngập mặn, đắm mình trong không gian tươi mát và hòa mình cùng những chú khỉ đáng yêu tại đảo Khỉ. 🐒 Những hoạt động vui chơi như đi thuyền kayak, tham quan khu bảo tồn sinh thái sẽ mang đến cho bạn những kỷ niệm khó quên. Preview hành trình độc đáo này sẽ khiến bạn thêm yêu mến vùng quê yên bình và gần gũi này!
+Hướng dẫn viên giàu kinh nghiệm sẽ đồng hành, giới thiệu nét văn hóa địa phương và đảm bảo an toàn khi tiếp xúc với động vật. Buổi tối là thời gian thư giãn, ngắm hoàng hôn và trò chuyện bên bờ biển. 🌅✨
 
-🚤 Hãy chuẩn bị cho một cuộc phiêu lưu mới, nơi bạn có thể tận hưởng những khoảnh khắc bình yên bên thiên nhiên và ghi dấu ấn cho chuyến đi của mình.
+Hãy để DT10 mang lại khoảng lặng giữa thiên nhiên cho bạn — đặt chỗ hôm nay để nhận ưu đãi và chuẩn bị hành trang khám phá! 📩
 
-### Hành trình tour từng ngày
-**Ngày 1:** 🌳 
-Khởi hành từ trung tâm TP.HCM, bạn sẽ có chuyến xe đưa đến Cần Giờ, nơi thiên nhiên rừng ngập mặn rộng lớn chờ đón. Sau khi nhận phòng khách sạn, hãy cùng nhau khám phá khu bảo tồn động vật hoang dã, nơi hàng trăm loài chim và động vật sinh sống nhộn nhịp.
+## Hành trình
+- Ngày 1
+  🌅 Sáng: Khởi hành từ điểm đón tại TP.HCM, trên xe hướng dẫn viên giới thiệu chương trình. Dừng nghỉ giữa đường.  
+  🌞 Trưa: Đến Cần Giờ, nhận phòng/ gửi hành lý, ăn trưa với hải sản địa phương. Tham quan rừng ngập mặn, check-in các điểm sống ảo.  
+  🌙 Tối: Tham quan Đảo Khỉ, tương tác, chụp ảnh với đàn khỉ (theo hướng dẫn an toàn). Ăn tối đặc sản, tự do dạo biển, nghỉ đêm tại resort/nhà nghỉ.
 
-**Ngày 2:** 🌊 
-Buổi sáng, bạn sẽ lên thuyền ra Đảo Khỉ, nơi những chú khỉ hoạt bát sẽ chào đón bạn. Tham gia vào các hoạt động như đi bộ trong rừng, thưởng thức đặc sản địa phương và tận hưởng không gian yên bình bên bờ biển. Đến buổi chiều, chúng ta sẽ trở về TP.HCM, mang theo những kỷ niệm tuyệt vời từ chuyến đi này!
+- Ngày 2
+  🌅 Sáng: Thức dậy ngắm bình minh, ăn sáng, tắm biển hoặc tham gia hoạt động nhẹ như câu cá/chèo thuyền.  
+  🌞 Trưa: Tham quan tiếp điểm du lịch (chợ hải sản/đầm dơi), trải nghiệm ẩm thực địa phương. Trả phòng, khởi hành về TP.HCM.  
+  🌙 Tối: Về đến điểm trả, kết thúc chương trình, tạm biệt và hẹn gặp lại.
+
+## Ưu đãi
+Hiện đang có GIẢM GIÁ 6% cho tour DT10! Từ giá gốc 2.900.000 VND, bạn chỉ phải trả GIÁ KHUYẾN MÃI 2.726.000 VND — tiết kiệm ngay 174.000 VND cho chuyến du lịch 2N1Đ đầy trải nghiệm. Nhanh tay đặt chỗ để giữ được mức giá ưu đãi này!
+
+## SEO Keywords
+tour Cần Giờ, Đảo Khỉ Cần Giờ, tour 2N1Đ Cần Giờ, du lịch Cần Giờ, tour Đảo Khỉ
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Tour Cần Giờ, Đảo Khỉ, du lịch Cần Giờ, trải nghiệm thiên nhiên, tham quan động vật hoang dã
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

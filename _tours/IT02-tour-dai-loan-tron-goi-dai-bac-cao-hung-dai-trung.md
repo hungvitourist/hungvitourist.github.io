@@ -1,10 +1,11 @@
 ---
 title: 'Tour Đài Loan Trọn Gói: Đài Bắc – Cao Hùng – Đài Trung'
 layout: post
+tour_code: IT02
 meta-title: Tour Đài Loan Trọn Gói
 bigimg:
-  - "/img/Picture-HSL/taiwan.jpg"
-image: "/img/Picture-HSL/taiwan.jpg"
+  - "/img/tours/international/taiwan.jpg"
+image: "/img/tours/international/taiwan.jpg"
 tags: tour đài loan, du lịch đài loan, tour quốc tế, tour đài bắc, tour cao hùng, tour đài trung
 categories: [tours#international, special-offer]
 transport: "✈️ + 🚌"
@@ -12,43 +13,68 @@ location: Đài Bắc – Cao Hùng – Đài Trung
 duration: 5N4Đ
 discount: 10
 price: 15.900.000
-description: "### Meta Description"
-keywords: "Khám phá Đài Loan trong tour trọn gói 5N4Đ với giá chỉ 15.900.000 VND! Trải nghiệm Đài Bắc, Cao Hùng và Đài Trung, đừng bỏ lỡ nhé!"
+description: "- 🆔 Mã tour: **IT02**"
+keywords: "Khám phá Đài Bắc - Cao Hùng - Đài Trung trong 5N4Đ: chợ đêm nhộn nhịp, thắng cảnh hùng vĩ, ẩm thực đặc sắc và trải nghiệm văn hóa bản địa. Đặt tour ưu đãi ngay!"
 ---
 
 ## ✈️ Tour Đài Loan Trọn Gói: Đài Bắc – Cao Hùng – Đài Trung
 
-- 🆔 Mã tour: **IT02**
-- 📍 Địa điểm: **Đài Bắc – Cao Hùng – Đài Trung**
+
+
 - 🚗 Phương tiện: **✈️ + 🚌**
-- 💰 Giá tour: **15.900.000 VND**
-- ⏳ Thời lượng: **5N4Đ**
+- 💰 Giá tour gốc: **15.900.000 VND**
+- 🔥 Giảm giá: **10%**
+- 💵 Giá khuyến mãi: **14.310.000 VND**
+- ⏳ Thời gian du lịch: **5N4Đ**
 
----
+## Meta Description
+Khám phá Đài Bắc - Cao Hùng - Đài Trung trong 5N4Đ: chợ đêm nhộn nhịp, thắng cảnh hùng vĩ, ẩm thực đặc sắc và trải nghiệm văn hóa bản địa. Đặt tour ưu đãi ngay!
 
-### Từ khóa SEO
-tour Đài Loan, Đài Bắc, Cao Hùng, Đài Trung, tour trọn gói
+## Giới thiệu
+Hành trình 5N4Đ khám phá ba điểm đến nổi bật của Đài Loan — Đài Bắc, Cao Hùng và Đài Trung — là lựa chọn hoàn hảo cho ai muốn kết hợp văn hóa, ẩm thực và thiên nhiên trong một chuyến đi. Bạn sẽ bơi giữa nhịp sống sôi động của chợ đêm, chiêm ngưỡng kiến trúc hiện đại và tĩnh lặng trước thiên nhiên thanh bình. ✨
 
-### Nội dung giới thiệu tour
-🍋 Chào mừng bạn đến với Tour Đài Loan Trọn Gói: Đài Bắc – Cao Hùng – Đài Trung! 🇹🇼 Đây là hành trình tuyệt vời dài 5N4Đ dành cho những tâm hồn yêu thích khám phá văn hóa đặc sắc và thiên nhiên tuyệt đẹp. Bạn sẽ được chiêm ngưỡng những phong cảnh hùng vĩ từ Đài Bắc hiện đại với những tòa nhà chọc trời, đến Cao Hùng sôi động với bến cảng nhộn nhịp và cuối cùng là Đài Trung duyên dáng với những lễ hội truyền thống. 
+Từ tòa tháp Taipei 101 cao chót vót đến hồ Nhật Nguyệt thơ mộng, mỗi ngày đều mang đến một trải nghiệm mới mẻ. Hãy tận hưởng hương vị trà sữa trứ danh, bánh trái địa phương và các món ăn đường phố mà bạn chỉ tìm thấy ở Đài Loan. 🍜🧋
 
-Mỗi điểm đến là một trải nghiệm riêng biệt! Chúng tôi sẽ đưa bạn đến những địa danh nổi tiếng, thưởng thức ẩm thực phong phú và gặp gỡ người dân địa phương để cảm nhận đời sống thật sự của Đài Loan. Đặt chân đến đây, chắc chắn bạn sẽ không chỉ có những bức hình tuyệt đẹp mà còn là những kỷ niệm khó quên. Đừng ngần ngại, hãy tham gia tour du lịch của chúng tôi ngay hôm nay để viết nên câu chuyện riêng của bạn trên đảo ngọc Đài Loan! 🏞️✈️
+Du lịch an toàn, tiện nghi với vé máy bay, xe đưa đón và hướng dẫn viên tiếng Việt/tiếng Anh tận tâm. Lịch trình được thiết kế hợp lý để bạn có thời gian thư giãn và khám phá. 🚌✈️
 
-### Hành trình tour từng ngày
-**Ngày 1:** ✈️ Khởi hành từ Việt Nam, bạn sẽ đến Đài Bắc. Khám phá các địa điểm nổi bật như Nhà tưởng niệm Tôn Trung Sơn và chợ đêm Shilin để thưởng thức ẩm thực đặc sắc.
+Nhanh tay đặt chỗ để tận hưởng GIẢM 10% và mức giá khuyến mãi hấp dẫn — chuyến đi lí tưởng cho gia đình, bạn bè hay cặp đôi. Liên hệ để giữ chỗ ngay hôm nay! 📞
 
-**Ngày 2:** 🏙️ Tiếp tục cuộc hành trình, bạn sẽ ghé thăm Đài Bắc và tham quan tháp Taipei 101, nơi bạn có thể chiêm ngưỡng toàn cảnh thành phố từ trên cao, sau đó tản bộ ở công viên Daan.
+## Hành trình
+- Ngày 1  
+  🌅 Sáng: Khởi hành từ Việt Nam, hạ cánh tại sân bay Đào Viên (Đài Bắc), làm thủ tục nhập cảnh.  
+  🌞 Trưa: Nhận phòng khách sạn, nghỉ ngơi, ăn trưa tự do với món địa phương.  
+  🌙 Tối: Tham quan chợ đêm Shilin hoặc Raohe, thưởng thức street food đặc sắc.
 
-**Ngày 3:** 🌊 Di chuyển đến Cao Hùng, nơi bạn sẽ tham quan bến cảng Cao Hùng và chùa Thiên Hậu, tìm hiểu văn hóa và lịch sử phong phú nơi đây.
+- Ngày 2  
+  🌅 Sáng: Tham quan Đài Bắc 101, chụp hình panorama thành phố.  
+  🌞 Trưa: Ghé tham quan Khu tưởng niệm Tưởng Giới Thạch (Chiang Kai-shek Memorial) và Đền Longshan.  
+  🌙 Tối: Tự do mua sắm tại Ximending hoặc tiếp tục khám phá chợ đêm.
 
-**Ngày 4:** 🚄 Khám phá Đài Trung, tham gia vào các hoạt động thú vị như tham quan phố cổ Dajia và thưởng thức trà sữa trứ danh, một đặc sản mà không ai có thể bỏ qua.
+- Ngày 3  
+  🌅 Sáng: Di chuyển bằng tàu cao tốc (HSR) hoặc xe du lịch đến Cao Hùng.  
+  🌞 Trưa: Tham quan Thiền viện Phật giáo Fo Guang Shan hoặc công viên Liên Á.  
+  🌙 Tối: Dạo quanh Lotus Pond, thưởng thức ẩm thực tại chợ đêm Liuhe.
 
-**Ngày 5:** 🏡 Trả phòng khách sạn, tạm biệt Đài Loan. Mang theo những kỷ niệm tuyệt đẹp và những món quà ý nghĩa trở về! Chúc bạn có một chuyến đi tràn đầy niềm vui và trải nghiệm.
+- Ngày 4  
+  🌅 Sáng: Khởi hành đến Đài Trung, ghé thăm Làng Cầu Vồng (Rainbow Village) và Khu nghệ thuật.  
+  🌞 Trưa: Thưởng thức ẩm thực ở trung tâm Đài Trung, tham quan Bảo tàng Quốc gia (nếu có thời gian).  
+  🌙 Tối: Thăm Gaomei Wetlands ngắm hoàng hôn và khám phá chợ đêm Fengjia sầm uất.
+
+- Ngày 5  
+  🌅 Sáng: Tham quan Hồ Nhật Nguyệt (Sun Moon Lake) — đi thuyền, ngắm cảnh và chụp hình.  
+  🌞 Trưa: Ăn trưa nhẹ, mua quà lưu niệm. Trở về khách sạn, làm thủ tục trả phòng.  
+  🌙 Tối: Tiễn ra sân bay, đáp chuyến bay về Việt Nam. Kết thúc hành trình, chia tay và hẹn gặp lại!
+
+## Ưu đãi
+Hiện có GIẢM 10% so với giá tour gốc. Giá tour gốc: 15.900.000 VND → Giá khuyến mãi chỉ còn: 14.310.000 VND. Nhanh tay đặt để giữ ưu đãi này — số lượng có hạn!
+
+## SEO Keywords
+tour Đài Loan 5N4Đ, tour Đài Bắc Cao Hùng Đài Trung, du lịch Đài Loan giá rẻ, tour khám phá Đài Bắc, tour Đài Loan khuyến mãi
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Khám phá Đài Loan trong tour trọn gói 5N4Đ với giá chỉ 15.900.000 VND! Trải nghiệm Đài Bắc, Cao Hùng và Đài Trung, đừng bỏ lỡ nhé!
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

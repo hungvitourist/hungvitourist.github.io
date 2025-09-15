@@ -12,10 +12,11 @@ navbar-links:
     - 🌏 Vé quốc tế: flights#international
     - 💺 Đặt chỗ & hành lý: flights#booking
   🗼Tourist: 
-    - ⛩️ Tour trong nước: tours#domestic
+    - 🏞️ Tour trong nước: tours#domestic
     - 🏯 Tour quốc tế: tours#international
     - 🎢 Combo du lịch: tours#combo
     - 🏝️ Du lịch tự túc: tours#freeTravel
+    - 🏖️ Danh sách tour: tours/all-tours/
   🎫Hộ chiếu VISA: 
     - 📑 Visa du lịch: visa#travel
     - 💼 Visa công tác: visa#business
@@ -161,3 +162,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-admin
+  - jekyll-datapage-generator
+
+page_gen:
+  - data: 'tour_domestic'   # file _data/tour_domestic.csv
+    template: 'tourlist'        # _layouts/tour.html
+    name: 'ma_tour'         # tên file sẽ là giá trị cột ma_tour
+    dir: 'tours/domestic'   # thư mục xuất file
+  - data: 'tour_international'
+    template: 'tourlist'
+    name: 'ma_tour'
+    dir: 'tours/international'

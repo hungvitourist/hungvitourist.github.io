@@ -1,56 +1,71 @@
 ---
 title: 'Tour Hàn Quốc Seoul - Nami'
 layout: post
+tour_code: IT04
 meta-title: Hàn Quốc Seoul - Nami
 bigimg:
-  - "/img/tours/international/korea-banner.jpg"
-image: "/img/tours/international/korea-banner.jpg"
+  - "/img/tours/international/du-lich-dao-nami-3.webp"
+image: "/img/tours/international/du-lich-dao-nami-3.webp"
 tags: tour hàn quốc, du lịch hàn quốc, tour seoul, tour nami, tour quốc tế
-categories: [tours#international]
+categories: [tours#international, special-offer, hot]
 transport: "✈️"
 location: Seoul - Đảo Nami
 duration: 4N3Đ
 discount: 12
 price: 18.900.000
-description: "### Meta Description:"
-keywords: "Tour Hàn Quốc, Seoul, Đảo Nami, du lịch Hàn Quốc, trải nghiệm Hàn Quốc"
+description: "- 🆔 Mã tour: **IT04**"
+keywords: "Khám phá Seoul & lãng mạn Đảo Nami trong tour 4N3Đ: bay, KS 3-4* tiện nghi, ăn sáng, HDV tiếng Việt. Giá tốt, hành trình hấp dẫn — đặt ngay để nhận ưu đãi!"
 ---
 
 ## ✈️ Tour Hàn Quốc Seoul - Nami
 
-- 🆔 Mã tour: **IT04**
-- 📍 Địa điểm: **Seoul - Đảo Nami**
+
+
 - 🚗 Phương tiện: **✈️**
-- 💰 Giá tour: **18.900.000 VND**
-- ⏳ Thời lượng: **4N3Đ**
+- 💰 Giá tour gốc: **18.900.000 VND**
+- 🔥 Giảm giá: **12%**
+- 💵 Giá khuyến mãi: **16.632.000 VND**
+- ⏳ Thời gian du lịch: **4N3Đ**
 
----
+## Meta Description
+Khám phá Seoul & lãng mạn Đảo Nami trong tour 4N3Đ: bay, KS 3-4* tiện nghi, ăn sáng, HDV tiếng Việt. Giá tốt, hành trình hấp dẫn — đặt ngay để nhận ưu đãi!
 
-### Từ khóa SEO:
-Tour Hàn Quốc, Seoul, Đảo Nami, du lịch Hàn Quốc, trải nghiệm Hàn Quốc
+## Giới thiệu
+Seoul - thành phố hòa quyện giữa nét cổ kính và hiện đại, nơi bạn có thể thăm cung điện hoàng gia, dạo phố cổ Bukchon và trải nghiệm ẩm thực đường phố tuyệt vời 🍜🇰🇷. Chuyến đi 4N3Đ này thiết kế vừa đủ để cảm nhận nhịp sống đô thị, vừa có thời gian thư thái giữa thiên nhiên thơ mộng của Đảo Nami.  
+Đảo Nami nổi tiếng với hàng cây lãng mạn, con đường tình yêu được nhiều cặp đôi và nhiếp ảnh gia yêu thích — khung cảnh bốn mùa đều đẹp như tranh 📸🍂❄️. Ngoài ra, bạn còn có cơ hội đến Petite France, mua sắm ở Myeongdong và ngắm toàn cảnh thành phố từ tháp N Seoul.  
+Hành trình phù hợp cả gia đình, nhóm bạn hoặc cặp đôi muốn trải nghiệm Hàn Quốc tiện lợi, an toàn với HDV tiếng Việt và dịch vụ chu đáo. Nhanh tay đặt chỗ để giữ mức giá khuyến mãi hấp dẫn nhé ✨🛫
 
-### Nội dung giới thiệu tour:
-Chào mừng bạn đến với Tour Hàn Quốc Seoul - Nami! 🌟 Một hành trình 4 ngày 3 đêm sẽ đưa bạn đến với những khung cảnh tuyệt đẹp và những trải nghiệm không thể nào quên tại xứ sở kim chi. Bạn sẽ được hòa mình vào nhịp sống sôi động của Seoul, nơi có những ngôi đền cổ kính, cung điện lộng lẫy, và những con phố nhộn nhịp. Bên cạnh đó, Đảo Nami sẽ là nơi bạn cảm nhận được sự bình yên tuyệt đối, với những hàng cây lá vàng rực rỡ trong mùa thu, khiến bạn như lạc vào thế giới cổ tích. 🍂✨
+## Hành trình
+- Ngày 1  
+  🌅 Sáng: Khởi hành từ Việt Nam, làm thủ tục bay đi Seoul.  
+  🌞 Trưa: Đến sân bay Incheon, làm thủ tục nhập cảnh, xe đón về trung tâm, nhận phòng khách sạn.  
+  🌙 Tối: Thưởng thức bữa tối Hàn Quốc, dạo phố Myeongdong, tự do mua sắm và khám phá ẩm thực đường phố.
 
-Mỗi ngày là một cuộc phiêu lưu mới với những địa điểm hấp dẫn, ẩm thực ngon lành và văn hóa đặc sắc. Hãy chuẩn bị hành lý và cùng chúng tôi khám phá vẻ đẹp tuyệt vời của Hàn Quốc. 🔑👣
+- Ngày 2  
+  🌅 Sáng: Tham quan Cung Gyeongbokgung, xem nghi thức thay phiên lính canh, chụp ảnh tại hoàng cung.  
+  🌞 Trưa: Ghé Bukchon Hanok Village và Insadong, trải nghiệm trà truyền thống và mua quà lưu niệm.  
+  🌙 Tối: Lên tháp N Seoul (Namsan), ngắm toàn cảnh thành phố về đêm, thưởng thức buffet hoặc món Hàn tùy chọn.
 
-### Hành trình tour:
-**Ngày 1: Khởi hành đến Seoul** ✈️  
-Bạn sẽ bắt đầu hành trình đến Hàn Quốc bằng những cảm xúc háo hức. Sau khi đến nơi, check-in khách sạn và tận hưởng không khí sôi động của thành phố lớn nhất xứ kim chi.
+- Ngày 3  
+  🌅 Sáng: Khởi hành đi Đảo Nami — tham quan con đường cây, chụp hình tại các góc lãng mạn.  
+  🌞 Trưa: Thưởng thức bữa trưa địa phương, tiếp tục tham quan đảo và chụp ảnh.  
+  🌙 Tối: Thăm Petite France (nếu thời gian), trở về Seoul, mua sắm tự do hoặc thư giãn tại quán cà phê.
 
-**Ngày 2: Khám phá Seoul** 🏯  
-Khám phá những điểm du lịch nổi tiếng như Cung điện Gyeongbokgung, chợ Namdaemun và tận hưởng văn hóa truyền thống tại làng Bukchon Hanok. Đừng quên thử món BBQ Hàn Quốc hấp dẫn! 🍖
+- Ngày 4  
+  🌅 Sáng: Thời gian tự do (mua sắm, trải nghiệm spa nhỏ hoặc chụp ảnh kỷ niệm).  
+  🌞 Trưa: Trả phòng, xe đưa ra sân bay Incheon, làm thủ tục đáp chuyến bay về Việt Nam.  
+  🌙 Tối: Về đến Việt Nam, kết thúc hành trình — chia tay và hẹn gặp lại.
 
-**Ngày 3: Đảo Nami xinh đẹp** 🌳  
-Hành trình đến Đảo Nami, nơi bạn sẽ được thư giãn giữa thiên nhiên tươi đẹp. Tham gia các hoạt động ngoài trời như đạp xe hoặc dạo bộ quanh hồ, và lưu giữ những khoảnh khắc tuyệt vời tại đây! 📸
+## Ưu đãi
+Bạn được GIẢM NGAY 12% so với giá gốc — từ 18.900.000 VND chỉ còn 16.632.000 VND 💥. Đây là cơ hội tiết kiệm đáng kể cho hành trình khám phá Seoul và Đảo Nami trọn vẹn: bay khứ hồi, khách sạn tiện nghi, HDV tiếng Việt và nhiều trải nghiệm giá trị. Số chỗ có hạn — đặt sớm để giữ mức giá khuyến mãi!
 
-**Ngày 4: Tiễn biệt Hàn Quốc** 😢  
-Sang một ngày mới, bạn sẽ có thời gian tự do shopping trước khi khởi hành trở về. Đừng quên mua sắm những món quà lưu niệm để nhớ về chuyến đi này! 🛍️
+## SEO Keywords
+Tour Seoul Đảo Nami, Tour Hàn Quốc 4N3Đ, Du lịch Seoul, Đảo Nami, Tour khuyến mãi Hàn Quốc
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Tour Hàn Quốc, Seoul, Đảo Nami, du lịch Hàn Quốc, trải nghiệm Hàn Quốc
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

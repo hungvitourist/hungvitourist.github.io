@@ -1,60 +1,95 @@
 ---
 title: 'Tour Châu Âu 4 Nước'
 layout: post
+tour_code: IT05
 meta-title: Châu Âu 4 Nước
 bigimg:
-  - "/img/tours/international/korea-banner.jpg"
-image: "/img/tours/international/korea-banner.jpg"
+  - "/img/tours/international/thuy-si.jpg"
+image: "/img/tours/international/thuy-si.jpg"
 tags: tour châu âu, du lịch châu âu, tour pháp, tour đức, tour thụy sĩ, tour ý, tour quốc tế
-categories: [tours#international]
+categories: [tours#international, special-offer]
 transport: "✈️"
 location: Pháp - Đức - Thụy Sĩ - Ý
 duration: 8N7Đ
 discount: 15
 price: 49.900.000
-description: "### Meta Description:"
-keywords: "Khám phá vẻ đẹp hào hòa của Châu Âu qua Tour 4 Nước: Pháp, Đức, Thụy Sĩ, Ý chỉ với 49.900.000 VNĐ cho 8N7Đ. Nhanh tay đặt chỗ nào! 🌍✈️"
+description: "- 🆔 Mã tour: **IT05**"
+keywords: "Khám phá Pháp-Đức-Thụy Sĩ-Ý 8N7Đ: Paris lãng mạn, Rừng Đen, Lucerne xanh biếc, Interlaken hùng vĩ, Milan & Venice. HDV Việt, giảm 15% chỉ 42.415.000 VND."
 ---
 
 ## ✈️ Tour Châu Âu 4 Nước
 
-- 🆔 Mã tour: **IT05**
-- 📍 Địa điểm: **Pháp - Đức - Thụy Sĩ - Ý**
+
+
 - 🚗 Phương tiện: **✈️**
-- 💰 Giá tour: **49.900.000 VND**
-- ⏳ Thời lượng: **8N7Đ**
+- 💰 Giá tour gốc: **49.900.000 VND**
+- 🔥 Giảm giá: **15%**
+- 💵 Giá khuyến mãi: **42.415.000 VND**
+- ⏳ Thời gian du lịch: **8N7Đ**
 
----
+## Meta Description
+Khám phá Pháp-Đức-Thụy Sĩ-Ý 8N7Đ: Paris lãng mạn, Rừng Đen, Lucerne xanh biếc, Interlaken hùng vĩ, Milan & Venice. HDV Việt, giảm 15% chỉ 42.415.000 VND.
 
-### Từ khóa SEO:
-Tour Châu Âu, Tour 4 Nước, Du lịch Châu Âu, Pháp Đức Thụy Sĩ Ý, Giá tour du lịch
+## Giới thiệu
+Hãy cùng chúng tôi bước vào hành trình khám phá 4 quốc gia châu Âu trong 8N7Đ đầy cảm xúc: từ Paris thơ mộng, qua những thị trấn cổ kính của Đức, hồ nước trong xanh của Thụy Sĩ tới vẻ sang trọng của Milan và lãng mạn của Venice. Mỗi điểm đến là một bức tranh văn hóa — kiến trúc, ẩm thực và trải nghiệm khó quên. ✨
 
-### Nội dung giới thiệu tour:
-🌟 Chào mừng bạn đến với Tour Châu Âu 4 Nước – hành trình khám phá những điểm đến lôi cuốn nhất của lục địa già! Chỉ với 49.900.000 VND, bạn sẽ có 8 ngày 7 đêm du ngoạn qua những thành phố lãng mạn của Pháp, đầy lịch sử của Đức, thiên nhiên tuyệt đẹp của Thụy Sĩ và nghệ thuật tráng lệ của Ý. 
+Bạn sẽ được nghỉ tại khách sạn 3-4 sao, di chuyển bằng xe đời mới, có hướng dẫn viên tiếng Việt nhiệt tình và thời gian tham quan hợp lý để vừa đi nhiều vừa nghỉ ngơi thoải mái. Bên cạnh các điểm tham quan nổi bật còn có những trải nghiệm bản địa: thưởng rượu vang, thử phô mai Thụy Sĩ, đi thuyền gondola ở Venice. 🥐🍷🧀
 
-Hãy tưởng tượng bạn được chở trên những con phố thơ mộng của Paris, ngắm tháp Eiffel rực rỡ ánh đèn, tham quan những lâu đài cổ kính ở Berlin, hòa mình vào vẻ đẹp hùng vĩ của dãy Alps và thưởng thức pizza thơm ngon tại Venice. Mỗi điểm dừng chân trong hành trình đều mang đến cho bạn những trải nghiệm tuyệt vời và kỷ niệm khó quên! 🌈 Đặt ngay hôm nay để khám phá Châu Âu và tạo nên những câu chuyện du lịch của riêng bạn! 🗺️❤️
+Hành trình phù hợp cho cặp đôi, gia đình hay nhóm bạn muốn “check-in” những biểu tượng châu Âu kinh điển trong thời gian ngắn mà vẫn trọn vẹn. Nhanh tay giữ chỗ để hưởng ưu đãi giới hạn — vé và chỗ ở luôn thay đổi theo mùa. 📲✉️
 
-### Hành trình tour từng ngày:
-**Ngày 1:** 🛬 Hành trình bắt đầu từ sân bay! Bạn sẽ bay đến Pháp, nơi bạn sẽ khám phá vẻ đẹp của Paris – thành phố ánh sáng.
+Đặt tour ngay hôm nay để chuẩn bị hành lý cho một chuyến đi đầy cảm hứng và kỷ niệm! 🚀
 
-**Ngày 2:** 🗼 Tham quan tháp Eiffel và bảo tàng Louvre. Buổi tối, dạo chơi dọc sông Seine thưởng thức ẩm thực Pháp.
+## Hành trình
+- Ngày 1
+  🌅 Sáng: Tập trung tại sân bay, làm thủ tục khởi hành đến Paris.  
+  🌞 Trưa: Trên máy bay (nghỉ ngơi).  
+  🌙 Tối: Đến Paris, nhận phòng khách sạn, ăn tối nhẹ, tự do dạo quanh gần khách sạn.
 
-**Ngày 3:** 🚆 Di chuyển đến Berlin, Đức. Khám phá cổng Brandenburg và bức tường Berlin, nơi lưu giữ lịch sử đầy cảm xúc.
+- Ngày 2
+  🌅 Sáng: Tham quan Tháp Eiffel, chụp hình lưu niệm.  
+  🌞 Trưa: Thăm Bảo tàng Louvre (tùy chọn), đi bộ qua khu Palais Royal.  
+  🌙 Tối: Du thuyền trên sông Seine, thưởng thức ẩm thực Pháp.
 
-**Ngày 4:** 🎨 Tham quan bảo tàng và đi dạo quanh những khu phố nghệ thuật nổi tiếng của Berlin trước khi lên đường đến Thụy Sĩ.
+- Ngày 3
+  🌅 Sáng: Thăm Cung điện Versailles (khu vườn & nội thất).  
+  🌞 Trưa: Trở về Paris, dạo Champs-Élysées, Arc de Triomphe.  
+  🌙 Tối: Tự do khám phá các quán cà phê, mua sắm quà lưu niệm.
 
-**Ngày 5:** 🏔️ Khám phá thiên nhiên tuyệt đẹp của dãy Alps tại Lucerne. Thưởng thức cảnh sắc hồ nước trong xanh và núi non kỳ vĩ.
+- Ngày 4
+  🌅 Sáng: Khởi hành đến Đức (Strasbourg/Heidelberg), tham quan phố cổ.  
+  🌞 Trưa: Thưởng thức đặc sản Đức tại nhà hàng địa phương.  
+  🌙 Tối: Dạo phố cổ, chụp ảnh cảnh đèn thành phố.
 
-**Ngày 6:** 🚤 Di chuyển đến Milan, Ý. Tham quan nhà thờ Duomo và ghé thăm các cửa hàng thời trang nổi tiếng.
+- Ngày 5
+  🌅 Sáng: Đi tới Thụy Sĩ — Lucerne, cầu Chapel, hồ Lucerne.  
+  🌞 Trưa: Thưởng thức ẩm thực Thụy Sĩ, khám phá phố cổ.  
+  🌙 Tối: Di chuyển tới khu vực Interlaken, nghỉ ngơi chuẩn bị ngày lên núi.
 
-**Ngày 7:** 🍕 Dành trọn ngày trên thành phố Venice – trải nghiệm đi thuyền trên dòng kênh và thưởng thức pizza đích thực.
+- Ngày 6
+  🌅 Sáng: Khám phá Jungfraujoch (nếu điều kiện), ngắm tuyết và panorama dãy Alps.  
+  🌞 Trưa: Trải nghiệm cáp treo hoặc hoạt động ngoài trời (tùy chọn).  
+  🌙 Tối: Di chuyển xuống miền Nam, khởi hành tới Milan (Ý), nhận phòng.
 
-**Ngày 8:** 🛫 Kết thúc hành trình, bạn sẽ về nước với những kỷ niệm khó quên và hành trang đầy ắp những trải nghiệm thú vị!
+- Ngày 7
+  🌅 Sáng: Tham quan Nhà thờ Duomo di Milano, Galeria Vittorio Emanuele II.  
+  🌞 Trưa: Nghỉ ngơi, di chuyển tiếp tới Venice.  
+  🌙 Tối: Dạo ven kênh, trải nghiệm gondola và bữa tối lãng mạn ở Venice.
+
+- Ngày 8
+  🌅 Sáng: Tham quan Quảng Trường Saint Mark, cầu Rialto.  
+  🌞 Trưa: Mua sắm quà kỷ niệm, trả phòng.  
+  🌙 Tối: Di chuyển ra sân bay, làm thủ tục về Việt Nam — kết thúc chương trình.
+
+## Ưu đãi
+Chương trình đang áp dụng giảm giá 15% từ giá gốc 49.900.000 VND — chỉ còn giá khuyến mãi: 42.415.000 VND. Đây là cơ hội tiết kiệm rõ rệt để trải nghiệm 4 quốc gia châu Âu trọn vẹn: vé, khách sạn, HDV tiếng Việt và nhiều dịch vụ tiện ích đã được tính. Nhanh tay đặt chỗ để giữ mức giá ưu đãi này trước khi hết suất!
+
+## SEO Keywords
+tour châu Âu, tour Pháp Đức Thụy Sĩ Ý, du lịch châu Âu 8N7Đ, tour giá rẻ châu Âu, đặt tour châu Âu
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Khám phá vẻ đẹp hào hòa của Châu Âu qua Tour 4 Nước: Pháp, Đức, Thụy Sĩ, Ý chỉ với 49.900.000 VNĐ cho 8N7Đ. Nhanh tay đặt chỗ nào! 🌍✈️
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

@@ -1,6 +1,7 @@
 ---
 title: 'Tour Miền Tây Sông Nước'
 layout: post
+tour_code: DT06
 meta-title: Miền Tây Sông Nước
 bigimg:
   - "/img/tours/domestic/tour-cam-trai-ben-ho-tuyen-lam.jpg"
@@ -12,43 +13,56 @@ location: Cần Thơ - Sóc Trăng - Bạc Liêu
 duration: 3N2Đ
 discount: 8
 price: 4.500.000
-description: "### Meta Description:"
-keywords: "Tour Miền Tây, du lịch Cần Thơ, Sóc Trăng, Bạc Liêu, tour 3N2Đ"
+description: "- 🆔 Mã tour: **DT06**"
+keywords: "Tour Cần Thơ - Sóc Trăng - Bạc Liêu 3N2Đ: trải nghiệm chợ nổi, miệt vườn, đền chùa, di tích độc đáo và ẩm thực Nam Bộ. Trọn gói, giá ưu đãi, đặt ngay!"
 ---
 
 ## ✈️ Tour Miền Tây Sông Nước
 
-- 🆔 Mã tour: **DT06**
-- 📍 Địa điểm: **Cần Thơ - Sóc Trăng - Bạc Liêu**
+
+
 - 🚗 Phương tiện: **🚌**
-- 💰 Giá tour: **4.500.000 VND**
-- ⏳ Thời lượng: **3N2Đ**
+- 💰 Giá tour gốc: **4.500.000 VND**
+- 🔥 Giảm giá: **8%**
+- 💵 Giá khuyến mãi: **4.140.000 VND**
+- ⏳ Thời gian du lịch: **3N2Đ**
 
----
+## Meta Description
+Tour Cần Thơ - Sóc Trăng - Bạc Liêu 3N2Đ: trải nghiệm chợ nổi, miệt vườn, đền chùa, di tích độc đáo và ẩm thực Nam Bộ. Trọn gói, giá ưu đãi, đặt ngay!
 
-### Từ khóa SEO:
-Tour Miền Tây, du lịch Cần Thơ, Sóc Trăng, Bạc Liêu, tour 3N2Đ
+## Giới thiệu
+Khám phá miền Tây sông nước trong hành trình Cần Thơ - Sóc Trăng - Bạc Liêu 3N2Đ đầy cảm hứng! 🌿 Bạn sẽ lướt thuyền giữa chợ nổi Cái Răng, thưởng thức trái cây miệt vườn và ngắm hoàng hôn vàng trên sóng nước. Trải nghiệm văn hóa bản địa, lễ hội đậm đà chất Nam Bộ và nhiếp ảnh “sống ảo” tại những góc đẹp đặc trưng. 📸
 
-### Giới thiệu tour:
-🌊✨ Chào mừng bạn đến với "Tour Miền Tây Sông Nước" - nơi bạn sẽ được đắm chìm trong vẻ đẹp bình dị, thơ mộng của miền Tây nam bộ! Trong 3 ngày 2 đêm, hãy cùng chúng tôi khám phá những nét văn hóa độc đáo, những dòng sông hữu tình và những món ăn đặc sản nức lòng.Sau mỗi hành trình, bạn sẽ mang về những kỷ niệm đẹp và một trái tim rộn ràng yêu thương miền Tây!
+Hành trình phù hợp cả gia đình và nhóm bạn, kết hợp tham quan lịch sử, tâm linh và ẩm thực: từ chùa chiền Sóc Trăng đến Nhà Công Tử Bạc Liêu, và cánh đồng quạt gió lãng mạn. 🚤 Bạn sẽ được hướng dẫn tận tình, nghỉ ngơi tại khách sạn tiện nghi và thưởng thức đặc sản địa phương như bún nước lèo, bánh pía, hủ tiếu miền Tây. 🍜
 
-Bắt đầu cuộc hành trình của bạn tại Cần Thơ, thăm chợ nổi Cái Răng và trải nghiệm cuộc sống sông nước nơi đây. Tiếp theo, dừng chân tại Sóc Trăng để ngắm nhìn những ngôi chùa mang đậm dấu ấn văn hóa Khmer. Cuối cùng, khám phá Bạc Liêu với những ngôi nhà cổ kính và thưởng thức món bánh ques và hải sản tươi ngon. Hãy chuẩn bị cho một chuyến đi tuyệt vời, đầy màu sắc và ý nghĩa! 🌈🍽️
+Hãy để chúng tôi lo trọn gói, bạn chỉ việc tận hưởng khoảnh khắc thư giãn, chụp hình và ghi lại kỷ niệm đáng nhớ. ✨ Đặt tour ngay hôm nay để nhận ưu đãi và khởi hành cùng chuyến đi đầy màu sắc này! 📝
 
-### Hành trình tour từng ngày:
+## Hành trình
+- Ngày 1  
+  🌅 Sáng: Khởi hành từ điểm hẹn, di chuyển đến Cần Thơ. Tham quan vườn trái cây, dừng chân ăn sáng đặc sản miền Tây.  
+  🌞 Trưa: Nhận phòng khách sạn, dùng cơm trưa, nghỉ ngơi.  
+  🌙 Tối: Tham quan chợ đêm địa phương, tự do khám phá ẩm thực và dạo bến Ninh Kiều, thưởng thức đờn ca tài tử (nếu có).
 
-**Ngày 1: Cần Thơ - Khám Phá Chợ Nổi**  
-🚣‍♂️ Mở đầu hành trình, bạn sẽ tham quan chợ nổi Cái Răng - nơi diễn ra những hoạt động nhộn nhịp và đầy màu sắc của người dân miền Tây. Sau đó, thưởng thức bữa tối với các món đặc sản thơm ngon.
+- Ngày 2  
+  🌅 Sáng: Tham quan chợ nổi Cái Răng bằng thuyền, trải nghiệm mua bán trên sông, thưởng thức hoa quả tươi.  
+  🌞 Trưa: Di chuyển đến Sóc Trăng, dùng cơm trưa, tham quan các ngôi chùa Khmer nổi tiếng (Chùa Dơi, Chùa Mã Tộc).  
+  🌙 Tối: Thưởng thức ẩm thực địa phương, tìm hiểu văn hóa người Khmer; tự do nghỉ ngơi tại khách sạn.
 
-**Ngày 2: Sóc Trăng - Văn Hóa Người Khmer**  
-🏯 Buổi sáng, bạn sẽ thăm chùa Dơi, một trong những ngôi chùa nổi tiếng với kiến trúc độc đáo và tượng Phật đặc sắc. Buổi chiều, khám phá các món ăn truyền thống và tìm hiểu về văn hóa Khmer.
+- Ngày 3  
+  🌅 Sáng: Khởi hành đi Bạc Liêu, tham quan Nhà Công Tử, cánh đồng quạt gió, và rừng ngập mặn (chụp hình, dạo bộ).  
+  🌞 Trưa: Dùng bữa trưa với đặc sản địa phương, mua sắm quà lưu niệm.  
+  🌙 Tối: Khởi hành về lại điểm đón, kết thúc chương trình, chia tay và hẹn gặp lại.
 
-**Ngày 3: Bạc Liêu - Di sản Văn Hóa**  
-🌾 Kết thúc hành trình tại Bạc Liêu, tham quan nhà công tử Bạc Liêu và thưởng thức hải sản tươi sống hấp dẫn. Sau đó, dạo chơi bên bờ biển và chụp những bức hình đẹp kỷ niệm trước khi trở về.
+## Ưu đãi
+Nhanh tay nhận ưu đãi giảm ngay 8% từ giá gốc 4.500.000 VND — bạn chỉ còn **4.140.000 VND** (tiết kiệm 360.000 VND)! 🔥 Giá khuyến mãi đã bao gồm: vận chuyển, khách sạn, ăn theo chương trình, vé tham quan và hướng dẫn viên. Số lượng ưu đãi có hạn — đặt ngay để giữ chỗ!
+
+## SEO Keywords
+tour Cần Thơ Sóc Trăng Bạc Liêu, tour miền Tây 3N2Đ, chợ nổi Cái Răng, du lịch Bạc Liêu, tour miệt vườn đẹp
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Tour Miền Tây, du lịch Cần Thơ, Sóc Trăng, Bạc Liêu, tour 3N2Đ
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

@@ -1,51 +1,68 @@
 ---
 title: 'Tour Đà Nẵng - Hội An'
 layout: post
+tour_code: DT02
 meta-title: Đà Nẵng - Hội An
 bigimg:
   - "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
 image: "/img/tours/domestic/Pho-co-Hoi-An-800x533.jpg"
 tags: tour đà nẵng, tour hội an, du lịch miền trung, tour nội địa, khám phá việt nam
-categories: [tours#domestic]
+categories: [tours#domestic,hot]
 transport: "✈️ + 🚌"
 location: Đà Nẵng - Hội An
 duration: 3N2Đ
 discount: 8
 price: 5.990.000
-description: "### Meta Description"
-keywords: "Tour Đà Nẵng, Tour Hội An, du lịch miền Trung, tour giá rẻ Đà Nẵng, tour 3N2Đ"
+description: "- 🆔 Mã tour: **DT02**"
+keywords: "Khám phá Đà Nẵng - Hội An 3N2Đ: bãi biển Mỹ Khê, cầu Rồng, phố cổ Hội An, ẩm thực đặc sắc và trải nghiệm văn hóa. Giá chỉ 5.510.800 VND - khuyến mãi 8%"
 ---
 
 ## ✈️ Tour Đà Nẵng - Hội An
 
-- 🆔 Mã tour: **DT02**
-- 📍 Địa điểm: **Đà Nẵng - Hội An**
+
+
 - 🚗 Phương tiện: **✈️ + 🚌**
-- 💰 Giá tour: **5.990.000 VND**
-- ⏳ Thời lượng: **3N2Đ**
+- 💰 Giá tour gốc: **5.990.000 VND**
+- 🔥 Giảm giá: **8%**
+- 💵 Giá khuyến mãi: **5.510.800 VND**
+- ⏳ Thời gian du lịch: **3N2Đ**
 
----
+## Meta Description
+Khám phá Đà Nẵng - Hội An 3N2Đ: bãi biển Mỹ Khê, cầu Rồng, phố cổ Hội An, ẩm thực đặc sắc và trải nghiệm văn hóa. Giá chỉ 5.510.800 VND - khuyến mãi 8%
 
-### Từ khóa SEO
-Tour Đà Nẵng, Tour Hội An, du lịch miền Trung, tour giá rẻ Đà Nẵng, tour 3N2Đ
+## Giới thiệu
+Bạn đang tìm một hành trình ngắn ngày nhưng đầy cảm hứng? Đà Nẵng - Hội An 3N2Đ là lựa chọn hoàn hảo: kết hợp biển xanh, cầu Rồng hiện đại và phố cổ Hội An dịu dàng, mang đến trải nghiệm đa sắc màu 🌊🌉🏮. Bạn sẽ được tản bộ trên bãi biển Mỹ Khê, chụp hình bên cầu Rồng và thưởng thức đèn lồng lung linh trong phố cổ — tất cả trong một chuyến đi nhẹ nhàng nhưng sâu lắng.
 
-### Nội dung giới thiệu tour
-🌟 Bạn đang tìm kiếm một hành trình du lịch đầy trải nghiệm và thú vị? Hãy cùng tham gia Tour Đà Nẵng - Hội An, nơi quy tụ những nét đẹp văn hóa và thiên nhiên kỳ diệu của miền Trung Việt Nam! 🏖️ Với chỉ 5.990.000 VND cho 3 ngày 2 đêm, bạn sẽ có cơ hội khám phá những bãi biển tuyệt đẹp của Đà Nẵng, chiêm ngưỡng kiến trúc cổ kính của Hội An, thưởng thức ẩm thực phong phú và hòa mình vào đời sống văn hóa nơi đây. Hãy sẵn sàng để tạo nên những kỷ niệm khó quên và trải nghiệm những điều tuyệt vời tại hai thành phố nổi tiếng này!
+Hành trình phù hợp cho cặp đôi, gia đình hay nhóm bạn muốn nghỉ dưỡng kèm khám phá văn hóa địa phương. Thưởng thức ẩm thực miền Trung đậm đà 🍜, tham gia hoạt động làng nghề hoặc lớp học nấu ăn, và tận hưởng không khí biển trong lành. Hướng dẫn viên địa phương giàu kinh nghiệm sẽ đồng hành, giúp bạn tận dụng tối đa từng khoảnh khắc 📸.
 
-### Hành trình tour từng ngày
-**Ngày 1: Khởi hành đến Đà Nẵng 🌅**  
-Chúng ta sẽ khởi hành từ điểm tập trung và đến Đà Nẵng. Sau khi nhận phòng khách sạn, hãy cùng khám phá bãi biển Mỹ Khê – một trong những bãi biển đẹp nhất Việt Nam. Buổi tối, thưởng thức hải sản tươi ngon tại các quán ăn địa phương.  
+Hãy để chúng tôi lo liệu từ vé máy bay, vận chuyển đến khách sạn tiện nghi và lịch trình trọn vẹn. Số chỗ có hạn — đăng ký ngay để nhận mức giá khuyến mãi hấp dẫn nhé! ✨📞
 
-**Ngày 2: Khám phá Hội An 🛶**  
-Sau bữa sáng, đoàn sẽ di chuyển đến Hội An. Tại đây, bạn sẽ được dạo bước trên những con phố cổ, tham quan Chùa Cầu và chiêm ngưỡng những chiếc đèn lồng rực rỡ. Buổi chiều, bạn có thể tham gia lớp học nấu ăn hoặc khám phá nghề thủ công truyền thống.  
+## Hành trình
+- Ngày 1
+  🌅 Sáng: Bay đến Đà Nẵng, đón sân bay, di chuyển về khách sạn, nhận phòng và nghỉ ngơi nhẹ.  
+  🌞 Trưa: Ăn trưa tại nhà hàng địa phương với đặc sản miền Trung. Tham quan bãi biển Mỹ Khê — tắm biển, tự do chụp ảnh.  
+  🌙 Tối: Thưởng thức bún chả cá hoặc mì Quảng, tự do khám phá cầu Rồng, xem phun lửa (nếu đúng lịch), dạo ven sông Hàn.
 
-**Ngày 3: Tạm biệt Đà Nẵng 🌇**  
-Sáng ngày cuối, bạn tự do thư giãn hoặc mua sắm quà lưu niệm tại Hội An. Đoàn sẽ trở về Đà Nẵng để lên máy bay về lại điểm khởi hành. Hành trình kết thúc nhưng những kỷ niệm sẽ mãi trong trái tim bạn! ❤️
+- Ngày 2
+  🌅 Sáng: Ăn sáng tại khách sạn, khởi hành đi Hội An. Tham quan phố cổ: Chùa Cầu, nhà cổ, hội quán, và các cửa hàng thủ công.  
+  🌞 Trưa: Dùng bữa trưa tại phố cổ với cao lầu hoặc cơm gà Hội An. Tham gia trải nghiệm làm lồng đèn hoặc lớp học nấu ăn (tùy chọn).  
+  🌙 Tối: Dạo thuyền trên sông Hoài, thả đèn hoa đăng (tự túc/tuỳ điều kiện), khám phá ẩm thực đêm Hội An.
+
+- Ngày 3
+  🌅 Sáng: Trả phòng, tham quan Ngũ Hành Sơn hoặc Bà Nà (tùy chọn chương trình), khám phá làng nghề/trung tâm mỹ nghệ.  
+  🌞 Trưa: Ăn trưa, mua sắm quà lưu niệm, trở về Đà Nẵng.  
+  🌙 Chiều: Đưa ra sân bay, kết thúc tour, tiễn khách về nhà — hẹn gặp lại ở hành trình tiếp theo!
+
+## Ưu đãi
+Nhanh tay nhận ngay GIẢM GIÁ 8% cho tour Đà Nẵng - Hội An 3N2Đ! Từ giá gốc 5.990.000 VND chỉ còn giá khuyến mãi: 5.510.800 VND — tiết kiệm rõ rệt cho kỳ nghỉ trọn vẹn. Số chỗ khuyến mãi có hạn, đăng ký sớm để giữ chỗ và nhận tư vấn miễn phí.
+
+## SEO Keywords
+tour Đà Nẵng Hội An, du lịch Đà Nẵng 3N2Đ, tour giá rẻ Đà Nẵng, Hội An phố cổ, tour nghỉ dưỡng biển
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Tour Đà Nẵng, Tour Hội An, du lịch miền Trung, tour giá rẻ Đà Nẵng, tour 3N2Đ
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

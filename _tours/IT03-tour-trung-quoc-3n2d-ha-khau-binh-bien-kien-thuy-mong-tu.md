@@ -1,6 +1,7 @@
 ---
 title: 'Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự'
 layout: post
+tour_code: IT03
 meta-title: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự
 bigimg:
   - "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
@@ -8,46 +9,60 @@ image: "/img/tours/international/Chup-hinh-tour-Binh-Bien-Kien-Thuy-800x533.jpg"
 tags: tour trung quốc, du lịch trung quốc, tour quốc tế, tour hà khẩu, tour bình biên, tour kiến thủy, tour mông tự
 categories: [tours#international, special-offer, hot]
 transport: "✈️ + 🚌"
-location: Hà Khẩu – Bình Biên
+location: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự
 duration: 3N2Đ
 discount: 12
 price: 11.900.000
-description: "### Meta Description"
-keywords: "Tour Trung Quốc, Hà Khẩu, Bình Biên, Kiến Thủy, Mông Tự"
+description: "- 🆔 Mã tour: **IT03**"
+keywords: "Trải nghiệm 3N2Đ khám phá Hà Khẩu - Bình Biên - Kiến Thủy - Mông Tự: thiên nhiên hùng vĩ, bản sắc văn hóa, ẩm thực đặc sắc. Ưu đãi chỉ 10.472.000 VND.!"
 ---
 
 ## ✈️ Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự
 
-- 🆔 Mã tour: **IT03**
-- 📍 Địa điểm: **Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự**
+
+
 - 🚗 Phương tiện: **✈️ + 🚌**
-- 💰 Giá tour: **11.900.000 VND**
-- ⏳ Thời lượng: **3N2Đ**
+- 💰 Giá tour gốc: **11.900.000 VND**
+- 🔥 Giảm giá: **12%**
+- 💵 Giá khuyến mãi: **10.472.000 VND**
+- ⏳ Thời gian du lịch: **3N2Đ**
 
----
+## Meta Description
+Trải nghiệm 3N2Đ khám phá Hà Khẩu - Bình Biên - Kiến Thủy - Mông Tự: thiên nhiên hùng vĩ, bản sắc văn hóa, ẩm thực đặc sắc. Ưu đãi chỉ 10.472.000 VND.!
 
-### Từ khóa SEO
-Tour Trung Quốc, Hà Khẩu, Bình Biên, Kiến Thủy, Mông Tự
+## Giới thiệu
+Hà Khẩu, Bình Biên, Kiến Thủy và Mông Tự là những điểm đến biên giới giàu vẻ hoang sơ và văn hóa đặc sắc. Bạn sẽ được chiêm ngưỡng cảnh núi non trùng điệp, sông hồ trong xanh và những bản làng mang đậm bản sắc dân tộc. Chuyến đi 3N2Đ này cân bằng giữa khám phá thiên nhiên và trải nghiệm văn hóa, phù hợp cả cho nhóm bạn trẻ, gia đình hay cặp đôi tìm kiếm khoảnh khắc khác biệt. 🌄
 
-### Nội dung giới thiệu tour
-🌏 Bạn đang tìm kiếm một hành trình mới mẻ để thoải mái khám phá những điều kỳ diệu của Trung Quốc? Hãy tham gia Tour Trung Quốc 3N2Đ: Hà Khẩu – Bình Biên – Kiến Thủy – Mông Tự! Với chỉ 11.900.000 VND, bạn sẽ được trải nghiệm vẻ đẹp hoang sơ của thiên nhiên, hòa mình vào nền văn hóa đa sắc màu và thưởng thức những món ăn ngon đặc trưng của vùng núi Tây Bắc. 
+Trên hành trình, bạn sẽ thưởng thức ẩm thực địa phương đặc trưng, thăm chợ biên giới sầm uất và tham quan các thắng cảnh nổi bật như đỉnh núi ngắm bình minh, thác nước mát rượi và các di tích lịch sử. Hướng dẫn viên giàu kinh nghiệm sẽ giúp bạn hiểu thêm về câu chuyện, phong tục và nghệ thuật truyền thống nơi đây. 🍜🏞️
 
-Những ngọn núi hùng vĩ, dòng suối trong xanh, và những thửa ruộng bậc thang xếp lớp sẽ chào đón bạn trong suốt hành trình. Hãy để những khoảnh khắc đáng nhớ bên bạn bè và người thân trở thành phần không thể thiếu trong cuốn nhật ký du lịch của bạn! ✨ Đừng bỏ lỡ cơ hội trải nghiệm những điều tuyệt vời nhất trong chuyến hành trình này!
+Hành trình được tổ chức bằng máy bay kết hợp xe ô tô tiện lợi, đảm bảo thời gian tối ưu cho từng điểm đến. Giá tour đã bao gồm nhiều dịch vụ trọn gói và đang có ưu đãi hấp dẫn. Hãy cùng khám phá những góc trời mới, lưu giữ những khoảnh khắc đẹp và đặt chỗ sớm để nhận mức giá tốt nhất! ✨📌
 
-### Hành trình tour từng ngày
-**Ngày 1: Hà Khẩu – Khám Phá Văn Hóa 🌄**  
-Chúng ta bắt đầu hành trình từ Hà Khẩu, nơi bạn sẽ được tham quan các điểm du lịch độc đáo và khám phá văn hóa địa phương. Bạn sẽ có cơ hội gặp gỡ người dân nơi đây và thưởng thức các món ăn truyền thống.
+## Hành trình
+- Ngày 1
+  🌅 Sáng: Bay tới sân bay gần Hà Khẩu, đón đoàn, di chuyển bằng ôtô đến Bình Biên. Nhận phòng khách sạn, nghỉ ngơi nhẹ.  
+  🌞 Trưa: Ăn trưa với đặc sản địa phương; tham quan chợ biên giới, trải nghiệm mua sắm và ẩm thực đường phố.  
+  🌙 Tối: Thưởng thức bữa tối, dạo phố, tự do khám phá chợ đêm hoặc xem biểu diễn văn hóa dân tộc.
 
-**Ngày 2: Bình Biên – Mông Tự 🏞️**  
-Hành trình sẽ tiếp tục đến Bình Biên, nơi có cảnh đẹp yên bình với núi non trùng điệp. Sau đó, chúng ta sẽ di chuyển đến Mông Tự và chương trình dừng lại tại các khu chợ địa phương, nơi bạn có thể mua sắm nhiều sản phẩm thủ công độc đáo.
+- Ngày 2
+  🌅 Sáng: Khởi hành đi Kiến Thủy, ghé thăm các đài quan sát, điểm check-in núi non; chụp ảnh bình minh (nếu thời tiết thuận lợi).  
+  🌞 Trưa: Ăn trưa tại nhà hàng địa phương, nghỉ ngơi. Buổi chiều tham quan bản làng, tìm hiểu nghề thủ công truyền thống, giao lưu với người dân.  
+  🌙 Tối: Trải nghiệm bữa tối ẩm thực bản địa, tự do thưởng thức không khí yên bình về đêm.
 
-**Ngày 3: Kiến Thủy – Trở Về 🎉**  
-Ngày cuối cùng của tour sẽ đưa bạn đến Kiến Thủy, nơi bạn có thể thư giãn và tận hưởng không khí trong lành. Chúng ta sẽ thấy những khung cảnh tuyệt đẹp trên đường trở về, lưu giữ những kỷ niệm tuyệt vời trong trái tim.
+- Ngày 3
+  🌅 Sáng: Di chuyển tới Mông Tự, tham quan thắng cảnh thiên nhiên: thác nước, hồ, hoặc chuyến thuyền dạo (tuỳ lựa chọn).  
+  🌞 Trưa: Ăn trưa, thu dọn hành lý, mua sắm quà lưu niệm tại các cửa hàng địa phương.  
+  🌙 Tối: Lên xe/ra sân bay khởi hành về Việt Nam, kết thúc hành trình, chia tay đoàn.
+
+## Ưu đãi
+Hiện có GIẢM GIÁ 12% cho tour IT03. Giá gốc 11.900.000 VND — bạn chỉ còn trả: 10.472.000 VND. Tiết kiệm ngay 1.428.000 VND khi đặt chỗ sớm. Nhanh tay để giữ chỗ với mức ưu đãi hấp dẫn này!
+
+## SEO Keywords
+tour Hà Khẩu Bình Biên, du lịch biên giới, tour 3N2Đ, du lịch Mông Tự, tour trọn gói Hà Khẩu
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Tour Trung Quốc, Hà Khẩu, Bình Biên, Kiến Thủy, Mông Tự
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

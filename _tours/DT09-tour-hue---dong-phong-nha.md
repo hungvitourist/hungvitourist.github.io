@@ -1,6 +1,7 @@
 ---
 title: 'Tour Huế - Động Phong Nha'
 layout: post
+tour_code: DT09
 meta-title: Huế - Động Phong Nha
 bigimg:
   - "/img/tours/domestic/tour-cam-trai-ben-ho-tuyen-lam.jpg"
@@ -12,40 +13,60 @@ location: Huế - Quảng Bình
 duration: 3N2Đ
 discount: 7
 price: 4.800.000
-description: "### Meta Description:"
-keywords: "Tour Huế, Động Phong Nha, du lịch Quảng Bình, tour du lịch Việt Nam, trải nghiệm văn hóa"
+description: "- 🆔 Mã tour: **DT09**"
+keywords: "Khám phá Huế - Quảng Bình 3N2Đ: lăng tẩm cổ kính, sông Hương thơ mộng, động Phong Nha kỳ vĩ và biển Nhật Lệ bình yên. Tour trọn gói, giá ưu đãi, đặt ngay!"
 ---
 
 ## ✈️ Tour Huế - Động Phong Nha
 
-- 🆔 Mã tour: **DT09**
-- 📍 Địa điểm: **Huế - Quảng Bình**
+
+
 - 🚗 Phương tiện: **🚌**
-- 💰 Giá tour: **4.800.000 VND**
-- ⏳ Thời lượng: **3N2Đ**
+- 💰 Giá tour gốc: **4.800.000 VND**
+- 🔥 Giảm giá: **7%**
+- 💵 Giá khuyến mãi: **4.464.000 VND**
+- ⏳ Thời gian du lịch: **3N2Đ**
 
----
+## Meta Description
+Khám phá Huế - Quảng Bình 3N2Đ: lăng tẩm cổ kính, sông Hương thơ mộng, động Phong Nha kỳ vĩ và biển Nhật Lệ bình yên. Tour trọn gói, giá ưu đãi, đặt ngay!
 
-### Từ khóa SEO:
-Tour Huế, Động Phong Nha, du lịch Quảng Bình, tour du lịch Việt Nam, trải nghiệm văn hóa
+## Giới thiệu
+Hành trình Huế - Quảng Bình 3N2Đ đưa bạn qua hai miền di sản và kỳ quan thiên nhiên của miền Trung. Từ vẻ trầm mặc, trang nghiêm của kinh thành Huế với lăng tẩm, đền đài, đến sự hùng vĩ của hệ thống hang động Phong Nha – Kẻ Bàng, mỗi bước chân đều mở ra một câu chuyện văn hóa, lịch sử và địa chất độc đáo. 🌿🏯
 
-### Nội dung giới thiệu tour:
-Bạn đã sẵn sàng cho một chuyến phiêu lưu ngập tràn sắc màu văn hóa và thiên nhiên tuyệt đẹp? 🌿✨ Hãy tham gia tour Huế - Động Phong Nha 3N2Đ với mức giá chỉ 4.800.000 VND. Khám phá kinh thành Huế tráng lệ, thưởng thức ẩm thực đặc sản miền Trung và trải nghiệm những giây phút thư giãn trong không gian yên bình tại Động Phong Nha - nơi được UNESCO công nhận là di sản thiên nhiên thế giới. Chuyến đi không chỉ mang đến cho bạn những phút giây thư giãn thú vị mà còn là cơ hội để bạn khám phá lịch sử và văn hóa độc đáo của Việt Nam. Đừng bỏ lỡ cơ hội tham gia tour hấp dẫn này, nơi mỗi khoảnh khắc đều đáng nhớ! 🌟🕌
+Bạn sẽ trải nghiệm thuyền trên sông Hương lãng mạn, thưởng thức ẩm thực xứ Huế đậm đà, rồi chuyển mình đến Quảng Bình để khám phá những hang động huyền thoại và bãi biển thanh bình. Hoạt động đa dạng từ thăm quan, khám phá hang động đến vui chơi bãi biển phù hợp cho nhóm, gia đình hay cặp đôi. 🚤🏖️
 
-### Hành trình tour từng ngày:
+Hành trình được thiết kế vừa vặn: không quá gấp gáp nhưng vẫn trọn vẹn, tiện nghi xe giường nằm/ô tô du lịch, hướng dẫn viên địa phương thân thiện, khách sạn tiêu chuẩn. Hãy chuẩn bị máy ảnh, tinh thần khám phá và bộ đồ thoải mái để đón nhận những trải nghiệm đáng nhớ. 📸✨
 
-**Ngày 1:** Khởi hành từ điểm hẹn, đoàn xe đưa bạn đến Huế - thành phố của di sản. 🏰 Sau khi check-in tại khách sạn, hãy thưởng thức bữa tối với các món ngon đặc trưng và thả mình trong không gian tĩnh lặng bên dòng sông Hương thơ mộng. 🌊
+Đặt chỗ hôm nay để tận hưởng ưu đãi 7% và an tâm khởi hành với lịch trình đã tối ưu. Liên hệ ngay để giữ chỗ và nhận tư vấn chi tiết! 📞
 
-**Ngày 2:** Khám phá di tích lịch sử như Đại Nội, chùa Thiên Mụ và lăng Tự Đức. 🕌☀️ Buổi chiều, hãy chuẩn bị cho chuyến đi đến Động Phong Nha, nơi bạn sẽ được chiêm ngưỡng những khối thạch nhũ kỳ bí trong lòng đất. 🕳️✨
+## Hành trình
+- Ngày 1
+  🌅 Sáng: Xe đón tại điểm hẹn ở Huế. Tham quan Đại Nội (Kinh Thành), Ngọ Môn, Điện Thái Hòa, lăng Tự Đức/Tự Thanh depending on schedule.  
+  🌞 Trưa: Ăn trưa đặc sản Huế (bún bò, cơm hến). Nghỉ ngơi, nhận phòng khách sạn.  
+  🌙 Tối: Tham quan chùa Thiên Mụ, đi thuyền trên sông Hương, dạo chợ đêm và thưởng thức ẩm thực đường phố. Nghỉ đêm tại Huế.
 
-**Ngày 3:** Bắt đầu ngày mới với một buổi khám phá thêm về vẻ đẹp hoang sơ của vườn quốc gia Phong Nha-Kẻ Bàng. 🌳 Sau đó, bạn sẽ có thời gian tự do mua sắm và thưởng thức ẩm thực đặc sản trước khi quay trở về. 🛍️🍜
+- Ngày 2
+  🌅 Sáng: Khởi hành đi Quảng Bình (xe khoảng 3-4 giờ), dọc đường dừng chân chụp ảnh.  
+  🌞 Trưa: Ăn trưa tại Quảng Bình, sau đó đến Phong Nha – Kẻ Bàng. Tham quan Động Thiên Đường (Paradise Cave) – hệ thống thạch nhũ tuyệt đẹp.  
+  🌙 Tối: Trải nghiệm Dark Cave (Hang Tối) nếu muốn: zipline, tắm bùn, kayak (chi phí tùy chọn). Nghỉ đêm tại Quảng Bình.
 
-Hãy tham gia tour để cảm nhận và trải nghiệm những điều tuyệt vời nhất từ Huế và Quảng Bình!
+- Ngày 3
+  🌅 Sáng: Thuyền trên sông Son khám phá Động Phong Nha (Phong Nha Cave) bằng thuyền.  
+  🌞 Trưa: Tham quan bãi biển Nhật Lệ, ăn trưa, thư giãn trên biển.  
+  🌙 Tối: Khởi hành trở về điểm đón ban đầu (Huế hoặc trả khách theo thỏa thuận). Kết thúc tour, chia tay và hẹn gặp lại.
+
+## Ưu đãi
+🔥 Tiết kiệm ngay 7% so với giá gốc!  
+Giá tour gốc: 4.800.000 VND → Giá khuyến mãi: **4.464.000 VND**.  
+Bạn tiết kiệm: **336.000 VND** cho hành trình trọn gói 3N2Đ đầy trải nghiệm. Nhanh tay đặt chỗ vì số lượng có hạn!
+
+## SEO Keywords
+tour Huế Quảng Bình, tour Phong Nha 3N2Đ, du lịch Huế, du lịch Quảng Bình, tour trọn gói miền Trung
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Tour Huế, Động Phong Nha, du lịch Quảng Bình, tour du lịch Việt Nam, trải nghiệm văn hóa
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

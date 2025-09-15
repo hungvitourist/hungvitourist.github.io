@@ -1,0 +1,79 @@
+---
+layout: post
+---
+
+<h2>Danh sách Tour Nội Địa</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Mã Tour</th>
+      <th>Tên Tour</th>
+      <th>Địa điểm</th>
+      <th>Phương tiện</th>
+      <th>Thời lượng</th>
+      <th>Giá</th>
+      <th>Ưu đãi</th>
+      <th>Giá sau ưu đãi</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign tours_domestic = site.data.tour_domestic %}
+    {% for tour in tours_domestic %}
+      {% assign raw_price = tour.price | replace: ".", "" %}
+      {% assign price = raw_price | plus: 0 %}
+      {% assign discount = tour.discount | plus: 0 %}
+      {% assign discount_amount = price | times: discount | divided_by: 100 %}
+      {% assign final_price = price | minus: discount_amount %}
+      <tr>
+        <td>{{ tour.ma_tour }}</td>
+        <td>{{ tour.title }}</td>
+        <td>{{ tour.location }}</td>
+        <td>{{ tour.transport }}</td>
+        <td>{{ tour.duration }}</td>
+        <td>{{ price | format_price }}</td>
+        <td>{{ discount }}%</td>
+        <td>{{ final_price | format_price }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<hr>
+
+<h2>Danh sách Tour Quốc Tế</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Mã Tour</th>
+      <th>Tên Tour</th>
+      <th>Địa điểm</th>
+      <th>Phương tiện</th>
+      <th>Thời lượng</th>
+      <th>Giá</th>
+      <th>Ưu đãi</th>
+      <th>Giá sau ưu đãi</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% assign tours_international = site.data.tour_international %}
+    {% for tour in tours_international %}
+      {% assign raw_price = tour.price | replace: ".", "" %}
+      {% assign price = raw_price | plus: 0 %}
+      {% assign discount = tour.discount | plus: 0 %}
+      {% assign discount_amount = price | times: discount | divided_by: 100 %}
+      {% assign final_price = price | minus: discount_amount %}
+      <tr>
+        <td>{{ tour.ma_tour }}</td>
+        <td>{{ tour.title }}</td>
+        <td>{{ tour.location }}</td>
+        <td>{{ tour.transport }}</td>
+        <td>{{ tour.duration }}</td>
+        <td>{{ price | format_price }}</td>
+        <td>{{ discount }}%</td>
+        <td>{{ final_price | format_price }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>

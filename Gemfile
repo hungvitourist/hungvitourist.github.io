@@ -36,3 +36,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "webrick"
 gem "rack", "~> 2.2" # version 2.2 để sử dụng jekyll admin
+gem 'jekyll-datapage-generator'

@@ -1,68 +1,96 @@
 ---
 title: 'Tour Mỹ Bờ Tây'
 layout: post
+tour_code: IT09
 meta-title: Mỹ Bờ Tây
 bigimg:
-  - "/img/tours/international/hongkong.jpg"
-image: "/img/tours/international/hongkong.jpg"
+  - "/img/tours/international/bo-tay-my.webp"
+image: "/img/tours/international/bo-tay-my.webp"
 tags: tour mỹ, du lịch mỹ, tour bờ tây, tour los angeles, tour las vegas, tour san francisco, tour quốc tế
-categories: [tours#international, special-offer]
+categories: [tours#international, special-offer, hot]
 transport: "✈️"
 location: Los Angeles - Las Vegas - San Francisco
 duration: 10N9Đ
 discount: 18
 price: 89.900.000
-description: "### Meta Description:"
-keywords: "Khám phá Tour Mỹ Bờ Tây: Los Angeles, Las Vegas, San Francisco trong 10N9Đ chỉ 89.900.000 VND. Hãy đặt chỗ ngay để trải nghiệm kỳ thú!"
+description: "- 🆔 Mã tour: **IT09**"
+keywords: "Tour 10N9Đ Los Angeles - Las Vegas - San Francisco: khám phá bãi biển, show Broadway, Grand Canyon và Silicon Valley. Đặt ngay, hưởng giảm 18% giá ưu đãi!"
 ---
 
 ## ✈️ Tour Mỹ Bờ Tây
 
-- 🆔 Mã tour: **IT09**
-- 📍 Địa điểm: **Los Angeles - Las Vegas - San Francisco**
+
+
 - 🚗 Phương tiện: **✈️**
-- 💰 Giá tour: **89.900.000 VND**
-- ⏳ Thời lượng: **10N9Đ**
+- 💰 Giá tour gốc: **89.900.000 VND**
+- 🔥 Giảm giá: **18%**
+- 💵 Giá khuyến mãi: **73.718.000 VND**
+- ⏳ Thời gian du lịch: **10N9Đ**
 
----
+## Meta Description
+Tour 10N9Đ Los Angeles - Las Vegas - San Francisco: khám phá bãi biển, show Broadway, Grand Canyon và Silicon Valley. Đặt ngay, hưởng giảm 18% giá ưu đãi!
 
-### Từ khóa SEO:
-Tour Mỹ Bờ Tây, Los Angeles, Las Vegas, San Francisco, du lịch Mỹ
+## Giới thiệu
+Hành trình 10N9Đ khám phá ba điểm đến biểu tượng của bờ Tây nước Mỹ: Los Angeles sôi động, Las Vegas rực rỡ và San Francisco thanh lịch. Bạn sẽ thả bước trên bãi biển Venice, chụp ảnh Hollywood Sign, thử vận may trên Strip, và ngắm cầu Cổng Vàng huyền thoại — mọi khoảnh khắc đều là kỷ niệm không thể quên. 🌴✨
 
-### Nội dung giới thiệu tour:
-🌟 Chào mừng bạn đến với **Tour Mỹ Bờ Tây** – hành trình khám phá những thành phố hấp dẫn bậc nhất nước Mỹ: Los Angeles, Las Vegas và San Francisco! 🌆✨
+Chuyến đi kết hợp giữa trải nghiệm giải trí đẳng cấp, khám phá thiên nhiên kỳ vĩ như Grand Canyon, và tìm hiểu công nghệ tại Silicon Valley. Bạn sẽ được nghỉ ngơi tại các khách sạn tiện nghi, có hướng dẫn viên người Việt đồng hành, ăn sáng đầy đủ và lịch trình linh hoạt để cân bằng tham quan và thư giãn. 🎰🌉
 
-Bạn sẽ được trải nghiệm cuộc sống nhộn nhịp của Los Angeles với những bãi biển xinh đẹp, mê hoặc trước ánh đèn của Las Vegas và chiêm ngưỡng vẻ đẹp hùng vĩ của cầu Golden Gate trong chuyến tham quan San Francisco. 🤩 Trong suốt 10 ngày 9 đêm, bạn sẽ được đắm chìm trong văn hóa, âm nhạc và ẩm thực độc đáo của từng thành phố, đồng thời thỏa mãn niềm đam mê khám phá những danh lam thắng cảnh nổi tiếng nhất thế giới.
+Dù bạn đi cùng gia đình, nhóm bạn hay cặp đôi, hành trình này đều thiết kế để tạo ra cảm xúc và những bức ảnh đẹp. Hãy cùng chúng tôi tận hưởng văn hóa Mỹ, ẩm thực đa dạng và những buổi tối giải trí không giới hạn. 📸🍴
 
-Hãy để chúng tôi đưa bạn đến những trải nghiệm không thể quên! 🗺️ Đặc biệt, chỉ với **89.900.000 VND**, bạn sẽ có cơ hội sở hữu một hành trình trọn vẹn, đầy màu sắc và kỷ niệm khó phai. Đừng chần chừ, hãy đặt tour ngay hôm nay!
+Nhanh tay đặt chỗ để giữ mức giá khuyến mãi và tận hưởng ưu đãi đặc biệt — số lượng có hạn! 👉 Liên hệ để được tư vấn chi tiết.
 
-### Hành trình tour từng ngày:
-- **Ngày 1:** Đáp chuyến bay đến Los Angeles. Nhận phòng khách sạn và tham quan Cảng biển Santa Monica với những bãi biển tuyệt đẹp. 🏖️
-  
-- **Ngày 2:** Khám phá Universal Studios, nơi bạn có thể trải nghiệm các trò chơi từ những bộ phim nổi tiếng. 🎬
+## Hành trình
+- Ngày 1
+  🌅 Sáng: Khởi hành từ Việt Nam, bay thẳng/ quá cảnh đến Los Angeles.  
+  🌞 Trưa: Đến LA, làm thủ tục nhận phòng, nghỉ ngơi nhẹ.  
+  🌙 Tối: Dạo Hollywood Boulevard, chụp hình tại Walk of Fame.
+- Ngày 2
+  🌅 Sáng: Tham quan Griffith Observatory & Hollywood Sign.  
+  🌞 Trưa: Thưởng thức ẩm thực địa phương tại Santa Monica.  
+  🌙 Tối: Dạo biển Santa Monica Pier, tự do khám phá.
+- Ngày 3
+  🌅 Sáng: Tham quan Universal Studios (hoặc studio tour).  
+  🌞 Trưa: Trải nghiệm ăn uống tại CityWalk.  
+  🌙 Tối: Về khách sạn, tự do nghỉ ngơi.
+- Ngày 4
+  🌅 Sáng: Khởi hành đến Grand Canyon (có thể đi bằng máy bay tour/tự túc).  
+  🌞 Trưa: Tham quan rìa Grand Canyon, chụp ảnh toàn cảnh.  
+  🌙 Tối: Nghỉ đêm gần khu vực Grand Canyon.
+- Ngày 5
+  🌅 Sáng: Rời Grand Canyon, di chuyển đến Las Vegas.  
+  🌞 Trưa: Nhận phòng, ăn trưa tại resort trên Strip.  
+  🌙 Tối: Xem show giải trí, thử vận may tại casino.
+- Ngày 6
+  🌅 Sáng: Tham quan các resort biểu tượng (Bellagio, Venetian).  
+  🌞 Trưa: Mua sắm tại các trung tâm thương mại.  
+  🌙 Tối: Thưởng thức chương trình biểu diễn và nightlife.
+- Ngày 7
+  🌅 Sáng: Thời gian tự do hoặc tham gia tour quanh khu vực sa mạc.  
+  🌞 Trưa: Trải nghiệm ẩm thực đa quốc gia tại Las Vegas.  
+  🌙 Tối: Bay hoặc lái xe đến San Francisco.
+- Ngày 8
+  🌅 Sáng: Tham quan Fisherman’s Wharf, Pier 39.  
+  🌞 Trưa: Thưởng thức hải sản tươi sống, thử bánh mì clam chowder.  
+  🌙 Tối: Dạo phố, ngắm cảnh buổi tối của vịnh.
+- Ngày 9
+  🌅 Sáng: Tham quan Cầu Cổng Vàng, chụp ảnh biểu tượng.  
+  🌞 Trưa: Tham quan Alcatraz (nếu đặt trước) hoặc khám phá Chinatown.  
+  🌙 Tối: Thưởng thức ẩm thực địa phương, nghỉ đêm tại San Francisco.
+- Ngày 10
+  🌅 Sáng: Thời gian tự do mua sắm, chuẩn bị hành lý.  
+  🌞 Trưa: Làm thủ tục trả phòng, ra sân bay.  
+  🌙 Tối: Bay về Việt Nam, kết thúc hành trình.
 
-- **Ngày 3:** Tham quan Hollywood Boulevard, chiêm ngưỡng các ngôi sao và thưởng thức ẩm thực địa phương. 🌟
+## Ưu đãi
+Hiện có giảm giá đặc biệt **18%**, giá tour khuyến mãi chỉ còn **73.718.000 VND** (từ giá gốc 89.900.000 VND). Nhanh tay đặt chỗ để tận dụng ưu đãi giới hạn này — tiết kiệm rõ rệt mà vẫn trải nghiệm trọn vẹn! 🔥✈️
 
-- **Ngày 4:** Khởi hành đến Las Vegas. Kham phá "Thành phố không bao giờ ngủ", thưởng thức các show diễn nghệ thuật đặc sắc. 🎲
-
-- **Ngày 5:** Tham quan các casino lớn và chụp hình tại biểu tượng Welcome to Las Vegas. 🍹
-
-- **Ngày 6:** Di chuyển đến San Francisco. Dừng chân chụp hình tại cầu Golden Gate và khám phá khu phố Tàu. 🌁
-
-- **Ngày 7:** Tham quan Alcatraz – nhà tù nổi tiếng, và tận hưởng không khí của thành phố qua các tour xe điện. 🚋
-
-- **Ngày 8:** Ghé thăm công viên Golden Gate và thưởng thức món ăn địa phương tại Ferry Building Marketplace. 🍔
-
-- **Ngày 9:** Tham quan Muir Woods và thư giãn trước khi về lại Los Angeles cho chuyến bay trở về. 🌲
-
-- **Ngày 10:** Trở về Việt Nam, mang theo những kỷ niệm đáng nhớ từ hành trình khám phá nước Mỹ. ✈️❤️
-
-Hãy sẵn sàng cho một chuyến phiêu lưu thú vị cùng Tour Mỹ Bờ Tây nào! 🌍
+## SEO Keywords
+du lịch Mỹ, tour Los Angeles Las Vegas San Francisco, tour Mỹ 10 ngày, du lịch bờ Tây Mỹ, tour California Mỹ
 
 ---
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-**Từ khóa SEO:**  
-Khám phá Tour Mỹ Bờ Tây: Los Angeles, Las Vegas, San Francisco trong 10N9Đ chỉ 89.900.000 VND. Hãy đặt chỗ ngay để trải nghiệm kỳ thú!
+☎️ Hotline: (+84) {{ site.phone_number }}
+🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 

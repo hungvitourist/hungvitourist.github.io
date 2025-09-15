@@ -1,79 +1,92 @@
 ---
-layout: post
+layout: page
 ---
 
-<h2>Danh sách Tour Nội Địa</h2>
+<div id="special-offer" class="content-index"
+  style="background: 
+      linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), 
+      url('/img/Picture-HSL/background-4.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;">
 
-<table>
-  <thead>
-    <tr>
-      <th>Mã Tour</th>
-      <th>Tên Tour</th>
-      <th>Địa điểm</th>
-      <th>Phương tiện</th>
-      <th>Thời lượng</th>
-      <th>Giá</th>
-      <th>Ưu đãi</th>
-      <th>Giá sau ưu đãi</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% assign tours_domestic = site.data.tour_domestic %}
-    {% for tour in tours_domestic %}
-      {% assign raw_price = tour.price | replace: ".", "" %}
-      {% assign price = raw_price | plus: 0 %}
-      {% assign discount = tour.discount | plus: 0 %}
-      {% assign discount_amount = price | times: discount | divided_by: 100 %}
-      {% assign final_price = price | minus: discount_amount %}
+
+  <h2>Danh sách Tour Nội Địa</h2>
+
+  <table>
+    <thead>
       <tr>
-        <td>{{ tour.ma_tour }}</td>
-        <td>{{ tour.title }}</td>
-        <td>{{ tour.location }}</td>
-        <td>{{ tour.transport }}</td>
-        <td>{{ tour.duration }}</td>
-        <td>{{ price | format_price }}</td>
-        <td>{{ discount }}%</td>
-        <td>{{ final_price | format_price }}</td>
+        <th>Mã Tour</th>
+        <th>Tên Tour</th>
+        <th>Địa điểm</th>
+        <th>Phương tiện</th>
+        <th>Thời lượng</th>
+        <th>Giá</th>
+        <th>Ưu đãi</th>
+        <th>Giá sau ưu đãi</th>
       </tr>
-    {% endfor %}
-  </tbody>
-</table>
+    </thead>
+    <tbody>
+      {% assign tours_domestic = site.data.tour_domestic %}
+      {% for tour in tours_domestic %}
+        {% assign raw_price = tour.price | replace: ".", "" %}
+        {% assign price = raw_price | plus: 0 %}
+        {% assign discount = tour.discount | plus: 0 %}
+        {% assign discount_amount = price | times: discount | divided_by: 100 %}
+        {% assign final_price = price | minus: discount_amount %}
+        <tr>
+          <td>{{ tour.ma_tour }}</td>
+          <td>{{ tour.title }}</td>
+          <td>{{ tour.location }}</td>
+          <td>{{ tour.transport }}</td>
+          <td>{{ tour.duration }}</td>
+          <td>{{ price | format_price }}</td>
+          <td>{{ discount }}%</td>
+          <td>{{ final_price | format_price }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 
-<hr>
+  <hr>
 
-<h2>Danh sách Tour Quốc Tế</h2>
+  <h2>Danh sách Tour Quốc Tế</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>Mã Tour</th>
-      <th>Tên Tour</th>
-      <th>Địa điểm</th>
-      <th>Phương tiện</th>
-      <th>Thời lượng</th>
-      <th>Giá</th>
-      <th>Ưu đãi</th>
-      <th>Giá sau ưu đãi</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% assign tours_international = site.data.tour_international %}
-    {% for tour in tours_international %}
-      {% assign raw_price = tour.price | replace: ".", "" %}
-      {% assign price = raw_price | plus: 0 %}
-      {% assign discount = tour.discount | plus: 0 %}
-      {% assign discount_amount = price | times: discount | divided_by: 100 %}
-      {% assign final_price = price | minus: discount_amount %}
+  <table>
+    <thead>
       <tr>
-        <td>{{ tour.ma_tour }}</td>
-        <td>{{ tour.title }}</td>
-        <td>{{ tour.location }}</td>
-        <td>{{ tour.transport }}</td>
-        <td>{{ tour.duration }}</td>
-        <td>{{ price | format_price }}</td>
-        <td>{{ discount }}%</td>
-        <td>{{ final_price | format_price }}</td>
+        <th>Mã Tour</th>
+        <th>Tên Tour</th>
+        <th>Địa điểm</th>
+        <th>Phương tiện</th>
+        <th>Thời lượng</th>
+        <th>Giá</th>
+        <th>Ưu đãi</th>
+        <th>Giá sau ưu đãi</th>
       </tr>
-    {% endfor %}
-  </tbody>
-</table>
+    </thead>
+    <tbody>
+      {% assign tours_international = site.data.tour_international %}
+      {% for tour in tours_international %}
+        {% assign raw_price = tour.price | replace: ".", "" %}
+        {% assign price = raw_price | plus: 0 %}
+        {% assign discount = tour.discount | plus: 0 %}
+        {% assign discount_amount = price | times: discount | divided_by: 100 %}
+        {% assign final_price = price | minus: discount_amount %}
+        <tr>
+          <td>{{ tour.ma_tour }}</td>
+          <td>{{ tour.title }}</td>
+          <td>{{ tour.location }}</td>
+          <td>{{ tour.transport }}</td>
+          <td>{{ tour.duration }}</td>
+          <td>{{ price | format_price }}</td>
+          <td>{{ discount }}%</td>
+          <td>{{ final_price | format_price }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+
+
+</div>

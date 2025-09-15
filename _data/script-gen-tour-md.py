@@ -62,19 +62,18 @@ def generate_ai_content(ma_tour, title, location, transport, price, duration, di
 
         {header}
 
-       ## Meta Description
-       (1 đoạn, 150-160 ký tự, hấp dẫn, chuẩn SEO)
-
        ## Giới thiệu
-       (3–4 đoạn, tổng khoảng 200-250 từ, văn phong truyền cảm hứng, có emoji, cuối đoạn có call-to-action nhẹ)
+       (3–4 đoạn, tổng khoảng 200-250 từ, chuẩn SEO, văn phong truyền cảm hứng, xuống hàng cho dễ đọc, có emoji, cuối đoạn có call-to-action nhẹ)
 
        ## Hành trình
-       - Ngày 1
-         🌅 Sáng: ...
+       - Ngày 1: (xuống hàng mới)
+         🌅 Sáng: ... (dùng kí hiệu mũi tên ➡️ để thể hiện qua từng bước)
          🌞 Trưa: ...
          🌙 Tối: ...
-       - Ngày 2
-         (Tiếp tục mô tả chi tiết)
+       - Ngày 2: (xuống hàng mới)
+         🌅 Sáng: ... (dùng kí hiệu mũi tên ➡️ để thể hiện qua từng bước)
+         🌞 Trưa: ...
+         🌙 Tối: ...
        (tiếp tục cho các ngày)
 
        ## Ưu đãi
@@ -83,7 +82,7 @@ def generate_ai_content(ma_tour, title, location, transport, price, duration, di
        ## SEO Keywords
        (5 từ khóa, ngăn cách bằng dấu phẩy)
 
-    2. Viết nội dung dễ đọc, ngắn gọn, phù hợp khách du lịch Việt Nam.
+    2. Viết nội dung dễ đọc, lôi cuốn, ngắn gọn, phù hợp khách du lịch Việt Nam.
     """
 
     response = client.chat.completions.create(
@@ -98,10 +97,10 @@ def generate_ai_content(ma_tour, title, location, transport, price, duration, di
 
 
 
-# Xóa các file md cũ bắt đầu bằng ITxx hoặc DTxx
-print("🧹 Đang kiểm tra và xóa các file .md cũ (DTxx-*.md, ITxx-*.md) trong thư mục _posts...")
+# Xóa các file md cũ bắt đầu bằng QTxx hoặc NĐxx
+print("🧹 Đang kiểm tra và xóa các file .md cũ (QTxx-*.md, NĐxx-*.md) trong thư mục _posts...")
 for fname in os.listdir(output_dir):
-    if fname.endswith(".md") and (fname.startswith("IT") or fname.startswith("DT")):
+    if fname.endswith(".md") and (fname.startswith("QT") or fname.startswith("NĐ")):
         os.remove(os.path.join(output_dir, fname))
         print(f"🗑️  Đã xóa: {fname}")
 
@@ -166,8 +165,9 @@ keywords: "{keywords}"
 
 👉 Liên hệ ngay để đặt tour hấp dẫn này!
 
-☎️ Hotline: (+84) {{{{ site.phone_number }}}}
-🌐 Website: [hungvitourist.com](https://hungvitourist.com)
+- ☎️ Hotline: (+84) {{ site.author.telephone }}
+- 📧 Email: {{ site.author.email }}
+- 🌐 Website: [hungvitourist.com](https://hungvitourist.com)
 
 """
 

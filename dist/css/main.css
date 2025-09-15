@@ -1235,7 +1235,7 @@ table {
 
 table th {
   border-top: 1px solid #cccccc00;
-  background: linear-gradient(0deg, #00d3ff, #f00ac0);
+  background: linear-gradient(0deg, #635400, #a18401);
   margin: 0;
   padding: 0;
 }
@@ -1248,7 +1248,7 @@ table tr {
 }
 
 table tr:nth-child(2n) {
-background: linear-gradient(90deg, #00d3ff, #f0de0a);
+background: linear-gradient(0deg, #a7771f, #c47500);
 }
 
 table tr th {

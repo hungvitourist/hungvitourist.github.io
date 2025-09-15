@@ -61,6 +61,7 @@
               <div class="component-name">
                 <div class="title-label">
                   {% if post.meta-title %}
+                  {% if post.tour_code %} {{ post.tour_code }} | {% endif %}
                   {{ post["meta-title"] }} {% if post.duration %} | ⏱ {{ post.duration }} {% endif %}
                   {% else %}
                   {{ post.title }}

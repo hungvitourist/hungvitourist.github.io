@@ -5,7 +5,7 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-csv_file = "flight_service_list.csv"
+csv_file = "visa_service_list.csv"
 output_dir = "_posts"
 
 os.makedirs(output_dir, exist_ok=True)

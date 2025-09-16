@@ -6,15 +6,21 @@ bigimg:
 permalink: /post-news
 ---
 
-<!-- Layer 1 -->
+<!-- Layer 2 tour nước ngoài -->
 
-<div class="gradient-bg">
-  <div class="gradient-text">
-    <p>Post News – Bright Ideas, Bright Lights</p>
-  </div>
-</div>
-
-
+{% include swiper-section.html
+  group="tours"
+  id="hot"
+  title="✨✨Tour HOT✨✨" 
+  desc="     
+  🏞️ Khám phá cảnh đẹp Việt Nam từ Bắc vào Nam.<br>
+  🚌 Hành trình trọn gói, tiện lợi và tiết kiệm.<br>
+  🏖️ Nhiều lựa chọn tour phù hợp nhu cầu: nghỉ dưỡng, khám phá, văn hoá.
+  "
+  category="hot"
+  limit=99 
+  bg="/img/Picture-HSL/background-1.svg"
+%}
 
 <!-- Layer 4 -->
 

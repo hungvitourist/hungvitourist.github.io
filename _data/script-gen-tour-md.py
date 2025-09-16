@@ -70,11 +70,11 @@ def generate_ai_content(ma_tour, title, location, transport, price, duration, di
        (3–4 đoạn, tổng khoảng 200-250 từ, chuẩn SEO, văn phong truyền cảm hứng, xuống hàng cho dễ đọc, có emoji, cuối đoạn có call-to-action nhẹ)
 
        ## Hành trình
-       - Ngày 1: (xuống hàng mới)
+       - Ngày 1: (nhớ xuống hàng mới, cách hàng vì đây là ngôn ngữ Markdown)
          🌅 Sáng: ... (dùng kí hiệu mũi tên ➡️ để thể hiện qua từng bước)
          🌞 Trưa: ...
          🌙 Tối: ...
-       - Ngày 2: (xuống hàng mới)
+       - Ngày 2: (nhớ xuống hàng mới, cách hàng vì đây là ngôn ngữ Markdown)
          🌅 Sáng: ... (dùng kí hiệu mũi tên ➡️ để thể hiện qua từng bước)
          🌞 Trưa: ...
          🌙 Tối: ...

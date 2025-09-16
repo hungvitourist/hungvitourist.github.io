@@ -7,7 +7,7 @@ bigimg:
   - "/img/tours/international/taiwan.jpg"
 image: "/img/tours/international/taiwan.jpg"
 tags: tour đài loan, du lịch đài loan, tour quốc tế, tour đài bắc, tour cao hùng, tour đài trung
-categories: [tours#international, special-offer]
+categories: [tours#international,tours#combo,special-offer]
 transport: "✈️ + 🚌"
 location: Đài Bắc – Cao Hùng – Đài Trung
 duration: 5N4Đ

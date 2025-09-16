@@ -7,7 +7,7 @@ bigimg:
   - "/img/tours/international/thuy-si.jpg"
 image: "/img/tours/international/thuy-si.jpg"
 tags: tour châu âu, du lịch châu âu, tour pháp, tour đức, tour thụy sĩ, tour ý, tour quốc tế
-categories: [tours#international, special-offer]
+categories: [tours#international,tours#combo,special-offer]
 transport: "✈️"
 location: Pháp - Đức - Thụy Sĩ - Ý
 duration: 8N7Đ

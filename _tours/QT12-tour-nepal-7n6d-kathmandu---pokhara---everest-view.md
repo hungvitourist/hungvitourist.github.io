@@ -7,7 +7,7 @@ bigimg:
   - "/img/tours/international/tour-du-lich-Nepal.jpg"
 image: "/img/tours/international/tour-du-lich-Nepal.jpg"
 tags: tour nepal, du lịch nepal, everest, kathmandu, tour quốc tế
-categories: [tours#international, special-offer]
+categories: [tours#international,tours#freeTravel,special-offer]
 transport: "✈️ + 🚌"
 location: Kathmandu - Pokhara - Everest View
 duration: 7N6Đ

@@ -7,7 +7,7 @@ bigimg:
   - "/img/tours/domestic/ha-long-tuan-chau.jpg"
 image: "/img/tours/domestic/ha-long-tuan-chau.jpg"
 tags: tour hạ long, tuần châu, du lịch miền bắc, tour nội địa
-categories: [tours#domestic]
+categories: [tours#domestic,tours#freeTravel]
 transport: "🚌 + 🚅"
 location: Hạ Long - Tuần Châu
 duration: 2N1Đ

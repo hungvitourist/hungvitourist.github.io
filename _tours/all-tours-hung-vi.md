@@ -1,7 +1,7 @@
 ---
-title: "Danh sách Toàn Bộ Tour Hùng Vĩ Tourist"
+title: "Danh sách Tour Hùng Vĩ Tourist"
 layout: tourlist
-meta-title: Danh sách Toàn Bộ Tour Hùng Vĩ Tourist
+meta-title: Danh sách Tour Hùng Vĩ Tourist
 bigimg:
   - "/img/tours/international/korea-banner.jpg"
 image: "/img/tours/international/korea-banner.jpg"

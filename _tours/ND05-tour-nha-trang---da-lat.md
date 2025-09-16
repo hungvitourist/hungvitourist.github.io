@@ -7,7 +7,7 @@ bigimg:
   - "/img/tours/domestic/canh-dep-da-lat-nha-trang.webp"
 image: "/img/tours/domestic/canh-dep-da-lat-nha-trang.webp"
 tags: tour nha trang, tour đà lạt, du lịch biển, cao nguyên, tour nội địa
-categories: [tours#domestic,special-offer,hot]
+categories: [tours#domestic,tours#freeTravel,special-offer,hot]
 transport: "✈️ + 🚌"
 location: Nha Trang - Đà Lạt
 duration: 4N3Đ

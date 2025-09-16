@@ -7,7 +7,7 @@ bigimg:
   - "/img/tours/domestic/tour_dong_phong_nha_tu_hue.jpg"
 image: "/img/tours/domestic/tour_dong_phong_nha_tu_hue.jpg"
 tags: tour huế, tour động phong nha, du lịch miền trung, hang động, tour nội địa
-categories: [tours#domestic]
+categories: [tours#domestic,tours#combo]
 transport: "🚌"
 location: Huế - Quảng Bình
 duration: 3N2Đ

@@ -7,7 +7,7 @@ bigimg:
   - "/img/tours/domestic/ha-giang-cao-bang.jpg"
 image: "/img/tours/domestic/ha-giang-cao-bang.jpg"
 tags: tour hà giang, tour cao bằng, du lịch đông bắc, tour nội địa, phượt việt nam
-categories: [tours#domestic,special-offer,hot]
+categories: [tours#domestic,tours#freeTravel,special-offer,hot]
 transport: "🚌"
 location: Hà Giang - Cao Bằng
 duration: 5N4Đ

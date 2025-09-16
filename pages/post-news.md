@@ -2,7 +2,7 @@
 layout: page
 meta-title: "✨Post News✨"
 bigimg:
-- "/img/Picture-HSL/japan-background.jpg"
+- "/img/Picture-HSL/taiwan.jpg"   : "Taiwan"
 permalink: /post-news
 ---
 

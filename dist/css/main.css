@@ -1032,11 +1032,12 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
 }
 
 .intro-header.big-img .img-desc {
-  background: rgba(30, 30, 30, 0.6);
+  background: rgba(0, 51, 190, 0.493);
   position: absolute;
   padding: 5px 10px;
   font-size: 11px;
-  color: #383838;
+  font-weight: 800;
+  color: #ffc400;
   /* color: linear-gradient(90deg, #00d3ff, #f00ac0);; */
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;

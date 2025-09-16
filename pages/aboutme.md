@@ -4,7 +4,7 @@ title: Hùng Vĩ Tourist
 meta-title: “Hành trình trọn vẹn – Trải nghiệm khác biệt!”
 # subtitle: "Hành trình trọn vẹn – Trải nghiệm khác biệt!"
 bigimg:
-- "/img/Picture-HSL/japan-background.jpg"
+- "/img/Picture-HSL/taiwan.jpg"   : "Taiwan"
 permalink: /aboutme
 ---
 # 🌍 **HÙNG VĨ TOURIST** – CHUYÊN NGHIỆP TOUR DU LỊCH & DỊCH VỤ XE HỢP ĐỒNG 🚐
@@ -19,7 +19,7 @@ permalink: /aboutme
 
 ## 🏢 **Giới Thiệu Về Hùng Vĩ Tourist**
 
-**Công ty TNHH Du Lịch Hùng Vĩ Tourist** là đơn vị chuyên tổ chức **tour trong nước, quốc tế, combo du lịch** và dịch vụ **xe hợp đồng – Happy Car** với các dòng xe 5-7-9-16-29 chỗ phục vụ khách hàng.  
+**Công ty TNHH Du Lịch Hùng Vĩ Tourist** là đơn vị chuyên tổ chức **tour trong nước, quốc tế, combo du lịch** và dịch vụ **xe hợp đồng** với các dòng xe 5-7-9-16-29 chỗ phục vụ khách hàng.  
 
 🎯 Chúng tôi cam kết mang đến những **chuyến đi an toàn, tiết kiệm, tiện nghi và đầy trải nghiệm** – từ du lịch gia đình, nhóm bạn, công ty đến hành trình khám phá dài ngày.
 
@@ -30,7 +30,7 @@ permalink: /aboutme
 | 🌈 Ưu điểm | 💬 Mô tả |
 |-----------|----------|
 | ✈️ **Tour phong phú** | Đa dạng tuyến: biển đảo, núi rừng, tâm linh, quốc tế |
-| 🚐 **Xe Happy Car** | Dàn xe đời mới 5–29 chỗ, lái xe kinh nghiệm, an toàn |
+| 🚐 **Xe Dịch Vụ** | Dàn xe đời mới 5–29 chỗ, lái xe kinh nghiệm, an toàn |
 | 💼 **Combo du lịch linh hoạt** | Vé máy bay + khách sạn + xe đưa đón với giá tốt |
 | 🌏 **Tự do trải nghiệm** | Dịch vụ **Free Travel** cho khách hàng thích khám phá |
 | 💯 **Hỗ trợ 24/7** | Đặt tour nhanh chóng – tư vấn nhiệt tình – chăm sóc tận tâm |
@@ -55,7 +55,7 @@ Chúng tôi luôn nỗ lực để mang đến:
 ✅ Tour nghỉ dưỡng, khám phá, hành hương, công ty – đoàn thể  
 ✅ Chương trình thiết kế riêng theo yêu cầu  
 
-🚐 **Dịch vụ xe Happy Car**  
+🚐 **Dịch vụ xe**  
 ✅ Xe 5–29 chỗ đời mới, tiện nghi  
 ✅ Đưa đón sân bay, tour trọn gói, thuê xe hợp đồng  
 
@@ -72,7 +72,7 @@ Chúng tôi luôn nỗ lực để mang đến:
 Hùng Vĩ Tourist tự hào đồng hành cùng:  
 - 🛫 Các hãng hàng không nội địa & quốc tế  
 - 🏨 Hệ thống khách sạn, resort lớn tại Việt Nam và khu vực  
-- 🚐 Dịch vụ vận tải Happy Car – an toàn, chu đáo  
+- 🚐 Dịch vụ vận tải an toàn, chu đáo  
 - 🤝 Đối tác du lịch quốc tế tại Thái Lan, Singapore, Hàn Quốc, Nhật Bản,...  
 
 ---
@@ -86,7 +86,6 @@ Hùng Vĩ Tourist tự hào đồng hành cùng:
 ## 📞 **Liên Hệ Ngay – Đặt Tour Nhanh Chóng!**
 
 - ☎️ **Mr. Hùng Vỉ:** {{ site.author.telephone }}  
-- 📞 **Trợ lý xxxxx:** 0909909909  
 - 📧 **Email:** {{ site.author.email }}
 - 🌐 **Website:** [hungvitourist.com](https://hungvitourist.com)  
 

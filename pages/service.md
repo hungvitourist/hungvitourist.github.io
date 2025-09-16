@@ -3,7 +3,7 @@ layout: page
 title: "Dịch vụ Hung Vi Tourist"
 meta-title: "Khám phá các dịch vụ du lịch chuyên nghiệp của Hung Vi Tourist"
 bigimg:
-- "/img/Picture-HSL/japan-background.jpg"
+- "/img/Picture-HSL/taiwan.jpg"   : "Taiwan"
 permalink: /service
 ---
 

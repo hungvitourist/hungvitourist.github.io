@@ -64,7 +64,7 @@ share-links-active:
   linkedin: true
 #disqus: bang-nguyen-blog
 google_analytics: G-97CTZX8FED
-#gtm: GTM-PSCP4JVR
+gtm: GTM-5WMQFC52
 #fb_app_id: '721347795190980'
 excerpt_length: 50
 title-separator: '-'

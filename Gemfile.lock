@@ -105,7 +105,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-admin
-  jekyll-datapage-generator
+  jekyll-datapage-generator (~> 1.4.0)
   jekyll-feed
   jekyll-paginate
   jekyll-seo-tag

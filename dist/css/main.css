@@ -288,7 +288,7 @@ img {
 
 .navbar-custom .navbar-brand {
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 800;
   color: #ffc400;
   background: linear-gradient(
@@ -361,7 +361,7 @@ img {
 
 @media (max-width: 786px) {
   .navbar-custom .navbar-brand {
-    font-size: 4vw;
+    font-size: 5vw;
   }
 }
 

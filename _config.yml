@@ -1,4 +1,4 @@
-title: Hùng Vĩ Tourist
+title: Hung Vi Tourist
 description: >-
   Hùng Vĩ Tourist – đồng hành cùng bạn trên mọi hành trình. 
   Dịch vụ làm VISA nhanh chóng, đặt vé máy bay giá tốt, tour du lịch đa dạng, uy tín và chuyên nghiệp.
@@ -6,23 +6,23 @@ site:
   url: /
   baseurl: /
 navbar-links:
-  🔖PostNews: post-news
-  ✈️Vé Máy Bay:
+  PostNews: post-news
+  Vé Máy Bay:
     - 🛫 Vé nội địa: flights#domestic
     - 🌏 Vé quốc tế: flights#international
     - 💺 Đặt chỗ & hành lý: flights#booking
-  🗼Tourist: 
+  Tourist: 
     - 🏞️ Tour trong nước: tours#domestic
     - 🏯 Tour quốc tế: tours#international
     - 🎢 Combo du lịch: tours#combo
     - 🏝️ Du lịch tự túc: tours#freeTravel
     - 🏖️ Danh sách tour: tours/all-tours/
-  🎫Hộ chiếu VISA: 
+  Hộ chiếu VISA: 
     - 📑 Visa du lịch: visa#travel
     - 💼 Visa công tác: visa#business
     - 🎓 Visa du học: visa#study
     - 🌍 Dịch vụ khác: visa#other
-  ❓Hùng Vĩ Service:
+  Hùng Vĩ Service:
     - 📞 Liên hệ: aboutme
     - 🎓 Tư vấn du lịch: service#consult
     - 🏨 Đặt khách sạn: service#hotel

@@ -1,7 +1,7 @@
 ---
 layout: page-bio
 title: Hùng Vĩ Tourist
-meta-title: Hùng Vĩ Tourist
+meta-title: “Hành trình trọn vẹn – Trải nghiệm khác biệt!”
 # subtitle: "Hành trình trọn vẹn – Trải nghiệm khác biệt!"
 bigimg:
 - "/img/Picture-HSL/japan-background.jpg"
@@ -9,7 +9,11 @@ permalink: /aboutme
 ---
 # 🌍 **HÙNG VĨ TOURIST** – CHUYÊN NGHIỆP TOUR DU LỊCH & DỊCH VỤ XE HỢP ĐỒNG 🚐
 
-## 🌟 **“Hành trình trọn vẹn – Trải nghiệm khác biệt!”**
+<div>
+<a href="tel:{{ site.author.telephone }}" title="Phone & Zalo">
+    <h2> ☎️ HOTLINE {{ site.author.telephone }} </h2>
+</a>
+</div>
 
 ---
 
@@ -83,7 +87,7 @@ Hùng Vĩ Tourist tự hào đồng hành cùng:
 
 - ☎️ **Mr. Hùng Vỉ:** {{ site.author.telephone }}  
 - 📞 **Trợ lý xxxxx:** 0909909909  
-- 📧 **Email:** happycar@outlook.com.vn  
+- 📧 **Email:** {{ site.author.email }}
 - 🌐 **Website:** [hungvitourist.com](https://hungvitourist.com)  
 
 ---

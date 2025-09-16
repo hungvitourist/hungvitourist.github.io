@@ -121,4 +121,4 @@ docker exec -it hungvitourist-web bash
 docker compose down
 ```
 
-**Mọi thắc mắc vui lòng liên hệ quản trị viên website để được hỗ trợ.**
+**Mọi thắc mắc vui lòng liên hệ quản trị viên website (bangnguyendev@outlook.com hoặc 0784.140494) để được hỗ trợ.**

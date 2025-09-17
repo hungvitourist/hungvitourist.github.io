@@ -1,5 +1,11 @@
 @import url("pygment_highlights.css");
 
+:root {
+  --color-primary: #004ba0;          /* nếu đây là màu chính */
+  --color-navy: #003066;             /* tên gợi tông xanh navy */
+  --color-brand-dark-blue: #003066;  /* nếu là màu thương hiệu */
+}
+
 /* CSS cho nút search */
 .search-page {
   position: fixed;
@@ -108,7 +114,7 @@ body {
   color: #ffffff;
   /* position: relative; */
   /* background: #F5F5F5;; */
-  background-color: #003066;
+  background-color: var(--color-primary);
 }
 
 p {
@@ -280,7 +286,7 @@ img {
 .navbar-custom {
   z-index: 3;
   /* --- thêm line này để fix lỗi cho thanh navbar ẩn sau mục search --- */
-  background: #003066;
+  background: var(--color-primary);
   /* background-color: #16161600; */
   border-bottom: 1px solid #01004b00;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -335,7 +341,7 @@ img {
 }
 
 .navbar-custom.top-nav-short {
-  background-color: #003066;
+  background-color: var(--color-primary);
 }
 
 .navbar-custom.top-nav-short .navbar-brand-logo {
@@ -436,10 +442,10 @@ img {
   padding: 10px;
   padding-left: 30px;
   /* background: #f5f5f5; */
-  background-color: #003066;
+  background-color: var(--color-primary);
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 @media only screen and (max-width: 767px) {
@@ -483,7 +489,7 @@ img {
 
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #003066;
+    border: 1px solid var(--color-primary);
     border-width: 0 1px 1px;
   }
 }
@@ -493,9 +499,9 @@ img {
 footer {
   padding: 30px 0;
   /* background: #161616; */
-  background: linear-gradient(90deg, #003066, #003f88 50%, #003066);
+  background: linear-gradient(90deg, var(--color-primary), #00489b 50%, var(--color-primary));
   /* border-top: 1px #EAEAEA solid; */
-  border-top: 1px #003066 solid;
+  border-top: 1px var(--color-primary) solid;
   /* margin-top: 50px; */
   font-size: 14px;
 }
@@ -763,7 +769,7 @@ footer .theme-by {
 
 .ndb-transbox h1 {
   color: #ffcc00; /* Cam vàng tươi */
-  -webkit-text-stroke: 2.8px #003066; /* Viền xanh dương đậm */
+  -webkit-text-stroke: 2.8px var(--color-primary); /* Viền xanh dương đậm */
   /* text-shadow: 
     0 0 5px #ffcc00,
     0 0 10px #ffcc00,
@@ -805,7 +811,7 @@ footer .theme-by {
 .gradient-bg {
   /* width: 100vw; */
   height: auto;
-  background: linear-gradient(90deg, #003066, #005dc5 50%, #003066);
+  background: linear-gradient(90deg, var(--color-primary), #0077ff 50%, var(--color-primary));
 }
 
 .gradient-text {

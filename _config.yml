@@ -11,7 +11,7 @@ navbar-links:
     - 🛫 Vé nội địa: flights#domestic
     - 🌏 Vé quốc tế: flights#international
     - 💺 Đặt chỗ & hành lý: flights#booking
-  Tourist: 
+  Tour: 
     - 🏞️ Tour trong nước: tours#domestic
     - 🏯 Tour quốc tế: tours#international
     - 🎢 Combo du lịch: tours#combo

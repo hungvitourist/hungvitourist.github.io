@@ -2,9 +2,9 @@ title: Hung Vi Tourist
 description: >-
   Hùng Vĩ Tourist – đồng hành cùng bạn trên mọi hành trình. 
   Dịch vụ làm VISA nhanh chóng, đặt vé máy bay giá tốt, tour du lịch đa dạng, uy tín và chuyên nghiệp.
-site:
-  url: /
-  baseurl: /
+starting_year: 2025
+url: "https://hungvitourist.vn"
+baseurl: ""
 navbar-links:
   PostNews: post-news
   Vé Máy Bay:

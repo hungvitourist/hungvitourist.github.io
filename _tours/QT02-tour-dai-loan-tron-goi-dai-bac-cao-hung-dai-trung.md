@@ -35,24 +35,39 @@ Hành trình phù hợp cả gia đình, nhóm bạn hoặc cặp đôi muốn n
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đến sân bay Đào Viên, làm thủ tục nhập cảnh ➡️ Xe đón về khách sạn, nghỉ ngơi
+
   🌞 Trưa: Tham quan Taipei 101, khu Xinyi, chụp ảnh toàn cảnh thành phố
+
   🌙 Tối: Khám phá Shilin Night Market, thưởng thức street food
 - Ngày 2:
+
   🌅 Sáng: ➡️ Thăm Chiang Kai-shek Memorial Hall ➡️ Longshan Temple ➡️ National Palace Museum (tùy thời gian)
+
   🌞 Trưa: Thưởng thức dim sum hoặc mì bò Đài Loan
+
   🌙 Tối: Du lịch Jiufen về đêm, ngắm phố cổ và trà đạo
 - Ngày 3:
+
   🌅 Sáng: ➡️ Check-out, đi tàu cao tốc tới Đài Trung ➡️ Tham quan Rainbow Village
+
   🌞 Trưa: Khám phá Công viên Văn hóa Nghệ thuật Quốc gia (theo lịch)
+
   🌙 Tối: Dạo chợ đêm Fengjia, mua sắm đặc sản
 - Ngày 4:
+
   🌅 Sáng: ➡️ Thăm Gaomei Wetlands hoặc Sun Moon Lake (tùy lựa chọn) ➡️ Check-out
+
   🌞 Trưa: Di chuyển bằng HSR đến Cao Hùng, nhận phòng
+
   🌙 Tối: Dạo bờ sông Love River, thưởng thức ẩm thực tại Liuhe Night Market
 - Ngày 5:
+
   🌅 Sáng: ➡️ Tham quan Fo Guang Shan hoặc đảo Cijin (đi phà, ăn hải sản)
+
   🌞 Trưa: Thời gian tự do mua sắm, chuẩn bị hành lý
+
   🌙 Tối: Xe đưa ra sân bay, làm thủ tục lên máy bay về Việt Nam
 
 ## Ưu đãi

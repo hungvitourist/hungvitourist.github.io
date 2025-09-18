@@ -35,13 +35,19 @@ Chuyến đi được thiết kế ngắn gọn nhưng trọn vẹn: lịch trì
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Xuất phát từ điểm hẹn, di chuyển bằng xe ô tô đến Tây Ninh ➡️ Dùng điểm tâm địa phương ➡️ Tới chân Núi Bà Đen, làm thủ tục nhận vé cáp treo 🚠  
+
   🌞 Trưa: Tham quan khu vực đền chùa dưới chân núi, thưởng thức đặc sản Tây Ninh, check-in các điểm đẹp quanh khu vực.  
+
   🌙 Tối: Nhận phòng khách sạn/nhà nghỉ, tự do dạo phố, thưởng thức ẩm thực địa phương, nghỉ ngơi chuẩn bị cho sáng hôm sau.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Dậy sớm, lên cáp treo ngắm bình minh trên đỉnh ➡️ Tham quan Đền Bà, Hòn Núi Đá, chụp ảnh panorama.  
+
   🌞 Trưa: Trở về chân núi, ăn trưa, mua quà lưu niệm đặc sản như mứt, bánh tráng.  
+
   🌙 Tối: Về lại điểm khởi hành, kết thúc chương trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

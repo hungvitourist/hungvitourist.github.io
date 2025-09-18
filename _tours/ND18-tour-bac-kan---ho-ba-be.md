@@ -35,16 +35,25 @@ Dành cho cả nhóm bạn trẻ, gia đình hay cặp đôi muốn trốn cuố
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ Hà Nội, di chuyển bằng xe giường nằm/ô tô tiện nghi ➡️ Nghỉ dừng chân, tiếp tục đi Bắc Kạn.
+
   🌞 Trưa: Ăn trưa tại địa phương, nhận phòng homestay/khách sạn.
+
   🌙 Tối: Tản bộ ven hồ, ăn tối với đặc sản vùng cao, chương trình văn hóa giao lưu với dân bản (nếu có).  
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Hồ Ba Bể bằng thuyền ➡️ Khám phá Hang Puông và các hòn đảo nhỏ ➡️ Thăm làng Pác Ngòi/nam bản, giao lưu văn hóa.
+
   🌞 Trưa: Ăn trưa trên thuyền hoặc nhà hàng ven hồ.
+
   🌙 Tối: Nghỉ ngơi tại homestay, tự do khám phá đêm bản, thưởng thức rượu cần và món nướng truyền thống.  
 - Ngày 3:
+
   🌅 Sáng: ➡️ Ngắm bình minh trên hồ, trải nghiệm kayak/đi thuyền kayak nhẹ nhàng ➡️ Tham quan chợ phiên (nếu đúng dịp) hoặc đi bộ ngắm cảnh quanh homestay.
+
   🌞 Trưa: Trả phòng, ăn trưa, chuẩn bị trở về.
+
   🌙 Tối: Về đến Hà Nội, kết thúc hành trình, chia tay đoàn.
 
 ## Ưu đãi

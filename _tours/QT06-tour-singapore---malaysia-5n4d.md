@@ -35,24 +35,39 @@ Hãy để hành lý nhẹ, tâm hồn rộng mở và sẵn sàng lưu lại nh
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Bay từ Việt Nam đến Singapore ➡️ Làm thủ tục nhập cảnh ➡️ Nhận phòng khách sạn  
+
   🌞 Trưa: ➡️ Thưởng thức cơm gà Hải Nam / laksa tại hawker centre ➡️ Tham quan Chinatown  
+
   🌙 Tối: ➡️ Xem light show tại Marina Bay Sands ➡️ Dạo bộ Marina Bay, chụp hình lưu niệm
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành đi Sentosa ➡️ Tham quan SEA Aquarium hoặc Universal (tùy chọn)  
+
   🌞 Trưa: ➡️ Ăn trưa trên đảo, tắm biển hoặc trải nghiệm cable car  
+
   🌙 Tối: ➡️ Trở về đất liền ➡️ Thưởng thức ẩm thực tại Clarke Quay
 - Ngày 3:
+
   🌅 Sáng: ➡️ Check-out ➡️ Bay/chuyển bằng xe buýt tới Kuala Lumpur ➡️ Nhận phòng khách sạn  
+
   🌞 Trưa: ➡️ Tham quan Petronas Twin Towers, KLCC Park ➡️ Mua sắm tại Suria KLCC  
+
   🌙 Tối: ➡️ Khám phá khu ẩm thực Jalan Alor hoặc Bukit Bintang
 - Ngày 4:
+
   🌅 Sáng: ➡️ Tham quan Batu Caves ➡️ Chụp hình và khám phá hang động  
+
   🌞 Trưa: ➡️ Tham quan Sultan Abdul Samad, Quảng trường Merdeka ➡️ Ghé Central Market  
+
   🌙 Tối: ➡️ Thưởng thức ẩm thực địa phương, dạo phố về đêm
 - Ngày 5:
+
   🌅 Sáng: ➡️ Thời gian tự do: mua sắm cuối, check-out  
+
   🌞 Trưa: ➡️ Di chuyển ra sân bay, làm thủ tục về nước  
+
   🌙 Tối: ➡️ Về đến Việt Nam, kết thúc hành trình — hẹn gặp lại!
 
 ## Ưu đãi

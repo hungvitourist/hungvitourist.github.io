@@ -36,38 +36,59 @@ Với hành trình khép kín bằng máy bay và xe bus, dịch vụ hướng d
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Tập trung tại sân bay, làm thủ tục bay đến Istanbul ➡️ Đến nơi, nhận phòng khách sạn  
+
   🌞 Trưa: ➡️ Thưởng thức ẩm thực Thổ Nhĩ Kỳ tại nhà hàng địa phương  
+
   🌙 Tối: ➡️ Dạo quanh khu Sultanahmet, chụp ảnh ngoài trời, nghỉ ngơi
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Thăm Hagia Sophia ➡️ Thăm Blue Mosque ➡️ Ghé Topkapi Palace  
+
   🌞 Trưa: ➡️ Ăn trưa, tiếp tục tham quan Grand Bazaar và Spice Market  
+
   🌙 Tối: ➡️ Tự do khám phá khu Taksim hoặc thưởng thức show văn hóa truyền thống
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Du ngoạn bằng thuyền Bosphorus, ngắm hai lục địa Á – Âu  
+
   🌞 Trưa: ➡️ Thăm Galata Tower, ăn trưa tại quán địa phương  
+
   🌙 Tối: ➡️ Bay/di chuyển tới Cappadocia, nhận phòng, nghỉ ngơi
 
 - Ngày 4:
+
   🌅 Sáng: ➡️ Trải nghiệm khinh khí cầu (tùy chọn) lúc bình minh ➡️ Chụp ảnh tại Love Valley/Göreme  
+
   🌞 Trưa: ➡️ Thăm Göreme Open Air Museum ➡️ Ăn trưa, ghé làng Avanos xem làm gốm  
+
   🌙 Tối: ➡️ Thưởng thức món ăn địa phương, có thể tham gia “Turkish Night”
 
 - Ngày 5:
+
   🌅 Sáng: ➡️ Thăm thành phố ngầm Kaymakli/Derinkuyu ➡️ Khám phá Uchisar Castle  
+
   🌞 Trưa: ➡️ Ăn trưa, nghỉ ngơi, chuẩn bị di chuyển tới Pamukkale (bay/xe tuỳ lịch)  
+
   🌙 Tối: ➡️ Tận hưởng suối khoáng nóng khách sạn, thư giãn
 
 - Ngày 6:
+
   🌅 Sáng: ➡️ Tham quan Pamukkale travertines — bậc thang đá vôi trắng muốt ➡️ Thăm cổ thành Hierapolis  
+
   🌞 Trưa: ➡️ Ngâm tắm Cleopatra Pool, ăn trưa và chụp ảnh kỷ niệm  
+
   🌙 Tối: ➡️ Bay/di chuyển về Istanbul, nhận phòng nghỉ ngơi
 
 - Ngày 7:
+
   🌅 Sáng: ➡️ Buổi sáng tự do mua sắm, tham quan nhẹ tùy thời gian  
+
   🌞 Trưa: ➡️ Trả phòng, ăn trưa, chuẩn bị hành lý  
+
   🌙 Tối: ➡️ Tiễn ra sân bay, kết thúc hành trình, về Việt Nam
 
 ## Ưu đãi

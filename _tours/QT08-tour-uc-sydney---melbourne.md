@@ -35,32 +35,53 @@ Bạn sẽ được hướng dẫn viên tiếng Việt đón tiếp chu đáo, 
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Tập trung tại sân bay, làm thủ tục, khởi hành đi Sydney.
+
   🌞 Trưa: ➡️ Đến Sydney, nhận phòng khách sạn, nghỉ ngơi, ăn trưa.
+
   🌙 Tối: ➡️ Dạo Cảng Sydney, chụp ảnh Nhà hát Con Sò và thưởng thức bữa tối bên vịnh.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Cầu Cảng Sydney, công viên The Rocks, chợ địa phương.
+
   🌞 Trưa: ➡️ Khám phá bãi Bondi, thư giãn trên biển hoặc đi bộ dọc bờ.
+
   🌙 Tối: ➡️ Tự do thưởng thức ẩm thực tại khu Darling Harbour.
 - Ngày 3:
+
   🌅 Sáng: ➡️ Tour nửa ngày tới Blue Mountains (tham quan Echo Point, Three Sisters).
+
   🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương, thưởng ngoạn thiên nhiên.
+
   🌙 Tối: ➡️ Trở về Sydney, tự do mua sắm hoặc nghỉ ngơi.
 - Ngày 4:
+
   🌅 Sáng: ➡️ Bay nội địa đến Melbourne, nhận phòng khách sạn.
+
   🌞 Trưa: ➡️ Tham quan Federation Square, tu viện St. Paul’s, ăn trưa tại quán cafe nổi tiếng.
+
   🌙 Tối: ➡️ Dạo phố ăn tối ở khu laneway, thưởng thức ẩm thực fusion.
 - Ngày 5:
+
   🌅 Sáng: ➡️ Khởi hành Great Ocean Road, dừng chân ngắm cảnh.
+
   🌞 Trưa: ➡️ Tham quan các bãi biển, chụp ảnh ở Twelve Apostles.
+
   🌙 Tối: ➡️ Nghỉ đêm tại thị trấn ven biển (theo lịch).
 - Ngày 6:
+
   🌅 Sáng: ➡️ Trở về Melbourne, tham quan Queen Victoria Market, mua sắm quà lưu niệm.
+
   🌞 Trưa: ➡️ Thưởng thức ẩm thực địa phương và cà phê đặc trưng của Melbourne.
+
   🌙 Tối: ➡️ Tham gia chương trình xem chim cánh cụt ở Phillip Island (tùy mùa) hoặc thưởng thức đêm nhạc.
 - Ngày 7:
+
   🌅 Sáng: ➡️ Thời gian tự do, chụp hình, hoàn tất thủ tục trả phòng.
+
   🌞 Trưa: ➡️ Ra sân bay, bay về Việt Nam.
+
   🌙 Tối: ➡️ Về đến Việt Nam, kết thúc hành trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

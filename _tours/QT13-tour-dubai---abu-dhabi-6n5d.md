@@ -35,28 +35,46 @@ Hành trình phù hợp cả gia đình, cặp đôi và nhóm bạn muốn “s
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Bay từ Việt Nam ➡️ Đến Dubai, làm thủ tục nhập cảnh ➡️ Xe đón đưa về khách sạn, nhận phòng và nghỉ ngơi  
+
   🌞 Trưa: Tham quan Dubai Mall, ăn trưa tại khu ẩm thực  
+
   🌙 Tối: Tham quan Burj Khalifa (đài quan sát) + xem nhạc nước Dubai Fountain
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Jumeirah Beach ➡️ Chụp hình tại Burj Al Arab ➡️ Tham quan khu Marina và Palm Jumeirah  
+
   🌞 Trưa: Ăn trưa tại Palm Jumeirah / Atlantis  
+
   🌙 Tối: Dạo Marina, ăn tối trên du thuyền hoặc nhà hàng ven biển
 - Ngày 3:
+
   🌅 Sáng: ➡️ Tham quan Souk truyền thống (Gold & Spice Souk) ➡️ Shopping tại các trung tâm thương mại  
+
   🌞 Trưa: Thử đặc sản địa phương  
+
   🌙 Tối: Desert Safari: đua xe trên cát, cưỡi lạc đà, chương trình văn hóa & BBQ dưới sao trời
 - Ngày 4:
+
   🌅 Sáng: ➡️ Khởi hành sang Abu Dhabi bằng xe ➡️ Tham quan Sheikh Zayed Grand Mosque  
+
   🌞 Trưa: Thăm Emirates Palace, ăn trưa tại nhà hàng địa phương  
+
   🌙 Tối: Dạo Abu Dhabi Corniche hoặc nghỉ ngơi tại khách sạn
 - Ngày 5:
+
   🌅 Sáng: ➡️ Tham quan Yas Island ➡️ Chọn trải nghiệm Ferrari World hoặc Warner Bros. World  
+
   🌞 Trưa: Vui chơi tại Yas Waterworld hoặc ăn uống tại trung tâm giải trí  
+
   🌙 Tối: Tham quan Louvre Abu Dhabi hoặc mua sắm tại Yas Mall
 - Ngày 6:
+
   🌅 Sáng: ➡️ Thời gian tự do: mua sắm, chụp hình lưu niệm ➡️ Trả phòng, làm thủ tục  
+
   🌞 Trưa: Di chuyển ra sân bay  
+
   🌙 Tối: Bay về Việt Nam, kết thúc hành trình
 
 ## Ưu đãi

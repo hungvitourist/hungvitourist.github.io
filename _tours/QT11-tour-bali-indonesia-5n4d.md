@@ -37,24 +37,39 @@ Nhanh tay đặt chỗ để nhận ngay giá khuyến mãi hấp dẫn và bắ
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Bay đến Denpasar ➡️ Đón sân bay, di chuyển về Kuta/Ubud, nhận phòng.
+
   🌞 Trưa: ➡️ Dùng bữa trưa, tham quan Kuta hoặc Seminyak, tắm biển nhẹ.
+
   🌙 Tối: ➡️ Ăn tối đặc sản Bali, dạo chợ đêm, nghỉ ngơi tại khách sạn.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành đến Ubud ➡️ Tham quan Rừng Khỉ (Monkey Forest).
+
   🌞 Trưa: ➡️ Thăm Tegalalang Rice Terrace ➡️ Ăn trưa tại quán địa phương.
+
   🌙 Tối: ➡️ Thưởng thức múa truyền thống Kecak (tùy lịch) ➡️ Nghỉ đêm ở Ubud.
 - Ngày 3:
+
   🌅 Sáng: ➡️ (Tùy chọn) Trekking ngắm bình minh Mount Batur ➡️ Thư giãn ở suối nước nóng.
+
   🌞 Trưa: ➡️ Tham quan thác Tegenungan ➡️ Ăn trưa và trải nghiệm làng nghề.
+
   🌙 Tối: ➡️ Thưởng thức spa truyền thống Bali, tự do khám phá phố cổ Ubud.
 - Ngày 4:
+
   🌅 Sáng: ➡️ Di chuyển đến Tanah Lot ➡️ Tham quan đền ven biển.
+
   🌞 Trưa: ➡️ Ghé làng thủ công, mua sắm quà lưu niệm ➡️ Dùng bữa trưa.
+
   🌙 Tối: ➡️ Ngắm hoàng hôn tại Tanah Lot hoặc bãi biển gần đó ➡️ Nghỉ đêm ở khu vực phía tây Bali.
 - Ngày 5:
+
   🌅 Sáng: ➡️ Sáng tự do, check-out khách sạn ➡️ Thăm chợ địa phương hoặc tắm biển nhẹ.
+
   🌞 Trưa: ➡️ Ăn trưa, di chuyển ra sân bay.
+
   🌙 Tối: ➡️ Bay về Việt Nam, kết thúc hành trình và chia tay.
 
 ## Ưu đãi

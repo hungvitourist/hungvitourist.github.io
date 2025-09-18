@@ -35,43 +35,67 @@ Từ hoàng hôn ở Miraflores đến bình minh trên Machu Picchu, mỗi ngà
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ Việt Nam (hướng dẫn chi tiết xuất phát)  
+
   🌞 Trưa: ➡️ Đến Lima, làm thủ tục nhập cảnh, nhận phòng khách sạn  
+
   🌙 Tối: ➡️ Dạo Miraflores, ăn tối thử ceviche đặc trưng Peru 🍤
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Trung tâm lịch sử: Plaza Mayor, Nhà thờ, Tu viện San Francisco  
+
   🌞 Trưa: ➡️ Tham quan Bảo tàng Larco hoặc khu nghệ thuật Barranco  
+
   🌙 Tối: ➡️ Bay nội địa đến Cusco, nhận phòng, nghỉ ngơi để thích nghi độ cao
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Di chuyển đến Sacred Valley, tham quan Pisac và chợ thủ công  
+
   🌞 Trưa: ➡️ Thăm ruộng bậc thang Moray và mỏ muối Maras (tùy chọn)  
+
   🌙 Tối: ➡️ Nghỉ tại Ollantaytambo, chuẩn bị cho hành trình tàu
 
 - Ngày 4:
+
   🌅 Sáng: ➡️ Đi tàu từ Ollantaytambo đến Aguas Calientes, nhận phòng  
+
   🌞 Trưa: ➡️ Tham quan thị trấn nhỏ, thư giãn tại suối nước nóng (tùy chọn)  
+
   🌙 Tối: ➡️ Nghỉ sớm để dậy sớm khám phá Machu Picchu
 
 - Ngày 5:
+
   🌅 Sáng: ➡️ Lên bus sớm, hướng dẫn viên đưa đoàn tham quan Machu Picchu (tour có hướng dẫn)  
+
   🌞 Trưa: ➡️ Thời gian tự do chụp ảnh, khám phá các góc di tích, chọn thêm leo Huayna Picchu (nếu có vé)  
+
   🌙 Tối: ➡️ Tàu trở về Cusco, nhận phòng, nghỉ ngơi
 
 - Ngày 6:
+
   🌅 Sáng: ➡️ Tham quan Cusco: Qoricancha, khu San Blas, Quảng trường vũ hội  
+
   🌞 Trưa: ➡️ Thưởng thức ẩm thực địa phương, mua sắm quà lưu niệm  
+
   🌙 Tối: ➡️ Tự do khám phá ẩm thực đêm tại Cusco
 
 - Ngày 7:
+
   🌅 Sáng: ➡️ Tùy chọn: Excursion đến Rainbow Mountain hoặc ngày nghỉ thư giãn tại Cusco  
+
   🌞 Trưa: ➡️ Chuẩn bị hành lý, trả phòng  
+
   🌙 Tối: ➡️ Bay về Lima, ăn tối chia tay, nghỉ đêm tại Lima
 
 - Ngày 8:
+
   🌅 Sáng: ➡️ Thời gian tự do mua sắm, tham quan ngắn tùy chọn  
+
   🌞 Trưa: ➡️ Ra sân bay, làm thủ tục về Việt Nam  
+
   🌙 Tối: ➡️ Kết thúc hành trình — hẹn gặp lại ở chuyến đi tiếp theo!
 
 ## Ưu đãi

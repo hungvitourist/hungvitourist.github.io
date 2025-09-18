@@ -36,32 +36,53 @@ Hành trình phù hợp cả gia đình và nhóm bạn muốn một kỳ nghỉ
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đáp xuống Nairobi, làm thủ tục nhập cảnh ➡️ Xe đưa về khách sạn, nghỉ ngơi
+
   🌞 Trưa: Thưởng thức bữa trưa tại nhà hàng địa phương
+
   🌙 Tối: City tour nhẹ, ăn tối và briefing hành trình
 - Ngày 2:
+
   🌅 Sáng: ➡️ Bay nội địa đến Maasai Mara ➡️ Nhận phòng lodge/camp
+
   🌞 Trưa: Nghỉ ngơi, ăn trưa tại lodge
+
   🌙 Tối: Game drive buổi tối, ngắm hoàng hôn trên savanna
 - Ngày 3:
+
   🌅 Sáng: ➡️ Game drive buổi sáng săn "Big Five" ➡️ Trở về lodge, brunch
+
   🌞 Trưa: Thư giãn, chụp ảnh tại viewpoint
+
   🌙 Tối: Tiệc nướng BBQ (tùy lịch), giao lưu văn hóa Maasai
 - Ngày 4:
+
   🌅 Sáng: ➡️ Tùy chọn khinh khí cầu (booking trước) ➡️ Game drive tiếp tục
+
   🌞 Trưa: Tham quan nông trại hoặc bảo tồn địa phương
+
   🌙 Tối: Nghỉ dưỡng, tự do tại camp
 - Ngày 5:
+
   🌅 Sáng: ➡️ Rời Maasai Mara, di chuyển về Amboseli (có thể bay hoặc đường bộ) ➡️ Nhận phòng
+
   🌞 Trưa: Ăn trưa và nghỉ ngơi tại lodge
+
   🌙 Tối: Ngắm hoàng hôn với view Núi Kilimanjaro
 - Ngày 6:
+
   🌅 Sáng: ➡️ Game drive tại Amboseli, chụp ảnh voi với Kilimanjaro làm nền
+
   🌞 Trưa: Tham quan trung tâm bảo tồn, ăn trưa
+
   🌙 Tối: Dạo làng Maasai gần đó, trải nghiệm văn hóa
 - Ngày 7:
+
   🌅 Sáng: ➡️ Buổi sáng tự do, check-out ➡️ Trở về Nairobi bằng xe/flight
+
   🌞 Trưa: Mua sắm quà lưu niệm, ăn trưa
+
   🌙 Tối: Ra sân bay, kết thúc tour và khởi hành về Việt Nam
 
 ## Ưu đãi

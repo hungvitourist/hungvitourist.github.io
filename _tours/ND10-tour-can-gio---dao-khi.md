@@ -35,12 +35,18 @@ Hướng dẫn viên địa phương nhiệt tình, phương tiện an toàn, b�
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Xe đón tại điểm hẹn ở TP.HCM ➡️ Di chuyển đến Cần Giờ ➡️ Tham quan Vàm Sát, xem chim và rừng ngập mặn.
+
   🌞 Trưa: ➡️ Ăn trưa với hải sản địa phương ➡️ Nghỉ ngơi, tự do tắm biển.
+
   🌙 Tối: ➡️ Tham quan Đảo Khỉ buổi tối ➡️ Tiệc nướng/ăn tối ➡️ Nghỉ đêm tại nhà nghỉ/khách sạn.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Dậy sớm ngắm bình minh ➡️ Thăm suối Ồ Ồ hoặc bến tàu địa phương.
+
   🌞 Trưa: ➡️ Trả phòng ➡️ Thưởng thức bữa trưa nhẹ ➡️ Tham quan chợ hải sản, mua quà.
+
   🌙 Tối: ➡️ Lên xe về lại TP.HCM ➡️ Kết thúc tour, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

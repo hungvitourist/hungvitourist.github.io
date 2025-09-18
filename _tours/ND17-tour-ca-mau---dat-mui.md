@@ -36,17 +36,25 @@ Hành trình này không chỉ là chuyến đi mà còn là liều thuốc gi�
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ điểm hẹn, dừng chân nghỉ ngơi, trò chơi trên xe và giới thiệu chương trình.  
+
   🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương, tiếp tục hành trình đến Cà Mau.  
+
   🌙 Tối: ➡️ Nhận phòng homestay/khách sạn, tự do dạo chợ đêm, thưởng thức hải sản tươi.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Rừng U Minh, đi xuồng khám phá sinh thái, ngắm chim và hệ sinh thái đặc trưng.  
+
   🌞 Trưa: ➡️ Ăn trưa, nghỉ ngơi, trải nghiệm nghề truyền thống địa phương (bắt cua/ốc).  
+
   🌙 Tối: ➡️ Tham gia chương trình giao lưu văn nghệ, thưởng thức đặc sản miền Tây bên bếp lửa.
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Khám phá Mũi Cà Mau, check-in cột mốc tọa độ, ngắm bình minh / hoàng hôn tùy lịch trình.  
+
   🌞 Trưa: ➡️ Ăn trưa, mua quà đặc sản làm kỷ niệm.  
   🌙 Chiều: ➡️ Lên đường về điểm đón ban đầu, kết thúc tour và chia tay.
 

@@ -35,13 +35,19 @@ Chuyến đi phù hợp cả gia đình, cặp đôi hoặc nhóm bạn muốn t
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ Hà Nội (tập trung điểm hẹn) ➡️ Nghỉ dừng chân, thưởng thức đặc sản dọc đường ➡️ Tiếp tục đi Mộc Châu.
+
   🌞 Trưa: ➡️ Ăn trưa tại nhà hàng địa phương ➡️ Tham quan đồi chè, check-in góc sống ảo.
+
   🌙 Tối: ➡️ Nhận phòng homestay/khách sạn ➡️ Dùng bữa tối với món đặc sản vùng cao ➡️ Thưởng thức cà phê/nếm sữa tươi, sinh hoạt tự do.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Ăn sáng, khởi hành tham quan Bản Áng (rừng thông, cầu gỗ) ➡️ Tham quan nông trại, chụp ảnh.
+
   🌞 Trưa: ➡️ Thăm thác Dải Yếm hoặc thung lũng hoa (tùy mùa) ➡️ Ăn trưa, thưởng thức đặc sản như cá suối, thắng cố nhẹ.
+
   🌙 Tối: ➡️ Lên đường về Hà Nội, dừng nghỉ chân, kết thúc chương trình và hẹn gặp lại.
 
 ## Ưu đãi

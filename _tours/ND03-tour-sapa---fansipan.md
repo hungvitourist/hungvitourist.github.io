@@ -35,20 +35,32 @@ Chuyến đi được thiết kế nhẹ nhàng 4N3Đ, di chuyển bằng tàu +
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Tập trung tại điểm hẹn, làm thủ tục lên tàu khởi hành đi Lào Cai ➡️ Nghỉ ngơi trên tàu.
+
   🌞 Trưa: ➡️ Đến Lào Cai, xe đón lên Sapa ➡️ Nhận phòng khách sạn, ăn trưa.
+
   🌙 Tối: ➡️ Dạo chợ đêm Sapa, thưởng thức ẩm thực địa phương, nghỉ ngơi tại khách sạn.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Ăn sáng, di chuyển tới ga cáp treo Fansipan ➡️ Trải nghiệm cáp treo lên đỉnh, check-in panorama.
+
   🌞 Trưa: ➡️ Tham quan quần thể Sun World, ăn trưa tại nhà hàng địa phương.
+
   🌙 Tối: ➡️ Về lại Sapa, tự do khám phá town hoặc tham gia chương trình văn hóa dân tộc.
 - Ngày 3:
+
   🌅 Sáng: ➡️ Trekking thung lũng Mường Hoa, bản Lao Chải - Tả Van ➡️ Tham quan bản người H’Mông, Giáy.
+
   🌞 Trưa: ➡️ Dùng cơm trưa cùng gia đình người dân bản địa, nghỉ ngơi.
+
   🌙 Tối: ➡️ Thưởng thức đồ nướng, tự do mua sắm quà lưu niệm.
 - Ngày 4:
+
   🌅 Sáng: ➡️ Tham quan Thác Bạc hoặc vườn hoa, check-out khách sạn.
+
   🌞 Trưa: ➡️ Di chuyển về Lào Cai, ăn trưa nhẹ.
+
   🌙 Tối: ➡️ Lên tàu về Hà Nội / trả khách tại điểm hẹn, kết thúc hành trình.
 
 ## Ưu đãi

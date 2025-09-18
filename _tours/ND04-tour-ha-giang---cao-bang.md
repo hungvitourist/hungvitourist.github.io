@@ -35,24 +35,39 @@ Nếu bạn muốn tạm rời xa ồn ào, hòa mình vào thiên nhiên và kh
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ Hà Nội ➡️ Dừng nghỉ theo lộ trình, ăn sáng trên đường ➡️ Đi tiếp hướng Hà Giang  
+
   🌞 Trưa: Nghỉ ăn trưa, nhận phòng/ghé tham quan nhẹ tại thành phố Hà Giang  
+
   🌙 Tối: Dạo chợ đêm Hà Giang, thưởng thức đặc sản địa phương
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành đi Quản Bạ ➡️ Check-in Cổng Trời Quản Bạ ➡️ Tiếp tục đến Yên Minh, Đồng Văn  
+
   🌞 Trưa: Ăn trưa tại Yên Minh/Đồng Văn, nghỉ ngơi  
+
   🌙 Tối: Tham quan Phố cổ Đồng Văn, tự do thưởng thức ẩm thực
 - Ngày 3:
+
   🌅 Sáng: ➡️ Tham quan Lũng Cú (Cột cờ) ➡️ Trên đường chiêm ngưỡng Mã Pí Lèng và sông Nho Quế  
+
   🌞 Trưa: Ăn trưa tại Đồng Văn, khởi hành đi Cao Bằng  
+
   🌙 Tối: Nhận phòng tại Cao Bằng, tự do khám phá thành phố
 - Ngày 4:
+
   🌅 Sáng: ➡️ Khởi hành thăm Thác Bản Giốc ➡️ Tham quan chụp ảnh, trải nghiệm du thuyền ngắm thác  
+
   🌞 Trưa: Ăn trưa tròn vị với món đặc sản địa phương  
+
   🌙 Tối: Tham quan Động Ngườm Ngao hoặc nghỉ dưỡng tại homestay/khách sạn
 - Ngày 5:
+
   🌅 Sáng: ➡️ Thăm Pắc Bó (di tích lịch sử) ➡️ Thưởng ngoạn khung cảnh núi non, chụp ảnh lưu niệm  
+
   🌞 Trưa: Ăn trưa, khởi hành về Hà Nội  
+
   🌙 Tối: Về tới Hà Nội, kết thúc chương trình, chia tay đoàn
 
 ## Ưu đãi

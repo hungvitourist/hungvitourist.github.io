@@ -37,20 +37,32 @@ Sẵn sàng xách balo khám phá ngay chưa? Liên hệ để giữ chỗ và n
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đón sân bay Nha Trang ➡️ Nhận phòng khách sạn ➡️ Nghỉ ngơi, tắm biển
+
   🌞 Trưa: Thưởng thức hải sản tươi sống ➡️ Tham quan Tháp Bà Ponagar
+
   🌙 Tối: Dạo chợ đêm Nha Trang, tự do khám phá ẩm thực
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành ra cảng ➡️ Tham quan Hòn Mun, lặn ngắm san hô hoặc đi tàu đáy kính
+
   🌞 Trưa: Ăn trưa trên đảo, tắm biển thư giãn
+
   🌙 Tối: Xe đưa sang Đà Lạt, nhận phòng, dạo chợ đêm Đà Lạt
 - Ngày 3:
+
   🌅 Sáng: ➡️ Tham quan Langbiang hoặc cắm trại ngắm bình minh ➡️ Ghé Trúc Lâm – cáp treo
+
   🌞 Trưa: Thưởng thức đặc sản Đà Lạt (bánh căn, lẩu gà lá é)
+
   🌙 Tối: Tham quan Dinh Bảo Đại, Crazy House, tự do khám phá quán cà phê
 - Ngày 4:
+
   🌅 Sáng: ➡️ Thăm thác Datanla hoặc vườn hoa Thành Phố ➡️ Mua đặc sản, check-out
+
   🌞 Trưa: Ăn trưa nhẹ, chuẩn bị hành lý
+
   🌙 Tối: Xe đưa ra sân bay/ga khởi hành, chia tay kết thúc chương trình
 
 ## Ưu đãi

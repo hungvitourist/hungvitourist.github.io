@@ -35,23 +35,35 @@ Mỗi ngày đều có điểm nhấn khác nhau: bình minh trên Mũi Đại L
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Bay tới Quy Nhơn ➡️ Xe đón và nhận phòng khách sạn ➡️ Tham quan Tháp Đôi  
+
   🌞 Trưa: ➡️ Ăn trưa đặc sản Quy Nhơn ➡️ Nghỉ ngơi tại khách sạn  
+
   🌙 Tối: ➡️ Dạo biển Quy Nhơn, thưởng thức hải sản tại chợ đêm
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành tới Kỳ Co ➡️ Cano đưa ra đảo ➡️ Tắm biển, lặn ngắm san hô  
+
   🌞 Trưa: ➡️ BBQ hải sản trên bãi biển hoặc ăn tại nhà hàng  
+
   🌙 Tối: ➡️ Tham quan Eo Gió ngắm hoàng hôn ➡️ Về khách sạn nghỉ ngơi
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Di chuyển từ Quy Nhơn sang Phú Yên ➡️ Tham quan Nhà thờ Mằng Lăng  
+
   🌞 Trưa: ➡️ Ăn trưa tại Phú Yên, thưởng thức đặc sản địa phương  
+
   🌙 Tối: ➡️ Khám phá Gành Đá Đĩa lúc chiều muộn và ngắm hoàng hôn tại Đầm Ô Loan
 
 - Ngày 4:
+
   🌅 Sáng: ➡️ Dậy sớm ngắm bình minh tại Mũi Đại Lãnh (Mũi Điện) ➡️ Tham quan Hải đăng  
+
   🌞 Trưa: ➡️ Trở về, ăn trưa và làm thủ tục trả phòng  
+
   🌙 Tối: ➡️ Xe đưa ra sân bay, chuyến bay về điểm khởi hành — kết thúc tour
 
 ## Ưu đãi

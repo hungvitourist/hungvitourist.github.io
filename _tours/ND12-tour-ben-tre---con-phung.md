@@ -35,12 +35,18 @@ Tour phù hợp cho gia đình, cặp đôi muốn nghỉ dưỡng cuối tuần
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ điểm hẹn tại TP.HCM ➡️ Nghỉ giải lao, theo đường cao tốc ➡️ Đến Bến Tre, lên tàu đến Cồn Phụng.
+
   🌞 Trưa: ➡️ Tham quan làng nghề kẹo dừa ➡️ Thưởng thức cơm trưa đặc sản miền Tây ➡️ Tham quan vườn trái cây, thử trái cây theo mùa.
+
   🌙 Tối: ➡️ Check-in homestay/khách sạn ➡️ Ăn tối với món ăn địa phương ➡️ Thưởng thức đờn ca tài tử/tiệc nướng (tuỳ lịch).
 - Ngày 2:
+
   🌅 Sáng: ➡️ Dùng bữa sáng ➡️ Tham gia trải nghiệm chèo xuồng ba lá, nghe hướng dẫn viên giới thiệu về hệ sinh thái rạch nhỏ.
+
   🌞 Trưa: ➡️ Tham quan Cồn Phụng, vườn cây ăn trái ➡️ Thưởng thức đặc sản địa phương, mua quà lưu niệm.
+
   🌙 Tối: ➡️ Lên xe trở về TP.HCM ➡️ Kết thúc tour, chia tay đoàn và giao lưu ảnh kỷ niệm.
 
 ## Ưu đãi

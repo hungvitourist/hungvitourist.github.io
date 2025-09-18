@@ -35,36 +35,60 @@ Dù bạn là người mê lịch sử, nhiếp ảnh hay đơn giản muốn kh
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đón tại sân bay Cairo ➡️ Làm thủ tục nhập cảnh ➡️ Di chuyển về khách sạn, nghỉ ngơi
+
   🌞 Trưa: Thưởng thức bữa trưa địa phương
+
   🌙 Tối: Dạo phố Cairo, nghỉ ngơi chuẩn bị ngày tham quan
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Quần thể Kim Tự Tháp Giza ➡️ Chụp hình trước tượng Nhân Sư ➡️ Thăm Bảo tàng Ai Cập (các hiện vật của Pharaoh)
+
   🌞 Trưa: Ăn trưa, nghỉ ngơi
+
   🌙 Tối: Xem chương trình ánh sáng & nhạc tại Kim tự tháp (tuỳ chọn) hoặc khám phá ẩm thực địa phương
 - Ngày 3:
+
   🌅 Sáng: ➡️ Bay nội địa tới Luxor ➡️ Tham quan Đền Karnak
+
   🌞 Trưa: Ăn trưa trên bờ sông Nile
+
   🌙 Tối: Tham quan Đền Luxor về đêm, tự do dạo chợ
 - Ngày 4:
+
   🌅 Sáng: ➡️ Khám phá Bờ Tây: Thung lũng các Vua ➡️ Đền Hatshepsut ➡️ Tượng Colossi of Memnon
+
   🌞 Trưa: Trở về khách sạn, ăn trưa
+
   🌙 Tối: Lên du thuyền bắt đầu hành trình trên sông Nile
 - Ngày 5:
+
   🌅 Sáng: ➡️ Du thuyền di chuyển, tham quan Đền Edfu hoặc Kom Ombo (tuỳ lịch trình)
+
   🌞 Trưa: Thưởng thức bữa trưa trên du thuyền, ngắm cảnh sông Nile
+
   🌙 Tối: Tiệc nhẹ trên boong, nghe giới thiệu văn hóa Ai Cập
 - Ngày 6:
+
   🌅 Sáng: ➡️ Đến Aswan, thăm Đập cao Aswan và Đền Philae
+
   🌞 Trưa: Ăn trưa, khám phá làng Nubia (tuỳ chọn)
+
   🌙 Tối: Nghỉ đêm ở Aswan, tận hưởng không khí sông Nile
 - Ngày 7:
+
   🌅 Sáng: ➡️ Khởi hành sớm tham quan Abu Simbel (tuỳ chọn) ➡️ Trở về Aswan
+
   🌞 Trưa: Ăn trưa, nghỉ ngơi
+
   🌙 Tối: Bay về Cairo, nhận phòng khách sạn
 - Ngày 8:
+
   🌅 Sáng: ➡️ Thời gian tự do mua sắm, tham quan nhẹ
+
   🌞 Trưa: Trả phòng, di chuyển ra sân bay
+
   🌙 Tối: Khởi hành về Việt Nam, kết thúc hành trình
 
 ## Ưu đãi

@@ -36,16 +36,25 @@ Dịch vụ chuyên nghiệp, xe giường nằm/ô tô đời mới, hướng d
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ TP. HCM ➡️ Nghỉ chân, ăn sáng ➡️ Đến Cần Thơ, tham quan chợ nổi Cái Răng bằng xuồng.
+
   🌞 Trưa: Thưởng thức bữa trưa hải sản/đặc sản miền Tây, check-in Bến Ninh Kiều.
+
   🌙 Tối: Dạo bến Ninh Kiều, tự do khám phá ẩm thực đêm, nhận phòng khách sạn.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Đi tham quan nhà cổ Bình Thủy ➡️ Tham gia trải nghiệm vườn trái cây/đi xuồng.
+
   🌞 Trưa: Dùng cơm trưa, khởi hành đi Sóc Trăng.
+
   🌙 Tối: Tham quan chùa Dơi, thưởng thức bánh pía, nghỉ đêm tại Sóc Trăng / Bạc Liêu.
 - Ngày 3:
+
   🌅 Sáng: ➡️ Khám phá các ngôi chùa Khmer/Sóc Trăng ➡️ Di chuyển đến Bạc Liêu, chụp hình cánh đồng điện gió.
+
   🌞 Trưa: Thăm nhà công tử Bạc Liêu, dùng bữa trưa đặc sản địa phương.
+
   🌙 Tối: Trở về TP. HCM, kết thúc hành trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

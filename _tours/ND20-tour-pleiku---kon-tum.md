@@ -35,18 +35,27 @@ Tour phù hợp cho cả nhóm bạn, cặp đôi muốn tránh ồn ào thành 
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Quý khách tập trung tại sân bay, bay tới Pleiku ➡️ Nhận hành lý, di chuyển về khách sạn gửi đồ ➡️ Tham quan Biển Hồ (Hồ T'Nưng) chụp ảnh, đi bộ ven hồ.
+
   🌞 Trưa: Thưởng thức cơm trưa với đặc sản địa phương tại nhà hàng.
+
   🌙 Tối: Dạo chợ đêm Pleiku, tự do thưởng thức ẩm thực, nghỉ đêm tại Pleiku.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành đi Kon Tum bằng xe ➡️ Tham quan Nhà thờ gỗ Kon Tum, cầu treo Kon Klor ➡️ Thăm buôn làng, tìm hiểu văn hoá dân tộc.
+
   🌞 Trưa: Dùng bữa trưa cùng món ăn truyền thống, thưởng thức cà phê Tây Nguyên.
+
   🌙 Tối: Nghỉ đêm tại Kon Tum, có thể tham gia chương trình văn nghệ dân tộc (nếu có).
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Tham quan rừng thông hoặc Măng Đen (nếu lịch trình cho phép) ➡️ Ghé thăm vườn cà phê, mua đặc sản về làm quà.
+
   🌞 Trưa: Ăn trưa, trả phòng, hành trình trở về Pleiku.
+
   🌙 Tối: Đưa ra sân bay Pleiku, làm thủ tục bay về điểm khởi hành. Kết thúc chương trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

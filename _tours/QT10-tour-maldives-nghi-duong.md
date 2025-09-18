@@ -35,28 +35,43 @@ Nhanh tay đặt chỗ để nhận ưu đãi giới hạn và sắp xếp lịc
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đón sân bay Malé, ➡️ Di chuyển bằng speedboat/seaplane tới resort, ➡️ Check-in & welcome drink.
+
   🌞 Trưa: ➡️ Ăn trưa tại resort, ➡️ Tham quan khuôn viên, ➡️ Nghỉ ngơi & tắm biển.
+
   🌙 Tối: ➡️ Ăn tối set menu, ➡️ Dạo biển về đêm hoặc thư giãn tại bar.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tour snorkeling khám rặng san hô, ➡️ Hướng dẫn viên an toàn, ➡️ Ngắm cá và san hô.
+
   🌞 Trưa: ➡️ Picnic trên sandbank, ➡️ BBQ hải sản, ➡️ Tự do chụp ảnh.
+
   🌙 Tối: ➡️ Sunset cruise ngắm hoàng hôn, ➡️ Thưởng thức cocktail, ➡️ Về resort nghỉ ngơi.
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Khóa học lặn cơ bản (option), ➡️ Lặn sâu với Hướng dẫn viên.
+
   🌞 Trưa: ➡️ Trải nghiệm spa thư giãn, ➡️ Ăn trưa nhẹ tại bãi biển.
+
   🌙 Tối: ➡️ Thưởng thức chương trình văn hóa/resort show, ➡️ Nghỉ đêm tại resort.
 
 - Ngày 4:
+
   🌅 Sáng: ➡️ Hoạt động thể thao nước: kayaking, paddleboard hoặc jet ski, ➡️ Ảnh check-in tại bungalow.
+
   🌞 Trưa: ➡️ Ăn trưa tại nhà hàng á-âu, ➡️ Thời gian tự do mua sắm quà lưu niệm.
+
   🌙 Tối: ➡️ Dinner lãng mạn trên bãi biển (candlelight), ➡️ Thư giãn dưới sao.
 
 - Ngày 5:
+
   🌅 Sáng: ➡️ Tắm biển lần cuối, ➡️ Check-out & đóng gói hành lý.
+
   🌞 Trưa: ➡️ Di chuyển về Malé, ➡️ Thăm nhanh chợ địa phương (tùy thời gian).
+
   🌙 Tối: ➡️ Đưa ra sân bay, ➡️ Bay về Việt Nam — kết thúc hành trình.
 
 ## Ưu đãi

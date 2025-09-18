@@ -36,13 +36,19 @@ Hãy để biển Vũng Tàu chữa lành những ngày mệt mỏi — đi dạ
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ điểm hẹn (TP.HCM) ➡️ Nghỉ giải lao trên đường ➡️ Đến Vũng Tàu, nhận phòng khách sạn, thư giãn.
+
   🌞 Trưa: ➡️ Dùng bữa trưa với đặc sản hải sản ➡️ Tham quan Tượng Chúa Kitô, Mũi Nghinh Phong, chụp ảnh.
+
   🌙 Tối: ➡️ Tự do dạo Bãi Trước, thưởng thức hải sản đêm hoặc tham gia chương trình giao lưu, tự do khám phá phố biển.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Thức dậy đón bình minh tại Bãi Sau ➡️ Tham quan Ngọn Hải Đăng Vũng Tàu, leo ngắm toàn cảnh biển.
+
   🌞 Trưa: ➡️ Trở về khách sạn, làm thủ tục trả phòng ➡️ Dùng bữa trưa, mua quà lưu niệm địa phương.
+
   🌙 Tối: ➡️ Khởi hành về lại điểm đón, kết thúc hành trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

@@ -35,13 +35,19 @@ Chuyến 2N1Đ này được thiết kế để bạn trải nghiệm trọn v�
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ điểm hẹn (Hà Nội) bằng xe buýt/ tầu ➡️ Nghỉ dừng chân, tiếp tục hành trình ➡️ Đến cảng Tuần Châu, làm thủ tục lên du thuyền.
+
   🌞 Trưa: ➡️ Thưởng thức bữa trưa hải sản/ẩm thực trên du thuyền ➡️ Tham quan hang Sửng Sốt, chụp ảnh cảnh vịnh.
+
   🌙 Tối: ➡️ Ghé đảo Titov tắm biển, chèo kayak (tuỳ điều kiện thời tiết) ➡️ Trở về Tuần Châu, ăn tối, tự do khám phá hoặc xem chương trình nghệ thuật, nghỉ đêm tại khách sạn/nhà nghỉ.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Thưởng thức bình minh trên vịnh, đi dạo bờ biển hoặc tham gia lớp thể thao nước nhẹ ➡️ Tham quan làng chài/nhà bè (nếu có).
+
   🌞 Trưa: ➡️ Trở về cảng, ăn trưa nhẹ, làm thủ tục trả phòng ➡️ Lên xe khởi hành về lại điểm đón ban đầu.
+
   🌙 Tối: ➡️ Về tới Hà Nội, kết thúc tour, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

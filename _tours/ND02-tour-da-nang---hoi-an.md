@@ -36,18 +36,27 @@ Hành trình được thiết kế nhẹ nhàng, hợp lý để bạn vừa ngh
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đón sân bay Đà Nẵng ➡️ Nhận phòng khách sạn ➡️ Nghỉ ngơi, tắm biển Mỹ Khê  
+
   🌞 Trưa: Thưởng thức hải sản/ẩm thực địa phương tại nhà hàng ven biển  
+
   🌙 Tối: Dạo cầu Rồng, check-in cầu sông Hàn, tự do khám phá ẩm thực đêm Đà Nẵng
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành đi Bà Nà Hills ➡️ Tham quan Cầu Vàng, vườn hoa, làng Pháp  
+
   🌞 Trưa: Ăn trưa buffet tại Bà Nà, tiếp tục tham quan cáp treo và các tiểu cảnh  
+
   🌙 Tối: Về Đà Nẵng, tự do dạo biển hoặc nghỉ ngơi tại khách sạn
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Khởi hành sang Hội An ➡️ Tham quan Phố cổ, chùa Cầu ➡️ Ghé làng rau Trà Quế (tùy chọn)  
+
   🌞 Trưa: Thưởng thức đặc sản Hội An, mua sắm đồ thủ công mỹ nghệ  
+
   🌙 Tối: Trở về Đà Nẵng, tiễn sân bay/hoặc tiếp tục hành trình cá nhân
 
 ## Ưu đãi

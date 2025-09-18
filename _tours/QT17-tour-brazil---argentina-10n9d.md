@@ -35,53 +35,83 @@ Hành trình được thiết kế cân bằng giữa trải nghiệm tham quan 
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ Việt Nam, đáp sân bay quốc tế tại Rio de Janeiro ➡️ Làm thủ tục nhập cảnh.
+
   🌞 Trưa: ➡️ Nhận phòng khách sạn, nghỉ ngơi, ăn trưa.
+
   🌙 Tối: ➡️ Dạo bờ biển Copacabana, thưởng thức hải sản địa phương.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan tượng Chúa Cứu Thế (Corcovado) ➡️ Check-in view toàn cảnh Rio.
+
   🌞 Trưa: ➡️ Thưởng thức ẩm thực Brazil tại nhà hàng địa phương.
+
   🌙 Tối: ➡️ Tự do khám phá khu Lapa, nghe nhạc samba.
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Thăm Sugarloaf Mountain bằng cáp treo ➡️ Chụp ảnh panorama.
+
   🌞 Trưa: ➡️ Khám phá khu Ipanema, mua sắm nhỏ.
+
   🌙 Tối: ➡️ Thưởng thức show nhạc sống hoặc tự do.
 
 - Ngày 4:
+
   🌅 Sáng: ➡️ Bay nội địa tới Foz do Iguaçu ➡️ Nhận phòng.
+
   🌞 Trưa: ➡️ Thăm Parque das Aves (vườn chim).
+
   🌙 Tối: ➡️ Nghỉ ngơi, chuẩn bị cho chuyến tham quan thác.
 
 - Ngày 5:
+
   🌅 Sáng: ➡️ Tham quan thác Iguazu phía Brazil, đi bộ trên lối mòn ngắm toàn cảnh.
+
   🌞 Trưa: ➡️ Ăn trưa ven công viên.
+
   🌙 Tối: ➡️ Tự do, có thể đi chợ đêm nhỏ.
 
 - Ngày 6:
+
   🌅 Sáng: ➡️ Vượt biên sang phía Argentina, khám phá thác Iguazu từ góc nhìn Argentina ➡️ Thử trải nghiệm boat ride (tuỳ chọn).
+
   🌞 Trưa: ➡️ Ăn trưa tại nhà hàng view thác.
+
   🌙 Tối: ➡️ Trở về Foz do Iguaçu, nghỉ ngơi.
 
 - Ngày 7:
+
   🌅 Sáng: ➡️ Bay tới Buenos Aires ➡️ Nhận phòng khách sạn.
+
   🌞 Trưa: ➡️ Tham quan Plaza de Mayo, Casa Rosada.
+
   🌙 Tối: ➡️ Thưởng thức show tango có bữa tối (tuỳ chọn).
 
 - Ngày 8:
+
   🌅 Sáng: ➡️ Khám phá khu Recoleta: nghĩa trang nổi tiếng và quán cà phê.
+
   🌞 Trưa: ➡️ Dạo San Telmo, chợ đồ cổ, ăn trưa kiểu Argentina.
+
   🌙 Tối: ➡️ Dạo phố La Boca, xem nghệ sĩ đường phố.
 
 - Ngày 9:
+
   🌅 Sáng: ➡️ Tham quan công viên và khu mua sắm, mua quà lưu niệm.
+
   🌞 Trưa: ➡️ Trải nghiệm ẩm thực asado truyền thống.
+
   🌙 Tối: ➡️ Tự do chuẩn bị hành lý, nghỉ ngơi.
 
 - Ngày 10:
+
   🌅 Sáng: ➡️ Trả phòng, di chuyển ra sân bay.
+
   🌞 Trưa: ➡️ Làm thủ tục bay về Việt Nam.
+
   🌙 Tối: ➡️ Về đến Việt Nam, kết thúc chương trình.
 
 ## Ưu đãi

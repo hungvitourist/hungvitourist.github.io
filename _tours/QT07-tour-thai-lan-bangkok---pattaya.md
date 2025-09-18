@@ -35,24 +35,39 @@ Tour phù hợp cả gia đình, nhóm bạn hay cặp đôi muốn một kỳ n
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Tập trung tại sân bay, làm thủ tục, bay tới Bangkok.
+
   🌞 Trưa: ➡️ Đón khách, ăn trưa, nhận phòng khách sạn, nghỉ ngơi.
+
   🌙 Tối: ➡️ Tham quan Asiatique Riverfront, thưởng thức ẩm thực & chợ đêm.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Grand Palace, Wat Pho (Phật nằm).
+
   🌞 Trưa: ➡️ Dùng bữa, ghé cửa hàng đá quý và trung tâm thương mại Siam.
+
   🌙 Tối: ➡️ Thưởng thức massage truyền thống hoặc khám phá chợ đêm.
 - Ngày 3:
+
   🌅 Sáng: ➡️ Khởi hành đi Pattaya bằng xe, nhận phòng.
+
   🌞 Trưa: ➡️ Đi tàu cao tốc ra đảo Coral Island (Koh Larn), tắm biển, chơi mô tô nước.
+
   🌙 Tối: ➡️ Tự do dạo phố, khám phá Walking Street sôi động.
 - Ngày 4:
+
   🌅 Sáng: ➡️ Tham quan Sanctuary of Truth (Ngôi đền bằng gỗ).
+
   🌞 Trưa: ➡️ Ghé Nong Nooch Tropical Garden, xem biểu diễn văn hóa.
+
   🌙 Tối: ➡️ Xem cabaret show (tùy chọn) hoặc nghỉ ngơi tại bãi biển.
 - Ngày 5:
+
   🌅 Sáng: ➡️ Tự do mua sắm, chụp hình, trả phòng.
+
   🌞 Trưa: ➡️ Khởi hành về Bangkok, di chuyển ra sân bay.
+
   🌙 Tối: ➡️ Đáp chuyến bay về Việt Nam, kết thúc tour, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

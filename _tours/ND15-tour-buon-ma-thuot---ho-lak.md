@@ -35,18 +35,27 @@ Dành cho những ai muốn selfie cùng hoang dã, muốn thử cảm giác cư
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đón sân bay Buôn Ma Thuột, ➡️ nhận phòng khách sạn, ➡️ tham quan Bảo tàng Cà phê và làng cà phê địa phương.
+
   🌞 Trưa: Thưởng thức đặc sản Tây Nguyên tại nhà hàng địa phương.
+
   🌙 Tối: Dạo chợ đêm Buôn Ma Thuột, trải nghiệm ẩm thực đường phố và nghỉ ngơi chuẩn bị ngày khám phá tiếp theo.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành đến Hồ Lắk, ➡️ lên thuyền tham quan hồ, ➡️ ghé thăm buôn làng M’Nông/Ede.
+
   🌞 Trưa: Dùng cơm trưa bên hồ với món cá nướng và cơm lam.
+
   🌙 Tối: Tham gia chương trình văn hoá cồng chiêng, đốt lửa trại, nghỉ đêm homestay/khách sạn ven hồ.
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Thăm vườn cà phê, ➡️ trải nghiệm thu hoạch & rang xay, ➡️ thưởng thức cà phê tươi.
+
   🌞 Trưa: Trở về Buôn Ma Thuột, ăn trưa và mua sắm đặc sản (cà phê, mật ong, măng khô).
+
   🌙 Tối: Tiễn sân bay, kết thúc tour, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

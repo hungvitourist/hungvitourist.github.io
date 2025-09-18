@@ -35,32 +35,53 @@ Tour được thiết kế dành cho du khách Việt muốn trải nghiệm tr�
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đáp sân bay Keflavik ➡️ Làm thủ tục nhập cảnh ➡️ Di chuyển về Reykjavik, nhận phòng
+
   🌞 Trưa: Thăm quan trung tâm Reykjavik: Hallgrímskirkja, Laugavegur, nhà hàng địa phương
+
   🌙 Tối: Nghỉ ngơi, tự do khám phá quán cà phê hoặc thưởng thức hải sản Bắc Âu
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành Golden Circle ➡️ Tham quan Þingvellir (vườn quốc gia)
+
   🌞 Trưa: Thăm Geysir và suối nước nóng Strokkur
+
   🌙 Tối: Tham quan thác Gullfoss, trở về Reykjavik hoặc nghỉ tại khu vực ngoại ô
 - Ngày 3:
+
   🌅 Sáng: ➡️ Đi theo bờ Nam ➡️ Dừng tại Seljalandsfoss (có thể đi sau lưng thác)
+
   🌞 Trưa: Khám phá Skógafoss, bảo tàng nông trại cũ
+
   🌙 Tối: Nghỉ ở khu vực Vik, ngắm hoàng hôn trên bãi cát đen Reynisfjara
 - Ngày 4:
+
   🌅 Sáng: ➡️ Tiếp tục hành trình tới Jökulsárlón ➡️ Tham quan đầm phá băng và Diamond Beach
+
   🌞 Trưa: Tham gia tùy chọn du thuyền giữa băng trôi hoặc khám phá động băng (tùy mùa)
+
   🌙 Tối: Nghỉ tại khu vực gần Höfn hoặc trở về theo lịch
 - Ngày 5:
+
   🌅 Sáng: ➡️ Trở về hướng Reykjavik ➡️ Dừng chân chụp ảnh phong cảnh ven đường
+
   🌞 Trưa: Thời gian tự do mua sắm hoặc tham quan bảo tàng tại Reykjavik
+
   🌙 Tối: Thư giãn, chuẩn bị cho trải nghiệm suối khoáng
 - Ngày 6:
+
   🌅 Sáng: ➡️ Thăm Blue Lagoon (tắm khoáng, spa) ➡️ Thưởng thức liệu pháp thư giãn
+
   🌞 Trưa: Trở về Reykjavik, thời gian tự do khám phá tinh hoa ẩm thực Iceland
+
   🌙 Tối: Buổi tối tự do — gợi ý tham gia tour săn cực quang (tuỳ điều kiện)
 - Ngày 7:
+
   🌅 Sáng: ➡️ Check-out khách sạn ➡️ Di chuyển ra sân bay Keflavik
+
   🌞 Trưa: Làm thủ tục bay về Việt Nam
+
   🌙 Tối: Kết thúc hành trình, hẹn gặp lại trong chuyến đi tiếp theo
 
 ## Ưu đãi

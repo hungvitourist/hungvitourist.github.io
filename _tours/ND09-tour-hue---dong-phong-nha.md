@@ -35,18 +35,27 @@ Tour phù hợp cả gia đình, nhóm bạn và những ai muốn tạm rời n
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ 06:30 - Tập trung tại điểm hẹn ở Huế ➡️ 07:00 - Khởi hành đi Quảng Bình ➡️ 10:30 - Nghỉ dừng, tiếp tục hành trình  
+
   🌞 Trưa: Đến Phong Nha, nhận phòng, ăn trưa với đặc sản địa phương.  
+
   🌙 Tối: Tham quan phố đêm, tự do thưởng thức ẩm thực và nghỉ ngơi.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ 08:00 - Tham quan Động Phong Nha bằng thuyền ➡️ 10:30 - Khám phá hang động, chụp ảnh  
+
   🌞 Trưa: Ăn trưa tại nhà hàng, nghỉ ngơi.  
+
   🌙 Tối: Tham gia hoạt động tự do (có thể đi Dark Cave/zipline nếu chọn), giao lưu văn hóa.
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ 07:30 - Tham quan Động Thiên Đường hoặc vườn Quốc gia ➡️ 10:30 - Trả phòng, chuẩn bị về Huế  
+
   🌞 Trưa: Trên đường về dừng chân ăn trưa, mua quà lưu niệm.  
+
   🌙 Tối: Về đến Huế, chia tay kết thúc tour an toàn.
 
 ## Ưu đãi

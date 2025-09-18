@@ -37,40 +37,67 @@ Sẵn sàng cho hành trình Nam Phi đẳng cấp? Liên hệ ngay để giữ 
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: Đến Cape Town ➡️ làm thủ tục nhập cảnh ➡️ đưa về khách sạn, nghỉ ngơi.
+
   🌞 Trưa: Ăn trưa tại V&A Waterfront ➡️ dạo mua sắm và chụp hình.
+
   🌙 Tối: Thăm Table Mountain (nếu thời tiết cho phép) hoặc dùng bữa tối tại nhà hàng địa phương.
 - Ngày 2:
+
   🌅 Sáng: Khởi hành khám phá Cape Peninsula ➡️ ghé Boulders Beach thăm chim cánh cụt.
+
   🌞 Trưa: Dùng bữa tại Simon's Town hoặc Cape Point.
+
   🌙 Tối: Trở về Cape Town, tự do tại V&A Waterfront.
 - Ngày 3:
+
   🌅 Sáng: Tham quan Robben Island (nếu lịch cho phép) ➡️ quay về thành phố.
+
   🌞 Trưa: Khám phá khu Bo-Kaap nhiều màu sắc ➡️ thưởng thức ẩm thực Cape Malay.
+
   🌙 Tối: Ngắm hoàng hôn trên Signal Hill, dạo phố.
 - Ngày 4:
+
   🌅 Sáng: Tham quan Winelands — Stellenbosch & Franschhoek ➡️ wine tasting.
+
   🌞 Trưa: Ăn trưa trong khu vực rượu vang, tham quan vườn nho.
+
   🌙 Tối: Trở về Cape Town, chuẩn bị hành lý.
 - Ngày 5:
+
   🌅 Sáng: Bay đến Johannesburg ➡️ nhận phòng khách sạn.
+
   🌞 Trưa: Tham quan Apartheid Museum.
+
   🌙 Tối: Khám phá Soweto, thưởng thức ẩm thực địa phương.
 - Ngày 6:
+
   🌅 Sáng: Bay/di chuyển tới khu vực Kruger hoặc sân bay gần safari ➡️ về lodge.
+
   🌞 Trưa: Nghỉ ngơi, giới thiệu lodge và an toàn khi safari.
+
   🌙 Tối: Safari hoàng hôn/buổi tối — dinner under the stars.
 - Ngày 7:
+
   🌅 Sáng: Safari rạng đông ➡️ săn hình ảnh “Big Five”.
+
   🌞 Trưa: Trở về lodge, nghỉ dưỡng và dùng bữa.
+
   🌙 Tối: Night drive tùy chọn hoặc chương trình văn hóa tại lodge.
 - Ngày 8:
+
   🌅 Sáng: Safari tiếp theo ➡️ khám phá vùng hoang dã khác trong Kruger.
+
   🌞 Trưa: Thư giãn tại lodge, tận hưởng spa hoặc hoạt động nhẹ.
+
   🌙 Tối: Tiệc tạm biệt với hướng dẫn viên và người quản lý lodge.
 - Ngày 9:
+
   🌅 Sáng: Chuyến đi ngắn trước khi rời lodge ➡️ trả phòng.
+
   🌞 Trưa: Bay về Johannesburg ➡️ nối chuyến về Việt Nam hoặc tiếp tục hành trình.
+
   🌙 Tối: Kết thúc tour — chào tạm biệt Nam Phi, về đến điểm khởi hành.
 
 ## Ưu đãi

@@ -37,18 +37,27 @@ Muốn biết thêm lịch khởi hành và đặt chỗ nhanh chóng? Liên h�
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ Việt Nam, bay đến Hà Khẩu (Hekou) ➡️ Làm thủ tục nhập cảnh ➡️ Tham quan chợ biên giới, phố cổ Hà Khẩu  
+
   🌞 Trưa: Thưởng thức ẩm thực địa phương, nghỉ ngơi  
+
   🌙 Tối: Di chuyển về Bình Biên, nhận phòng khách sạn, dạo phố đêm, trải nghiệm ẩm thực đường phố
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành đi Kiến Thủy (Jianshui) ➡️ Tham quan Phố cổ Kiến Thủy và Văn Miếu/Đền thờ Khổng Tử ➡️ Thăm Cầu Song Long (Shuanglong Bridge)  
+
   🌞 Trưa: Thưởng thức món đặc sản địa phương, tiếp tục tham quan Vườn họ Chu (Zhu Family Garden)  
+
   🌙 Tối: Dạo phố cổ về đêm, mua sắm quà lưu niệm, nghỉ đêm tại Kiến Thủy
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Di chuyển đến Mông Tự (Mengzi) ➡️ Tham quan Phố cổ Mông Tự, khám phá kiến trúc và chợ địa phương  
+
   🌞 Trưa: Ăn trưa, thời gian tự do chụp ảnh, mua sắm đặc sản  
+
   🌙 Tối: Trở về Hà Khẩu, làm thủ tục bay về Việt Nam, kết thúc hành trình
 
 ## Ưu đãi

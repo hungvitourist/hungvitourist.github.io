@@ -35,43 +35,67 @@ Tour được thiết kế cân bằng giữa tham quan, trải nghiệm ẩm th
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ Việt Nam, bay thẳng/ quá cảnh đến Paris, Pháp ➡️ Làm thủ tục nhập cảnh
+
   🌞 Trưa: ➡️ Nhận phòng khách sạn, ăn trưa nhẹ, nghỉ ngơi
+
   🌙 Tối: ➡️ Dạo bến sông Seine, thưởng thức ẩm thực Pháp, tự do khám phá
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Tháp Eiffel, chụp ảnh lưu niệm ➡️ Tham quan Quảng trường Concorde
+
   🌞 Trưa: ➡️ Thưởng thức bữa trưa tại nhà hàng địa phương
+
   🌙 Tối: ➡️ Khám phá khu Montmartre, tham quan Nhà thờ Sacré-Cœur
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Khởi hành đến Strasbourg/ biên giới Đức ➡️ Tham quan Khu phố cổ
+
   🌞 Trưa: ➡️ Thưởng thức ẩm thực Đức vùng Alsace
+
   🌙 Tối: ➡️ Nghỉ đêm tại thành phố cổ, dạo phố về đêm
 
 - Ngày 4:
+
   🌅 Sáng: ➡️ Tham quan lâu đài Neuschwanstein (hoặc tương tự) ở Bavaria ➡️ Check-in điểm ngắm cảnh
+
   🌞 Trưa: ➡️ Thưởng thức đặc sản Đức, mua sắm quà lưu niệm
+
   🌙 Tối: ➡️ Nghỉ ngơi tại khách sạn, tự do khám phá
 
 - Ngày 5:
+
   🌅 Sáng: ➡️ Di chuyển đến Thụy Sĩ, đến Lucerne hoặc Interlaken ➡️ Tham quan trung tâm thành phố
+
   🌞 Trưa: ➡️ Trải nghiệm ẩm thực Thụy Sĩ (phô mai, socola)
+
   🌙 Tối: ➡️ Dạo hồ, ngắm núi Alpes về đêm
 
 - Ngày 6:
+
   🌅 Sáng: ➡️ Leo núi bằng cáp treo/ tàu Rigi hoặc Jungfraujoch (theo hành trình) ➡️ Chụp ảnh panorama
+
   🌞 Trưa: ➡️ Ăn trưa tại nhà hàng trên núi
+
   🌙 Tối: ➡️ Quay về, nghỉ ngơi, thư giãn tại khách sạn
 
 - Ngày 7:
+
   🌅 Sáng: ➡️ Di chuyển đến Ý, đến Milan hoặc Venice tùy chương trình ➡️ Tham quan trung tâm lịch sử
+
   🌞 Trưa: ➡️ Thưởng thức pizza/pasta chính hiệu Ý
+
   🌙 Tối: ➡️ Dạo quảng trường, thưởng thức không khí lãng mạn
 
 - Ngày 8:
+
   🌅 Sáng: ➡️ Thời gian tự do mua sắm, chụp ảnh cuối cùng
+
   🌞 Trưa: ➡️ Làm thủ tục trả phòng, di chuyển ra sân bay
+
   🌙 Tối: ➡️ Bay về Việt Nam, kết thúc hành trình, hẹn gặp lại
 
 ## Ưu đãi

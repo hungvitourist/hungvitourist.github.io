@@ -35,16 +35,25 @@ Nếu bạn cần một kỳ nghỉ ngắn để tái tạo năng lượng, Tour
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành bằng máy bay đến Phú Quốc ➡️ Đón sân bay, nhận phòng khách sạn
+
   🌞 Trưa: Ăn trưa, nghỉ ngơi, tắm biển tại Bãi Dài
+
   🌙 Tối: Tham quan chợ đêm Dinh Cậu, thưởng thức hải sản địa phương
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Nam Đảo hoặc tour đảo An Thới ➡️ Snorkeling và lặn ngắm san hô
+
   🌞 Trưa: Ăn trưa trên đảo, nghỉ ngơi
+
   🌙 Tối: Tham quan làng chài, thử hải sản nướng, dạo biển ngắm hoàng hôn
 - Ngày 3:
+
   🌅 Sáng: ➡️ Tham quan vườn tiêu, cơ sở sản xuất nước mắm hoặc trại ngọc trai ➡️ Check-out
+
   🌞 Trưa: Ăn trưa, mua quà lưu niệm
+
   🌙 Tối: Ra sân bay về lại điểm khởi hành, kết thúc chương trình
 
 ## Ưu đãi

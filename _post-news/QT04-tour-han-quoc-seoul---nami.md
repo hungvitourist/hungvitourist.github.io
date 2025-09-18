@@ -35,20 +35,32 @@ Dành cho cặp đôi, nhóm bạn hay gia đình muốn một chuyến đi nh�
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Bay từ Việt Nam đến Seoul ➡️ Làm thủ tục nhập cảnh ➡️ Nhận hành lý và xe đưa đón
+
   🌞 Trưa: Nhận phòng khách sạn, nghỉ ngơi, dùng bữa trưa
+
   🌙 Tối: Tham quan Myeongdong, ăn tối với món nướng Hàn, tự do mua sắm
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành đến Đảo Nami ➡️ Dạo bộ giữa hàng cây, chụp hình sống ảo
+
   🌞 Trưa: Thưởng thức ẩm thực địa phương trên đảo
+
   🌙 Tối: Thăm Petite France hoặc khu rừng lãng mạn, trở về Seoul
 - Ngày 3:
+
   🌅 Sáng: ➡️ Tham quan Cung Gyeongbokgung ➡️ Xem nghi thức đổi gác, chụp hình áo hanbok
+
   🌞 Trưa: Tham quan Bukchon Hanok Village và phố Insadong, ăn trưa
+
   🌙 Tối: Ghé Hongdae/Guangjang Market, trải nghiệm ẩm thực đường phố
 - Ngày 4:
+
   🌅 Sáng: ➡️ Thời gian tự do mua sắm, đóng gói hành lý
+
   🌞 Trưa: Check-out, di chuyển ra sân bay
+
   🌙 Tối: Bay về Việt Nam, kết thúc hành trình và chia tay đoàn
 
 ## Ưu đãi

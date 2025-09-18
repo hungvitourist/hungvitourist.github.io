@@ -35,16 +35,25 @@ Hãy để chuyến đi này làm mới tâm hồn bạn — từ không gian bi
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành bằng ✈️/🚅 đến cảng, đi tàu cao tốc ra Lý Sơn ➡️ Nhận phòng khách sạn, nghỉ ngơi.
+
   🌞 Trưa: ➡️ Dùng bữa trưa với đặc sản tươi sống, khám phá làng chài An Vĩnh.
+
   🌙 Tối: ➡️ Dạo biển ngắm hoàng hôn, tự do thưởng thức hải sản tại chợ đêm.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Đỉnh Thới Lới, chụp ảnh bình minh ➡️ Tham quan Cột cờ Tổ quốc.
+
   🌞 Trưa: ➡️ Ghé Hang Câu và Cổng Tò Vò, ăn trưa picnic/nhà hàng địa phương.
+
   🌙 Tối: ➡️ Lặn ngắm san hô tại Đảo Bé hoặc tự do khám phá ẩm thực địa phương.
 - Ngày 3:
+
   🌅 Sáng: ➡️ Thăm vườn tỏi, trải nghiệm thu hoạch tỏi (tuỳ mùa).
+
   🌞 Trưa: ➡️ Mua quà lưu niệm, dùng bữa nhẹ, làm thủ tục trả phòng.
+
   🌙 Tối: ➡️ Lên tàu/xe trở về điểm đón, kết thúc hành trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

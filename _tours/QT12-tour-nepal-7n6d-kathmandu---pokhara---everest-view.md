@@ -35,32 +35,53 @@ Hãy cùng chúng tôi tạo nên kỷ niệm khó quên tại Nepal — an toà
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Đón sân bay Kathmandu, làm thủ tục khách sạn ➡️ Nghỉ ngơi, điều chỉnh múi giờ  
+
   🌞 Trưa: Thưởng thức bữa trưa địa phương, nghỉ ngơi nhẹ  
+
   🌙 Tối: Dạo phố Thamel, khám phá ẩm thực Nepal
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Durbar Square ➡️ Boudhanath Stupa ➡️ Swayambhunath (Monkey Temple)  
+
   🌞 Trưa: Ăn trưa tại nhà hàng địa phương, trải nghiệm trà Nepal  
+
   🌙 Tối: Tham dự buổi cầu nguyện, tự do mua sắm đồ lưu niệm
 - Ngày 3:
+
   🌅 Sáng: ➡️ Bay cảnh Everest View (khởi hành sớm, chụp ảnh đỉnh Everest) ➡️ Trở về Kathmandu  
+
   🌞 Trưa: Ăn trưa, nghỉ ngơi  
+
   🌙 Tối: Di chuyển bằng xe khách sang Pokhara (nghỉ đêm trên xe/hoặc đến nơi tùy lịch)
 - Ngày 4:
+
   🌅 Sáng: ➡️ Tham quan Phewa Lake ➡️ Đi thuyền, thăm Tal Barahi Temple  
+
   🌞 Trưa: Ăn trưa tại Lakeside, tham quan Davis Falls & Gupteshwor Cave  
+
   🌙 Tối: Dạo Lakeside, thưởng cà phê ngắm hồ
 - Ngày 5:
+
   🌅 Sáng: ➡️ Lên Sarangkot ngắm bình minh và dãy Annapurna ➡️ Chụp ảnh, thư giãn  
+
   🌞 Trưa: Trở về Pokhara, ăn trưa, nghỉ ngơi  
+
   🌙 Tối: Tự do (tùy chọn dù lượn, massage)
 - Ngày 6:
+
   🌅 Sáng: ➡️ Thăm Peace Pagoda ➡️ Khám phá làng văn hóa và chợ địa phương  
+
   🌞 Trưa: Chuẩn bị hành lý, ăn trưa  
+
   🌙 Tối: Lên xe khách về Kathmandu, nghỉ đêm trên đường hoặc tại Kathmandu (tuỳ lịch)
 - Ngày 7:
+
   🌅 Sáng: ➡️ Thời gian tự do mua sắm, chụp hình cuối cùng tại Kathmandu  
+
   🌞 Trưa: Trả phòng, di chuyển ra sân bay  
+
   🌙 Tối: Bay về Việt Nam, kết thúc hành trình
 
 ## Ưu đãi

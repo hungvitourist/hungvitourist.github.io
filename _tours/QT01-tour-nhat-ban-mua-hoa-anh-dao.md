@@ -35,28 +35,43 @@ Dịch vụ tour bao gồm khách sạn tiện nghi, hướng dẫn viên tiến
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ Việt Nam ➡️ Đến sân bay Tokyo (Narita/Haneda) ➡️ Di chuyển về khách sạn, nhận phòng  
+
   🌞 Trưa: ➡️ Ăn trưa, nghỉ ngơi, làm quen thời tiết  
+
   🌙 Tối: ➡️ Tham quan Shinjuku/Shibuya, thưởng thức ẩm thực địa phương, check-in phố đèn neon
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Asakusa – chùa Sensoji ➡️ Dạo cầu Sumida, chụp ảnh sakura bên bờ sông  
+
   🌞 Trưa: ➡️ Thưởng thức quán ăn truyền thống, ghé Ueno Park ngắm hoa anh đào  
+
   🌙 Tối: ➡️ Tự do mua sắm ở Ginza hoặc Akihabara, trải nghiệm izakaya
 
 - Ngày 3:
+
   🌅 Sáng: ➡️ Di chuyển bằng Shinkansen đến Kyoto ➡️ Nhận phòng khách sạn  
+
   🌞 Trưa: ➡️ Tham quan đền Fushimi Inari với hàng nghìn cổng torii  
+
   🌙 Tối: ➡️ Dạo phố cổ Gion, có thể gặp geisha, thưởng trà đạo
 
 - Ngày 4:
+
   🌅 Sáng: ➡️ Khám phá Arashiyama – rừng tre, cầu Togetsukyo, vườn hoa sakura  
+
   🌞 Trưa: ➡️ Tham quan Kinkaku-ji (Chùa Vàng) ➡️ Trải nghiệm tiệm trà truyền thống  
+
   🌙 Tối: ➡️ Thưởng thức ẩm thực Kyoto, dạo Pontocho hoặc thư giãn tại onsen (nếu có)
 
 - Ngày 5:
+
   🌅 Sáng: ➡️ Di chuyển đến Osaka ➡️ Tham quan lâu đài Osaka hoặc mua sắm tại Shinsaibashi  
+
   🌞 Trưa: ➡️ Khám phá Dotonbori, thưởng thức takoyaki và okonomiyaki  
+
   🌙 Tối: ➡️ Di chuyển ra sân bay Kansai, làm thủ tục về Việt Nam
 
 ## Ưu đãi

@@ -36,12 +36,18 @@ Tour phù hợp cả gia đình, cặp đôi và nhóm bạn muốn một chuy�
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Khởi hành từ điểm hẹn, nghỉ dọc đường, ➡️ Đến Sa Đéc, thăm Làng hoa, chụp ảnh.
+
   🌞 Trưa: ➡️ Ăn trưa đặc sản địa phương, ➡️ Nhận phòng homestay/khách sạn.
+
   🌙 Tối: ➡️ Dạo chợ đêm Sa Đéc, ➡️ Thưởng thức ẩm thực, ➡️ Tự do khám phá, nghỉ ngơi.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Thức dậy sớm, ➡️ Đi xuồng ngắm sen và chim tại Tràm Chim (hoặc cánh đồng sen), ➡️ Chụp ảnh bình minh.
+
   🌞 Trưa: ➡️ Trở về, ăn trưa, ➡️ Tham quan làng nghề truyền thống (dệt chiếu, làm kẹo).
+
   🌙 Tối: ➡️ Lên xe về lại điểm đón ban đầu, ➡️ Kết thúc tour, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

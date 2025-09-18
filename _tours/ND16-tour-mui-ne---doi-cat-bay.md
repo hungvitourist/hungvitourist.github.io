@@ -37,13 +37,19 @@ Nhanh tay giữ chỗ để tận hưởng ưu đãi đặc biệt và một k�
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Xuất phát từ điểm hẹn (TP. HCM/điểm tập trung) ➡️ Nghỉ dừng chân nhẹ, tiếp tục hành trình ➡️ Đến Mũi Né, nhận phòng khách sạn.
+
   🌞 Trưa: ➡️ Ăn trưa đặc sản miền biển ➡️ Tham quan Làng Chài Mũi Né, chụp ảnh.
+
   🌙 Tối: ➡️ Tự do dạo biển, thưởng thức hải sản (tự túc hoặc theo gợi ý nhà hàng) ➡️ Nghỉ đêm tại khách sạn.
 
 - Ngày 2:
+
   🌅 Sáng: ➡️ Khởi hành sớm đi Đồi Cát Bay/Đồi Cát Vàng để ngắm bình minh ➡️ Trải nghiệm trượt cát, chụp hình nghệ thuật.
+
   🌞 Trưa: ➡️ Tham quan Suối Tiên (Fairy Stream) hoặc Bàu Trắng tùy lịch trình ➡️ Ăn trưa, nghỉ ngơi.
+
   🌙 Tối: ➡️ Lên đường về điểm đón, kết thúc hành trình, chia tay và hẹn gặp lại.
 
 ## Ưu đãi

@@ -35,12 +35,18 @@ Hãy để tour Vinh - Cửa Lò gói ghém những khoảnh khắc thư thái v
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Tập trung tại điểm hẹn, xuất phát bằng xe khách ➡️ Nghỉ dừng, ăn sáng nhẹ trên đường ➡️ Về khách sạn nhận phòng.
+
   🌞 Trưa: ➡️ Thưởng thức bữa trưa hải sản địa phương ➡️ Tự do tắm biển, chụp ảnh.
+
   🌙 Tối: ➡️ Dạo biển Cửa Lò lúc hoàng hôn ➡️ Dùng bữa tối, tự do khám phá chợ đêm/ẩm thực đường phố.
 - Ngày 2:
+
   🌅 Sáng: ➡️ Ngắm bình minh trên biển ➡️ Tham gia hoạt động nhẹ như câu cá hoặc thuê thuyền ngắn.
+
   🌞 Trưa: ➡️ Trả phòng, dùng bữa trưa tại Vinh ➡️ Tham quan nhanh điểm văn hóa/di tích.
+
   🌙 Tối: ➡️ Lên xe trở về điểm đón ban đầu ➡️ Kết thúc tour, chia tay đoàn.
 
 ## Ưu đãi

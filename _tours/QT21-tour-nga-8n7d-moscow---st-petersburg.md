@@ -35,36 +35,60 @@ Hành trình được thiết kế hài hòa giữa tham quan, trải nghiệm �
 
 ## Hành trình
 - Ngày 1:
+
   🌅 Sáng: ➡️ Tập trung tại sân bay, làm thủ tục ➡️ Khởi hành đến Moscow ✈️
+
   🌞 Trưa: Nhận phòng khách sạn, nghỉ ngơi, ăn trưa
+
   🌙 Tối: Dạo quanh Quảng trường Đỏ về đêm, chụp ảnh
 - Ngày 2:
+
   🌅 Sáng: ➡️ Tham quan Kremlin ➡️ Nhà thờ St. Basil
+
   🌞 Trưa: Thưởng thức ẩm thực Nga tại nhà hàng địa phương
+
   🌙 Tối: Xem chương trình biểu diễn nhạc hoặc múa dân gian (tùy lịch)
 - Ngày 3:
+
   🌅 Sáng: ➡️ Thăm Bảo tàng Lịch sử Quốc gia ➡️ Đại lộ Arbat
+
   🌞 Trưa: Tham quan chợ địa phương, thử các món ăn đường phố
+
   🌙 Tối: Tự do mua sắm hoặc nghỉ ngơi tại khách sạn
 - Ngày 4:
+
   🌅 Sáng: ➡️ Khởi hành đến St. Petersburg bằng phương tiện (chuyến bay/xe)
+
   🌞 Trưa: Nhận phòng, ăn trưa, khởi đầu khám phá Nevsky Prospect
+
   🌙 Tối: Dạo ven sông Neva, thưởng thức không gian lãng mạn
 - Ngày 5:
+
   🌅 Sáng: ➡️ Tham quan Hermitage (Cung điện Mùa Đông) ➡️ Quảng trường Cung điện
+
   🌞 Trưa: Ăn trưa tại khu trung tâm
+
   🌙 Tối: Tham quan nhà hát hoặc tự do khám phá thành phố
 - Ngày 6:
+
   🌅 Sáng: ➡️ Thăm Peterhof và các đài phun nước lộng lẫy
+
   🌞 Trưa: Thưởng thức hải sản tươi tại nhà hàng gần bờ biển
+
   🌙 Tối: Dạo phố cổ, ghé quán cà phê truyền thống
 - Ngày 7:
+
   🌅 Sáng: ➡️ Khám phá Nhà thờ Spilled Blood ➡️ Cung điện Catherine ở Pushkin
+
   🌞 Trưa: Tham quan vườn cung điện và chụp ảnh
+
   🌙 Tối: Tiệc chia tay, tổng kết hành trình
 - Ngày 8:
+
   🌅 Sáng: ➡️ Thời gian tự do, chuẩn bị hành lý
+
   🌞 Trưa: Làm thủ tục trả phòng, ra sân bay
+
   🌙 Tối: Lên chuyến bay về Việt Nam, kết thúc tour an toàn và nhiều kỷ niệm
 
 ## Ưu đãi

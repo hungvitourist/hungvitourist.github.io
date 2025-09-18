@@ -148,6 +148,7 @@ h2 {
     #b8860b    /* vàng đậm */
   );
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -306,6 +307,7 @@ img {
     #b8860b    /* vàng đậm */
   );
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -525,6 +527,10 @@ footer .copyright {
   margin-bottom: 0;
 }
 
+footer .copyright h2 {
+  font-size: 20px;
+}
+
 footer .theme-by {
   text-align: center;
   margin: 10px 0 0;
@@ -532,7 +538,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 40px 0;
   }
 
   footer .footer-links {
@@ -849,6 +855,7 @@ footer .theme-by {
   display: inline-block;
 background: linear-gradient(90deg, #00d3ff, #f0de0a);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -1149,6 +1156,7 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
   /* color: #ffffff; */
 background: linear-gradient(90deg, #00d3ff, #f0de0a);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   width: 50px;
   height: 50px;
@@ -1197,9 +1205,16 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background: linear-gradient(90deg, #4612ff, #be009f);
+  background: linear-gradient(
+    90deg, 
+    #b8860b,   /* vàng đậm */
+    #ffd700,   /* vàng chuẩn */
+    #fff1a8,   /* ánh sáng nhạt */
+    #ffd700,   /* vàng chuẩn */
+    #b8860b    /* vàng đậm */
+  );
   border-radius: 15px;
-  color: #ffffff;
+  color: var(--color-primary);
   border: 1px solid #161616;
 }
 
@@ -1446,6 +1461,7 @@ table tr td :last-child {
   display: inline-block;
 background: linear-gradient(90deg, #00d3ff, #f0de0a);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: waviy 2s infinite;
   animation-delay: calc(.1s * var(--i))
@@ -1627,6 +1643,7 @@ option:hover {
     #b8860b    /* vàng đậm */
   );
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -1742,6 +1759,7 @@ option:hover {
   font-family: 'Poppins', 'Segoe UI', sans-serif;
   background: linear-gradient(90deg, #b8860b, #ffd700, #b8860b); /* vàng ánh kim */
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); /* tạo chiều sâu */
   letter-spacing: 0.5px;

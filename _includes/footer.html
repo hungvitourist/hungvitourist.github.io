@@ -20,7 +20,7 @@
           {% endif %}
           {% if site.author.tiktok and site.footer-links-active.tiktok %}
           <li>
-            <a href="https://www.tiktok.com/{{ site.author.tiktok }}" title="Tiktok Đèn thông minh Happy">
+            <a href="https://www.tiktok.com/{{ site.author.tiktok }}" title="Tiktok {{ site.author.tiktok }}">
               <span class="fa-stack fa-lg" aria-hidden="true">
                 <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
                 <i class="fa-brands fa-tiktok fa-stack-1x fa-inverse"></i>
@@ -89,43 +89,44 @@
 
           {% if site.map-address-1 and site.footer-links-active.map-address-1 %}
           <li>
-            <a href="{{ site.map-address }}" title="Địa chỉ TP HCM">
+            <a href="{{ site.map-address }}" title="{{ site.address-1 }}">
               <span class="fa-stack fa-lg" aria-hidden="true">
                 <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
                 <i class="fa-solid fa-map-location-dot fa-stack-1x fa-inverse"></i>
               </span>
-              <span class="sr-only">Địa chỉ TP HCM</span>
+              <span class="sr-only">{{ site.address-1 }}</span>
             </a>
           </li>
           {% endif %}
           {% if site.map-address-2 and site.footer-links-active.map-address-2 %}
           <li>
-            <a href="{{ site.map-address }}" title="Địa chỉ TP Bà Rịa">
+            <a href="{{ site.map-address }}" title="{{ site.address-2 }}">
               <span class="fa-stack fa-lg" aria-hidden="true">
                 <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
                 <i class="fa-solid fa-map-location-dot fa-stack-1x fa-inverse"></i>
               </span>
-              <span class="sr-only">Địa chỉ TP Bà Rịa</span>
+              <span class="sr-only">{{ site.address-2 }}</span>
             </a>
           </li>
           {% endif %}
         </ul>
 
-        <p class="copyright text-muted">
-          <a href="tel:+84{{ site.author.telephone }}" title="{{ site.author.telephone }}">📞(+84) {{ site.author.telephone }}</a> 
-          <br>
-          <a href="mailto:{{ site.author.email  }}" title="{{ site.author.email  }}">✉️ {{ site.author.email  }}</a> 
-          <br>
-          {{ site.Tax-code }}
-          <br>
-          {{ site.company }} 
-          <br>
-          <a href="{{ site.map-address-1 }}" title="Google Map">{{ site.address-1 }}</a>
-          <br>
-          <!-- <a href="{{ site.map-address-2 }}" title="Google Map">{{ site.address-2 }}</a>
-          <br> -->
-          © {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.
-        </p>
+        
+        <div class="copyright text-muted">
+          <h2>{{ site.company }}</h2><br>
+          {{ site.Tax-code }}<br>
+          <a href="tel:+84{{ site.author.telephone }}" title="{{ site.author.telephone }}">📞Hotline: (+84) {{ site.author.telephone }}</a><br>
+          <a href="mailto:{{ site.author.email }}" title="{{ site.author.email }}">✉️Email: {{ site.author.email }}</a><br>
+          <a href="{{ site.map-address-1 }}" title="Google Map">📌Địa chỉ: {{ site.address-1 }}</a><br>
+          <!-- <a href="{{ site.map-address-2 }}" title="Google Map">{{ site.address-2 }}</a><br> -->
+
+          <h2>GIẤY PHÉP KINH DOANH DỊCH VỤ LỮ HÀNH QUỐC TẾ</h2><br>     
+          INTERNATIONAL TOURISM OPERATING LICENSE<br>  
+          Số GP/ No: 72-0004/2023 /CDLQGVN – GP LHQT<br>
+          Do TCDL cấp ngày 18/09/2023<br>
+          Người đại diện: Triệu Hùng Vỉ<br>
+          © {{ site.time | date: '%Y' }} {{ site.title }}. <br> All rights reserved.
+        </div> <!-- .copyright -->
       </div>
     </div>
   </div>

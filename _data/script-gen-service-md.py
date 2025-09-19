@@ -5,7 +5,7 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-csv_file = "visa_service_list.csv"
+csv_file = "post_news_list.csv"
 output_dir = "_posts"
 
 os.makedirs(output_dir, exist_ok=True)
@@ -28,31 +28,70 @@ def generate_ai_content(ma_service, title, categories, tags):
     Bạn là chuyên gia marketing du lịch cao cấp, am hiểu SEO và content chuẩn chuyển đổi.
     Hãy viết nội dung quảng bá cho dịch vụ "{title}" của Hùng Vĩ Tourist.
 
-    🎯 YÊU CẦU NỘI DUNG:
-    Viết thành 3 mục rõ ràng:
+    🎯 YÊU CẦU VIẾT BÀI:
 
-    1️⃣ **Giới thiệu dịch vụ**
-    - 1 đoạn văn 3–4 câu, truyền cảm hứng và cảm xúc.
-    - Có emoji phù hợp (2–3 emoji là đủ).
-    - Giới thiệu giá trị cốt lõi và lý do khách nên quan tâm.
-    - Có call-to-action nhẹ.
+    Bạn là một copywriter chuyên viết blog/news cho công ty du lịch Hung Vi Tourist. 
+    Nhiệm vụ: dựa vào metadata sau đây để viết một bài post-news chi tiết, truyền cảm hứng, tối ưu SEO.
 
-    2️⃣ **Lợi ích khi chọn dịch vụ**
-    - Liệt kê 3–5 lợi ích chính, dạng bullet (-).
-    - Mỗi lợi ích ngắn gọn, dễ đọc, có yếu tố thuyết phục.
-    - Có thể gắn với {categories} hoặc {tags} nếu phù hợp.
+    📌 Metadata:
+    - Mã dịch vụ: {ma_service}
+    - Tiêu đề: {title}
+    - Layout: {layout}
+    - Meta Title: {meta_title}
+    - Ảnh chính: {bigimg}
+    - Ảnh preview: {image}
+    - Tags: {tags}
+    - Categories: {categories}
+    - Địa điểm: {location}
+    - Phương tiện: {transport}
+    - Thời lượng tour: {duration}
+    - Giá/khuyến mãi: {price} / {discount}
 
-    3️⃣ **Từ khóa SEO**
-    - Viết đúng 5 từ khóa liên quan nhất đến dịch vụ.
-    - Ngăn cách bằng dấu phẩy, viết liền trên 1 dòng.
-    - Ưu tiên chèn {categories} và {tags} vào từ khóa nếu hợp lý.
+    📌 Cấu trúc nội dung cần có (yêu cầu bài viết dài, ít nhất 1000 từ):
 
-    📝 Định dạng output:
-    - Xuất ra đúng 3 mục theo thứ tự 1️⃣, 2️⃣, 3️⃣.
-    - Không lặp lại yêu cầu, không thêm phần thừa.
+    1️⃣ **Mở đầu**
+    - 1–2 đoạn văn 4–5 câu.
+    - Giới thiệu chủ đề theo metadata `{title}`.
+    - Gợi cảm xúc, có 2–3 emoji phù hợp.
+    - Nhấn mạnh lý do khách nên quan tâm.
+    - Call-to-action nhẹ.
+
+    2️⃣ **Nội dung chính**
+    - Chia thành 4–6 mục lớn tùy theo loại bài:
+    - Nếu {categories} là `tips` → liệt kê mẹo, kinh nghiệm, lưu ý thực tế.
+    - Nếu {categories} là `destination` → mô tả địa điểm, khí hậu, văn hóa, trải nghiệm, gợi ý lịch trình.
+    - Nếu {categories} là `guide` → viết hướng dẫn từng bước, checklist, quy trình chi tiết.
+    - Nếu {categories} là `event` → phân tích xu hướng, lợi ích, bí quyết tổ chức sự kiện du lịch/doanh nghiệp.
+    - Nếu {categories} là `policy` → cập nhật quy định, thủ tục, chính sách mới, đưa ví dụ minh họa.
+    - Nếu {categories} là `health` → tư vấn sức khỏe, vaccine, bảo hiểm, phòng bệnh khi đi du lịch.
+    - Mỗi mục có heading (## hoặc ###), có giải thích dài (3–4 đoạn), xen kẽ bullet list để dễ đọc.
+
+    3️⃣ **Thông tin bổ sung (nếu có)**
+    - Chèn {location}, {transport}, {duration}, {price}, {discount} vào nội dung nếu phù hợp.
+    - Có thể thêm ví dụ thực tế (tour, chuyến đi, tình huống minh họa).
+
+    4️⃣ **Kinh nghiệm & mẹo hữu ích**
+    - Đưa ra 3–5 kinh nghiệm ngắn gọn, dễ áp dụng, liên quan đến {tags}.
+
+    5️⃣ **Kết luận & Call-to-action**
+    - Viết 1 đoạn truyền cảm hứng.
+    - Nhắc lại Hung Vi Tourist.
+    - CTA mạnh mẽ: “Đặt tour ngay hôm nay”, “Liên hệ để được tư vấn”…  
+
+    6️⃣ **Từ khóa SEO**
+    - Viết đúng 5 từ khóa liên quan nhất.
+    - Ngăn cách bằng dấu phẩy, viết trên 1 dòng.
+    - Ưu tiên dùng {tags} và {categories}.
+
+    ⚡ Yêu cầu văn phong:
+    - Truyền cảm hứng, giàu cảm xúc, nhưng vẫn chuyên nghiệp.
+    - Tối ưu SEO: có tiêu đề phụ, đoạn ngắn, bullet list.
+    - Độ dài: ít nhất 1000 từ, có thể 1200–1500 từ cho bài chuyên sâu.
+    - Dùng emoji phù hợp, không lạm dụng.
+    - Viết đúng ngữ pháp, chính tả tiếng Việt.
     """
     response = client.chat.completions.create(
-        model="gpt-5-mini",
+        model="gpt-5",
         messages=[
             {"role": "system", "content": "Bạn là chuyên gia marketing du lịch cao cấp, viết nội dung hấp dẫn, chuẩn SEO và tối ưu chuyển đổi."},
             {"role": "user", "content": prompt},
@@ -62,10 +101,11 @@ def generate_ai_content(ma_service, title, categories, tags):
 
 
 
-# Xóa các file md cũ bắt đầu bằng SVxx
-print("🧹 Đang kiểm tra và xóa các file .md cũ (SVxx-*.md) trong thư mục _posts...")
+# Xóa các file md cũ bắt đầu bằng SV, ND, QT, NEWS, IT, DT
+prefixes = ("SV", "ND", "QT", "NEWS", "IT", "DT")
+print(f"🧹 Đang kiểm tra và xóa các file .md cũ ({', '.join(prefixes)}-*.md) trong thư mục _posts...")
 for fname in os.listdir(output_dir):
-    if fname.endswith(".md") and fname.startswith("SV"):
+    if fname.endswith(".md") and fname[:3].upper().startswith(prefixes):
         os.remove(os.path.join(output_dir, fname))
         print(f"🗑️  Đã xóa: {fname}")
 
@@ -112,14 +152,14 @@ with open(csv_file, newline='', encoding='utf-8') as f:
         md_content = f"""---
 title: '{title}'
 layout: {layout}
-service_code: {ma_service}
-meta-title: {meta_title}
+service_code: "{ma_service}"
+meta-title: "{meta_title}"
 bigimg:
   - "{bigimg}"
 image: "{image}"
 tags: {tags}
 categories: {categories}
-location: {location}
+location: "{location}"
 ---
 
 ## {title}

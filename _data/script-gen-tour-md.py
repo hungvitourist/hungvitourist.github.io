@@ -73,16 +73,16 @@ def generate_ai_content(ma_tour, title, location, transport, price, duration, di
        - Ngày 1: (nhớ xuống hàng mới, cách hàng vì đây là ngôn ngữ Markdown)
        
         🌅 Sáng: ... (dùng kí hiệu mũi tên ➡️ để thể hiện qua từng bước)
-            
+            (nhớ xuống hàng mới, cách hàng vì đây là ngôn ngữ Markdown)
         🌞 Trưa: ...
-            
+            (nhớ xuống hàng mới, cách hàng vì đây là ngôn ngữ Markdown)
         🌙 Tối: ...
        - Ngày 2: (nhớ xuống hàng mới, cách hàng vì đây là ngôn ngữ Markdown)
        
         🌅 Sáng: ... (dùng kí hiệu mũi tên ➡️ để thể hiện qua từng bước)
-            
+            (nhớ xuống hàng mới, cách hàng vì đây là ngôn ngữ Markdown)
         🌞 Trưa: ...
-            
+            (nhớ xuống hàng mới, cách hàng vì đây là ngôn ngữ Markdown)
         🌙 Tối: ...
        (tiếp tục cho các ngày)
 

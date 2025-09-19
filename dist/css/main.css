@@ -911,7 +911,8 @@ background: linear-gradient(90deg, #00d3ff, #f0de0a);
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #ffc400;
+  font-weight: bold;
   text-decoration: none;
   padding: 0px 5px;
 }

@@ -77,9 +77,9 @@ Hùng Vĩ Tourist tự hào đồng hành cùng:
 
 ---
 
-## 🗺️ **Chi Nhánh Hùng Vĩ Tourist**
+## 🗺️ **Trụ Sở Hùng Vĩ Tourist**
 
-- 📍 **Chi nhánh 1:** [{{ site.address-1 }}]({{ site.map-address-1 }})  
+- 📍 **Trụ sở chính:** [{{ site.address-1 }}]({{ site.map-address-1 }})  
 
 ---
 

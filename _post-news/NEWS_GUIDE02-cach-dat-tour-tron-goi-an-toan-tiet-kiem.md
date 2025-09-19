@@ -19,7 +19,7 @@ location: Toàn quốc
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Bạn muốn vi vu khắp Việt Nam mà không phải đau đầu chuyện săn vé, đặt phòng, canh giờ di chuyển, hay lỡ nhịp ưu đãi? Cách đặt tour trọn gói an toàn & tiết kiệm chính là chìa khóa để bạn đi du lịch thông minh: tối ưu chi phí, bảo đảm trải nghiệm, và an tâm mọi bước chân. Với kinh nghiệm tổ chức tour Toàn quốc, Hùng Vĩ Tourist mang đến hướng dẫn chi tiết để bạn “chốt tour” đúng – chuẩn – lời. ✨
@@ -28,7 +28,7 @@ Trong bài viết này, chúng tôi sẽ giúp bạn nắm quy trình đặt tou
 
 Nội dung chính
 
-1) Xác định mục tiêu và ngân sách: bước khởi đầu để tối ưu chi phí
+##  Xác định mục tiêu và ngân sách: bước khởi đầu để tối ưu chi phí
 Trước khi nhấn nút “đặt tour”, hãy xác định rõ mục tiêu chuyến đi. Bạn cần chuyến nghỉ dưỡng thư giãn hay trải nghiệm khám phá? Đi cùng gia đình có trẻ em hay nhóm bạn yêu thích trekking? Câu trả lời sẽ quyết định loại dịch vụ, phương tiện, thời lượng tour, từ đó ảnh hưởng trực tiếp đến ngân sách.
 
 Tiếp theo, hãy đặt ra một “khung chi phí” dự kiến. Tour trọn gói có ưu điểm là minh bạch chi phí (đã bao gồm phần lớn dịch vụ cốt lõi), giúp bạn dễ cân đối tài chính. Tuy nhiên, các khoản chi ngoài tour như mua sắm, ăn uống tự do, tip… vẫn cần được tính đến.
@@ -41,7 +41,7 @@ Bạn có thể hình dung theo các tiêu chí sau:
 
 Mẹo nhỏ: chọn ngày đi linh hoạt và chấp nhận khởi hành lệch cuối tuần giúp bạn tiết kiệm đáng kể. Hùng Vĩ Tourist luôn có các gói giá/khuyến mãi theo mùa để bạn chủ động ngân sách.
 
-2) Chọn nhà cung cấp tour uy tín: “bảo hiểm” cho trải nghiệm của bạn
+##  Chọn nhà cung cấp tour uy tín: “bảo hiểm” cho trải nghiệm của bạn
 Một nhà tổ chức uy tín là yếu tố quyết định sự an toàn và chất lượng của tour trọn gói. Thay vì chỉ nhìn vào giá, hãy xem xét tổng thể uy tín và cam kết dịch vụ.
 
 Các tiêu chí nên kiểm tra:
@@ -58,7 +58,7 @@ Tại Hùng Vĩ Tourist, chúng tôi tiêu chuẩn hóa quy trình từ tư vấ
 
 Khi bạn mua tour trọn gói, bạn không chỉ mua lịch trình – bạn mua sự an tâm. Đó là giá trị thật sự của một đơn vị tổ chức uy tín.
 
-3) Đọc kỹ chương trình & điều kiện tour: hiểu rõ để không phát sinh chi phí
+##  Đọc kỹ chương trình & điều kiện tour: hiểu rõ để không phát sinh chi phí
 Nhiều du khách bỏ qua bước đọc kỹ chương trình (Itinerary), dẫn đến lầm tưởng về dịch vụ hoặc phát sinh ngoài dự kiến. Hãy dành 10 phút để kiểm tra toàn bộ nội dung.
 
 Những mục bắt buộc phải xem:
@@ -75,7 +75,7 @@ Một số lưu ý ít ai nói:
 
 Đừng ngại yêu cầu Hùng Vĩ Tourist gửi chương trình bản PDF chi tiết và giải thích những mục bạn chưa rõ. Sự minh bạch là nền tảng cho chuyến đi suôn sẻ.
 
-4) Quy trình đặt tour trọn gói an toàn & tiết kiệm tại Hùng Vĩ Tourist
+##  Quy trình đặt tour trọn gói an toàn & tiết kiệm tại Hùng Vĩ Tourist
 Để giúp bạn dễ hình dung, dưới đây là quy trình tiêu chuẩn khi đặt tour tại Hùng Vĩ Tourist. Quy trình này áp dụng linh hoạt cho tour Toàn quốc và nhiều nhóm khách khác nhau.
 
 - Bước 1: Tư vấn nhu cầu
@@ -104,7 +104,7 @@ Kết thúc tour, bạn nhận hóa đơn, ảnh đoàn (nếu có), và ưu đ�
 
 Quy trình trên giúp bạn kiểm soát rủi ro, tối ưu chi phí và nhận được hỗ trợ kịp thời — ba yếu tố cốt lõi của một tour trọn gói “an toàn & tiết kiệm”.
 
-5) Checklist an toàn trước khi thanh toán & trước ngày đi
+##  Checklist an toàn trước khi thanh toán & trước ngày đi
 Checklist giúp bạn không bỏ sót các mục quan trọng và tránh phát sinh.
 
 Trước khi thanh toán:
@@ -123,7 +123,7 @@ Trước ngày khởi hành:
 
 Một checklist nhỏ nhưng “quyền năng” sẽ giúp chuyến đi trọn vẹn và giảm đáng kể rủi ro phát sinh.
 
-6) Mẹo tối ưu giá & săn ưu đãi Toàn quốc
+##  Mẹo tối ưu giá & săn ưu đãi Toàn quốc
 Đặt tour trọn gói không chỉ là chốt lịch trình — đó còn là nghệ thuật tối ưu ngân sách. Bạn có thể áp dụng những mẹo sau để “chốt deal” thông minh.
 
 Chiến lược giá:

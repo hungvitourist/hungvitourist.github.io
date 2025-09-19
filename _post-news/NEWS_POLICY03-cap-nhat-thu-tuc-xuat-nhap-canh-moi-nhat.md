@@ -19,7 +19,7 @@ location: Toàn thế giới
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Sau đại dịch, bản đồ du lịch đang mở rộng trở lại, nhưng kèm theo đó là hàng loạt thay đổi về thủ tục xuất nhập cảnh ở Toàn thế giới. Từ eVisa, ETA cho đến khai báo nhập cảnh trực tuyến và kiểm soát sinh trắc học, mỗi cửa khẩu là một “trạm kiểm tra” mới đòi hỏi bạn chuẩn bị kỹ càng hơn bao giờ hết. 🌍 Với dịch vụ “Cập nhật thủ tục xuất nhập cảnh mới nhất” của Hùng Vĩ Tourist, bạn luôn chủ động trước mọi quy định, tự tin băng qua cửa khẩu chỉ trong vài phút. ✈️
@@ -28,7 +28,7 @@ Vì sao bạn nên quan tâm? Bởi chỉ một chi tiết nhỏ như hộ chi�
 
 Nội dung chính
 
-1) Bức tranh toàn cầu: những thay đổi bạn cần nắm ngay
+##  Bức tranh toàn cầu: những thay đổi bạn cần nắm ngay
 Việc số hóa thủ tục biên giới đang diễn ra mạnh mẽ trên toàn thế giới. Nhiều quốc gia chuyển sang chấp nhận eVisa/ETA, khai báo nhập cảnh trực tuyến và kiểm soát sinh trắc học tại e-Gate. Điều này giúp rút ngắn thời gian chờ đợi, nhưng đồng nghĩa bạn cần chuẩn bị hồ sơ số và gửi thông tin trước khi bay.
 
 Điểm nhấn đáng chú ý:
@@ -48,7 +48,7 @@ Việc số hóa thủ tục biên giới đang diễn ra mạnh mẽ trên toà
 
 Tóm lại, “chuẩn bị từ nhà” là chìa khóa: hồ sơ điện tử đầy đủ, khai báo đúng hạn, minh bạch lịch trình và tài chính.
 
-2) Cập nhật theo khu vực và ví dụ minh họa
+##  Cập nhật theo khu vực và ví dụ minh họa
 Mỗi khu vực có điểm nhấn riêng. Dưới đây là các nhóm yêu cầu phổ biến kèm ví dụ thực tế để bạn dễ hình dung. Lưu ý: Quy định có thể thay đổi nhanh; Hùng Vĩ Tourist sẽ cập nhật cho từng hồ sơ cụ thể trước ngày bay.
 
 - Đông Nam Á và châu Á:
@@ -79,7 +79,7 @@ Mỗi khu vực có điểm nhấn riêng. Dưới đây là các nhóm yêu c�
   - Saudi Arabia: du lịch – hành hương với nhiều loại eVisa; mùa cao điểm cần đặt sớm.
   - Minh họa: Đoàn E đi Dubai – Abu Dhabi. Hùng Vĩ Tourist hoàn tất eVisa trước, nhắc khách đăng ký Smart Gate (nếu đủ điều kiện), chuẩn bị eSIM để nhận OTP khi cần.
 
-3) Hướng dẫn chuẩn bị hồ sơ và quy trình từng bước
+##  Hướng dẫn chuẩn bị hồ sơ và quy trình từng bước
 Dù đi đâu trên Toàn thế giới, một quy trình chuẩn mực sẽ giúp bạn tối ưu thời gian và giảm rủi ro.
 
 Bước 1 – Kiểm tra hộ chiếu
@@ -114,7 +114,7 @@ Bước 6 – Tại cửa khẩu
 - Xuất trình đủ giấy tờ theo yêu cầu; hợp tác với cán bộ biên phòng/hải quan.
 - Nếu dùng e-Gate/Smart Gate, theo chỉ dẫn, giữ khoảng cách, tháo mũ/khẩu trang khi cần.
 
-4) Tình huống đặc biệt & chính sách mới nên biết
+##  Tình huống đặc biệt & chính sách mới nên biết
 Những trường hợp dưới đây dễ bị “vướng” nếu bạn không chuẩn bị trước. Hùng Vĩ Tourist sẽ rà soát từng yếu tố để bạn phòng ngừa rủi ro.
 
 - Trẻ em và người chưa đủ 18 tuổi:
@@ -140,7 +140,7 @@ Ví dụ thực tế:
 - Chuyến đi công tác – hội chợ Singapore 3 ngày: Khách suýt bị trễ vì quên nộp SG Arrival Card. Nhờ Hùng Vĩ Tourist nhắc và hỗ trợ nộp ngay trước giờ bay, khách qua cửa khẩu nhanh, kịp giờ khai mạc.
 - Gia đình đi biển Philippines: Hỗ trợ eTravel, kiểm tra hộ chiếu con nhỏ (còn hạn 5 năm), tư vấn bảo hiểm và quy định đồ lặn. Kết quả: chuyến đi suôn sẻ, không bị hỏi thêm.
 
-5) Dịch vụ “Cập nhật thủ tục xuất nhập cảnh mới nhất” của Hùng Vĩ Tourist
+##  Dịch vụ “Cập nhật thủ tục xuất nhập cảnh mới nhất” của Hùng Vĩ Tourist
 Chúng tôi không chỉ tổng hợp quy định — chúng tôi cá nhân hóa cho hành trình của bạn, theo quốc tịch, mục đích và điểm đến cụ thể ở Toàn thế giới.
 
 Bạn nhận được gì?

@@ -19,7 +19,7 @@ location: Toàn thế giới
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Du lịch mở ra những cánh cửa tuyệt đẹp của Toàn thế giới – từ đường chân trời rực nắng ở châu Phi đến những đô thị rộn ràng ở châu Âu. Nhưng để hành trình trọn vẹn, sức khỏe luôn là “tấm hộ chiếu” quan trọng nhất. Bài viết này giúp bạn nắm rõ các loại vaccine cần thiết khi du lịch quốc tế, tại sao chúng quan trọng và cách chuẩn bị khoa học để an tâm khám phá. ✈️🌍

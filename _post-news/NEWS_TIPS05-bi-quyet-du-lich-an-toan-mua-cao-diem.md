@@ -19,7 +19,7 @@ location: Toàn thế giới
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Mùa cao điểm là lúc các điểm đến bùng nổ sức sống: lễ hội rực rỡ, thời tiết đẹp, dịch vụ mở rộng tối đa. Nhưng đó cũng là lúc rủi ro tăng: chen chúc, quá tải dịch vụ, trễ – hủy chuyến, ví dụ lừa đảo tinh vi hơn. Vì vậy, Bí quyết du lịch an toàn mùa cao điểm không chỉ giúp bạn an tâm mà còn tối ưu từng phút trải nghiệm trên hành trình Toàn thế giới. ✈️🌍
@@ -33,7 +33,7 @@ Kế hoạch thông minh trước ngày khởi hành
 - Nghiên cứu “điểm nóng” theo thời gian: lễ hội Songkran (Thái), hoa anh đào (Nhật), mùa hè châu Âu, Giáng sinh châu Âu, Tết nguyên đán… để chọn ngày đến – rời phù hợp. Chênh lệch 1–2 ngày có thể giảm 20–30% mật độ đám đông.
 - Chốt lịch trình theo “vòng cung an toàn”: ưu tiên đến điểm đông người vào khung giờ mở cửa hoặc cuối ngày, xen kẽ điểm thư giãn để hồi sức và tránh tụ tập dày đặc.
 
-Bullet gợi ý:
+##  Bullet gợi ý:
 - Xây 1 lịch trình chính + 1 lịch trình B linh hoạt (thời tiết xấu, đóng cửa đột xuất).
 - Đặt dịch vụ hoàn/hủy linh hoạt khi có thể.
 - Lưu sẵn kế hoạch di chuyển nội thành (tàu điện/bus) để tránh phụ thuộc taxi giờ cao điểm.
@@ -45,7 +45,7 @@ Sức khỏe ổn định là nền tảng cho mọi hành trình an toàn. Tron
 - Bảo hiểm du lịch: ưu tiên gói có quyền lợi y tế, thất lạc hành lý, chậm – hủy chuyến, tai nạn và hỗ trợ 24/7. Đây là “tấm khiên” thiết thực khi mùa cao điểm có tần suất sự cố cao hơn.
 - Vệ sinh và ăn uống an toàn: rửa tay/khử khuẩn thường xuyên, uống đủ nước, ăn chín uống sôi, tránh trải nghiệm ẩm thực đường phố tại điểm quá đông khi không đảm bảo vệ sinh.
 
-Bullet gợi ý:
+##  Bullet gợi ý:
 - Lưu số khẩn cấp địa phương: 112 (châu Âu), 911 (Hoa Kỳ), 999/995 tùy quốc gia; tại Việt Nam: 113 (Cảnh sát), 114 (Cứu hỏa), 115 (Cấp cứu).
 - Chụp ảnh/hồ sơ y tế quan trọng lên cloud (bảo mật bằng mật khẩu).
 - Dùng bình nước cá nhân, viên lọc/bù điện giải khi di chuyển dài.
@@ -57,7 +57,7 @@ Lưu lượng hành khách tăng đột biến khiến sân bay, nhà ga, bến 
 - Tàu/xe: mua vé trước, chọn chỗ ngồi gần lối thoát hiểm, giữ hành lý trong tầm mắt. Với đêm dài, trang bị khóa vali, dây cáp khóa mềm cho balo.
 - Di chuyển nội thành: ưu tiên tàu điện công cộng, đi bộ các cụm tham quan gần nhau; đặt xe qua app uy tín, kiểm tra biển số – tài xế trước khi lên xe.
 
-Bullet gợi ý:
+##  Bullet gợi ý:
 - In ra vé/QR dự phòng khi app quá tải hoặc mất mạng.
 - Sử dụng AirTag/SmartTag cho vali ký gửi.
 - Chọn sim/eSIM quốc tế để nhận cập nhật realtime (cổng, delay, chuyển tuyến).
@@ -69,7 +69,7 @@ Khách sạn/biệt thự/homestay là “căn cứ” muôn việc. Mùa cao đ
 - Vị trí “vừa phải”: gần trạm metro/bus 5–10 phút đi bộ, tránh mặt đường quá náo nhiệt gây ồn và khó kiểm soát an ninh ban đêm.
 - Trải nghiệm đông người: đặt vé “skip-the-line” cho bảo tàng, công viên giải trí; chọn tour tham quan nhóm nhỏ để tối ưu tương tác và kiểm soát rủi ro.
 
-Bullet gợi ý:
+##  Bullet gợi ý:
 - Khi nhận phòng, xác định lối thoát hiểm, thử chuông báo cháy, lưu số lễ tân.
 - Để hộ chiếu bản gốc trong két; mang bản sao/ảnh khi ra ngoài.
 - Tránh khoe đồ giá trị; dùng túi chống trộm, ví đeo sát người ở nơi đông.
@@ -81,7 +81,7 @@ Công nghệ giúp bạn đi khắp Toàn thế giới an toàn và chủ độn
 - Bản đồ và kết nối: tải bản đồ offline, lưu điểm đến, ga tàu, bệnh viện, đại sứ quán; dùng eSIM/roaming để bảo đảm liên lạc suốt hành trình.
 - Tài chính: phân tán phương thức thanh toán (tiền mặt nhỏ lẻ + 2 thẻ khác ngân hàng); bật cảnh báo giao dịch. Tránh rút tiền tại ATM khu khuất, kiểm tra máy POS trước khi thanh toán.
 
-Bullet gợi ý:
+##  Bullet gợi ý:
 - Cài app dịch ngôn ngữ, ứng dụng ngoại giao của nước sở tại, app cảnh báo thời tiết.
 - Lưu điểm hẹn đoàn nếu lạc nhau; chia sẻ vị trí realtime cho người thân.
 - Tập thói quen che tay khi nhập PIN, tránh Wi-Fi công cộng không bảo mật.
@@ -93,7 +93,7 @@ Hiểu văn hóa bản địa và cách hoạt động của đám đông giúp 
 - Quản trị đám đông: xác định lối vào/ra, chọn đứng sát mép đám đông, tránh trung tâm vòi nước trong lễ hội; giữ khoảng cách, không đối đầu nếu có va chạm.
 - An toàn đồ cá nhân: chia nhỏ tiền, dùng dây đeo điện thoại, đặt ba lô phía trước ngực ở tàu điện/điểm check-in nổi tiếng.
 
-Bullet gợi ý:
+##  Bullet gợi ý:
 - Chọn khung giờ “ngược dòng”: mở cửa sớm, cuối chiều, ngày giữa tuần.
 - Đặt điểm hẹn cố định mỗi 60–90 phút cho cả đoàn.
 - Mang khăn/găng mỏng vào mùa rét, mũ chống nắng mùa hè; nước – snack nhẹ để không phải chen mua.

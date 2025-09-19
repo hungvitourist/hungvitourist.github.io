@@ -19,7 +19,7 @@ location: Toàn thế giới
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 2️⃣ Lợi ích khi chọn dịch vụ
 - Giá đoàn ưu đãi, thỏa thuận trực tiếp với chuỗi khách sạn, tiết kiệm chi phí cho tổ chức.  

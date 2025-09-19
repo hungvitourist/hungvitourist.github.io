@@ -19,7 +19,7 @@ location: Toàn thế giới
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Bạn đang háo hức cho một chuyến đi Toàn thế giới, nhưng băn khoăn liệu đặt phòng khách sạn online có thực sự an toàn? Tin tốt là: chỉ cần vài nguyên tắc vàng, bạn hoàn toàn có thể săn được phòng đẹp – giá tốt – điều kiện minh bạch, lại không lo rủi ro. Với kinh nghiệm chinh chiến nhiều nền tảng và điểm đến, đội ngũ Hùng Vĩ Tourist chia sẻ bộ “bí kíp” giúp bạn đặt phòng tự tin từ Á sang Âu, từ nghỉ dưỡng đến công tác. ✈️🏨
@@ -28,7 +28,7 @@ Trong bối cảnh các nền tảng đặt phòng bùng nổ, không khó để
 
 Nội dung chính
 
-### 1) Chọn kênh đặt phòng uy tín và phù hợp hành trình Toàn thế giới
+##  Chọn kênh đặt phòng uy tín và phù hợp hành trình Toàn thế giới
 Điều đầu tiên quyết định 80% mức độ an toàn khi đặt phòng là chọn đúng kênh. Với du lịch Toàn thế giới, bạn có thể cân nhắc các OTA (Online Travel Agency) lớn, website chính thức của khách sạn, hoặc đại lý du lịch uy tín.
 
 - Nên ưu tiên các nền tảng lớn, có hệ thống đánh giá minh bạch, hỗ trợ 24/7, ví dụ Booking.com, Agoda, Expedia, Hotels.com… Nếu là homestay/căn hộ, có thể tham khảo Airbnb với quy trình xác minh chủ nhà.
@@ -40,7 +40,7 @@ Một số lưu ý thực tế:
 - Tìm hiểu chính sách hỗ trợ sự cố tại điểm đến: chênh lệch múi giờ có thể ảnh hưởng thời gian phản hồi. Các nền tảng lớn thường có tổng đài quốc tế 24/7.
 - Ưu tiên kênh có chính sách thanh toán linh hoạt (thanh toán tại khách sạn, miễn phí hủy trước hạn), đặc biệt hữu ích cho lịch trình chưa cố định.
 
-### 2) Đọc review như một “thám tử”: lọc nhiễu và nhận diện dấu hiệu bất thường
+##  Đọc review như một “thám tử”: lọc nhiễu và nhận diện dấu hiệu bất thường
 Review là nguồn thông tin quý, nhưng cần biết “đọc giữa các dòng”. Đừng chỉ nhìn vào điểm số trung bình – hãy xem nội dung và thời gian đăng.
 
 - Lọc review theo thời gian gần đây (6–12 tháng), vì dịch vụ và cơ sở vật chất có thể đã thay đổi.
@@ -57,7 +57,7 @@ Mẹo nâng cao:
 - Đọc review bằng ngôn ngữ địa phương của điểm đến và tiếng Anh để có góc nhìn rộng.
 - Nhắn tin hỏi thẳng khách sạn về vấn đề bạn quan tâm; cách họ trả lời là phép thử chất lượng dịch vụ.
 
-### 3) Bảo mật thanh toán: thói quen số giúp bạn an toàn tuyệt đối
+##  Bảo mật thanh toán: thói quen số giúp bạn an toàn tuyệt đối
 Thanh toán là bước nhạy cảm nhất khi đặt phòng online. Xây dựng “thói quen số” đúng sẽ giảm rủi ro lộ thông tin và giao dịch nhầm.
 
 - Chỉ thanh toán trên trang có https và cổng thanh toán uy tín (Visa/Mastercard/Amex, PayPal, Apple Pay/Google Pay).
@@ -74,7 +74,7 @@ Khi đi quốc tế:
 - Kiểm tra phí chuyển đổi ngoại tệ, chọn loại tiền thanh toán có lợi (đa phần nên để “charge in local currency”).
 - Khi sự cố phát sinh, ưu tiên liên hệ nền tảng để “mở case” thay vì tự xử lý với cơ sở lưu trú không hợp tác.
 
-### 4) Giá hiển thị vs tổng chi phí: bóc tách phí ẩn để không “vỡ kế hoạch”
+##  Giá hiển thị vs tổng chi phí: bóc tách phí ẩn để không “vỡ kế hoạch”
 Không ít du khách “choáng” khi tổng tiền lúc trả phòng cao hơn mong đợi. Lý do thường nằm ở các khoản thu chưa hiển thị rõ ràng.
 
 - Phí bắt buộc có thể gồm: thuế địa phương/city tax, resort fee, service charge, phí vệ sinh (căn hộ), phụ thu lễ Tết/cuối tuần.
@@ -91,7 +91,7 @@ Mẹo tối ưu chi phí:
 - Đăng ký thành viên nền tảng để nhận mức giá “member rate”, credit hoàn tiền hoặc đêm miễn phí.
 - Linh hoạt ngày đi – dịch chuyển một hai ngày có thể giảm giá đáng kể, đặc biệt ở điểm đến có mùa cao/thấp điểm.
 
-### 5) Xác nhận đặt phòng thông minh: luôn “double-check”
+##  Xác nhận đặt phòng thông minh: luôn “double-check”
 Sau khi đặt thành công, nhiều người dừng ở email xác nhận. Để yên tâm tuyệt đối, hãy “đặt khóa” bằng quy trình xác nhận hai lớp.
 
 - Kiểm tra kỹ thông tin: tên khách, số hộ chiếu/CMND, ngày đến/đi, số đêm, loại phòng, số giường, bữa sáng, điều kiện hủy.
@@ -108,7 +108,7 @@ Khi có thay đổi lịch trình:
 - Nếu chuyến bay trễ, nhờ khách sạn ghi chú “late check-in”; đa số cơ sở lưu trú hỗ trợ nhận phòng muộn khi thông báo trước.
 - Sự cố overbooking hiếm nhưng có thể xảy ra; đặt qua kênh uy tín giúp bạn được bố trí phương án thay thế tương đương hoặc bồi hoàn.
 
-### 6) Săn deal đúng cách, tránh bẫy “giá rẻ bất thường”
+##  Săn deal đúng cách, tránh bẫy “giá rẻ bất thường”
 Ai cũng thích giá tốt, nhưng “quá rẻ” đôi khi là bẫy. Hãy săn khuyến mãi có kiểm chứng, đặc biệt với các điểm đến du lịch quốc tế.
 
 - Theo dõi mùa thấp điểm, khuyến mãi giữa tuần, mã giảm dành cho thành viên/ứng dụng.

@@ -19,7 +19,7 @@ location: Toàn thế giới
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Chuyến đi có thể thay đổi vào phút chót – và khi đó, chính sách hoàn hủy vé máy bay là chiếc phao giúp bạn “cập bến” an toàn về thời gian lẫn chi phí. Với bài viết “Chính sách hoàn hủy vé máy bay mới nhất”, Hùng Vĩ Tourist cập nhật những điểm cần biết, cách xử lý linh hoạt và các lưu ý quan trọng để bạn luôn chủ động mọi tình huống. Dù bay trong nước hay Toàn thế giới, hiểu đúng quy định sẽ giúp bạn tiết kiệm đáng kể và tránh các khoản phí không đáng có ✈️
@@ -49,7 +49,7 @@ Phạm vi áp dụng
 Các tình huống phổ biến và cách xử lý thực tế
 Không phải trường hợp nào cũng giống nhau. Việc xác định đúng “lý do” hủy/đổi là chìa khóa để tối ưu chi phí.
 
-1) Khách chủ động thay đổi kế hoạch
+##  Khách chủ động thay đổi kế hoạch
 Nếu bạn tự thay đổi dự định (công việc, kế hoạch cá nhân…), phần lớn hãng sẽ áp dụng phí đổi/hoàn tùy điều kiện vé. Vé tiết kiệm thường không hoàn tiền, nhưng có thể đổi ngày/giờ kèm phí và chênh lệch giá. Vé linh hoạt có biên độ tốt hơn.
 
 - Cách xử lý:
@@ -57,7 +57,7 @@ Nếu bạn tự thay đổi dự định (công việc, kế hoạch cá nhân�
   - So sánh phương án đổi so với mua vé mới: đôi khi mua mới tiết kiệm hơn.
   - Chọn giờ bay “off-peak” để giảm chênh lệch giá.
 
-2) Hãng thay đổi giờ bay/hủy chuyến
+##  Hãng thay đổi giờ bay/hủy chuyến
 Trong trường hợp hãng điều chỉnh lịch bay, hủy chuyến hoặc delay lớn, bạn có thể được:
 - Đổi chuyến miễn phí trong khung thời gian hoặc hành trình tương đương do hãng quy định.
 - Hoàn tiền theo chính sách bất khả kháng của hãng.
@@ -67,7 +67,7 @@ Trong trường hợp hãng điều chỉnh lịch bay, hủy chuyến hoặc de
   - Liên hệ Hùng Vĩ Tourist để yêu cầu phương án: đổi giờ, đổi ngày, đổi chặng tương đương hoặc hoàn tiền.
   - Lựa chọn phương án phù hợp với lịch trình tiếp nối (khách sạn, tour nối tuyến).
 
-3) Lý do sức khỏe, visa, hồ sơ công tác
+##  Lý do sức khỏe, visa, hồ sơ công tác
 Một số hãng hỗ trợ linh hoạt nếu có chứng từ hợp lệ (giấy xác nhận y tế, thư từ lãnh sự, thư mời công tác). Không phải hãng nào cũng áp dụng, và mức hỗ trợ khác nhau.
 
 - Cách xử lý:
@@ -75,7 +75,7 @@ Một số hãng hỗ trợ linh hoạt nếu có chứng từ hợp lệ (giấ
   - Gửi yêu cầu qua Hùng Vĩ Tourist để hãng xem xét ngoại lệ.
   - Dự phòng thời gian xử lý dài hơn so với hồ sơ thông thường.
 
-4) No-show và đến muộn
+##  No-show và đến muộn
 Đến muộn hoặc không xuất hiện có thể khiến bạn mất quyền hoàn/đổi, hoặc phát sinh phí cao.
 
 - Cách xử lý:

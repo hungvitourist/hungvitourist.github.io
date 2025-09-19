@@ -19,7 +19,7 @@ location: Toàn thế giới
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Ảnh: /img/post-news/diem-den-hot-mua-he.jpg
 Tags: điểm đến hot, du lịch hè, xu hướng du lịch
@@ -33,7 +33,7 @@ Dù bạn mê say nắng vàng biển xanh, săn hoa và săn mây miền ôn đ
 
 Top 5 điểm đến hot mùa hè 2025
 
-1) Santorini & quần đảo Cyclades, Hy Lạp – Nắng Địa Trung Hải và hoàng hôn triệu like
+##  Santorini & quần đảo Cyclades, Hy Lạp – Nắng Địa Trung Hải và hoàng hôn triệu like
 Nằm giữa biển Aegean, Santorini là biểu tượng mùa hè châu Âu với những mái vòm xanh – tường trắng và hoàng hôn tím hồng mê hoặc. Khí hậu khô ráo, nắng vàng, gió Meltemi mát lành biến nơi đây thành “thiên đường check-in” lẫn “thiên đường nghỉ dưỡng”. 2025, xu hướng du lịch chậm (slow travel) giúp du khách ở lâu hơn để khám phá thêm Naxos, Paros, Milos – những đảo xinh đẹp của Cyclades, ít đông nhưng cực chất.
 
 Trải nghiệm không thể bỏ lỡ:
@@ -53,7 +53,7 @@ Mẹo nhỏ:
 - Đặt vé tàu cao tốc giữa các đảo sớm trong mùa cao điểm (tháng 6–9).
 - Mang giày đế bám tốt vì đường lát đá dễ trơn.
 
-2) Bali, Indonesia – Xanh mướt ruộng bậc thang, biển xanh và văn hóa Hindu quyến rũ
+##  Bali, Indonesia – Xanh mướt ruộng bậc thang, biển xanh và văn hóa Hindu quyến rũ
 Bali mùa hè (tháng 5–9) là mùa khô: trời trong, sóng đẹp, phù hợp cho cả gia đình lẫn nhóm bạn yêu vận động. Từ Ubud thanh tĩnh với rừng xanh, thác nước, đến Nusa Penida – Nusa Lembongan hoang sơ, hay Seminyak – Canggu sôi động với beach club thời thượng, Bali là “combo” hoàn hảo: nghỉ dưỡng – khám phá – sống ảo. Bước sang 2025, xu hướng wellness retreat (thiền, yoga, detox) tại Bali tiếp tục bùng nổ.
 
 Trải nghiệm nổi bật:
@@ -73,7 +73,7 @@ Mẹo nhỏ:
 - Mang áo khoác mỏng cho buổi tối ven biển có gió.
 - Đặt trước vé tàu sang Penida và beach club vào cuối tuần.
 
-3) Hokkaido, Nhật Bản – Thiên đường hoa lavender và không khí ôn hòa
+##  Hokkaido, Nhật Bản – Thiên đường hoa lavender và không khí ôn hòa
 Giữa mùa hè nóng ẩm châu Á, Hokkaido là “thiên đường mát lành” với nhiệt độ 20–26°C, trời xanh, không khí khô ráo. Tháng 6–8, cánh đồng lavender Furano tím biếc, Biei trải dài patchwork màu sắc; ẩm thực biển Hokkaido tươi ngon hút hồn. Sapporo, Otaru, Noboribetsu, Hakodate mỗi nơi một vẻ, lý tưởng cho gia đình có trẻ nhỏ và cặp đôi ưa lãng mạn.
 
 Điểm nhấn nên trải nghiệm:
@@ -94,7 +94,7 @@ Mẹo nhỏ:
 - Thuê xe tự lái giúp linh hoạt, nhưng nhớ kiểm tra luật và bãi đỗ.
 - Thử set hải sản kaisendon và melon Hokkaido đúng mùa.
 
-4) Iceland – Road-trip dưới mặt trời nửa đêm
+##  Iceland – Road-trip dưới mặt trời nửa đêm
 Mùa hè là “giờ vàng” của Iceland: đường sá ít băng tuyết, ngày dài 18–21 giờ với hiện tượng mặt trời nửa đêm ở phía bắc, thiên nhiên phô diễn thác nước, núi lửa, sông băng, vịnh fjord kỳ vĩ. 2025 ghi nhận xu hướng road-trip vòng quanh Ring Road, cắm trại sang trọng (glamping) và săn chim biển puffin.
 
 Điểm đến và trải nghiệm:
@@ -115,7 +115,7 @@ Mẹo nhỏ:
 - Lái xe tuân thủ tốc độ; đặt trước chỗ ở vì mùa hè rất đông.
 - Mang ủ bịt mắt ngủ vì trời gần như không tối.
 
-5) Zanzibar, Tanzania – Ngọc xanh Ấn Độ Dương
+##  Zanzibar, Tanzania – Ngọc xanh Ấn Độ Dương
 Zanzibar là điểm nóng mới của mùa hè châu Phi: bờ biển cát trắng mịn, nước biển xanh ngọc, rạn san hô phong phú. Mùa khô từ tháng 6–10, nắng đẹp, ít mưa, rất lý tưởng. Sự kết hợp độc đáo giữa văn hóa Ả Rập – Phi – châu Âu tạo nên Stone Town di sản UNESCO đầy duyên dáng. Với du khách ưa trải nghiệm “hai trong một”, Zanzibar có thể kết hợp safari ở Serengeti/Ngorongoro trước khi nghỉ dưỡng biển.
 
 Điểm nhấn:

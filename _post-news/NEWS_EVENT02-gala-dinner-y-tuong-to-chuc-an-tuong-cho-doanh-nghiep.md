@@ -19,7 +19,7 @@ location: Toàn quốc
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Một gala dinner được đầu tư sáng tạo không chỉ là bữa tiệc cuối ngày, mà còn là khoảnh khắc “bật sứ mệnh” cho văn hóa doanh nghiệp, truyền cảm hứng và kết nối đội ngũ. Trong bối cảnh hậu đại dịch, các công ty càng chú trọng trải nghiệm gắn kết – nơi mỗi nhân sự đều được vinh danh, được lan tỏa cảm xúc tự hào và sức bền tinh thần. Gala dinner: Ý tưởng tổ chức ấn tượng cho doanh nghiệp chính là lời giải cho mong đợi ấy – giàu trải nghiệm, tối ưu ngân sách, bùng nổ cảm xúc. ✨
@@ -110,12 +110,12 @@ Lợi ích kép:
 Để mỗi gala dinner là một “case thành công”, Hùng Vĩ Tourist áp dụng quy trình chuẩn, minh bạch và dữ liệu hóa.
 
 Quy trình:
-1) Khai vấn mục tiêu: làm rõ đối tượng, thông điệp, KPI (gắn kết, NPS, reach).
-2) Concept & moodboard: đề xuất 2–3 hướng theme, bản đồ trải nghiệm khách.
-3) Proposal & ngân sách: báo giá chi tiết, các gói linh hoạt theo quy mô.
-4) Tiền kỳ & sản xuất: demo âm thanh – ánh sáng, kịch bản chạy chi tiết, rehearsal.
-5) Vận hành tại chỗ: đội PM – kỹ thuật – MC – điều phối, kiểm soát timeline và rủi ro.
-6) Hậu kỳ & đo lường: album, aftermovie, report KPI (tương tác, NPS, earned media).
+##  Khai vấn mục tiêu: làm rõ đối tượng, thông điệp, KPI (gắn kết, NPS, reach).
+##  Concept & moodboard: đề xuất 2–3 hướng theme, bản đồ trải nghiệm khách.
+##  Proposal & ngân sách: báo giá chi tiết, các gói linh hoạt theo quy mô.
+##  Tiền kỳ & sản xuất: demo âm thanh – ánh sáng, kịch bản chạy chi tiết, rehearsal.
+##  Vận hành tại chỗ: đội PM – kỹ thuật – MC – điều phối, kiểm soát timeline và rủi ro.
+##  Hậu kỳ & đo lường: album, aftermovie, report KPI (tương tác, NPS, earned media).
 
 Cam kết:
 - Tối ưu chi phí theo mục tiêu, minh bạch hạng mục.

@@ -19,7 +19,7 @@ location: Toàn thế giới
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Bạn đang ấp ủ chuyến đi tự do khám phá thế giới, nhưng “cánh cửa” visa vẫn là điều khiến bạn băn khoăn? Hướng dẫn xin visa du lịch tự túc dưới đây từ Hung Vi Tourist sẽ giúp bạn biến ước mơ xê dịch thành kế hoạch cụ thể và đạt tỷ lệ đậu cao hơn ngay từ lần đầu. Từ chuẩn bị hồ sơ, đặt lịch hẹn, đến phỏng vấn và theo dõi kết quả – tất cả đều có lộ trình rõ ràng và mẹo thực tế. ✈️
@@ -28,7 +28,7 @@ Visa không khó nếu bạn hiểu đúng quy trình, biết cách kể câu ch
 
 Nội dung chính
 
-1) Tổng quan: Visa du lịch tự túc là gì và bạn cần gì?
+##  Tổng quan: Visa du lịch tự túc là gì và bạn cần gì?
 Visa du lịch tự túc (tourist visa) cho phép bạn nhập cảnh ngắn ngày để du lịch, thăm thân, tham dự sự kiện cá nhân… tại một quốc gia hoặc khối lãnh thổ. Dù điểm đến của bạn là châu Á, châu Âu, châu Úc hay châu Mỹ, nguyên tắc xét duyệt ở hầu hết các nước Toàn thế giới khá tương đồng: họ cần thấy bạn đủ năng lực tài chính, có lịch trình hợp lý và sẵn sàng quay về Việt Nam đúng hạn.
 
 Các quốc gia thường cân nhắc 3 nhóm yếu tố:
@@ -40,7 +40,7 @@ Vì sao nhiều hồ sơ bị từ chối? Phổ biến nhất là hồ sơ thi�
 
 Dịch vụ Hướng dẫn xin visa du lịch tự túc của Hung Vi Tourist tập trung vào 3 điểm: định hướng đúng ngay từ đầu, checklist cá nhân hóa theo hồ sơ thực tế của bạn, và tối ưu trình bày để “kể chuyện” mạch lạc trước viên chức xét duyệt.
 
-2) Bước 1: Xác định điểm đến, loại visa và thời gian chuẩn bị
+##  Bước 1: Xác định điểm đến, loại visa và thời gian chuẩn bị
 Trước khi bắt tay vào hồ sơ, bạn cần khoanh vùng đích đến và loại visa phù hợp. Mỗi quốc gia có quy định khác nhau về thời hạn, số lần nhập cảnh và thời gian lưu trú.
 
 Bạn cần làm rõ:
@@ -56,7 +56,7 @@ Khuyến nghị mốc thời gian chuẩn bị:
 
 Hung Vi Tourist sẽ giúp bạn ước tính “lead time” tối ưu, căn theo mùa cao điểm, lịch hẹn trung tâm tiếp nhận, cũng như lịch nghỉ lễ của cơ quan ngoại giao nước sở tại.
 
-3) Bước 2: Checklist hồ sơ chuẩn – sắp xếp để “nói thay” bạn
+##  Bước 2: Checklist hồ sơ chuẩn – sắp xếp để “nói thay” bạn
 Đây là bước quyết định tỷ lệ đậu. Bộ hồ sơ chỉn chu, logic giúp viên chức hiểu rõ con người, khả năng tài chính và lý do hành trình của bạn.
 
 Checklist nền tảng (tham khảo, tùy nước có thể khác):
@@ -87,7 +87,7 @@ Lưu ý khi sắp xếp:
 
 Hung Vi Tourist cung cấp mẫu checklist cá nhân hóa theo ngành nghề, tình trạng tài chính, lịch sử du lịch; đồng thời soát lỗi biểu mẫu, sắp xếp hồ sơ theo logic dễ duyệt.
 
-4) Bước 3: Điền form, đặt lịch và nộp hồ sơ – đúng kênh, đúng chuẩn
+##  Bước 3: Điền form, đặt lịch và nộp hồ sơ – đúng kênh, đúng chuẩn
 Mỗi quốc gia có kênh tiếp nhận khác nhau. Việc điền form và đặt lịch hẹn là khâu dễ sai sót.
 
 Quy trình cơ bản:
@@ -107,7 +107,7 @@ Quy trình cơ bản:
 
 Hung Vi Tourist có thể hỗ trợ đặt lịch hẹn nhanh, hướng dẫn điền form từng bước và cung cấp bộ tài liệu mẫu để bạn thao tác đúng chuẩn ngay từ lần đầu.
 
-5) Bước 4: Phỏng vấn – sinh trắc học: bình tĩnh, mạch lạc, nhất quán
+##  Bước 4: Phỏng vấn – sinh trắc học: bình tĩnh, mạch lạc, nhất quán
 Không phải quốc gia nào cũng phỏng vấn, nhưng bạn nên chuẩn bị kỹ. Mục tiêu là thể hiện rõ lý do chuyến đi, kế hoạch cụ thể, tài chính đủ dùng và ràng buộc quay về.
 
 Nguyên tắc vàng:
@@ -124,7 +124,7 @@ Câu hỏi thường gặp:
 
 Hung Vi Tourist cung cấp buổi “mock interview” luyện phản xạ, sàng lọc câu trả lời, nhắc lỗi vô thức (ví dụ: nói quá – nói thiếu – mâu thuẫn thông tin) để bạn tự tin hơn.
 
-6) Bước 5: Theo dõi kết quả – xử lý khi bị từ chối
+##  Bước 5: Theo dõi kết quả – xử lý khi bị từ chối
 Sau khi nộp hồ sơ, bạn sẽ nhận mã theo dõi. Thời gian xét duyệt phụ thuộc từng nước và mùa cao điểm.
 
 Bạn nên:
@@ -139,7 +139,7 @@ Nếu bị từ chối:
 
 Hung Vi Tourist hỗ trợ phân tích thư từ chối, xây dựng lộ trình khắc phục và đề xuất thời điểm nộp lại phù hợp cho từng thị trường Toàn thế giới.
 
-7) Bước 6: Sau khi đậu visa – tối ưu chuyến đi an toàn, suôn sẻ
+##  Bước 6: Sau khi đậu visa – tối ưu chuyến đi an toàn, suôn sẻ
 Chúc mừng bạn! Hãy rà soát lại những yếu tố cần thiết trước ngày khởi hành:
 
 - Kiểm tra chi tiết visa:

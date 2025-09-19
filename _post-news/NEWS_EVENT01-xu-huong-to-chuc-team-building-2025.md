@@ -19,7 +19,7 @@ location: Toàn quốc
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mở đầu
 Team building 2025 không còn là những trò chơi “phá băng” đơn thuần. Đó là những trải nghiệm phygital (kết hợp thể chất – công nghệ), xanh – bền vững, chú trọng sức khỏe tinh thần và cá nhân hóa theo mục tiêu doanh nghiệp. Hung Vi Tourist mang đến bức tranh xu hướng toàn diện cùng giải pháp tổ chức phù hợp đủ mọi quy mô, ngành nghề, địa điểm Toàn quốc. 🌿
@@ -28,7 +28,7 @@ Trong cuộc đua thu hút – giữ chân nhân tài, tăng gắn kết sau th�
 
 Nội dung chính
 
-1) Phygital lên ngôi: công nghệ nâng trải nghiệm, không thay thế cảm xúc
+##  Phygital lên ngôi: công nghệ nâng trải nghiệm, không thay thế cảm xúc
 Phygital là sự hòa quyện giữa trải nghiệm trực tiếp (physical) và công nghệ số (digital). Năm 2025, các hoạt động team building ứng dụng AR/VR, gamification, app chấm điểm theo thời gian thực sẽ trở thành “món chính” – nhưng vẫn đặt con người và cảm xúc ở vị trí trung tâm. Điều này tạo nên những thử thách giàu tính tương tác, thu hút ngay cả những thành viên ít nói hoặc làm việc từ xa.
 
 Thay vì “chơi cho vui”, gamification giúp định hướng hành vi và kỹ năng cụ thể: phối hợp – giao tiếp – tư duy chiến lược – giải quyết vấn đề. Bảng xếp hạng trực tuyến, badge kỹ năng, nhiệm vụ theo cấp độ khiến người chơi chủ động “lên level” cùng tập thể. Quan trọng hơn, dữ liệu thu về sau sự kiện giúp doanh nghiệp “nhìn thấy” mức độ gắn kết, thói quen cộng tác của từng đội.
@@ -41,7 +41,7 @@ Gợi ý ứng dụng:
 - Livestream mini cho nhân sự remote tham gia thử thách song song.
 - Mystery Box số: giải đố QR tại các checkpoint văn hóa địa phương.
 
-2) Xanh – bền vững – trách nhiệm xã hội (ESG) là tiêu chuẩn mới
+##  Xanh – bền vững – trách nhiệm xã hội (ESG) là tiêu chuẩn mới
 Xu hướng năm 2025 chứng kiến sự dịch chuyển mạnh sang các hoạt động có trách nhiệm với môi trường và cộng đồng. Team building không chỉ để “vui” mà còn để “đúng”: đúng với cam kết ESG của doanh nghiệp, đúng với kỳ vọng của nhân viên thế hệ Gen Y/Z và đúng với các tiêu chí nhà đầu tư.
 
 Thay vì đồ dùng dùng một lần hay đạo cụ nhựa, chúng tôi ưu tiên vật liệu tái chế, tái sử dụng, thiết kế thử thách tối giản rác thải. Địa điểm được lựa chọn theo tiêu chí xanh: resort áp dụng tiết kiệm năng lượng, homestay cộng đồng, khu sinh thái có chương trình bảo tồn. Khi các quyết định tổ chức đặt môi trường và lợi ích cộng đồng vào trọng tâm, hình ảnh doanh nghiệp trở nên đáng tin, truyền cảm hứng từ bên trong.
@@ -54,7 +54,7 @@ CSR (trách nhiệm xã hội) giúp sự kiện vượt ra khỏi khuôn khổ 
 - Plant a Forest: trồng cây bản địa, gắn thẻ theo tên đội, cập nhật tình trạng cây sau sự kiện.
 - Community Project: nâng cấp thư viện thôn, vẽ tường trường học cùng nghệ sĩ địa phương.
 
-3) Well-being & Inclusion: chăm lo sức khỏe tinh thần, tạo không gian cho mọi cá tính
+##  Well-being & Inclusion: chăm lo sức khỏe tinh thần, tạo không gian cho mọi cá tính
 Sau đại dịch và giai đoạn làm việc linh hoạt, phúc lợi tinh thần trở thành trọng tâm. Team building 2025 đề cao các hoạt động well-being: breathwork, yoga nhẹ, thiền chánh niệm, hike nhẹ kết hợp “talk & share” theo chủ đề phát triển nội bộ. Khi nhân sự cảm thấy được lắng nghe, họ hợp tác tốt hơn, sáng tạo hơn.
 
 Tính bao trùm (inclusion) thể hiện ở cách thiết kế nhiệm vụ cho mọi thể trạng, cá tính: người hướng nội có nhiệm vụ phân tích/chiến lược, người hướng ngoại dẫn dắt/khích lệ, người khuyết tật có phương án tham gia tương đương. Mục tiêu không phải “ai nhanh hơn” mà là “đội nào biết sử dụng đa dạng thế mạnh tốt hơn”.
@@ -67,7 +67,7 @@ Gợi ý format well-being:
 - Sound Bath/Chill Session: thư giãn phục hồi sau thử thách vận động.
 - Inclusion Games: thử thách đa vai, buộc thành viên đổi vai qua từng vòng.
 
-4) Data-driven & Personalization: đo lường để tối ưu, cá nhân hóa để chạm đúng
+##  Data-driven & Personalization: đo lường để tối ưu, cá nhân hóa để chạm đúng
 Không đo lường, không tối ưu. 2025 là năm team building gắn chặt KPI nhân sự: mức độ gắn kết, chỉ số hợp tác giữa các phòng ban, nhận diện giá trị cốt lõi, điểm hài lòng sau sự kiện. Công nghệ khảo sát nhanh, biểu đồ cảm xúc theo thời gian thực, heatmap tương tác giữa các đội cho phép bộ phận HR và L&D có cái nhìn “sống” về hiệu quả.
 
 Cá nhân hóa bắt đầu từ tiền sự kiện: hồ sơ văn hóa, phân tích tính cách nhóm (DISC/MBTI ở mức định hướng), mục tiêu cụ thể (onboarding, kick-off OKR, sales boost, thưởng quý…). Trong sự kiện, nhiệm vụ được “điều độ linh hoạt” – tăng/giảm độ khó theo nhịp đội; sau sự kiện là gói follow-up: micro-learning (bài học 5 phút), nhiệm vụ bám sát công việc, group challenge kéo dài 7–21 ngày để “neo” thói quen mới.
@@ -80,7 +80,7 @@ Những chỉ số nên theo dõi:
 - Learning Retention: mức nhớ bài học sau 7–14 ngày.
 - NPS/CSAT: điểm hài lòng của người tham dự và lãnh đạo.
 
-5) An toàn – quản trị rủi ro – tuân thủ: vững chắc để yên tâm “cháy hết mình”
+##  An toàn – quản trị rủi ro – tuân thủ: vững chắc để yên tâm “cháy hết mình”
 Sự chuyên nghiệp của một sự kiện thể hiện từ khâu an toàn. 2025 đặt ra chuẩn an toàn mới: kịch bản “what-if” cho thời tiết cực đoan, y tế/ cứu hộ tại chỗ, bảo hiểm sự kiện, quy trình thoát hiểm, tiêu chuẩn thiết bị, kiểm định đối tác vận tải. Điều này đặc biệt quan trọng khi hoạt động diễn ra ngoài trời hoặc địa hình đặc thù như núi, biển, rừng.
 
 Tuân thủ pháp lý (giấy phép, âm thanh, tập trung đông người) và quy tắc điểm đến địa phương giúp chương trình trơn tru, tránh gián đoạn. Đội ngũ điều phối nhiều lớp (điều phối tổng – trưởng trạm – điều phối tuyến – MC/facilitator) đảm bảo mọi đội đều có trải nghiệm đồng đều, không “đứt mạch”.
@@ -93,7 +93,7 @@ Checklist an toàn cốt lõi:
 - Hệ thống liên lạc nội bộ (bộ đàm, nhóm ứng cứu).
 - Kịch bản thời tiết xấu và gói indoor backup.
 
-6) Format linh hoạt – tối ưu ngân sách – điểm đến Toàn quốc
+##  Format linh hoạt – tối ưu ngân sách – điểm đến Toàn quốc
 2025 ưu tiên format linh hoạt theo mục tiêu – thời lượng – ngân sách. Từ half-day trong nội đô đến 2 ngày 1 đêm ven biển hoặc 3 ngày 2 đêm retreat ở núi rừng, Hung Vi Tourist thiết kế trọn gói “không lo phát sinh”. Phương tiện đa dạng: xe riêng/xe du lịch, tàu, máy bay; phù hợp đoàn từ 30 đến 1.000+ người.
 
 Địa điểm Toàn quốc mở ra kho ý tưởng bất tận: biển Đà Nẵng – Nha Trang – Phú Quốc cho hoạt động vận động – water games; núi rừng Đà Lạt – Sa Pa – Pù Luông cho hành trình khám phá – gắn kết; non nước Ninh Bình – Hạ Long cho phygital quest kết hợp văn hóa; đô thị TP.HCM – Hà Nội – Đà Nẵng cho city challenge AR. Chúng tôi ưu tiên nhà cung ứng uy tín, cơ sở vật chất ổn định, dễ “kịch bản hóa” trải nghiệm.

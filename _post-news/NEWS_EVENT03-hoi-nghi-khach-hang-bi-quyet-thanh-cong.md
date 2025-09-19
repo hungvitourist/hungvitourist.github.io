@@ -19,7 +19,7 @@ location: Toàn quốc
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mã dịch vụ: NEWS_EVENT03
 
@@ -65,31 +65,31 @@ Với phương pháp “design thinking”, Hung Vi Tourist đồng thiết kế
 
 Dịch vụ của chúng tôi triển khai Toàn quốc, từ Hà Nội, Đà Nẵng, Nha Trang, Đà Lạt, Phú Quốc đến TP.HCM và các trung tâm công nghiệp như Bắc Ninh, Hải Phòng, Bình Dương, Đồng Nai. Quy trình gồm 7 bước tinh gọn:
 
-1) Khởi động & khám phá mục tiêu
+##  Khởi động & khám phá mục tiêu
 - Workshop 60–90 phút để hiểu mục tiêu, chân dung khách, ngân sách, KPI.
 - Gợi ý concept, khung agenda, lựa chọn địa điểm/khung giờ vàng.
 
-2) Thiết kế concept & kịch bản nội dung
+##  Thiết kế concept & kịch bản nội dung
 - Xây dựng chủ đề, tagline, visual key, flow chương trình và thông điệp từng phiên.
 - Đề xuất diễn giả/MC, hoạt động tương tác, quà tặng – ưu đãi.
 
-3) Lập kế hoạch vận hành & ngân sách
+##  Lập kế hoạch vận hành & ngân sách
 - Bóc tách hạng mục: địa điểm, âm thanh – ánh sáng – LED, trang trí, nhân sự, hậu cần, truyền thông, di chuyển – lưu trú.
 - Lập timeline chi tiết với mốc nghiệm thu minh bạch.
 
-4) Sản xuất & truyền thông trước sự kiện
+##  Sản xuất & truyền thông trước sự kiện
 - Thiết kế thư mời, landing page/đăng ký, email/SMS, hướng dẫn di chuyển.
 - Quản lý danh sách khách mời; dự đoán tỷ lệ show-up; kịch bản check-in.
 
-5) Triển khai hiện trường
+##  Triển khai hiện trường
 - Điều phối onsite, điều hành kịch bản bằng showcall chuyên nghiệp.
 - Xử lý tình huống A/B/C; đảm bảo trải nghiệm khách mời mượt mà.
 
-6) Truyền thông trong – sau sự kiện
+##  Truyền thông trong – sau sự kiện
 - Livestream/recap, chụp ảnh – quay phim highlight, đăng tải nội dung kịp thời.
 - Gửi thư cảm ơn, ưu đãi hậu sự kiện, chăm sóc tái kết nối.
 
-7) Báo cáo & tối ưu
+##  Báo cáo & tối ưu
 - Báo cáo KPI định lượng và phản hồi định tính.
 - Đề xuất kế hoạch “Always-on Customer Care” và lịch sự kiện năm tiếp theo.
 
@@ -156,11 +156,11 @@ Kết quả: Vượt mục tiêu mở điểm bán, tạo nội dung truyền th
 
 ## Kinh nghiệm & mẹo hữu ích
 
-1) Thiết kế “ưu đãi hậu sự kiện” ngay từ đầu: Voucher độc quyền, combo sản phẩm, chính sách đại lý – gửi trong 24 giờ sau hội nghị để tối đa tỷ lệ chuyển đổi.
-2) Ưu tiên phiên đối thoại hai chiều: 1–2 bàn tròn theo chủ đề giúp lắng nghe “pain point” và trình bày giải pháp, hiệu quả hơn trình bày một chiều.
-3) Chọn quà tặng “dùng được – nhớ được”: tránh quà chung chung; cá nhân hóa theo phân khúc khách, lồng ghép thông điệp thương hiệu tinh tế.
-4) Giới hạn thời lượng phát biểu: Mỗi keynote 12–15 phút; xen kẽ demo, case thực tế, minigame tương tác để giữ năng lượng phòng.
-5) Chuẩn hóa dữ liệu: Tạo form đăng ký thống nhất, chấm điểm lead (scoring), đồng bộ CRM ngay sau sự kiện để không bỏ lỡ cơ hội nóng.
+##  Thiết kế “ưu đãi hậu sự kiện” ngay từ đầu: Voucher độc quyền, combo sản phẩm, chính sách đại lý – gửi trong 24 giờ sau hội nghị để tối đa tỷ lệ chuyển đổi.
+##  Ưu tiên phiên đối thoại hai chiều: 1–2 bàn tròn theo chủ đề giúp lắng nghe “pain point” và trình bày giải pháp, hiệu quả hơn trình bày một chiều.
+##  Chọn quà tặng “dùng được – nhớ được”: tránh quà chung chung; cá nhân hóa theo phân khúc khách, lồng ghép thông điệp thương hiệu tinh tế.
+##  Giới hạn thời lượng phát biểu: Mỗi keynote 12–15 phút; xen kẽ demo, case thực tế, minigame tương tác để giữ năng lượng phòng.
+##  Chuẩn hóa dữ liệu: Tạo form đăng ký thống nhất, chấm điểm lead (scoring), đồng bộ CRM ngay sau sự kiện để không bỏ lỡ cơ hội nóng.
 
 ## Kết luận & Call-to-action
 

@@ -19,7 +19,7 @@ location: Sapa
 
 ---
 
-### Giới thiệu dịch vụ
+## Giới thiệu dịch vụ
 
 Mỗi độ cuối hạ đầu thu, thung lũng Mường Hoa, Tả Van, Lao Chải ở Sapa khoác lên mình tấm áo vàng óng ả của mùa lúa chín – một bức tranh thiên nhiên khiến bất cứ ai cũng phải say đắm. Những thửa ruộng bậc thang uốn lượn theo triền núi, những bản làng thấp thoáng trong mây, nắng chiều rót mật trên đồng… tất cả hòa quyện thành một mùa vàng không thể bỏ lỡ. Đây chính là thời khắc Sapa đẹp nhất trong năm, lý tưởng cho bạn săn ảnh, nghỉ dưỡng và trải nghiệm văn hóa bản địa. ✨
 
@@ -27,7 +27,7 @@ Nếu bạn đang tìm kiếm một hành trình vừa “đã mắt” vừa �
 
 Nội dung chính
 
-1) Sapa mùa lúa chín vàng – Khi nào đẹp nhất, thời tiết ra sao?
+##  Sapa mùa lúa chín vàng – Khi nào đẹp nhất, thời tiết ra sao?
 
 Thời điểm lúa chín ở Sapa thường rơi vào cuối tháng 8 đến hết tháng 9, có năm kéo dài tới đầu tháng 10 tùy vào tiết trời. Đây là lúc ruộng bậc thang đồng loạt chuyển màu, tạo nên những dải vàng tầng tầng, lớp lớp trải dài từ sườn núi xuống thung lũng. Ánh nắng dịu, bầu trời trong, mây vờn đỉnh Hoàng Liên càng làm khung cảnh thêm “ăn ảnh”.
 
@@ -40,7 +40,7 @@ Gợi ý nhanh:
 
 Khi chọn đúng thời điểm, bạn không chỉ ngắm lúa chín đẹp nhất mà còn tránh được tình trạng đông đúc, chủ động săn những khung hình “để đời” với ruộng bậc thang – biểu tượng của du lịch Tây Bắc.
 
-2) Những trải nghiệm “phải thử” mùa vàng Sapa
+##  Những trải nghiệm “phải thử” mùa vàng Sapa
 
 Mùa lúa chín mở ra vô vàn trải nghiệm hấp dẫn, từ thư thả dạo bước giữa thung lũng vàng tới những hành trình chinh phục “nóc nhà Đông Dương”. Mỗi trải nghiệm mang một sắc thái cảm xúc khác nhau, nhưng đều có điểm chung: bạn sẽ thấy mình nhỏ bé trước thiên nhiên hùng vĩ, và thấy lòng bình yên lạ.
 
@@ -57,7 +57,7 @@ Nếu bạn yêu trekking, cung Lao Chải – Tả Van dài 6–8 km là lựa 
 
 Một lưu ý nhỏ nhưng quan trọng: hãy tôn trọng mùa vụ của người dân. Không bước vào ruộng khi chưa được phép, không ngắt lúa, không xả rác. Một nụ cười, một lời chào, một cái gật đầu cảm ơn – bạn sẽ nhận lại bằng sự thân thiện và những câu chuyện thú vị.
 
-3) Văn hóa bản địa: sắc màu Mông – Dao giữa mùa vàng
+##  Văn hóa bản địa: sắc màu Mông – Dao giữa mùa vàng
 
 Sapa không chỉ đẹp vì thiên nhiên, mà còn vì con người. Người H’Mông, Dao đỏ, Tày… với trang phục thổ cẩm rực rỡ, lối sống mộc mạc, hiếu khách, tạo nên “linh hồn” cho bức tranh mùa vàng. Trong ánh nắng thu, tiếng khèn, tiếng cười đùa của trẻ nhỏ giữa đồng lúa chín khiến trái tim bạn chậm lại.
 
@@ -70,7 +70,7 @@ Nếu trùng ngày chợ phiên, bạn có thể ghé chợ Sapa để cảm nh�
 
 Khi mua hàng, ưu tiên sản phẩm làm thủ công, trả giá lịch sự và “mua-bằng-nụ-cười”. Chính bạn là người góp phần giữ gìn sinh kế và văn hóa Sapa.
 
-4) Gợi ý lịch trình 3N2Đ “trúng mùa vàng” cùng Hùng Vĩ Tourist
+##  Gợi ý lịch trình 3N2Đ “trúng mùa vàng” cùng Hùng Vĩ Tourist
 
 Đây là lịch trình tối ưu để ngắm lúa đẹp, trải nghiệm đa dạng mà vẫn có thời gian nghỉ ngơi. Tùy nhu cầu, Hùng Vĩ Tourist sẽ tinh chỉnh để phù hợp gia đình, cặp đôi, nhóm bạn hoặc doanh nghiệp.
 
@@ -99,7 +99,7 @@ Biến thể theo nhu cầu:
 
 Nếu ít thời gian, 2N1Đ vẫn đủ “chạm mùa vàng” với trọng tâm Mường Hoa – Cát Cát – Ô Quy Hồ. Muốn sâu hơn, 4N3Đ có thể nối thêm Y Tý/Bắc Hà hoặc tắm suối khoáng Bản Hồ.
 
-5) Di chuyển, lưu trú và thời điểm đặt dịch vụ
+##  Di chuyển, lưu trú và thời điểm đặt dịch vụ
 
 Di chuyển tới Sapa rất thuận tiện:
 - Xe Limousine/giường nằm: 5–6 giờ từ Hà Nội theo cao tốc, linh hoạt giờ khởi hành.
@@ -116,7 +116,7 @@ Mẹo đặt dịch vụ:
 - Ưu tiên phòng view ruộng/hướng thung lũng; kiểm tra ảnh view chụp từ ban công.
 - Hỏi rõ chính sách hoàn/đổi ngày trong trường hợp thời tiết xấu bất ngờ.
 
-6) Tour gợi ý cùng Hùng Vĩ Tourist: chuẩn trải nghiệm – tối ưu chi phí
+##  Tour gợi ý cùng Hùng Vĩ Tourist: chuẩn trải nghiệm – tối ưu chi phí
 
 Với kinh nghiệm tổ chức du lịch Tây Bắc nhiều năm, Hùng Vĩ Tourist thiết kế tour “Sapa mùa lúa chín vàng” theo tiêu chí: chạm đúng điểm đẹp – đi nhịp nhàng – dịch vụ chỉn chu.
 

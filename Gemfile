@@ -1,39 +1,39 @@
+# Gemfile - cấu hình môi trường Jekyll
+
+# Nguồn lấy gem (RubyGems chính thức)
 source "https://rubygems.org"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+
+# Jekyll core
 gem "jekyll"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+
+# Theme mặc định (có thể thay bằng theme khác nếu muốn)
 gem "minima"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+
+# Các plugin Jekyll phổ biến
 group :jekyll_plugins do
-    gem "jekyll-feed" # lập chỉ mục cho trang - GG console
-    gem "jekyll-seo-tag"
-    gem "jekyll-paginate"
-    gem "jekyll-sitemap"
+  gem "jekyll-feed"              # Tạo RSS feed (hữu ích cho SEO + Google Search Console)
+  gem "jekyll-seo-tag"           # Thêm thẻ meta SEO tự động
+  gem "jekyll-paginate"          # Hỗ trợ phân trang blog
+  gem "jekyll-sitemap"           # Tạo sitemap.xml (SEO + Google index)
+  gem "jekyll-toc"               # Tự động tạo mục lục (table of contents)
+  gem "jekyll-datapage-generator" # Sinh trang động từ file dữ liệu YAML/JSON/CSV
 end
 
-# thêm quyền quản lý admin localhost:4000/admin
+# Quản lý admin site (chạy tại http://localhost:4000/admin)
 gem "jekyll-admin"
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
+# Windows và JRuby cần bổ sung tzinfo
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo"
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
+# Tăng tốc watch trên Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-gem "webrick"
-gem "rack", "~> 2.2" # version 2.2 để sử dụng jekyll admin
-gem "jekyll-datapage-generator", "~> 1.4.0"
+# Các gem hỗ trợ server
+gem "webrick"   # Bắt buộc cho Jekyll 4 trên Ruby 3+
+gem "rack"      # Cần cho jekyll-admin
+gem "listen", "~> 3.0"  # Giúp Jekyll tự động rebuild khi file thay đổi
+gem "puma"      # Web server đa luồng, thay thế WEBrick khi chạy
+gem "ffi"       # Cần cho listen trên Windows

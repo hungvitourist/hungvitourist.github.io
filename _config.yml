@@ -99,6 +99,7 @@ defaults:
       sitemap: true
       comments: true
       social-share: true
+      toc: true
   - scope:
       path: ''
     values:
@@ -141,6 +142,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-admin
   - jekyll-datapage-generator
+  - jekyll-toc
 
 page_gen:
   - data: 'tour_domestic'   # file _data/tour_domestic.csv
@@ -151,3 +153,9 @@ page_gen:
     template: 'tourlist'
     name: 'ma_tour'
     dir: 'tours/international'
+
+# Cấu hình mục lục tự động
+toc:
+  min_level: 2
+  max_level: 4
+  ordered: true

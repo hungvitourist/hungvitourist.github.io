@@ -6,31 +6,47 @@ starting_year: 2025
 url: "https://hungvitourist.vn"
 baseurl: ""
 navbar-links:
-  PostNews: post-news
-  Vé Máy Bay:
-    - 🛫 Vé nội địa: flights#domestic
-    - 🌏 Vé quốc tế: flights#international
-    - 💺 Đặt chỗ & hành lý: flights#booking
-  Tour: 
-    - 🏞️ Tour trong nước: tours#domestic
-    - 🏯 Tour quốc tế: tours#international
-    - 🎢 Combo du lịch: tours#combo
-    - 🏝️ Du lịch tự túc: tours#freeTravel
-    - 🏖️ Danh sách tour: tours/all-tours/
-  Hộ chiếu VISA: 
-    - 📑 Visa du lịch: visa#travel
-    - 💼 Visa công tác: visa#business
-    - 🎓 Visa du học: visa#study
-    - 🌍 Dịch vụ khác: visa#other
-  Hùng Vĩ Service:
-    - 📞 Liên hệ: aboutme
-    - 🎓 Tư vấn du lịch: service#consult
-    - 🏨 Đặt khách sạn: service#hotel
-    - 🚐 Thuê xe du lịch: service#carRental
-    - 🛳️ Tour trọn gói: service#packageTour
-    - 🎉 Tổ chức sự kiện: service#event
-    - 🤝 Hợp tác & đối tác: service#partner
-    - 🛒 Dịch vụ khác: service#other
+  PostNews: # Tin tức & Bài viết
+    url: /post-news
+    children:
+      - 🎉 Sự Kiện Du Lịch: post-news#event
+      - 🏝️ Điểm Đến Hấp Dẫn: post-news#destination
+      - 📖 Cẩm Nang Du Lịch: post-news#guide
+      - ❤️ Sức Khỏe Khi Du Lịch: post-news#health
+      - 📌 Chính Sách & Quy Định: post-news#policy
+      - 💡 Mẹo & Bí Quyết Du Lịch: post-news#tips
+  Vé Máy Bay: # Vé máy bay
+    url: /flights
+    children:
+      - 🛫 Vé nội địa: flights#domestic
+      - 🌏 Vé quốc tế: flights#international
+      - 💺 Đặt chỗ & hành lý: flights#booking
+  Tour: # Tour du lịch
+    url: /tours
+    children:
+      - 🏞️ Tour trong nước: tours#domestic
+      - 🏯 Tour quốc tế: tours#international
+      - 🎢 Combo du lịch: tours#combo
+      - 🏝️ Du lịch tự túc: tours#freeTravel
+      - 🏖️ Danh sách tour: tours/all-tours/
+  Hộ chiếu VISA: # Dịch vụ Visa
+    url: /visa
+    children:
+      - 📑 Visa du lịch: visa#travel
+      - 💼 Visa công tác: visa#business
+      - 🎓 Visa du học: visa#study
+      - 🌍 Dịch vụ khác: visa#other
+  Hùng Vĩ Service: # Các dịch vụ bổ trợ
+    url: /service
+    children:
+      - 📞 Liên hệ: aboutme
+      - 🎓 Tư vấn du lịch: service#consult
+      - 🏨 Đặt khách sạn: service#hotel
+      - 🚐 Thuê xe du lịch: service#carRental
+      - 🛳️ Tour trọn gói: service#packageTour
+      - 🎉 Tổ chức sự kiện: service#event
+      - 🤝 Hợp tác & đối tác: service#partner
+      - 🛒 Dịch vụ khác: service#other
 
   # 🗝️Tags: tags #thay thế bằng nút tìm kiếm.
 avatar: "/img/Picture-HSL/logo-trans.png"
@@ -48,7 +64,7 @@ company_SHORT_NAME: "✨HÙNG VĨ TOURIST✨"
 Tax-code: "0315546297"
 address-1: "Ấp Bùng Binh, Xã Hưng Thuận, Tỉnh Tây Ninh"
 address-2: "-----"
-map-address-1: https://maps.app.goo.gl/
+map-address-1: https://maps.app.goo.gl/ASdugnBv1ApFQm738
 map-address-2: ------
 footer-links-active:
   rss: false
@@ -63,15 +79,14 @@ share-links-active:
   facebook: true
   linkedin: true
 #disqus: bang-nguyen-blog
-google_analytics: G-97CTZX8FED
-gtm: GTM-5WMQFC52
+google_analytics: G-97CTZX8FED # Google Analytics Hung Vi Tourist
+gtm: GTM-5WMQFC52 # Google Tag Manager Hung Vi Tourist
 #fb_app_id: '721347795190980'
 excerpt_length: 50
 title-separator: '-'
 timezone: Asia/Bangkok
 markdown: kramdown
 highlighter: rouge
-permalink: '/:year-:month-:day-:title/'
 paginate: 8
 kramdown:
   input: GFM
